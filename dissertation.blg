@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: dissertation.aux
+A level-1 auxiliary file: chapters/introduction.aux
+A level-1 auxiliary file: chapters/database.aux
+A level-1 auxiliary file: chapters/singlecell.aux
+A level-1 auxiliary file: chapters/cellculture.aux
+A level-1 auxiliary file: chapters/stroke.aux
+A level-1 auxiliary file: chapters/discussion.aux
+A level-1 auxiliary file: chapters/conclusion.aux
+The style file: unsrtnat.bst
+A level-1 auxiliary file: chapters/appendixA.aux
+Database file #1: library.bib
+Repeated entry---line 11784 of file library.bib
+ : @article{Yamasaki2009
+ :                      ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for ""
+Warning--empty year in miRWalk2
+You've used 42 entries,
+            2481 wiz_defined-function locations,
+            966 strings with 20764 characters,
+and the built_in function-call counts, 22662 in all, are:
+= -- 1756
+> -- 1854
+< -- 12
++ -- 664
+- -- 580
+* -- 2343
+:= -- 3986
+add.period$ -- 229
+call.type$ -- 42
+change.case$ -- 84
+chr.to.int$ -- 42
+cite$ -- 43
+duplicate$ -- 791
+empty$ -- 1562
+format.name$ -- 632
+if$ -- 4501
+int.to.chr$ -- 1
+int.to.str$ -- 43
+missing$ -- 40
+newline$ -- 321
+num.names$ -- 126
+pop$ -- 203
+preamble$ -- 1
+purify$ -- 42
+quote$ -- 0
+skip$ -- 418
+stack$ -- 0
+substring$ -- 1018
+swap$ -- 119
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 294
+warning$ -- 1
+while$ -- 157
+width$ -- 0
+write$ -- 756
+(There was 1 error message)
