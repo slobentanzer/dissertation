@@ -1,0 +1,149 @@
+%!TEX root = ../dissertation.tex
+\begin{savequote}[75mm]
+»Wir sehen in der Natur nie etwas als Einzelheit, sondern wir sehen alles in Verbindung mit etwas anderem, das vor ihm, neben ihm, hinter ihm, unter ihm und über ihm sich befindet.«
+\qauthor{Johann Wolfgang von Goethe}
+\end{savequote}
+
+\chapter[miRNet: Creation of a Comprehensive Connectomics Database]{\textit{miRNet}: Creation of a\\Comprehensive Connectomics Database}
+\newthought{The need for bioinformatical support in connectomics} is immediately obvious from the sheer multitude of possible interactions between the participating factors. However, when I began working on this project (October 2015), there was no integrative database available for this purpose. Earlier that year, miRWalk 2.0 had been published, for the first time providing a relatively comprehensive source of predicted as well as experimentally validated miRNA targeting data\cite{Dweep2015} (see \ref{intro:miRNAs}). One year later, the »regulatory circuits« enabling analysis of comprehensive TF-gene relationships in 394 human tissues were published\cite{Marbach2016} (see \ref{intro:TFs}). These collections (as well as the data they were aggregated from) are the basis of the database further called \textit{miRNet}, the development of which will be described in the following chapter.
+
+\section{Materials}
+All materials used in the creation of \textit{miRNet} have been acquired from resources that are non-commercial, web-available, and open-source (in the case of code).
+
+\subsection{Gene Annotation}
+Even though »regular« protein coding genes have been know for a long time, there is no consensus yet about their nomenclature and organisation. Complicated by newly discovered functions and properties of phylogenetic nature, the scientific representation of the human genome is in constant flux. Several large organisations strive to provide a robust annotation of the human gene catalog, but also in many cases contradict one another. There are three nomenclature systems that are of high importance in modern genomics: 
+\begin{itemize}
+\item The traditional naming system of mainly acronyms and fantasy-names (e.g. ChAT) is still widely popular because of its accessibility to us humans, but is also not particularly robust because of numerous synonym-constructs and instances of genes without names having to carry unwieldy systematic names.
+\item The American Center for Biotechnology Information (NCBI), a branch of the National Institute of Health (NIH), curates and hosts a multitude of biological and medical data, and for the organisation of gene information uses its own systematic nomenclature termed »Entrez« ID. Entrez is a molecular biology database that integrates many aspects of biology and medicine in a gene-centered manner, and therefore Entrez IDs are useful to quickly connect a gene to its function, nucleotide sequence, or associated diseases. Entrez IDs are regular integers without additional characters.
+\item Akin to the NCBI effort, ENSEMBL is a project of the European Bioinformatics Institute (EBI) as part of the European Molecular Biology Laboratory (EMBL). Compared to the Entrez database, it is more focused on study and maintenance of the genome itself, and therefore has a more intricate nomenclature that allows for differentiation of, for example, genes and their various transcript isoforms (ENSEMBL IDs carry character prefixes for class identification, e.g., ENSG for genes, ENST for transcripts).
+\end{itemize}
+All of these are being used on a regular basis in many publications, and often, they are used exclusively. As a result, the end user of the published data has to have access to all possible annotation forms, or, at least, a means to translate one into the other; often, this also introduces conflicts. For this reason, all ID types were entered into \textit{miRNet} upon creation or during maintenance, for convenience and to minimise analysis time due to conflict resolution.
+
+\subsection{Transcription Factor Targeting} \label{database:TF}
+The FANTOM5 project has applied CAGE (5' cap analysis of gene expression) to a large number of human samples from diverse tissues to determine the accurate 5' ends of each transcript\cite{Hon2017}. Knowledge of this fact enables accurate prediction of promoters likely to control a transcript's expression. Marbach and colleagues used this information in combination with detailed human gene expression data to derive a complex interaction network of TFs and genes (»regulatory circuits«), and in doing so aggregated samples with similar expression patterns and origins into 394 fictional tissues\cite{Marbach2016}. For every tissue, each TF was assigned transcriptional activities towards all genes that it supposedly targets (with the sum of all activities in any given tissue being 1); and the cumulative transcriptional activities towards any given gene correlate well with the actual gene expression in corresponding samples from an independent repository.
+
+Even in its fifth iteration, FANTOM data is not entirely comprehensive, which came to my attention due to a cholinergic anomaly: the 5' CAGE peaks of the \textit{CHAT} and \textit{CHRNA7} (the nicotinic $\alpha$7 receptor subunit) genes in raw FANTOM5 data do not pass the expression threshold, and therefore are not included in, e.g., Marbach's »regulatory circuits«. Both are critically important not only for neuronal cholinergic systems, but also for the non-neuronal aspect of immune processes. For instance, macrophages have been shown to produce ACh via ChAT\cite{}, and the $\alpha$7 homomeric ACh receptor conveys direct immune suppression by expression on monocytes\cite{}. Paradoxically, the CAGE peak of \textit{SLC18A3}, which lies in the first intron of \textit{CHAT}, crosses the threshold and therefore is included in the data. Unfortunately, I was not able to remedy these circumstances even upon personal communication with Daniel Marbach (author of »regulatory circuits«) and Hideya Kawaji of the FANTOM5 consortium, although the latter acknowledged the possibility of a gene annotation deficit leading to misattribution of the \textit{CHAT} signal to \textit{SLC18A3} due to the closeness of their 5' ends.
+
+The entire collection of transcriptional activities in all tissues was downloaded\cite{Marbach2016}, and neuronal and immune tissues were entered into \textit{miRNet}. The collected data comprises XX neuronal tissues and XX immune cell tissues (Appendix \ref{appendixA}), and XX TF-gene relationships in total. 
+
+\subsection{microRNA Interactions} \label{database:miRNA}
+The content of miRWalk 2.0 is freely available online\cite{miRWalk2}; however, there is no option of downloading the complete set. The targeting data thus was downloaded\todo{mention custom crawler?} per miRNA with standard options for all 12 prediction algorithms (miRWalk, miRDB, PITA, MicroT4, miRMap, RNA22, miRanda, miRNAMap, RNAhybrid, miRBridge, PICTAR2, and TargetScan) in plain text format. For experimentally validated interactions, the main sources were DIANA TarBase\cite{Karagkouni2018} and miRTarBase\cite{Chou2018}, both of which offer complete download options. As of 2019, the 3.0 version of miRWalk allows complete species downloads; however, the developers have abandoned their third party algorithm plurality reducing the number of available alternatives from 12 to 4, which can be considered a significant disadvantage (see below). 
+
+While sequence complementarity, particularly of the »seed«-region, is the primary paradigm of miRNA-mRNA interaction, prediction algorithms vary widely in their implementation, general purpose, and approach to interaction prediction (for a comprehensive review of approaches and rules, see \cite{Yue2009}). A large group of available options utilise sequence conservation aspects to increase candidate viability (such as miRanda, PicTar, TargetScan, and microT4). Others, such as RNA22 and PITA, utilise biophysical aspects such as free energy of binding or the accessibility of target sites due to secondary RNA structures as prediction arguments. All of these approaches have their up- and downsides, e.g. considering their general precision and sensitivity, or their adequate prediction of particular cases, such as multiple site targeting. Thus, it has been proposed to use a combination of complementary approaches instead of only one algorithm per analysis\cite{Witkos2011}.
+
+A statistical evaluation of the collected interaction data from miRWalk 2.0 showed vast differences in general prediction quantity (Table \ref{tab:alg.hit.freq.all}) as well as prediction accuracy and sensitivity when compared to the validated subset of data (Table \ref{tab:alg.hit.freq.val}). Since the ground truth is not known, this is an additional argument for the combination of multiple algorithms instead of the use of a single set. Apart from RNAhybrid and miRBridge, all algorithms were presented reasonable base hit frequencies and increases in the validated test set. Therefore, the remaining 10 algorithms were included in \textit{miRNet} targeting data. For ease of use, an additional relationship type was created from the aggregated single algorithm hits of any miRNA-gene relationship, with the sum of algorithms predicting the interaction as a score variable. This yields a theoretical score range from 1 to 10.
+
+\todo{FIGURE: Histogram of score distributions?}
+
+%tables from cholinomir pseudopaper
+\begin{table}
+\centering
+\begin{tabular}{c | c}
+algorithm & hit frequency\\ \hline
+\hline
+\textcolor{Maroon}{RNAHYBRID} & 71.62\%\\ \hline
+\textcolor{OliveGreen}{MIRMAP} & 19.90\%\\ \hline
+\textcolor{OliveGreen}{MIRWALK} & 19.74\%\\ \hline
+\textcolor{OliveGreen}{TARGETSCAN} & 16.33\%\\ \hline
+\textcolor{OliveGreen}{RNA22} & 12.34\%\\ \hline
+\textcolor{OliveGreen}{MICROT4} & 11.81\%\\ \hline
+\textcolor{OliveGreen}{MIRANDA} & 10.65\%\\ \hline
+\textcolor{OliveGreen}{PITA} & 4.90\%\\ \hline
+\textcolor{OliveGreen}{MIRDB} & 1.17\%\\ \hline
+\textcolor{OliveGreen}{MIRNAMAP} & 0.75\%\\ \hline
+\textcolor{OliveGreen}{PICTAR2} & 0.62\%\\ \hline
+\textcolor{Maroon}{MIRBRIDGE} & 0.15\%\\ \hline
+\end{tabular}
+\caption{Prediction algorithms ordered by the fraction of all possible interactions they predict as being real (positive rate). Different algorithms display a wide variation of hit rates in the entirety of predicted interactions between any miRNA and gene. Red: excluded from analysis.}
+\label{tab:alg.hit.freq.all}
+\end{table}
+
+\begin{table}
+\centering
+\begin{tabular}{c | c | c}
+algorithm & validated hit frequency & hit rate increase\\ \hline
+\hline
+\textcolor{OliveGreen}{PICTAR2} & 6.98\% & 1129.40\%\\ \hline
+\textcolor{OliveGreen}{MIRDB} & 9.80\% & 838.43\%\\ \hline
+\textcolor{OliveGreen}{MIRANDA} & 51.73\% & 485.94\%\\ \hline
+\textcolor{OliveGreen}{TARGETSCAN} & 70.63\% & 432.51\%\\ \hline
+\textcolor{OliveGreen}{MIRNAMAP} & 3.10\% & 410.95\%\\ \hline
+\textcolor{OliveGreen}{PITA} & 15.57\% & 317.20\%\\ \hline
+\textcolor{OliveGreen}{MICROT4} & 32.60\% & 276.10\%\\ \hline
+\textcolor{OliveGreen}{MIRMAP} & 53.86\% & 270.65\%\\ \hline
+\textcolor{OliveGreen}{MIRWALK} & 50.95\% & 258.15\%\\ \hline
+\textcolor{OliveGreen}{RNA22} & 22.51\% & 182.38\%\\ \hline
+\textcolor{Maroon}{RNAHYBRID} & 90.47\% & 126.32\%\\ \hline
+\textcolor{Maroon}{MIRBRIDGE} & 0.01\% & 0.00\%\\ \hline
+\end{tabular}
+\caption{Prediction algorithms ordered by their increase in true positive rate when considering only validated interactions. The hit rate increase when comparing experimentally validated interactions with the entire predicted data (Table \ref{tab:alg.hit.freq.all}) is also subject to strong variation. Hit rate increase is the increase of hit rate if only considering validated data as opposed to all predicted interactions. None of the studied algorithms unite a good precision (hit rate increase) and coverage (validated hit frequency).}
+\label{tab:alg.hit.freq.val}
+\end{table}
+
+\todo{TFs not the only CHAT anomaly}
+
+The collected (human) data comprises XX miRNA-gene targeting predictions (all 12 algorithms) and XX experimentally validated interactions (XX with evidence type »strong«).
+
+\subsection{De-novo Prediction of tRF Interaction}
+Due to the recency of their (re-)discovery, no comprehensive interaction sources exist for transfer RNA fragments. There have been documented cases of miRNA-like behaviours of distinct RNA fragments\cite{Cole2009,Kumar2014}, justifying an attempt to predict interactions in a comprehensive manner. Of the available options for nucleotide interaction prediction algorithms, TargetScan\cite{Friedman2009} seems particularly suited for this task because it provides the option of evaluating the evolutionary conservation of target sites in the putatively targeted genes, thereby providing an additional layer of security: The sequence of 3' UTRs is evolutionarily less stable than the coding part of genes; thus, high conservation of the binding site might indicate evolutionary pressure to keep up the interaction with the fragment, making an actual function of the interaction more likely. TargetScan also presents with reasonable sensitivity and specificity as confirmed by an independent group\cite{Alexiou2009}, and through an additional algorithm allows the attribution of a score based on the branch length (on the species tree) of conserved targeting\cite{Agarwal2015}.
+
+miRNA-like behaviour implies the existence of a region on the tRF similar to a miRNA »seed«, and TargetScan also expects a seed as input to its targeting algorithm. Since there has been no definitive answer to the question as to where the seed region in tRFs might be, it is safest to assume nothing and explore all possibilities, i.e., simulate every possible seed position for interaction discovery. For this purpose, all discovered sequences of tRFs were chopped into 7-base pieces (7mers), which is the lenght of miRNA seeds, and statistically improbable enough to appear in the genome at random; the average length of a human 3' UTR is 800 bases, so the probability of finding any 7mer randomly in any one 3' UTR is $ p = \frac{800}{4^7} = 0.049 $.
+
+\todo{Describe Targetscan process}
+
+\section{Implementation}
+For any biological question to be asked, the effectiveness of the bioinformatical query determines the practicality of the approach. Since computational resources are limited, the database that is queried should be organised in a way that facilitates retrieval of the desired information without excess processing of useless information. In the simple case of only miRNAs interacting with genes in one direction (miRNA $\to$ gene), this means retrieval of only those interactions relevant for the queried genes or miRNAs. Traditional table-based approaches (also known as relational databases) such as SQL  (»Structured Query Language«) cannot provide such an implementation, since individual entries for genes and miRs (rows and columns) have to be accessed in their entirety, whether there is a connection between gene and miRNA (1) or not (0). Additionally, adding layers to these interactions, such as distinct algorithms or the interaction between TFs and genes, require the addition of whole tables of similar size to the database, which is detrimental to effective use of space; and queries then also necessitate the transfer of information between those distinct tables (in SQL typically via a JOIN command), that claims additional working memory and processing time. Overall, the so called »many-to-many« organisation of data does not lend itself to representation in a relational database.
+
+\todo{Figure to explain tables?}
+
+The actual performance is determined by the processing power of the machine it is running on and several structural properties, such as organisation, indexing, monotony, and of course the size of the database; therefore, an estimation of processing time for queries is bound to be inaccurate. However, processing times typically do not vary on the scale of orders of magnitude, and thus general estimations can be made. Well optimised SQL databases with a size of 5 to 10 GB on disk usually require tens of minutes if not hours to complete one single complex query\cite{Chaudhuri2004}; \textit{miRNet} in its current form takes up approximately 15 GB of storage. Since one analysis typically consists of several hundreds (and, in the case of permutation analyses, several hundreds of thousands) of these queries, processing times in SQL implementation are too long to be practically useful.
+
+\subsection{Neo4j: A Graph-Based Infrastructure}
+To display and query biological data that are organised in a network-like structure (many-to-many), a database that lends itself to the efficient processing and storage of network data is optimal. »Neo4j« utilises a database structure that is built on the save and recall of data points in »nodes« and »edges«, which represent entities (nodes) and relationships between those entities (edges); both nodes and edges can have any number of attributes and a unique property called »type«, typically used to describe the class of the entry (such as »gene« or »miRNA«). This database organisation replicates the network-like structure of the biological data studied. Theoretically, this makes the database more likely to be efficient in the setting of transcriptional interactions, an estimation that turned out to be true. Neo4j combines the network-like data structure with an efficient indexing system for quickly finding the entries queried for, and then »walks« along the edges of the nodes that have been found, thus only searching and returning the data that is relevant to the current query.
+
+\todo{Fig DB structure}
+
+Depending on the input, these queries can also be rather large; however, the main pitfall of tabular databases such as SQL is circumvented: there is no need to process entire rows or columns of the table to make sure that the query is satisfied in its entirety. As soon as a queried node does not return any more edges that fit the query, the process can terminate and resources are freed for the next step. In practice, even in the very first prototype implementations, this accelerated standard case computations approximately thousand-fold, and was even able to accommodate advanced approaches in situations that were inaccessible in the tabular implementation.
+
+\subsection{High-throughput Database Generation}
+\todo{Java and R description? Where?}
+
+Neo4j provides several API possibilities in implementation. For the purpose of entering large amounts of data into the database at once, the Java implementation is superior to the other forms in that it provides a batch processing mode via its \texttt{BatchInserter} class. I thus wrote a custom Java program for the purpose of creating an initial state of the database from the largest set of data, the complete miRWalk 2.0 content with 12 algorithms and validated interactions. The downloaded data was organised in a plain text based file format, with one text file for each miRNA, totalling in size about 6 GB (for H. sapiens). The database was set up in a way that allows only one node for each individual miRNA and gene entered to avoid duplications, using the \texttt{createDeferredConstraint()}, \texttt{assertPropertyIsUnique()}, and \texttt{createDeferredSchemaIndex()} commands of the Neo4j Java package. This approach made sure to create only one node for each miRNA (type: MIR) and gene (type: GENE) in the data, which is essential for proper functioning of the database. Each of these nodes received several properties to store individual data, such as the various gene/miRNA identifiers, origin of data, and species. 
+
+Between those basic nodes, the batch insertion process created edges for each relationship that was found in the original data, assigning a type identifier to each edge detailing the origin of this interaction (type: name of the prediction algorithm or »validated« for experimental data). Thus, while the nodes for genes and miRNAs themselves are unique, an arbitrary number of relationships can exist between any two nodes, depending on how many interactions they share.
+
+\subsection{Maintenance and Quality Control}
+All additional datasets, such as the TF regulatory circuits or tRF targeting predictions, were entered into \textit{miRNet} using the regular operation mode. Testing was also performed in regular operation, with manual as well as automated tests to assert the correct transfer of information from raw data to the graph database, and to avoid unpredictable behaviour. At times, conflicts had to be resolved manually, e.g. when miRNA names conflicted between old »*« and new 3p/5p notation; all manual edits are documented in the code.
+
+Except for the rapid import of large amounts of data in creation of a database, the Java implementation of Neo4j does not offer many advantages over the native R implementation, »RNeo4j«. Thus, after creation and a short period of experimentation with graphical user interfaces, I abandoned the Java program in favour of the more flexible R programming. However, the entire Java-based code used in creation and maintenance is available in the code repository accompanying my first manuscript\cite{Lobentanzer2019}.
+
+\subsection{Transcription Factor Regulatory Circuits of Nervous and Immune Cells}
+Appendix \ref{appendixA}
+
+\subsection{De-Novo Prediction of Transfer RNA Fragment Targeting}
+
+\subsection{Accumulation of microRNA targeting}
+
+\section{Usage}
+\subsection{Cypher Query Language}
+Neo4j uses a »language« akin to SQL, utilising keyphrases to issue commands, but combines it with a semi-graphical syntax to account for the graph-based layout of the data. For instance, the basic »finder« function (similar to SELECT in SQL) is called MATCH in Cypher, and, when combined with the semi-graphical syntax, can be used to identify nodes or more complex patterns in the database. The graphical syntax consists of two main building blocks that represent the basic types of data inside the database: nodes as regular brackets% \quote{\texttt{( )}} and edges as  a construct of hyphens and box brackets, that can also have a direction indicated by the greater sign %\quote{\texttt{-\[ \]->}}
+
+\texttt{MATCH (m:MIR)\\WHERE m.name = 'hsa-miR-125b-5p'\\RETURN m}
+
+\texttt{MATCH (m:MIR)-[r:TARGETS]->(g:GENE)\\
+WHERE g.name IN $\{ cholinergic\_genes \}$\\
+RETURN m, r, g}
+
+\section{Statistical Approach to Connectomics}
+
+% For an example of a full page figure, see Fig.~\ref{fig:myFullPageFigure}.
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero. Vivamus pharetra posuere sapien. Nam consectetuer. Sed aliquam, nunc eget euismod ullamcorper, lectus nunc ullamcorper orci, fermentum bibendum enim nibh eget ipsum. Donec porttitor ligula eu dolor. Maecenas vitae nulla consequat libero cursus venenatis. Nam magna enim, accumsan eu, blandit sed, blandit a, eros.
+
+%% Requires fltpage2 package
+%%
+% \begin{FPfigure}
+% \includegraphics[width=\textwidth]{figures/fullpage}
+% \caption[Short figure name.]{This is a full page figure using the FPfigure command. It takes up the whole page and the caption appears on the preceding page. Its useful for large figures. Harvard's rules about full page figures are tricky, but you don't have to worry about it because we took care of it for you. For example, the full figure is supposed to have a title in the same style as the caption but without the actual caption. The caption is supposed to appear alone on the preceding page with no other text. You do't have to worry about any of that. We have modified the fltpage package to make it work. This is a lengthy caption and it clearly would not fit on the same page as the figure. Note that you should only use the FPfigure command in instances where the figure really is too large. If the figure is small enough to fit by the caption than it does not produce the desired effect. Good luck with your thesis. I have to keep writing this to make the caption really long. LaTex is a lot of fun. You will enjoy working with it. Good luck on your post doctoral life! I am looking forward to mine. \label{fig:myFullPageFigure}}
+% \end{FPfigure}
+% \afterpage{\clearpage}

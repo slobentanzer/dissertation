@@ -1,0 +1,58 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+
+\documentclass{Dissertate}
+
+%TODO notes
+\usepackage[textsize=tiny, linecolor=magenta, bordercolor=magenta,
+            backgroundcolor=magenta]{todonotes}
+
+\begin{document}
+
+% the front matter
+\input{frontmatter/personalize}
+% \maketitle
+% \copyrightpage
+\frontmatter
+\renewcommand{\chapterheadstartvskip}{\vspace*{-0.5\baselineskip}} %this shifts chapter headlines vertically
+\setstretch{\dnormalspacing}
+% \abstractpage
+% \tableofcontents
+% %\authorlist
+% \listoffigures
+% \dedicationpage
+% \acknowledgments
+
+% \doublespacing
+
+% include each chapter...
+\setcounter{chapter}{-1}  % start chapter numbering at 0
+\include{chapters/introduction}
+\include{chapters/database}
+\include{chapters/singlecell}
+\include{chapters/cellculture}
+\include{chapters/stroke}
+\include{chapters/discussion}
+\include{chapters/conclusion}
+
+\setstretch{\dnormalspacing}
+
+%bibliography
+\clearpage
+\bibliography{library}
+\addcontentsline{toc}{chapter}{References}
+\bibliographystyle{unsrtnat}
+
+%appendix
+\appendix
+\include{chapters/appendixA}
+
+% the back matter
+% \backmatter
+
+
+
+% \include{endmatter/colophon}
+
+\end{document}
