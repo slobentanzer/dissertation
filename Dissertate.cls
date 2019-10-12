@@ -77,6 +77,8 @@
 \RequirePackage{setspace}
 \RequirePackage{verbatim}
 
+\RequirePackage{listings}
+
 % Fonts.
 \RequirePackage{color}
 \RequirePackage[dvipsnames]{xcolor}
@@ -188,6 +190,34 @@
 \university{Johann Wolfgang von Goethe University}
 \universitycity{Frankfurt am Main}
 \universitystate{Hessen}
+
+%lstlisting definitions
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{dkblue}{rgb}{0.1,0.1,0.7}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+\lstset{frame=tb,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=left,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{dkblue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3
+}
+\lstdefinelanguage{Cypher}{
+  morecomment=[l]{//},
+  morekeywords={MATCH,WITH,RETURN,WHERE,IN,AND,AS,TRUE,FALSE,count,type},
+  sensitive=true,
+  morestring=[b]'
+}
+
 
 % School color found from university's graphic identity site:
 % http://isites.harvard.edu/icb/icb.do?keyword=k75408&pageid=icb.page392732

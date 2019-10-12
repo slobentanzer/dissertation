@@ -9,41 +9,42 @@
 \contentsline {chapter}{\numberline {1}miRNet: Creation of a Comprehensive Connectomics Database}{10}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}Materials}{10}{section.1.1}% 
 \contentsline {subsection}{\numberline {1.1.1}Gene Annotation}{10}{subsection.1.1.1}% 
-\contentsline {subsection}{\numberline {1.1.2}Transcription Factor Targeting}{11}{subsection.1.1.2}% 
-\contentsline {subsection}{\numberline {1.1.3}microRNA Interactions}{12}{subsection.1.1.3}% 
-\contentsline {subsection}{\numberline {1.1.4}De-novo Prediction of tRF Interaction}{13}{subsection.1.1.4}% 
-\contentsline {section}{\numberline {1.2}Implementation}{14}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.1.2}microRNA Annotation}{11}{subsection.1.1.2}% 
+\contentsline {subsection}{\numberline {1.1.3}Transcription Factor Targeting}{11}{subsection.1.1.3}% 
+\contentsline {subsection}{\numberline {1.1.4}microRNA Interactions}{12}{subsection.1.1.4}% 
+\contentsline {subsection}{\numberline {1.1.5}De-novo Prediction of tRF Interaction}{14}{subsection.1.1.5}% 
+\contentsline {section}{\numberline {1.2}Implementation}{15}{section.1.2}% 
 \contentsline {subsection}{\numberline {1.2.1}Neo4j: A Graph-Based Infrastructure}{15}{subsection.1.2.1}% 
-\contentsline {subsection}{\numberline {1.2.2}High-throughput Database Generation}{15}{subsection.1.2.2}% 
+\contentsline {subsection}{\numberline {1.2.2}High-throughput Database Generation}{16}{subsection.1.2.2}% 
 \contentsline {subsection}{\numberline {1.2.3}Maintenance and Quality Control}{16}{subsection.1.2.3}% 
-\contentsline {subsection}{\numberline {1.2.4}Transcription Factor Regulatory Circuits of Nervous and Immune Cells}{16}{subsection.1.2.4}% 
+\contentsline {subsection}{\numberline {1.2.4}Transcription Factor Regulatory Circuits of Nervous and Immune Cells}{17}{subsection.1.2.4}% 
 \contentsline {subsection}{\numberline {1.2.5}De-Novo Prediction of Transfer RNA Fragment Targeting}{17}{subsection.1.2.5}% 
 \contentsline {subsection}{\numberline {1.2.6}Accumulation of microRNA targeting}{17}{subsection.1.2.6}% 
 \contentsline {section}{\numberline {1.3}Usage}{17}{section.1.3}% 
 \contentsline {subsection}{\numberline {1.3.1}Cypher Query Language}{17}{subsection.1.3.1}% 
-\contentsline {section}{\numberline {1.4}Statistical Approach to Connectomics}{17}{section.1.4}% 
-\contentsline {chapter}{\numberline {2}Single-cell sequencing?}{18}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Background}{18}{section.2.1}% 
-\contentsline {chapter}{\numberline {3}microRNA Dynamics in Cholinergic Differentiation of Human Neuronal Cells}{19}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Background? - Intro?}{19}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}The Cellular Model}{19}{section.3.2}% 
-\contentsline {section}{\numberline {3.3}Small RNA Sequencing and Differential Expression Analysis}{20}{section.3.3}% 
-\contentsline {subsection}{\numberline {3.3.1}microRNA Family Enrichment}{20}{subsection.3.3.1}% 
-\contentsline {section}{\numberline {3.4}Network Generation}{20}{section.3.4}% 
-\contentsline {section}{\numberline {3.5}The Cholinergic/Neurokine Interface}{20}{section.3.5}% 
-\contentsline {section}{\numberline {3.6}Application to Schizophrenia and Bipolar Disorder}{20}{section.3.6}% 
-\contentsline {chapter}{\numberline {4}Dynamics Between Small and Large RNA in the Blood of Stroke Victims}{21}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Background}{22}{section.4.1}% 
-\contentsline {section}{\numberline {4.2}Cohort}{22}{section.4.2}% 
-\contentsline {section}{\numberline {4.3}RNA Sequencing and Differential Expression Analysis}{22}{section.4.3}% 
-\contentsline {section}{\numberline {4.4}tRF Homology}{22}{section.4.4}% 
-\contentsline {section}{\numberline {4.5}WGCNA}{22}{section.4.5}% 
-\contentsline {section}{\numberline {4.6}Co-correlation}{22}{section.4.6}% 
-\contentsline {section}{\numberline {4.7}Networks}{22}{section.4.7}% 
-\contentsline {section}{\numberline {4.8}Direct Interaction}{22}{section.4.8}% 
-\contentsline {section}{\numberline {4.9}Feedforward Loops}{22}{section.4.9}% 
-\contentsline {chapter}{\numberline {5}Discussion}{23}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Methods}{23}{section.5.1}% 
-\contentsline {chapter}{\numberline {6}Conclusion}{26}{chapter.6}% 
-\contentsline {chapter}{References}{34}{chapter*.16}% 
-\contentsline {chapter}{\numberline {A}Transcription Factor Regulatory Circuits - Tissue Types}{35}{appendix.A}% 
+\contentsline {section}{\numberline {1.4}Statistical Approach to Connectomics}{20}{section.1.4}% 
+\contentsline {chapter}{\numberline {2}Single-cell sequencing?}{21}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Background}{21}{section.2.1}% 
+\contentsline {chapter}{\numberline {3}microRNA Dynamics in Cholinergic Differentiation of Human Neuronal Cells}{22}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Background? - Intro?}{22}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}The Cellular Model}{22}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Small RNA Sequencing and Differential Expression Analysis}{23}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}microRNA Family Enrichment}{23}{subsection.3.3.1}% 
+\contentsline {section}{\numberline {3.4}Network Generation}{23}{section.3.4}% 
+\contentsline {section}{\numberline {3.5}The Cholinergic/Neurokine Interface}{23}{section.3.5}% 
+\contentsline {section}{\numberline {3.6}Application to Schizophrenia and Bipolar Disorder}{23}{section.3.6}% 
+\contentsline {chapter}{\numberline {4}Dynamics Between Small and Large RNA in the Blood of Stroke Victims}{24}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Background}{25}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Cohort}{25}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}RNA Sequencing and Differential Expression Analysis}{25}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}tRF Homology}{25}{section.4.4}% 
+\contentsline {section}{\numberline {4.5}WGCNA}{25}{section.4.5}% 
+\contentsline {section}{\numberline {4.6}Co-correlation}{25}{section.4.6}% 
+\contentsline {section}{\numberline {4.7}Networks}{25}{section.4.7}% 
+\contentsline {section}{\numberline {4.8}Direct Interaction}{25}{section.4.8}% 
+\contentsline {section}{\numberline {4.9}Feedforward Loops}{25}{section.4.9}% 
+\contentsline {chapter}{\numberline {5}Discussion}{26}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Methods}{26}{section.5.1}% 
+\contentsline {chapter}{\numberline {6}Conclusion}{29}{chapter.6}% 
+\contentsline {chapter}{References}{37}{chapter*.16}% 
+\contentsline {chapter}{\numberline {A}Transcription Factor Regulatory Circuits - Tissue Types}{38}{appendix.A}% 
