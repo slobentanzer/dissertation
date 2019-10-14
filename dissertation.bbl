@@ -1,4 +1,4 @@
-\begin{thebibliography}{42}
+\begin{thebibliography}{45}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -158,6 +158,26 @@ Victor Ambros, Bonnie Bartel, David~P Bartel, Christopher~B Burge, James~C
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/12592000
   http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC1370393}.
 
+\bibitem[Borek et~al.(1977)Borek, Baliga, Gehrke, Kuo, Belman, Troll, and
+  Waalkes]{Borek1977}
+Ernest Borek, B~S Baliga, Charles~W Gehrke, C~W Kuo, Sidney Belman, Walter
+  Troll, and T~Phillip Waalkes.
+\newblock {High Turnover Rate of Transfer RNA in Tumor Tissue}.
+\newblock \emph{CANCER RESEARCH}, 37:\penalty0 3362--3366, 1977.
+\newblock URL
+  \url{https://cancerres.aacrjournals.org/content/37/9/3362.full-text.pdf}.
+
+\bibitem[Speer et~al.(1979)Speer, Gehrke, Kuo, Waalkes, and Borek]{Speer1979}
+John Speer, Charles~W Gehrke, Kenneth~C Kuo, T~Phillip Waalkes, and Ernest
+  Borek.
+\newblock {tRNA breakdown products as markers for cancer}.
+\newblock \emph{Cancer}, 44\penalty0 (6):\penalty0 2120--2123, dec 1979.
+\newblock ISSN 0008-543X.
+\newblock
+  \doi{10.1002/1097-0142(197912)44:6<2120::AID-CNCR2820440623>3.0.CO;2-6}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/509391
+  http://doi.wiley.com/10.1002/1097-0142{\%}28197912{\%}2944{\%}3A6{\%}3C2120{\%}3A{\%}3AAID-CNCR2820440623{\%}3E3.0.CO{\%}3B2-6}.
+
 \bibitem[Cole et~al.(2009)Cole, Sobala, Lu, Thatcher, Bowman, Brown, Green,
   Barton, and Hutvagner]{Cole2009}
 Christian Cole, Andrew Sobala, Cheng Lu, Shawn~R Thatcher, Andrew Bowman,
@@ -180,6 +200,18 @@ Yong~Sun Lee, Yoshiyuki Shibata, Ankit Malhotra, and Anindya Dutta.
 \newblock \doi{10.1101/gad.1837609}.
 \newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/19933153
   http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2779758}.
+
+\bibitem[Godoy et~al.(2018)Godoy, Bhakta, Barczak, Cakmak, Fisher, MacKenzie,
+  Patel, Price, Smith, Woodruff, and Erle]{Godoy2018}
+Paula~M Godoy, Nirav~R Bhakta, Andrea~J Barczak, Hakan Cakmak, Susan Fisher,
+  Tippi~C. MacKenzie, Tushar Patel, Richard~W Price, James~F Smith, Prescott~G
+  Woodruff, and David~J Erle.
+\newblock {Large Differences in Small RNA Composition Between Human Biofluids}.
+\newblock \emph{Cell Reports}, 25\penalty0 (5):\penalty0 1346--1358, oct 2018.
+\newblock ISSN 22111247.
+\newblock \doi{10.1016/j.celrep.2018.10.014}.
+\newblock URL \url{https://doi.org/10.1016/j.celrep.2018.10.014
+  https://linkinghub.elsevier.com/retrieve/pii/S2211124718315778}.
 
 \bibitem[Yamasaki et~al.(2009)Yamasaki, Ivanov, Hu, and Anderson]{Yamasaki2009}
 Satoshi Yamasaki, Pavel Ivanov, Guo-fu Hu, and Paul Anderson.
