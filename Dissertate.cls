@@ -17,6 +17,7 @@
 % Options
 %
 \RequirePackage{etoolbox}
+\RequirePackage{acro}
 
 %Hyphenation rules
 \hyphenation{miRNA}

@@ -4,9 +4,12 @@
 
 \documentclass{Dissertate}
 
-%TODO notes
+% TODO notes
 \usepackage[textsize=tiny, linecolor=magenta, bordercolor=magenta,
             backgroundcolor=magenta]{todonotes}
+            
+% acronyms
+\include{acronyms}
 
 \begin{document}
 
@@ -26,11 +29,13 @@
 
 % \doublespacing
 
+% abbreviations
+\printacronyms[include-classes=abb,name=Abbreviations]
+
 % include each chapter...
-\setcounter{chapter}{-1}  % start chapter numbering at 0
+%\setcounter{chapter}{-1}  % start chapter numbering at 0
 \include{chapters/000_introduction}
 \include{chapters/010_database}
-\include{chapters/020_singlecell}
 \include{chapters/030_cellculture}
 \include{chapters/040_stroke}
 \include{chapters/100_discussion}
@@ -43,6 +48,7 @@
 \bibliography{library}
 \addcontentsline{toc}{chapter}{References}
 \bibliographystyle{unsrtnat}
+
 
 %appendix
 \appendix

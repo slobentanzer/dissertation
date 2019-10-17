@@ -320,6 +320,18 @@ Phillipe Loher, Aristeidis~G Telonis, and Isidore Rigoutsos.
 \newblock URL \url{http://dx.doi.org/10.1038/srep41184
   http://www.nature.com/articles/srep41184}.
 
+\bibitem[Marbach et~al.(2016)Marbach, Lamparter, Quon, Kellis, Kutalik, and
+  Bergmann]{Marbach2016}
+Daniel Marbach, David Lamparter, Gerald Quon, Manolis Kellis, Zolt{\'{a}}n
+  Kutalik, and Sven Bergmann.
+\newblock {Tissue-specific regulatory circuits reveal variable modular
+  perturbations across complex diseases}.
+\newblock \emph{Nature Methods}, 13\penalty0 (4):\penalty0 366--370, apr 2016.
+\newblock ISSN 1548-7091.
+\newblock \doi{10.1038/nmeth.3799}.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/26950747
+  http://www.nature.com/articles/nmeth.3799 http://regulatorycircuits.org}.
+
 \bibitem[Nowakowski et~al.(2018)Nowakowski, Rani, Golkaram, Zhou, Alvarado,
   Huch, West, Leyrat, Pollen, Kriegstein, Petzold, and Kosik]{Nowakowski2018}
 Tomasz~J Nowakowski, Neha Rani, Mahdi Golkaram, Hongjun~R Zhou, Beatriz
@@ -365,17 +377,12 @@ Harsh Dweep and Norbert Gretz.
 \newblock \doi{10.1038/nmeth.3485}.
 \newblock URL \url{http://www.nature.com/doifinder/10.1038/nmeth.3485}.
 
-\bibitem[Marbach et~al.(2016)Marbach, Lamparter, Quon, Kellis, Kutalik, and
-  Bergmann]{Marbach2016}
-Daniel Marbach, David Lamparter, Gerald Quon, Manolis Kellis, Zolt{\'{a}}n
-  Kutalik, and Sven Bergmann.
-\newblock {Tissue-specific regulatory circuits reveal variable modular
-  perturbations across complex diseases}.
-\newblock \emph{Nature Methods}, 13\penalty0 (4):\penalty0 366--370, apr 2016.
-\newblock ISSN 1548-7091.
-\newblock \doi{10.1038/nmeth.3799}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/26950747
-  http://www.nature.com/articles/nmeth.3799 http://regulatorycircuits.org}.
+\bibitem[Chaudhuri et~al.(2004)Chaudhuri, Narasayya, and
+  Ramamurthy]{Chaudhuri2004}
+Surajit Chaudhuri, Vivek Narasayya, and Ravi Ramamurthy.
+\newblock {Estimating Progress of Execution for SQL Queries}, jun 2004.
+\newblock URL
+  \url{https://www.microsoft.com/en-us/research/publication/estimating-progress-of-execution-for-sql-queries/?from=https{\%}3A{\%}2F{\%}2Fresearch.microsoft.com{\%}2Fapps{\%}2Fpubs{\%}2F{\%}3Fid{\%}3D76556}.
 
 \bibitem[Hon et~al.(2017)Hon, Ramilowski, Harshbarger, Bertin, Rackham, Gough,
   Denisenko, Schmeier, Poulsen, Severin, Lizio, Kawaji, Kasukawa, Itoh,
@@ -484,13 +491,6 @@ Vikram Agarwal, George~W Bell, Jin-Wu Nam, and David~P Bartel.
 \newblock ISSN 2050-084X.
 \newblock \doi{10.7554/eLife.05005}.
 \newblock URL \url{https://elifesciences.org/articles/05005}.
-
-\bibitem[Chaudhuri et~al.(2004)Chaudhuri, Narasayya, and
-  Ramamurthy]{Chaudhuri2004}
-Surajit Chaudhuri, Vivek Narasayya, and Ravi Ramamurthy.
-\newblock {Estimating Progress of Execution for SQL Queries}, jun 2004.
-\newblock URL
-  \url{https://www.microsoft.com/en-us/research/publication/estimating-progress-of-execution-for-sql-queries/?from=https{\%}3A{\%}2F{\%}2Fresearch.microsoft.com{\%}2Fapps{\%}2Fpubs{\%}2F{\%}3Fid{\%}3D76556}.
 
 \bibitem[Hill and Robertson(1997)]{Hill1997}
 David~P Hill and Kent~a Robertson.
