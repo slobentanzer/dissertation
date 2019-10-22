@@ -18,6 +18,7 @@
 %
 \RequirePackage{etoolbox}
 \RequirePackage{acro}
+\RequirePackage{siunitx}
 
 %Hyphenation rules
 \hyphenation{miRNA}
@@ -244,6 +245,7 @@
 	% \listoffigures % optional
 	\dedicationpage
 	\acknowledgments
+	\abbreviations
 }
 
 \renewcommand{\maketitle}{
@@ -262,7 +264,8 @@
 	von\\
 	\theauthor\\ aus Schlüchtern\\
 	\vspace{12pt}
-	Frankfurt \@degreeyear}
+	Frankfurt \@degreeyear\\
+	(D30)}
 	\end{center} \vspace*{\fill}
 }
 
@@ -323,10 +326,24 @@
     	\input{frontmatter/thanks}
     \end{spacing}
 	\vspace*{\fill} \newpage
+}
+
+\newcommand{\abbreviations}{
+	%\setlength{\headheight}{100pt}
+	\renewcommand{\chapterheadstartvskip}{\vspace*{-0.5\baselineskip}} 
+	\chapter*{Abbreviations}
+	\noindent
+    \begin{spacing}{\dcompressedspacing}
+	\printacronyms[include-classes = abb, heading = none]
+	\printacronyms[include-classes = gene, name = Genes]
+    \end{spacing}
+	\vspace*{\fill} \newpage
 	\setcounter{page}{1}
 	\pagenumbering{arabic}
 }
 
+
+% abbreviations
 
 \renewcommand{\backmatter}{
     \begin{appendices}

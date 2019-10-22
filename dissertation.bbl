@@ -1,4 +1,4 @@
-\begin{thebibliography}{45}
+\begin{thebibliography}{55}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -36,7 +36,7 @@ M.~M. Mesulam, E.~J. Mufson, A.~I. Levey, and B.~H. Wainer.
 \newblock \doi{10.1016/0306-4522(84)90163-5}.
 
 \bibitem[Lobentanzer et~al.(2019)Lobentanzer, Hanin, Klein, and
-  Soreq]{Lobentanzer2019}
+  Soreq]{Lobentanzer2019a}
 Sebastian Lobentanzer, Geula Hanin, Jochen Klein, and Hermona Soreq.
 \newblock {Integrative Transcriptomics Reveals Sexually Dimorphic Control of
   the Cholinergic/Neurokine Interface in Schizophrenia and Bipolar Disorder}.
@@ -491,6 +491,116 @@ Vikram Agarwal, George~W Bell, Jin-Wu Nam, and David~P Bartel.
 \newblock ISSN 2050-084X.
 \newblock \doi{10.7554/eLife.05005}.
 \newblock URL \url{https://elifesciences.org/articles/05005}.
+
+\bibitem[Raichle and Gusnard(2002)]{Raichle2002}
+M.~E. Raichle and D.~A. Gusnard.
+\newblock {Appraising the brain's energy budget}.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 99\penalty0
+  (16):\penalty0 10237--10239, aug 2002.
+\newblock ISSN 0027-8424.
+\newblock \doi{10.1073/pnas.172399499}.
+\newblock URL \url{http://www.pnas.org/cgi/doi/10.1073/pnas.172399499}.
+
+\bibitem[Lobentanzer and Klein(2019)]{Lobentanzer2019b}
+Sebastian Lobentanzer and Jochen Klein.
+\newblock {Zentrales und Peripheres Nervensystem}.
+\newblock In Wichmann and Fromme, editors, \emph{Handbuch f{\"{u}}r
+  Umweltmedizin}, chapter~11. Erg. lfg. edition, 2019.
+
+\bibitem[Darmanis et~al.(2015)Darmanis, Sloan, Zhang, Enge, Caneda, Shuer,
+  {Hayden Gephart}, Barres, and Quake]{Darmanis2015}
+Spyros Darmanis, Steven~A. Sloan, Ye~Zhang, Martin Enge, Christine Caneda,
+  Lawrence~M. Shuer, Melanie~G. {Hayden Gephart}, Ben~A. Barres, and Stephen~R.
+  Quake.
+\newblock {A survey of human brain transcriptome diversity at the single cell
+  level}.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 112\penalty0
+  (23):\penalty0 201507125, 2015.
+\newblock ISSN 0027-8424.
+\newblock \doi{10.1073/pnas.1507125112}.
+\newblock URL \url{http://www.pnas.org/content/112/23/7285.abstract}.
+
+\bibitem[Zeisel et~al.(2015)Zeisel, Manchado, Codeluppi, Lonnerberg, {La
+  Manno}, Jureus, Marques, Munguba, He, Betsholtz, Rolny, Castelo-Branco,
+  Hjerling-Leffler, and Linnarsson]{Zeisel2015}
+a.~Zeisel, a.~B.~M. Manchado, S.~Codeluppi, P.~Lonnerberg, G.~{La Manno},
+  A.~Jureus, S.~Marques, H.~Munguba, L.~He, C.~Betsholtz, C.~Rolny,
+  G.~Castelo-Branco, J.~Hjerling-Leffler, and S.~Linnarsson.
+\newblock {Cell types in the mouse cortex and hippocampus revealed by
+  single-cell RNA-seq}.
+\newblock \emph{Science}, 347\penalty0 (6226):\penalty0 1138--42, 2015.
+\newblock ISSN 0036-8075.
+\newblock \doi{10.1126/science.aaa1934}.
+\newblock URL
+  \url{http://science.sciencemag.org.docelec.univ-lyon1.fr/content/347/6226/1138.abstract}.
+
+\bibitem[Tasic et~al.(2016)Tasic, Menon, Nguyen, Kim, Jarsky, Yao, Levi, Gray,
+  Sorensen, Dolbeare, Bertagnolli, Goldy, Shapovalova, Parry, Lee, Smith,
+  Bernard, Madisen, Sunkin, Hawrylycz, Koch, Zeng, Yao, Lee, Shapovalova,
+  Parry, Madisen, Sunkin, Hawrylycz, Koch, and Zeng]{Tasic2016}
+Bosiljka Tasic, Vilas Menon, Thuc Nghi~TN Nguyen, TK~Tae~Kyung Kim, Tim Jarsky,
+  Zizhen Yao, Boaz~BP Levi, Lucas~T Gray, Staci~A Sorensen, Tim Dolbeare,
+  Darren Bertagnolli, Jeff Goldy, Nadiya Shapovalova, Sheana Parry, Changkyu~CK
+  Lee, Kimberly Smith, Amy Bernard, Linda Madisen, Susan~M Sunkin, Michael
+  Hawrylycz, Christof Koch, Hongkui Zeng, Zizhen Yao, Changkyu~CK Lee, Nadiya
+  Shapovalova, Sheana Parry, Linda Madisen, Susan~M Sunkin, Michael Hawrylycz,
+  Christof Koch, and Hongkui Zeng.
+\newblock {Adult mouse cortical cell taxonomy revealed by single cell
+  transcriptomics}.
+\newblock \emph{Nature Neuroscience}, advance on\penalty0 (January):\penalty0
+  1--37, 2016.
+\newblock ISSN 1097-6256.
+\newblock \doi{10.1038/nn.4216}.
+\newblock URL \url{http://dx.doi.org/10.1038/nn.4216}.
+
+\bibitem[Habib et~al.(2016)Habib, Li, Heidenreich, Swiech, Avraham-Davidi,
+  Trombetta, Hession, Zhang, and Regev]{Habib2016}
+Naomi Habib, Yinqing Li, Matthias Heidenreich, Lukasz Swiech, Inbal
+  Avraham-Davidi, John~J. Trombetta, Cynthia Hession, Feng Zhang, and Aviv
+  Regev.
+\newblock {Div-Seq: Single-nucleus RNA-Seq reveals dynamics of rare adult
+  newborn neurons}.
+\newblock \emph{Science}, 353\penalty0 (6302):\penalty0 925--928, 2016.
+\newblock ISSN 0036-8075.
+\newblock \doi{10.1126/science.aad7038}.
+\newblock URL
+  \url{http://www.sciencemag.org/lookup/doi/10.1126/science.aad7038}.
+
+\bibitem[Biedler et~al.(1978)Biedler, Roffler-Tarlov, Schachner, and
+  Freedman]{Biedler1978}
+June~L. Biedler, Suzanne Roffler-Tarlov, Melitta Schachner, and Lewis~S.
+  Freedman.
+\newblock {Multiple Neurotransmitter Synthesis by Human Neuroblastoma Cell
+  Lines and Clones}.
+\newblock \emph{Cancer Res.}, 38\penalty0 (11{\_}Part{\_}1):\penalty0
+  3751--3757, nov 1978.
+\newblock URL
+  \url{http://cancerres.aacrjournals.org/content/38/11{\_}Part{\_}1/3751.short}.
+
+\bibitem[Biedler et~al.(1973)Biedler, Helson, and Spengler]{Biedler1973}
+June~L. Biedler, Lawrence Helson, and Barbara~A. Spengler.
+\newblock {Morphology and Growth, Tumorigenicity, and Cytogenetics of Human
+  Neuroblastoma Cells in Continuous Culture}.
+\newblock \emph{Cancer Research}, 33\penalty0 (11):\penalty0 2643--2652, 1973.
+\newblock ISSN 15387445.
+
+\bibitem[Seeger et~al.(1977)Seeger, Rayner, Laug, Neustein, and
+  Benedict]{Seeger1977}
+Robert~C. Seeger, Sylvia~A. Rayner, Walter~E. Laug, Harry~B. Neustein, and
+  William~F. Benedict.
+\newblock {Morphology, Growth, Chromosomal Pattern, and Fibrinolytic Activity
+  of two New Human Neuroblastoma Cell Lines}.
+\newblock \emph{Cancer Research}, 37\penalty0 (5):\penalty0 1364--1371., 1977.
+\newblock ISSN 15387445.
+
+\bibitem[Seeger et~al.(1982)Seeger, Danon, Rayner, and Hoover]{Seeger1982}
+R~C Seeger, Y~L Danon, S~A Rayner, and F~Hoover.
+\newblock {Definition of a Thy-1 determinant on human neuroblastoma, glioma,
+  sarcoma, and teratoma cells with a monoclonal antibody.}
+\newblock \emph{Journal of immunology (Baltimore, Md. : 1950)}, 128\penalty0
+  (2):\penalty0 983--9, feb 1982.
+\newblock ISSN 0022-1767.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/6172518}.
 
 \bibitem[Hill and Robertson(1997)]{Hill1997}
 David~P Hill and Kent~a Robertson.

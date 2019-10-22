@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  17 OCT 2019 20:55
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  22 OCT 2019 21:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -295,13 +295,78 @@ Package: translations 2017/08/31 v1.7a internationalization of LaTeX2e packages
 (/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
 )))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2018/04/16 v5.8 Page Geometry
+(/usr/local/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2018/05/17 v2.7s A comprehensive (SI) units package
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen137
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen138
+\ar@mcellbox=\box46
+\extrarowheight=\dimen139
+\NC@list=\toks15
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box47
+)
+\l__siunitx_tmp_box=\box48
+\l__siunitx_tmp_dim=\dimen140
+\l__siunitx_tmp_int=\count187
+\l__siunitx_number_mantissa_length_int=\count188
+\l__siunitx_number_uncert_length_int=\count189
+\l__siunitx_round_int=\count190
+\l__siunitx_process_decimal_int=\count191
+\l__siunitx_process_uncertainty_int=\count192
+\l__siunitx_process_fixed_int=\count193
+\l__siunitx_process_integer_min_int=\count194
+\l__siunitx_process_precision_int=\count195
+\l__siunitx_group_min_int=\count196
+\l__siunitx_angle_marker_box=\box49
+\l__siunitx_angle_unit_box=\box50
+\l__siunitx_angle_marker_dim=\dimen141
+\l__siunitx_angle_unit_dim=\dimen142
+\l__siunitx_unit_int=\count197
+\l__siunitx_unit_denominator_int=\count198
+\l__siunitx_unit_numerator_int=\count199
+\l__siunitx_unit_prefix_int=\count266
+\l__siunitx_unit_prefix_base_int=\count267
+\l__siunitx_unit_prefix_gram_int=\count268
+\l__siunitx_number_product_int=\count269
+\c__siunitx_one_fill_skip=\skip53
+\l__siunitx_table_unit_align_skip=\skip54
+\l__siunitx_table_exponent_dim=\dimen143
+\l__siunitx_table_integer_dim=\dimen144
+\l__siunitx_table_mantissa_dim=\dimen145
+\l__siunitx_table_marker_dim=\dimen146
+\l__siunitx_table_result_dim=\dimen147
+\l__siunitx_table_uncert_dim=\dimen148
+\l__siunitx_table_fill_pre_dim=\dimen149
+\l__siunitx_table_fill_post_dim=\dimen150
+\l__siunitx_table_fill_mid_dim=\dimen151
+\l__siunitx_table_pre_box=\box51
+\l__siunitx_table_post_box=\box52
+\l__siunitx_table_mantissa_box=\box53
+\l__siunitx_table_result_box=\box54
+\l__siunitx_table_number_align_skip=\skip55
+\l__siunitx_table_text_align_skip=\skip56
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
-)
+\KV@toks@=\toks16
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
@@ -309,18 +374,18 @@ Package ifvtex Info: VTeX not detected.
 (/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count187
-\Gm@cntv=\count188
-\c@Gm@tempcnt=\count189
-\Gm@bindingoffset=\dimen137
-\Gm@wd@mp=\dimen138
-\Gm@odd@mp=\dimen139
-\Gm@even@mp=\dimen140
-\Gm@layoutwidth=\dimen141
-\Gm@layoutheight=\dimen142
-\Gm@layouthoffset=\dimen143
-\Gm@layoutvoffset=\dimen144
-\Gm@dimlist=\toks15
+\Gm@cnth=\count270
+\Gm@cntv=\count271
+\c@Gm@tempcnt=\count272
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
+\Gm@dimlist=\toks17
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/ms/ragged2e.sty
 Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
@@ -328,20 +393,20 @@ Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
-\CenteringLeftskip=\skip51
-\RaggedLeftLeftskip=\skip52
-\RaggedRightLeftskip=\skip53
-\CenteringRightskip=\skip54
-\RaggedLeftRightskip=\skip55
-\RaggedRightRightskip=\skip56
-\CenteringParfillskip=\skip57
-\RaggedLeftParfillskip=\skip58
-\RaggedRightParfillskip=\skip59
-\JustifyingParfillskip=\skip60
-\CenteringParindent=\skip61
-\RaggedLeftParindent=\skip62
-\RaggedRightParindent=\skip63
-\JustifyingParindent=\skip64
+\CenteringLeftskip=\skip57
+\RaggedLeftLeftskip=\skip58
+\RaggedRightLeftskip=\skip59
+\CenteringRightskip=\skip60
+\RaggedLeftRightskip=\skip61
+\RaggedRightRightskip=\skip62
+\CenteringParfillskip=\skip63
+\RaggedLeftParfillskip=\skip64
+\RaggedRightParfillskip=\skip65
+\JustifyingParfillskip=\skip66
+\CenteringParindent=\skip67
+\RaggedLeftParindent=\skip68
+\RaggedRightParindent=\skip69
+\JustifyingParindent=\skip70
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
@@ -360,8 +425,8 @@ Package graphics Info: Driver file: xetex.def on input line 99.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
-\Gin@req@height=\dimen145
-\Gin@req@width=\dimen146
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/fixltx2e.sty
 Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
@@ -379,34 +444,34 @@ File: lettrine.sty 2019-04-06 v2.22 (Daniel Flipo)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/minifp/minifp.sty
 Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
 -based programing language.
-\MFP@loopctr=\count190
+\MFP@loopctr=\count273
 )
-\c@DefaultLines=\count191
-\c@DefaultDepth=\count192
-\DefaultFindent=\dimen147
-\DefaultNindent=\dimen148
-\DefaultSlope=\dimen149
-\DiscardVskip=\dimen150
-\L@lbox=\box46
-\L@tbox=\box47
-\c@L@lines=\count193
-\c@L@depth=\count194
-\L@Pindent=\dimen151
-\L@Findent=\dimen152
-\L@Nindent=\dimen153
-\L@lraise=\dimen154
-\L@first=\dimen155
-\L@next=\dimen156
-\L@slope=\dimen157
-\L@height=\dimen158
-\L@novskip=\dimen159
-\L@target@ht=\dimen160
-\L@target@dp=\dimen161
-\L@target@tht=\dimen162
-\LettrineWidth=\dimen163
-\LettrineHeight=\dimen164
-\LettrineDepth=\dimen165
-\Llist@everypar=\toks16
+\c@DefaultLines=\count274
+\c@DefaultDepth=\count275
+\DefaultFindent=\dimen162
+\DefaultNindent=\dimen163
+\DefaultSlope=\dimen164
+\DiscardVskip=\dimen165
+\L@lbox=\box55
+\L@tbox=\box56
+\c@L@lines=\count276
+\c@L@depth=\count277
+\L@Pindent=\dimen166
+\L@Findent=\dimen167
+\L@Nindent=\dimen168
+\L@lraise=\dimen169
+\L@first=\dimen170
+\L@next=\dimen171
+\L@slope=\dimen172
+\L@height=\dimen173
+\L@novskip=\dimen174
+\L@target@ht=\dimen175
+\L@target@dp=\dimen176
+\L@target@tht=\dimen177
+\LettrineWidth=\dimen178
+\LettrineHeight=\dimen179
+\LettrineDepth=\dimen180
+\Llist@everypar=\toks18
 
 Loading lettrine.cfg
 (/usr/local/texlive/2019/texmf-dist/tex/latex/lettrine/lettrine.cfg))
@@ -415,29 +480,29 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks17
-\verbatim@line=\toks18
+\every@verbatim=\toks19
+\verbatim@line=\toks20
 \verbatim@in@stream=\read2
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count195
-\lst@gtempboxa=\box48
-\lst@token=\toks19
-\lst@length=\count196
-\lst@currlwidth=\dimen166
-\lst@column=\count197
-\lst@pos=\count198
-\lst@lostspace=\dimen167
-\lst@width=\dimen168
-\lst@newlines=\count199
-\lst@lineno=\count266
-\lst@maxwidth=\dimen169
+\lst@mode=\count278
+\lst@gtempboxa=\box57
+\lst@token=\toks21
+\lst@length=\count279
+\lst@currlwidth=\dimen181
+\lst@column=\count280
+\lst@pos=\count281
+\lst@lostspace=\dimen182
+\lst@width=\dimen183
+\lst@newlines=\count282
+\lst@lineno=\count283
+\lst@maxwidth=\dimen184
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
-\c@lstnumber=\count267
-\lst@skipnumbers=\count268
-\lst@framebox=\box49
+\c@lstnumber=\count284
+\lst@skipnumbers=\count285
+\lst@framebox=\box58
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2019/02/27 1.8b listings configuration
@@ -510,14 +575,14 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen170
-\Hy@linkcounter=\count269
-\Hy@pagecounter=\count270
+\@linkdim=\dimen185
+\Hy@linkcounter=\count286
+\Hy@pagecounter=\count287
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count271
+\Hy@SavedSpaceFactor=\count288
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -529,17 +594,17 @@ Package hyperref Info: Plain pages OFF on input line 4534.
 Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4772.
-\c@Hy@tempcnt=\count272
+\c@Hy@tempcnt=\count289
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5125.
-\XeTeXLinkMargin=\dimen171
-\Fld@menulength=\count273
-\Field@Width=\dimen172
-\Fld@charsize=\dimen173
+\XeTeXLinkMargin=\dimen186
+\Fld@menulength=\count290
+\Field@Width=\dimen187
+\Fld@charsize=\dimen188
 Package hyperref Info: Hyper figures OFF on input line 6380.
 Package hyperref Info: Link nesting OFF on input line 6385.
 Package hyperref Info: Hyper index ON on input line 6388.
@@ -549,9 +614,9 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6405.
 Package hyperref Info: PDF/A mode OFF on input line 6410.
 LaTeX Info: Redefining \ref on input line 6450.
 LaTeX Info: Redefining \pageref on input line 6454.
-\Hy@abspage=\count274
-\c@Item=\count275
-\c@Hfootnote=\count276
+\Hy@abspage=\count291
+\c@Item=\count292
+\c@Hfootnote=\count293
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
@@ -565,25 +630,24 @@ File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
 Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
 )
 )
-\pdfm@box=\box50
-\c@Hy@AnnotLevel=\count277
-\HyField@AnnotCount=\count278
-\Fld@listcount=\count279
-\c@bookmark@seq@number=\count280
+\pdfm@box=\box59
+\c@Hy@AnnotLevel=\count294
+\HyField@AnnotCount=\count295
+\Fld@listcount=\count296
+\c@bookmark@seq@number=\count297
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip65
+\Hy@SectionHShift=\skip71
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks20
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
@@ -593,34 +657,26 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 Package: mathspec 2016/12/22 v0.2b LaTeX Package (Mathematics font selection fo
 r XeLaTeX)
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01 AMS text
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks21
-\ex@=\dimen174
-))
 (/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTeX
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count281
-\l__fontspec_language_int=\count282
-\l__fontspec_strnum_int=\count283
-\l__fontspec_tmp_int=\count284
-\l__fontspec_tmpa_int=\count285
-\l__fontspec_tmpb_int=\count286
-\l__fontspec_tmpc_int=\count287
-\l__fontspec_em_int=\count288
-\l__fontspec_emdef_int=\count289
-\l__fontspec_strong_int=\count290
-\l__fontspec_strongdef_int=\count291
-\l__fontspec_tmpa_dim=\dimen175
-\l__fontspec_tmpb_dim=\dimen176
-\l__fontspec_tmpc_dim=\dimen177
+\l__fontspec_script_int=\count298
+\l__fontspec_language_int=\count299
+\l__fontspec_strnum_int=\count300
+\l__fontspec_tmp_int=\count301
+\l__fontspec_tmpa_int=\count302
+\l__fontspec_tmpb_int=\count303
+\l__fontspec_tmpc_int=\count304
+\l__fontspec_em_int=\count305
+\l__fontspec_emdef_int=\count306
+\l__fontspec_strong_int=\count307
+\l__fontspec_strongdef_int=\count308
+\l__fontspec_tmpa_dim=\dimen189
+\l__fontspec_tmpb_dim=\dimen190
+\l__fontspec_tmpc_dim=\dimen191
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
@@ -645,12 +701,12 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks22
 \XKV@tempa@toks=\toks23
 )
-\XKV@depth=\count292
+\XKV@depth=\count309
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-\c@eu@=\count293
-\c@eu@i=\count294
-\c@mkern=\count295
+\c@eu@=\count310
+\c@eu@i=\count311
+\c@mkern=\count312
 )
 
 Package fontspec Info: Font family 'EBGaramond(0)' created for font 'EB
@@ -706,27 +762,27 @@ Package fontspec Info: Font family 'EBGaramond(1)' created for font 'EB
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
 (fontspec)             <->"EB Garamond/BI/OT:script=latn;language=DFLT;+smcp;"
 
-LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 91.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 92.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
 (Font)                  TU/EBGaramond(1)/m/n --> TU/EBGaramond(1)/bx/n on input
- line 91.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 91.
+ line 92.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 92.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/EBGaramond(1)/m/it on input line 91
+(Font)                  OT1/cmr/m/it --> TU/EBGaramond(1)/m/it on input line 92
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/EBGaramond(1)/m/it on input line 9
-1.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 91.
+2.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 92.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(1)/bx/n on input line 91
+(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(1)/bx/n on input line 92
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(1)/bx/n on input line 91
+(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(1)/bx/n on input line 92
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  TU/EBGaramond(1)/m/it --> TU/EBGaramond(1)/bx/it on inp
-ut line 91.
+ut line 92.
 \symOperators:m:n=\mathgroup11
 
 Package fontspec Info: Font family 'EBGaramond(2)' created for font 'EB
@@ -765,9 +821,9 @@ ping=tex-text;"
 (fontspec)             Garamond/BI/OT:script=latn;language=DFLT;+onum;+liga;+sm
 cp;mapping=tex-text;"
 
-LaTeX Info: Redefining \rmfamily on input line 96.
+LaTeX Info: Redefining \rmfamily on input line 97.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 96.
+(Font)              scaled to size 12.0pt on input line 97.
 
 Package fontspec Info: Font family 'EBGaramond(3)' created for font 'EB
 (fontspec)             Garamond' with options [RawFeature={+c2sc,+scmp}].
@@ -839,7 +895,7 @@ Package fontspec Info: Font family 'LatoRegular(0)' created for font 'Lato
 (fontspec)             Bold/I/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
-LaTeX Info: Redefining \sffamily on input line 98.
+LaTeX Info: Redefining \sffamily on input line 99.
 
 Package fontspec Info: Source Code Pro scale = 0.833334657882258.
 
@@ -901,7 +957,7 @@ Space,Scale=MatchLowercase].
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
-LaTeX Info: Redefining \ttfamily on input line 99.
+LaTeX Info: Redefining \ttfamily on input line 100.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
@@ -909,32 +965,32 @@ Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen178
-\captionmargin@=\dimen179
-\captionwidth=\dimen180
-\caption@tempdima=\dimen181
-\caption@indent=\dimen182
-\caption@parindent=\dimen183
-\caption@hangindent=\dimen184
+\captionmargin=\dimen192
+\captionmargin@=\dimen193
+\captionwidth=\dimen194
+\caption@tempdima=\dimen195
+\caption@indent=\dimen196
+\caption@parindent=\dimen197
+\caption@hangindent=\dimen198
 )
 Package caption Info: We need package `newfloat' on input line 289.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/newfloat.sty
 Package: newfloat 2018/03/04 v1.1a Defining new floating environments (AR)
 )
-\c@caption@flags=\count296
-\c@ContinuedFloat=\count297
+\c@caption@flags=\count313
+\c@ContinuedFloat=\count314
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2019/02/28 v2.7b Micro-typographical refinements (RS)
 \MT@toks=\toks24
-\MT@count=\count298
+\MT@count=\count315
 LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen185
+\MT@outer@kern=\dimen199
 LaTeX Info: Redefining \textmicrotypecontext on input line 1336.
-\MT@listname@count=\count299
+\MT@listname@count=\count316
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype-xetex.def
 File: microtype-xetex.def 2019/02/28 v2.7b Definitions specific to xetex (RS)
@@ -948,93 +1004,93 @@ File: microtype.cfg 2019/02/28 v2.7b microtype main configuration file (RS)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
-\f@nch@headwidth=\skip66
-\f@nch@O@elh=\skip67
-\f@nch@O@erh=\skip68
-\f@nch@O@olh=\skip69
-\f@nch@O@orh=\skip70
-\f@nch@O@elf=\skip71
-\f@nch@O@erf=\skip72
-\f@nch@O@olf=\skip73
-\f@nch@O@orf=\skip74
+\f@nch@headwidth=\skip72
+\f@nch@O@elh=\skip73
+\f@nch@O@erh=\skip74
+\f@nch@O@olh=\skip75
+\f@nch@O@orh=\skip76
+\f@nch@O@elf=\skip77
+\f@nch@O@erf=\skip78
+\f@nch@O@olf=\skip79
+\f@nch@O@orf=\skip80
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box51
-\beforetitleunit=\skip75
-\aftertitleunit=\skip76
-\ttl@plus=\dimen186
-\ttl@minus=\dimen187
+\ttl@box=\box60
+\beforetitleunit=\skip81
+\aftertitleunit=\skip82
+\ttl@plus=\dimen256
+\ttl@minus=\dimen257
 \ttl@toksa=\toks25
-\titlewidth=\dimen188
-\titlewidthlast=\dimen189
-\titlewidthfirst=\dimen190
+\titlewidth=\dimen258
+\titlewidthlast=\dimen259
+\titlewidthfirst=\dimen260
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
-\thanksmarkwidth=\skip77
-\thanksmargin=\skip78
-\droptitle=\skip79
+\thanksmarkwidth=\skip83
+\thanksmargin=\skip84
+\droptitle=\skip85
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
-\cftparskip=\skip80
-\cftbeforetoctitleskip=\skip81
-\cftaftertoctitleskip=\skip82
-\cftbeforepartskip=\skip83
-\cftpartnumwidth=\skip84
-\cftpartindent=\skip85
-\cftbeforechapskip=\skip86
-\cftchapindent=\skip87
-\cftchapnumwidth=\skip88
-\cftbeforesecskip=\skip89
-\cftsecindent=\skip90
-\cftsecnumwidth=\skip91
-\cftbeforesubsecskip=\skip92
-\cftsubsecindent=\skip93
-\cftsubsecnumwidth=\skip94
-\cftbeforesubsubsecskip=\skip95
-\cftsubsubsecindent=\skip96
-\cftsubsubsecnumwidth=\skip97
-\cftbeforeparaskip=\skip98
-\cftparaindent=\skip99
-\cftparanumwidth=\skip100
-\cftbeforesubparaskip=\skip101
-\cftsubparaindent=\skip102
-\cftsubparanumwidth=\skip103
-\cftbeforeloftitleskip=\skip104
-\cftafterloftitleskip=\skip105
-\cftbeforefigskip=\skip106
-\cftfigindent=\skip107
-\cftfignumwidth=\skip108
-\c@lofdepth=\count300
-\c@lotdepth=\count301
-\cftbeforelottitleskip=\skip109
-\cftafterlottitleskip=\skip110
-\cftbeforetabskip=\skip111
-\cfttabindent=\skip112
-\cfttabnumwidth=\skip113
+\cftparskip=\skip86
+\cftbeforetoctitleskip=\skip87
+\cftaftertoctitleskip=\skip88
+\cftbeforepartskip=\skip89
+\cftpartnumwidth=\skip90
+\cftpartindent=\skip91
+\cftbeforechapskip=\skip92
+\cftchapindent=\skip93
+\cftchapnumwidth=\skip94
+\cftbeforesecskip=\skip95
+\cftsecindent=\skip96
+\cftsecnumwidth=\skip97
+\cftbeforesubsecskip=\skip98
+\cftsubsecindent=\skip99
+\cftsubsecnumwidth=\skip100
+\cftbeforesubsubsecskip=\skip101
+\cftsubsubsecindent=\skip102
+\cftsubsubsecnumwidth=\skip103
+\cftbeforeparaskip=\skip104
+\cftparaindent=\skip105
+\cftparanumwidth=\skip106
+\cftbeforesubparaskip=\skip107
+\cftsubparaindent=\skip108
+\cftsubparanumwidth=\skip109
+\cftbeforeloftitleskip=\skip110
+\cftafterloftitleskip=\skip111
+\cftbeforefigskip=\skip112
+\cftfigindent=\skip113
+\cftfignumwidth=\skip114
+\c@lofdepth=\count317
+\c@lotdepth=\count318
+\cftbeforelottitleskip=\skip115
+\cftafterlottitleskip=\skip116
+\cftbeforetabskip=\skip117
+\cfttabindent=\skip118
+\cfttabnumwidth=\skip119
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
-\c@@pps=\count302
-\c@@ppsavesec=\count303
-\c@@ppsaveapp=\count304
+\c@@pps=\count319
+\c@@ppsavesec=\count320
+\c@@ppsaveapp=\count321
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip114
-\bibsep=\skip115
+\bibhang=\skip120
+\bibsep=\skip121
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count305
+\c@NAT@ctr=\count322
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/quotchap/quotchap.sty
 Package: quotchap 2012/10/20 v1.1 Decorative Chapter Headings with Quotes
-\@quotebox=\box52
+\@quotebox=\box61
 )
-\mybibindent=\skip116
-Package hyperref Info: Option `colorlinks' set `true' on input line 234.
+\mybibindent=\skip122
+Package hyperref Info: Option `colorlinks' set `true' on input line 235.
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/todonotes/todonotes.sty
 Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
@@ -1049,13 +1105,13 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
 \pgfutil@everybye=\toks26
-\pgfutil@tempdima=\dimen191
-\pgfutil@tempdimb=\dimen192
+\pgfutil@tempdima=\dimen261
+\pgfutil@tempdimb=\dimen262
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
 sts.tex))
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box53
+\pgfutil@abb=\box62
 (/usr/local/texlive/2019/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
@@ -1077,24 +1133,24 @@ Package: pgfsys 2019/04/04 v3.1.2 (3.1.2)
 ode.tex
 \pgfkeys@tmptoks=\toks29
 ))
-\pgf@x=\dimen193
-\pgf@y=\dimen194
-\pgf@xa=\dimen195
-\pgf@ya=\dimen196
-\pgf@xb=\dimen197
-\pgf@yb=\dimen198
-\pgf@xc=\dimen199
-\pgf@yc=\dimen256
+\pgf@x=\dimen263
+\pgf@y=\dimen264
+\pgf@xa=\dimen265
+\pgf@ya=\dimen266
+\pgf@xb=\dimen267
+\pgf@yb=\dimen268
+\pgf@xc=\dimen269
+\pgf@yc=\dimen270
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count306
-\c@pgf@countb=\count307
-\c@pgf@countc=\count308
-\c@pgf@countd=\count309
+\c@pgf@counta=\count323
+\c@pgf@countb=\count324
+\c@pgf@countc=\count325
+\c@pgf@countd=\count326
 \t@pgf@toka=\toks30
 \t@pgf@tokb=\toks31
 \t@pgf@tokc=\toks32
-\pgf@sys@id@count=\count310
+\pgf@sys@id@count=\count327
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2019/04/04 v3.1.2 (3.1.2)
@@ -1113,13 +1169,13 @@ File: pgfsys-dvipdfmx.def 2019/04/04 v3.1.2 (3.1.2)
 df.def
 File: pgfsys-common-pdf.def 2019/04/04 v3.1.2 (3.1.2)
 )
-\pgfsys@objnum=\count311
+\pgfsys@objnum=\count328
 )))
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfsyssoftpath@smallbuffer@items=\count312
-\pgfsyssoftpath@bigbuffer@items=\count313
+\pgfsyssoftpath@smallbuffer@items=\count329
+\pgfsyssoftpath@bigbuffer@items=\count330
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
@@ -1131,9 +1187,9 @@ Package: pgfcore 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen257
-\pgfmath@count=\count314
-\pgfmath@box=\box54
+\pgfmath@dimen=\dimen271
+\pgfmath@count=\count331
+\pgfmath@box=\box63
 \pgfmath@toks=\toks33
 \pgfmath@stack@operand=\toks34
 \pgfmath@stack@operation=\toks35
@@ -1157,57 +1213,57 @@ code.tex)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
 erarithmetics.code.tex)))
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count315
+\c@pgfmathroundto@lastzeros=\count332
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
 File: pgfcorepoints.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@picminx=\dimen258
-\pgf@picmaxx=\dimen259
-\pgf@picminy=\dimen260
-\pgf@picmaxy=\dimen261
-\pgf@pathminx=\dimen262
-\pgf@pathmaxx=\dimen263
-\pgf@pathminy=\dimen264
-\pgf@pathmaxy=\dimen265
-\pgf@xx=\dimen266
-\pgf@xy=\dimen267
-\pgf@yx=\dimen268
-\pgf@yy=\dimen269
-\pgf@zx=\dimen270
-\pgf@zy=\dimen271
+\pgf@picminx=\dimen272
+\pgf@picmaxx=\dimen273
+\pgf@picminy=\dimen274
+\pgf@picmaxy=\dimen275
+\pgf@pathminx=\dimen276
+\pgf@pathmaxx=\dimen277
+\pgf@pathminy=\dimen278
+\pgf@pathmaxy=\dimen279
+\pgf@xx=\dimen280
+\pgf@xy=\dimen281
+\pgf@yx=\dimen282
+\pgf@yy=\dimen283
+\pgf@zx=\dimen284
+\pgf@zy=\dimen285
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@path@lastx=\dimen272
-\pgf@path@lasty=\dimen273
+\pgf@path@lastx=\dimen286
+\pgf@path@lasty=\dimen287
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
 .code.tex
 File: pgfcorepathusage.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@shorten@end@additional=\dimen274
-\pgf@shorten@start@additional=\dimen275
+\pgf@shorten@end@additional=\dimen288
+\pgf@shorten@start@additional=\dimen289
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
 File: pgfcorescopes.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfpic=\box55
-\pgf@hbox=\box56
-\pgf@layerbox@main=\box57
-\pgf@picture@serial@count=\count316
+\pgfpic=\box64
+\pgf@hbox=\box65
+\pgf@layerbox@main=\box66
+\pgf@picture@serial@count=\count333
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
 File: pgfcoregraphicstate.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgflinewidth=\dimen276
+\pgflinewidth=\dimen290
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
 ations.code.tex
 File: pgfcoretransformations.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@pt@x=\dimen277
-\pgf@pt@y=\dimen278
-\pgf@pt@temp=\dimen279
+\pgf@pt@x=\dimen291
+\pgf@pt@y=\dimen292
+\pgf@pt@temp=\dimen293
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
 e.tex
@@ -1224,14 +1280,14 @@ File: pgfcorepathprocessing.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
 de.tex
 File: pgfcorearrows.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfarrowsep=\dimen280
+\pgfarrowsep=\dimen294
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
 e.tex
 File: pgfcoreshade.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@max=\dimen281
-\pgf@sys@shading@range@num=\count317
-\pgf@shadingcount=\count318
+\pgf@max=\dimen295
+\pgf@sys@shading@range@num=\count334
+\pgf@shadingcount=\count335
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
@@ -1240,7 +1296,7 @@ File: pgfcoreimage.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
 code.tex
 File: pgfcoreexternal.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfexternal@startupbox=\box58
+\pgfexternal@startupbox=\box67
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
 de.tex
@@ -1261,7 +1317,7 @@ File: pgfcorerdf.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
 e.tex
 File: pgfmoduleshapes.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfnodeparttextbox=\box59
+\pgfnodeparttextbox=\box68
 )
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
 tex
@@ -1270,8 +1326,8 @@ File: pgfmoduleplot.code.tex 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
 Package: pgfcomp-version-0-65 2019/04/04 v3.1.2 (3.1.2)
-\pgf@nodesepstart=\dimen282
-\pgf@nodesepend=\dimen283
+\pgf@nodesepstart=\dimen296
+\pgf@nodesepend=\dimen297
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
@@ -1286,8 +1342,8 @@ Package: pgfcomp-version-1-18 2019/04/04 v3.1.2 (3.1.2)
 Package: pgffor 2019/04/04 v3.1.2 (3.1.2)
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen284
-\pgffor@skip=\dimen285
+\pgffor@iter=\dimen298
+\pgffor@skip=\dimen299
 \pgffor@stack=\toks36
 \pgffor@toks=\toks37
 ))
@@ -1298,32 +1354,32 @@ Package: tikz 2019/04/04 v3.1.2 (3.1.2)
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgf@plot@mark@count=\count319
-\pgfplotmarksize=\dimen286
+\pgf@plot@mark@count=\count336
+\pgfplotmarksize=\dimen300
 )
-\tikz@lastx=\dimen287
-\tikz@lasty=\dimen288
-\tikz@lastxsaved=\dimen289
-\tikz@lastysaved=\dimen290
-\tikzleveldistance=\dimen291
-\tikzsiblingdistance=\dimen292
-\tikz@figbox=\box60
-\tikz@figbox@bg=\box61
-\tikz@tempbox=\box62
-\tikz@tempbox@bg=\box63
-\tikztreelevel=\count320
-\tikznumberofchildren=\count321
-\tikznumberofcurrentchild=\count322
-\tikz@fig@count=\count323
+\tikz@lastx=\dimen301
+\tikz@lasty=\dimen302
+\tikz@lastxsaved=\dimen303
+\tikz@lastysaved=\dimen304
+\tikzleveldistance=\dimen305
+\tikzsiblingdistance=\dimen306
+\tikz@figbox=\box69
+\tikz@figbox@bg=\box70
+\tikz@tempbox=\box71
+\tikz@tempbox@bg=\box72
+\tikztreelevel=\count337
+\tikznumberofchildren=\count338
+\tikznumberofcurrentchild=\count339
+\tikz@fig@count=\count340
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2019/04/04 v3.1.2 (3.1.2)
-\pgfmatrixcurrentrow=\count324
-\pgfmatrixcurrentcolumn=\count325
-\pgf@matrix@numberofcolumns=\count326
+\pgfmatrixcurrentrow=\count341
+\pgfmatrixcurrentcolumn=\count342
+\pgf@matrix@numberofcolumns=\count343
 )
-\tikz@expandcount=\count327
+\tikz@expandcount=\count344
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
@@ -1346,50 +1402,50 @@ File: tikzlibraryfadings.code.tex 2019/04/04 v3.1.2 (3.1.2)
 File: pgflibraryfadings.code.tex 2019/04/04 v3.1.2 (3.1.2)
 ))) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count328
-\calc@Bcount=\count329
-\calc@Adimen=\dimen293
-\calc@Bdimen=\dimen294
-\calc@Askip=\skip117
-\calc@Bskip=\skip118
+\calc@Acount=\count345
+\calc@Bcount=\count346
+\calc@Adimen=\dimen307
+\calc@Bdimen=\dimen308
+\calc@Askip=\skip123
+\calc@Bskip=\skip124
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count330
-\calc@Cskip=\skip119
+\calc@Ccount=\count347
+\calc@Cskip=\skip125
 )
-\c@@todonotes@numberoftodonotes=\count331
+\c@@todonotes@numberoftodonotes=\count348
 )
 \@input{acronyms.aux}
 \openout2 = `acronyms.aux'.
 
 (./acronyms.tex)
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 14.
+h' as default language. on input line 17.
  (./dissertation.aux (./chapters/000_introduction.aux)
 (./chapters/010_database.aux) (./chapters/030_cellculture.aux)
 (./chapters/040_stroke.aux) (./chapters/100_discussion.aux)
 (./chapters/110_conclusion.aux) (./chapters/appendixA.aux))
 \openout1 = `dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-\AtBeginShipoutBox=\box64
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+\AtBeginShipoutBox=\box73
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/translations/translations-basic-d
 ictionary-english.trsl
@@ -1397,8 +1453,15 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 14.
+or `english'. on input line 17.
 
+(/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-basic-dicti
+onary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+)
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1435,9 +1498,9 @@ or `english'. on input line 14.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 14.
-\c@lstlisting=\count332
-Package hyperref Info: Link coloring ON on input line 14.
+LaTeX Info: Redefining \selectfont on input line 17.
+\c@lstlisting=\count349
+Package hyperref Info: Link coloring ON on input line 17.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1445,11 +1508,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count333
+\c@section@level=\count350
 )
-LaTeX Info: Redefining \ref on input line 14.
-LaTeX Info: Redefining \pageref on input line 14.
-LaTeX Info: Redefining \nameref on input line 14.
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
 
 (./dissertation.out) (./dissertation.out)
 \@outlinefile=\write4
@@ -1457,8 +1520,8 @@ LaTeX Info: Redefining \nameref on input line 14.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-Package caption Info: We need package `ragged2e' on input line 14.
-LaTeX Info: Redefining \microtypecontext on input line 14.
+Package caption Info: We need package `ragged2e' on input line 17.
+LaTeX Info: Redefining \microtypecontext on input line 17.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1474,13 +1537,42 @@ ABD: EveryShipout initializing macros
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 14.
+loading the todonotes package. on input line 17.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 17.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 17.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 
 (./frontmatter/personalize.tex) (./frontmatter/personalize.tex)
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 20.
+(Font)              scaled to size 24.88pt on input line 23.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 20.
+(Font)              scaled to size 12.0pt on input line 23.
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
@@ -1492,14 +1584,14 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 ]
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 20.
+(Font)              scaled to size 10.95pt on input line 23.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 20.
+(Font)              scaled to size 10.95pt on input line 23.
  [2]
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 20.
+(Font)              scaled to size 17.28pt on input line 23.
  (./frontmatter/abstract.tex) [3]
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 20.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 23.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
@@ -1511,27 +1603,7 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/bx/n' will be
 (Font)              scaled to size 10.95pt on input line 1.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-)
-LaTeX Font Info:    Try loading font information for U+msa on input line 1.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 1.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-Overfull \hbox (6.29678pt too wide) in paragraph at lines 28--28
+Overfull \hbox (6.29678pt too wide) in paragraph at lines 27--27
  [][] [][][]\TU/EBGaramond(2)/m/sc/12 microRNA Dynamics in Cholinergic Differen
 tiation of Human Neu- 
  []
@@ -1560,105 +1632,110 @@ LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
 
 ]
 LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
-(Font)              scaled to size 9.12494pt on input line 33.
+(Font)              scaled to size 9.12494pt on input line 23.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `SourceCodePro' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/it' will be
-(Font)              scaled to size 9.12494pt on input line 33.
+(Font)              scaled to size 9.12494pt on input line 23.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 33.
+(Font)              scaled to size 8.0pt on input line 23.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 33.
+(Font)              scaled to size 6.0pt on input line 23.
 
-[1] [2]
+[7
+
+] [8]
 \openout2 = `chapters/000_introduction.aux'.
 
  (./chapters/000_introduction.tex
 Chapter 1.
 
-Overfull \hbox (5.3333pt too wide) in paragraph at lines 9--10
+Overfull \hbox (5.3333pt too wide) in paragraph at lines 14--15
 []\TU/EBGaramond(2)/m/n/10.95 This holds particularly true for the only recentl
 y discovered cortical cholinergic interneurons, which,
  []
 
-[3
+[1
 
 
 ]
 File: figures/projections.pdf Graphic file (type pdf)
 <use figures/projections.pdf>
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/bx/n' will be
-(Font)              scaled to size 12.0pt on input line 14.
+(Font)              scaled to size 12.0pt on input line 19.
 LaTeX Font Info:    Font shape `TU/LatoRegular(0)/bx/n' will be
-(Font)              scaled to size 9.35669pt on input line 14.
+(Font)              scaled to size 9.35669pt on input line 19.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LatoRegular' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/LatoRegular(0)/bx/n' will be
-(Font)              scaled to size 7.79724pt on input line 14.
+(Font)              scaled to size 7.79724pt on input line 19.
 LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/n' will be
-(Font)              scaled to size 9.4768pt on input line 14.
+(Font)              scaled to size 9.4768pt on input line 19.
 LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/n' will be
-(Font)              scaled to size 7.89734pt on input line 14.
- [4] [5]
+(Font)              scaled to size 7.89734pt on input line 19.
+ [2] [3]
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 34.
+ine 39.
 
 
-LaTeX Warning: Marginpar on page 6 moved.
+LaTeX Warning: Marginpar on page 4 moved.
 
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 46.
+(Font)              scaled to size 10.95pt on input line 51.
 
-Overfull \hbox (3.7346pt too wide) in paragraph at lines 54--55
+Overfull \hbox (3.7346pt too wide) in paragraph at lines 59--60
 []\TU/EBGaramond(2)/m/n/10.95 For the sake of simplicity, all descriptions of g
 enomics and transcriptomics matters, genes, []miRNAs,
  []
 
-[6] [7]
+[4] [5]
 
-LaTeX Warning: Marginpar on page 8 moved.
+LaTeX Warning: Marginpar on page 6 moved.
 
-[8]
-Overfull \hbox (21.59038pt too wide) in paragraph at lines 81--82
+[6]
+Overfull \hbox (21.59038pt too wide) in paragraph at lines 86--87
 []\TU/EBGaramond(2)/m/n/10.95 On the other hand, multiple groups have identifie
 d []tRFs to function not in an antisense-complementary
  []
 
-[9]
-Overfull \hbox (6.66237pt too wide) in paragraph at lines 87--88
+[7]
+Overfull \hbox (6.66237pt too wide) in paragraph at lines 92--93
 []\TU/EBGaramond(2)/m/n/10.95 ? Levels of []tRFs may be modulated even more rap
 idly than levels of []miRNAs, since []tRNA molecules
  []
 
-[10]
-Overfull \hbox (3.46492pt too wide) in paragraph at lines 100--101
+[8]
+LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 103.
+
+Overfull \hbox (3.46492pt too wide) in paragraph at lines 105--106
 []\TU/EBGaramond(2)/m/n/10.95 Combining all aspects of transcriptional interact
 ion presents additional challenges. A simple model
  []
 
-[11]) [12]
+[9]) [10]
 \openout2 = `chapters/010_database.aux'.
 
  (./chapters/010_database.tex
 Chapter 2.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/it' will be
 (Font)              scaled to size 24.88pt on input line 7.
-[13
+[11
 
 
 
-] [14] [15]
+] [12] [13]
 Overfull \hbox (11.24385pt too wide) in paragraph at lines 48--49
 \TU/EBGaramond(2)/m/n/10.95 All materials used in the creation of \TU/EBGaramon
 d(2)/m/it/10.95 miRNet \TU/EBGaramond(2)/m/n/10.95 have been acquired from reso
 urces that are non-commercial,
  []
 
-[16] [17] [18]
+[14] [15] [16]
 
 Package fontspec Info: Font family 'EBGaramond(4)' created for font 'EB
 (fontspec)             Garamond' with options
@@ -1700,32 +1777,54 @@ LaTeX Font Info:    Font shape `TU/EBGaramond(4)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 81.
 
 
-LaTeX Warning: Marginpar on page 19 moved.
+LaTeX Warning: Marginpar on page 17 moved.
 
-[19] [20] [21] [22]) [23]
+[17] [18] [19] [20]) [21]
 \openout2 = `chapters/030_cellculture.aux'.
 
  (./chapters/030_cellculture.tex
 Chapter 3.
-[24
+[22
 
 
 
-]) [25]
+]
+File: figures/bbb.pdf Graphic file (type pdf)
+<use figures/bbb.pdf>
+LaTeX Font Info:    Font shape `TU/EBGaramond(2)/bx/n' will be
+(Font)              scaled to size 8.0pt on input line 33.
+
+
+Package natbib Warning: Citation `Zeisel2018' on page 23 undefined on input lin
+e 33.
+
+[23] [24]
+File: figures/singlecell.pdf Graphic file (type pdf)
+<use figures/singlecell.pdf>
+ [25] [26]
+
+LaTeX Warning: Reference `fig:dose-response' on page 27 undefined on input line
+ 70.
+
+
+Package natbib Warning: Citation `McManaman1991' on page 27 undefined on input 
+line 70.
+
+) [27] [28]
 \openout2 = `chapters/040_stroke.aux'.
 
  (./chapters/040_stroke.tex
 Chapter 4.
-) [26
+) [29
 
 
 
-] [27]
+] [30]
 \openout2 = `chapters/100_discussion.aux'.
 
  (./chapters/100_discussion.tex
 Chapter 5.
-[28
+[31
 
 
 
@@ -1735,13 +1834,13 @@ Overfull \hbox (2.35605pt too wide) in paragraph at lines 21--22
 uspendisse dictum magna id purus tincidunt rutrum.
  []
 
-[29]
+[32]
 Overfull \hbox (6.02432pt too wide) in paragraph at lines 25--26
 []\TU/EBGaramond(2)/m/n/10.95 Pellentesque habitant morbi tristique senectus et
  netus et malesuada fames ac turpis egestas. Vestibu-
  []
 
-) [30]
+) [33]
 \openout2 = `chapters/110_conclusion.aux'.
 
  (./chapters/110_conclusion.tex
@@ -1752,11 +1851,11 @@ Overfull \hbox (6.02432pt too wide) in paragraph at lines 9--10
  netus et malesuada fames ac turpis egestas. Vestibu-
  []
 
-[31
+[34
 
 
 
-]) [32] (./dissertation.bbl
+]) [35] (./dissertation.bbl
 Underfull \hbox (badness 1681) in paragraph at lines 22--28
 \TU/EBGaramond(2)/m/n/10.95 CHOLINE IN THE SPLEEN OF THE OX AND THE HORSE.  \TU
 /EBGaramond(2)/m/it/10.95 J. Physiol.\TU/EBGaramond(2)/m/n/10.95 , 68:
@@ -1786,7 +1885,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--59
 ][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][][][][][][][] []
  []
 
-[33
+[36
 
 
 
@@ -1796,7 +1895,7 @@ Underfull \hbox (badness 3536) in paragraph at lines 96--104
 95 , 61(6):874–878, nov 2012.  ISSN 01970186.  doi: $[][] []
  []
 
-[34]
+[37]
 Underfull \hbox (badness 6461) in paragraph at lines 171--180
 []\TU/EBGaramond(2)/m/n/10.95 John Speer, Charles W Gehrke, Kenneth C Kuo, T Ph
 illip Waalkes, and Ernest
@@ -1910,7 +2009,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 228--237
 [] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][] []
  []
 
-[35]
+[38]
 Underfull \hbox (badness 3009) in paragraph at lines 251--261
 \TU/EBGaramond(2)/m/n/10.95 of tRNA derived RNA fragments reveals that they are
  evolutionarily conserved and
@@ -2019,7 +2118,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 291--301
 ][][][][][][][][][][] [] [] [] [][][][][][][][][][] [] [][][][][][][][] []
  []
 
-[36]
+[39]
 Underfull \hbox (badness 1515) in paragraph at lines 337--349
 \TU/EBGaramond(2)/m/n/10.95 and Kenneth S Kosik.  Regulation of cell-type-speci
 fic transcriptomes by microRNA
@@ -2038,7 +2137,7 @@ Underfull \hbox (badness 1237) in paragraph at lines 355--371
 , Kevin Quann, Peter Clark, Yi Jing,
  []
 
-[37]
+[40]
 Underfull \hbox (badness 10000) in paragraph at lines 382--386
 [][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
@@ -2080,7 +2179,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 427--444
 ][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
  []
 
-[38]
+[41]
 Underfull \hbox (badness 2617) in paragraph at lines 446--455
 []\TU/EBGaramond(2)/m/n/10.95 Dong Yue, Hui Liu, and Yufei Huang.  Survey of Co
 mputational Algorithms for
@@ -2170,40 +2269,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 476--486
 ][][] []
  []
 
-
-Underfull \hbox (badness 3884) in paragraph at lines 496--505
+[42] [43]
+Underfull \hbox (badness 3884) in paragraph at lines 606--615
 \TU/EBGaramond(2)/m/n/10.95 acid.  \TU/EBGaramond(2)/m/it/10.95 Developmental B
 rain Research\TU/EBGaramond(2)/m/n/10.95 , 102(1):53–67, aug 1997.  ISSN 016538
 06.
  []
 
-) [39]
+) [44]
 \openout2 = `chapters/appendixA.aux'.
 
  (./chapters/appendixA.tex
 Appendix A.
-) [40
+) [45
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 64.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 64.
- (./dissertation.aux (./chapters/000_introduction.aux)
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
+(./dissertation.aux (./chapters/000_introduction.aux)
 (./chapters/010_database.aux) (./chapters/030_cellculture.aux)
 (./chapters/040_stroke.aux) (./chapters/100_discussion.aux)
 (./chapters/110_conclusion.aux) (./chapters/appendixA.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 64.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 64.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 65.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: 275B58C8BD26326C05CCAD7554E8A27D.
+(rerunfilecheck)             Checksum: E10F79D660C2C28242EA5F30E0D3DA62.
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 42414 strings out of 492916
- 863471 string characters out of 6133345
- 1000021 words of memory out of 5000000
- 45787 multiletter control sequences out of 15000+600000
- 541115 words of font info for 119 fonts, out of 8000000 for 9000
+ 45362 strings out of 492916
+ 946367 string characters out of 6133345
+ 1054173 words of memory out of 5000000
+ 48701 multiletter control sequences out of 15000+600000
+ 544153 words of font info for 137 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
- 73i,12n,118p,1769b,1828s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,12n,118p,1769b,1085s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (46 pages).
+Output written on dissertation.pdf (53 pages).

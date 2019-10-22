@@ -1,9 +1,10 @@
 %!TEX root = dissertation.tex
+\acsetup{extra-style = paren}
 
 \DeclareAcronym{a7}{
 short = CHRNA7,
 long = nicotinic acetylcholine receptor subunit $\alpha7$,
-class = abb,
+class = gene,
 sort = chrn
 }
 \DeclareAcronym{ach}{
@@ -14,12 +15,19 @@ class = abb
 \DeclareAcronym{ache}{
 short = ACHE,
 long = acetylcholinesterase,
-class = abb
+class = gene
 }
 \DeclareAcronym{ago}{
 short = Ago,
 long = argonaute,
+extra = protein,
 class = abb
+}
+\DeclareAcronym{aif}{
+short = AIF1,
+long = allograft inflammatory factor 1,
+extra = microglia marker protein,
+class = gene
 }
 \DeclareAcronym{api}{
 short = API,
@@ -34,7 +42,7 @@ class = abb
 \DeclareAcronym{chat}{
 short = CHAT,
 long = choline acetyltransferase,
-class = abb
+class = gene
 }
 \DeclareAcronym{cns}{
 short = CNS,
@@ -44,47 +52,80 @@ class = abb
 \DeclareAcronym{cntf}{
 short = CNTF,
 long = ciliary neurotrophic factor,
-class = abb
+class = gene
 }
 \DeclareAcronym{cntfr}{
 short = CNTFR,
-long = ciliary neurotrophic factor receptor (soluble),
+long = ciliary neurotrophic factor receptor,
+extra = soluble,
+class = gene
+}
+\DeclareAcronym{dmem}{
+short = DMEM,
+long = Dulbecco's modified eagle medium,
 class = abb
 }
-\DeclareAcronym{ilst}{
-short = IL6ST,
-long = interleukin 6 signal transducer (membrane bound); also known as gp130,
+\DeclareAcronym{fcs}{
+short = FCS,
+long = fetal calf serum,
 class = abb
 }
-\DeclareAcronym{jak}{
-short = JAK,
-long = janus kinase,
-class = abb
+\DeclareAcronym{gfap}{
+short = GFAP,
+long = glial fibrillary acidic protein,
+extra = central astrocyte marker,
+class = gene
 }
 \DeclareAcronym{gp}{
 short = gp130,
 long = see IL6ST,
+extra = gene,
 class = abb
 }
 \DeclareAcronym{il}{
 short = IL-6,
 long = interleukin 6,
-class = abb
+class = gene
 }
 \DeclareAcronym{ilr}{
 short = IL6R,
-long = interleukin 6 receptor (soluble),
+long = interleukin 6 receptor,
+extra = soluble,
+class = gene
+}
+\DeclareAcronym{ilst}{
+short = IL6ST,
+long = interleukin 6 signal transducer,
+extra = membrane bound; also known as gp130,
+class = gene
+}
+\DeclareAcronym{jak}{
+short = JAK,
+long = janus kinase,
+class = gene
+}
+\DeclareAcronym{la2}{
+short = LA-N-2,
+long = human neuroblastoma cell line,
+extra = female,
+class = abb
+}
+\DeclareAcronym{la5}{
+short = LA-N-5,
+long = human neuroblastoma cell line,
+extra = male,
 class = abb
 }
 \DeclareAcronym{lif}{
 short = LIF,
 long = leukaemia inhibiting factor,
-class = abb
+class = gene
 }
 \DeclareAcronym{lifr}{
 short = LIFR,
-long = leukaemia inhibiting factor receptor (soluble),
-class = abb
+long = leukaemia inhibiting factor receptor,
+extra = soluble,
+class = gene
 }
 \DeclareAcronym{mir}{
 short = miRNA,
@@ -94,27 +135,54 @@ class = abb
 \DeclareAcronym{ngf}{
 short = NGF,
 long = nerve growth factor,
-class = abb
+class = gene
+}
+\DeclareAcronym{oli}{
+short = OLIG1,
+long = oligodendrocyte transcription factor 1,
+class = gene
+}
+\DeclareAcronym{rbf}{
+short = RBFOX3,
+long = RNA-binding Fox-1 homolog 3,
+extra = neuronal marker gene; also known as NeuN,
+class = gene
 }
 \DeclareAcronym{risc}{
 short = RISC,
 long = RNA-induced silencing complex,
 class = abb
 }
+\DeclareAcronym{rpmi}{
+short = RPMI1640,
+long = Roswell Park Memorial Institute medium,
+class = abb
+}
+\DeclareAcronym{seq}{
+short = RNA-seq,
+long = RNA sequencing,
+class = abb
+}
 \DeclareAcronym{slc}{
 short = SLC18A3,
-long = vesicular acetylcholine transporter (official gene symbol),
-class = abb
+long = vesicular acetylcholine transporter,
+extra = official gene symbol,
+class = gene
 }
 \DeclareAcronym{sql}{
 short = SQL,
 long = structured query language,
 class = abb
 }
+\DeclareAcronym{sst}{
+short = SST,
+long = somatostatin,
+class = gene
+}
 \DeclareAcronym{stat}{
 short = STAT,
 long = signal transducer and activator of transcription,
-class = abb
+class = gene
 }
 \DeclareAcronym{tf}{
 short = TF,
@@ -140,7 +208,7 @@ class = abb
 \DeclareAcronym{tyk}{
 short = TYK,
 long = tyrosine kinase,
-class = abb
+class = gene
 }
 \DeclareAcronym{utr}{
 short = UTR,
@@ -150,5 +218,11 @@ class = abb
 \DeclareAcronym{vacht}{
 short = vAChT,
 long = vesicular acetylcholine transporter,
+extra = from SLC18A3 gene,
 class = abb
+}
+\DeclareAcronym{vip}{
+short = VIP,
+long = vasoactive intestinal peptide,
+class = gene
 }
