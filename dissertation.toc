@@ -28,26 +28,29 @@
 \contentsline {section}{\numberline {3.1}Neuronal Transcriptomes - Background}{23}{section.3.1}% 
 \contentsline {section}{\numberline {3.2}Cortical Single-Cell RNA Sequencing}{24}{section.3.2}% 
 \contentsline {section}{\numberline {3.3}The Cellular Model}{26}{section.3.3}% 
-\contentsline {subsection}{\numberline {3.3.1}Culture}{26}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.1}Culture}{27}{subsection.3.3.1}% 
 \contentsline {subsection}{\numberline {3.3.2}Differentiation}{27}{subsection.3.3.2}% 
 \contentsline {subsection}{\numberline {3.3.3}RNA Isolation}{28}{subsection.3.3.3}% 
-\contentsline {section}{\numberline {3.4}Small RNA Sequencing and Differential Expression Analysis}{28}{section.3.4}% 
-\contentsline {subsection}{\numberline {3.4.1}microRNA Family Enrichment}{28}{subsection.3.4.1}% 
-\contentsline {section}{\numberline {3.5}Network Generation}{28}{section.3.5}% 
-\contentsline {section}{\numberline {3.6}The Cholinergic/Neurokine Interface}{28}{section.3.6}% 
-\contentsline {section}{\numberline {3.7}Application to Schizophrenia and Bipolar Disorder}{28}{section.3.7}% 
-\contentsline {chapter}{\numberline {4}Dynamics Between Small and Large RNA in the Blood of Stroke Victims}{29}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Background}{30}{section.4.1}% 
-\contentsline {section}{\numberline {4.2}Cohort}{30}{section.4.2}% 
-\contentsline {section}{\numberline {4.3}RNA Sequencing and Differential Expression Analysis}{30}{section.4.3}% 
-\contentsline {section}{\numberline {4.4}tRF Homology}{30}{section.4.4}% 
-\contentsline {section}{\numberline {4.5}WGCNA}{30}{section.4.5}% 
-\contentsline {section}{\numberline {4.6}Co-correlation}{30}{section.4.6}% 
-\contentsline {section}{\numberline {4.7}Networks}{30}{section.4.7}% 
-\contentsline {section}{\numberline {4.8}Direct Interaction}{30}{section.4.8}% 
-\contentsline {section}{\numberline {4.9}Feedforward Loops}{30}{section.4.9}% 
-\contentsline {chapter}{\numberline {5}Discussion}{31}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Methods}{31}{section.5.1}% 
-\contentsline {chapter}{\numberline {6}Conclusion}{34}{chapter.6}% 
-\contentsline {chapter}{References}{44}{chapter*.29}% 
-\contentsline {chapter}{\numberline {A}Transcription Factor Regulatory Circuits - Tissue Types}{45}{appendix.A}% 
+\contentsline {section}{\numberline {3.4}Small RNA Sequencing and Differential Expression Analysis}{29}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}Sequencing}{29}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.2}Sequence Alignment}{29}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3.4.3}Differential Expression Analysis - R/DESeq2}{29}{subsection.3.4.3}% 
+\contentsline {subsection}{\numberline {3.4.4}microRNA Family Enrichment}{29}{subsection.3.4.4}% 
+\contentsline {section}{\numberline {3.5}Network Generation}{29}{section.3.5}% 
+\contentsline {section}{\numberline {3.6}The Cholinergic/Neurokine Interface}{29}{section.3.6}% 
+\contentsline {section}{\numberline {3.7}Application to Schizophrenia and Bipolar Disorder}{29}{section.3.7}% 
+\contentsline {chapter}{\numberline {4}Dynamics Between Small and Large RNA in the Blood of Stroke Victims}{30}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Background}{31}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Cohort}{31}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}RNA Sequencing and Differential Expression Analysis}{31}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}tRF Homology}{31}{section.4.4}% 
+\contentsline {section}{\numberline {4.5}WGCNA}{31}{section.4.5}% 
+\contentsline {section}{\numberline {4.6}Co-correlation}{31}{section.4.6}% 
+\contentsline {section}{\numberline {4.7}Networks}{31}{section.4.7}% 
+\contentsline {section}{\numberline {4.8}Direct Interaction}{31}{section.4.8}% 
+\contentsline {section}{\numberline {4.9}Feedforward Loops}{31}{section.4.9}% 
+\contentsline {chapter}{\numberline {5}Discussion}{32}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Methods}{32}{section.5.1}% 
+\contentsline {chapter}{\numberline {6}Conclusion}{35}{chapter.6}% 
+\contentsline {chapter}{References}{45}{chapter*.29}% 
+\contentsline {chapter}{\numberline {A}Transcription Factor Regulatory Circuits - Tissue Types}{46}{appendix.A}% 

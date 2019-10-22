@@ -11,48 +11,47 @@ The style file: unsrtnat.bst
 A level-1 auxiliary file: chapters/appendixA.aux
 Database file #1: library.bib
 Warning--I didn't find a database entry for ""
-Warning--I didn't find a database entry for "Zeisel2018"
 Warning--empty year in miRWalk2
 Warning--empty publisher in Lobentanzer2019b
-You've used 55 entries,
+You've used 57 entries,
             2481 wiz_defined-function locations,
-            1085 strings with 25528 characters,
-and the built_in function-call counts, 30275 in all, are:
-= -- 2313
-> -- 2537
-< -- 15
-+ -- 904
-- -- 794
-* -- 3152
-:= -- 5332
-add.period$ -- 296
-call.type$ -- 55
-change.case$ -- 111
-chr.to.int$ -- 55
-cite$ -- 57
-duplicate$ -- 1043
-empty$ -- 2071
-format.name$ -- 863
-if$ -- 6003
+            1099 strings with 26418 characters,
+and the built_in function-call counts, 31700 in all, are:
+= -- 2412
+> -- 2675
+< -- 17
++ -- 952
+- -- 838
+* -- 3297
+:= -- 5578
+add.period$ -- 305
+call.type$ -- 57
+change.case$ -- 115
+chr.to.int$ -- 57
+cite$ -- 59
+duplicate$ -- 1090
+empty$ -- 2157
+format.name$ -- 911
+if$ -- 6289
 int.to.chr$ -- 1
-int.to.str$ -- 56
-missing$ -- 53
-newline$ -- 413
-num.names$ -- 167
-pop$ -- 272
+int.to.str$ -- 58
+missing$ -- 55
+newline$ -- 426
+num.names$ -- 173
+pop$ -- 285
 preamble$ -- 1
-purify$ -- 55
+purify$ -- 57
 quote$ -- 0
-skip$ -- 547
+skip$ -- 580
 stack$ -- 0
-substring$ -- 1382
-swap$ -- 151
-text.length$ -- 2
+substring$ -- 1458
+swap$ -- 165
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 385
+type$ -- 399
 warning$ -- 2
-while$ -- 207
+while$ -- 216
 width$ -- 0
-write$ -- 980
-(There were 4 warnings)
+write$ -- 1012
+(There were 3 warnings)

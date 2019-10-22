@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  22 OCT 2019 21:11
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  22 OCT 2019 23:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1420,31 +1420,31 @@ LaTeX Info: Redefining \addtolength on input line 81.
 
 (./acronyms.tex)
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 17.
+h' as default language. on input line 20.
  (./dissertation.aux (./chapters/000_introduction.aux)
 (./chapters/010_database.aux) (./chapters/030_cellculture.aux)
 (./chapters/040_stroke.aux) (./chapters/100_discussion.aux)
 (./chapters/110_conclusion.aux) (./chapters/appendixA.aux))
 \openout1 = `dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 \AtBeginShipoutBox=\box73
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/translations/translations-basic-d
@@ -1453,7 +1453,7 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 17.
+or `english'. on input line 20.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -1498,9 +1498,9 @@ File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 17.
+LaTeX Info: Redefining \selectfont on input line 20.
 \c@lstlisting=\count349
-Package hyperref Info: Link coloring ON on input line 17.
+Package hyperref Info: Link coloring ON on input line 20.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1510,9 +1510,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count350
 )
-LaTeX Info: Redefining \ref on input line 17.
-LaTeX Info: Redefining \pageref on input line 17.
-LaTeX Info: Redefining \nameref on input line 17.
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
 
 (./dissertation.out) (./dissertation.out)
 \@outlinefile=\write4
@@ -1520,8 +1520,8 @@ LaTeX Info: Redefining \nameref on input line 17.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-Package caption Info: We need package `ragged2e' on input line 17.
-LaTeX Info: Redefining \microtypecontext on input line 17.
+Package caption Info: We need package `ragged2e' on input line 20.
+LaTeX Info: Redefining \microtypecontext on input line 20.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1537,13 +1537,13 @@ ABD: EveryShipout initializing macros
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 17.
+loading the todonotes package. on input line 20.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 17.
+LaTeX Font Info:    Try loading font information for U+msa on input line 20.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1551,7 +1551,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 17.
+LaTeX Font Info:    Try loading font information for U+msb on input line 20.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1570,9 +1570,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 (./frontmatter/personalize.tex) (./frontmatter/personalize.tex)
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 23.
+(Font)              scaled to size 24.88pt on input line 26.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 23.
+(Font)              scaled to size 12.0pt on input line 26.
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
@@ -1584,14 +1584,14 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 ]
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 23.
+(Font)              scaled to size 10.95pt on input line 26.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 23.
+(Font)              scaled to size 10.95pt on input line 26.
  [2]
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 23.
+(Font)              scaled to size 17.28pt on input line 26.
  (./frontmatter/abstract.tex) [3]
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 23.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 26.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
@@ -1631,22 +1631,22 @@ LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
 
 
 ]
+[7
+
+]
 LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
-(Font)              scaled to size 9.12494pt on input line 23.
+(Font)              scaled to size 9.12494pt on input line 26.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `SourceCodePro' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/it' will be
-(Font)              scaled to size 9.12494pt on input line 23.
+(Font)              scaled to size 9.12494pt on input line 26.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 23.
+(Font)              scaled to size 8.0pt on input line 26.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 23.
-
-[7
-
-] [8]
+(Font)              scaled to size 6.0pt on input line 26.
+ [8]
 \openout2 = `chapters/000_introduction.aux'.
 
  (./chapters/000_introduction.tex
@@ -1791,14 +1791,9 @@ Chapter 3.
 ]
 File: figures/bbb.pdf Graphic file (type pdf)
 <use figures/bbb.pdf>
-LaTeX Font Info:    Font shape `TU/EBGaramond(2)/bx/n' will be
-(Font)              scaled to size 8.0pt on input line 33.
-
-
-Package natbib Warning: Citation `Zeisel2018' on page 23 undefined on input lin
-e 33.
-
-[23] [24]
+LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/n' will be
+(Font)              scaled to size 5.52814pt on input line 30.
+ [23] [24]
 File: figures/singlecell.pdf Graphic file (type pdf)
 <use figures/singlecell.pdf>
  [25] [26]
@@ -1806,25 +1801,21 @@ File: figures/singlecell.pdf Graphic file (type pdf)
 LaTeX Warning: Reference `fig:dose-response' on page 27 undefined on input line
  70.
 
-
-Package natbib Warning: Citation `McManaman1991' on page 27 undefined on input 
-line 70.
-
-) [27] [28]
+[27] [28]) [29]
 \openout2 = `chapters/040_stroke.aux'.
 
  (./chapters/040_stroke.tex
 Chapter 4.
-) [29
+) [30
 
 
 
-] [30]
+] [31]
 \openout2 = `chapters/100_discussion.aux'.
 
  (./chapters/100_discussion.tex
 Chapter 5.
-[31
+[32
 
 
 
@@ -1834,13 +1825,13 @@ Overfull \hbox (2.35605pt too wide) in paragraph at lines 21--22
 uspendisse dictum magna id purus tincidunt rutrum.
  []
 
-[32]
+[33]
 Overfull \hbox (6.02432pt too wide) in paragraph at lines 25--26
 []\TU/EBGaramond(2)/m/n/10.95 Pellentesque habitant morbi tristique senectus et
  netus et malesuada fames ac turpis egestas. Vestibu-
  []
 
-) [33]
+) [34]
 \openout2 = `chapters/110_conclusion.aux'.
 
  (./chapters/110_conclusion.tex
@@ -1851,11 +1842,11 @@ Overfull \hbox (6.02432pt too wide) in paragraph at lines 9--10
  netus et malesuada fames ac turpis egestas. Vestibu-
  []
 
-[34
+[35
 
 
 
-]) [35] (./dissertation.bbl
+]) [36] (./dissertation.bbl
 Underfull \hbox (badness 1681) in paragraph at lines 22--28
 \TU/EBGaramond(2)/m/n/10.95 CHOLINE IN THE SPLEEN OF THE OX AND THE HORSE.  \TU
 /EBGaramond(2)/m/it/10.95 J. Physiol.\TU/EBGaramond(2)/m/n/10.95 , 68:
@@ -1885,7 +1876,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--59
 ][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][][][][][][][] []
  []
 
-[36
+[37
 
 
 
@@ -1895,7 +1886,7 @@ Underfull \hbox (badness 3536) in paragraph at lines 96--104
 95 , 61(6):874–878, nov 2012.  ISSN 01970186.  doi: $[][] []
  []
 
-[37]
+[38]
 Underfull \hbox (badness 6461) in paragraph at lines 171--180
 []\TU/EBGaramond(2)/m/n/10.95 John Speer, Charles W Gehrke, Kenneth C Kuo, T Ph
 illip Waalkes, and Ernest
@@ -2009,7 +2000,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 228--237
 [] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][] []
  []
 
-[38]
+[39]
 Underfull \hbox (badness 3009) in paragraph at lines 251--261
 \TU/EBGaramond(2)/m/n/10.95 of tRNA derived RNA fragments reveals that they are
  evolutionarily conserved and
@@ -2118,7 +2109,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 291--301
 ][][][][][][][][][][] [] [] [] [][][][][][][][][][] [] [][][][][][][][] []
  []
 
-[39]
+[40]
 Underfull \hbox (badness 1515) in paragraph at lines 337--349
 \TU/EBGaramond(2)/m/n/10.95 and Kenneth S Kosik.  Regulation of cell-type-speci
 fic transcriptomes by microRNA
@@ -2137,7 +2128,7 @@ Underfull \hbox (badness 1237) in paragraph at lines 355--371
 , Kevin Quann, Peter Clark, Yi Jing,
  []
 
-[40]
+[41]
 Underfull \hbox (badness 10000) in paragraph at lines 382--386
 [][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
@@ -2179,7 +2170,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 427--444
 ][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
  []
 
-[41]
+[42]
 Underfull \hbox (badness 2617) in paragraph at lines 446--455
 []\TU/EBGaramond(2)/m/n/10.95 Dong Yue, Hui Liu, and Yufei Huang.  Survey of Co
 mputational Algorithms for
@@ -2269,33 +2260,80 @@ Underfull \hbox (badness 10000) in paragraph at lines 476--486
 ][][] []
  []
 
-[42] [43]
-Underfull \hbox (badness 3884) in paragraph at lines 606--615
+[43]
+Underfull \hbox (badness 1953) in paragraph at lines 573--585
+[]\TU/EBGaramond(2)/m/n/10.95 Amit Zeisel, Hannah Hochgerner, Peter Lönnerberg,
+ Anna Johnsson, Fatima Memic,
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 573--585
+\TU/EBGaramond(2)/m/n/10.95 Job van der Zwan, Martin Häring, Emelie Braun, Lars
+ E Borm, Gioele La Manno,
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 573--585
+\TU/EBGaramond(2)/m/n/10.95 Simone Codeluppi, Alessandro Furlan, Kawai Lee, Nat
+han Skene, Kenneth D Har-
+ []
+
+
+Underfull \hbox (badness 3724) in paragraph at lines 573--585
+\TU/EBGaramond(2)/m/n/10.95 ris, Jens Hjerling-Leffler, Ernest Arenas, Patrik E
+rnfors, Ulrika Marklund, and Sten
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 573--585
+\TU/EBGaramond(2)/m/n/10.95 Linnarsson.  Molecular Architecture of the Mouse Ne
+rvous System.  \TU/EBGaramond(2)/m/it/10.95 Cell\TU/EBGaramond(2)/m/n/10.95 , 1
+74(4):
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 573--585
+\TU/EBGaramond(2)/m/n/10.95 999–1014.e22, aug 2018.  ISSN 00928674.  doi: $[][]
+ [] [][][][] [] [] [] [][][][] [] [][][][] [] [][] [] [][][]$.  URL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--585
+[][]$[][][][] [] [] [] [][][] [] [][][][] [] [][][] [] [][][] [] [][][] [] [][]
+[][][][] [] [][][][][][][][][][][][] [] [] [] [][][] [] [][][][][][][][][][][][
+][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--585
+[][][] [] [][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][
+][][][][][][][][][][][][][] [] [] [] [][][][][][][][][][] []
+ []
+
+[44]
+Underfull \hbox (badness 3884) in paragraph at lines 623--632
 \TU/EBGaramond(2)/m/n/10.95 acid.  \TU/EBGaramond(2)/m/it/10.95 Developmental B
 rain Research\TU/EBGaramond(2)/m/n/10.95 , 102(1):53–67, aug 1997.  ISSN 016538
 06.
  []
 
-) [44]
+) [45]
 \openout2 = `chapters/appendixA.aux'.
 
  (./chapters/appendixA.tex
 Appendix A.
-) [45
+) [46
 
 
 ]
-
-Package natbib Warning: There were undefined citations.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
-(./dissertation.aux (./chapters/000_introduction.aux)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 68.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 68.
+ (./dissertation.aux (./chapters/000_introduction.aux)
 (./chapters/010_database.aux) (./chapters/030_cellculture.aux)
 (./chapters/040_stroke.aux) (./chapters/100_discussion.aux)
 (./chapters/110_conclusion.aux) (./chapters/appendixA.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 65.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 68.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 68.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
 (rerunfilecheck)             Checksum: E10F79D660C2C28242EA5F30E0D3DA62.
 
@@ -2304,12 +2342,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 45362 strings out of 492916
- 946367 string characters out of 6133345
- 1054173 words of memory out of 5000000
- 48701 multiletter control sequences out of 15000+600000
- 544153 words of font info for 137 fonts, out of 8000000 for 9000
+ 45543 strings out of 492916
+ 951455 string characters out of 6133345
+ 1055622 words of memory out of 5000000
+ 48876 multiletter control sequences out of 15000+600000
+ 546196 words of font info for 152 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
  73i,12n,118p,1769b,1085s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (53 pages).
+Output written on dissertation.pdf (54 pages).
