@@ -23,6 +23,7 @@
 %Hyphenation rules
 \hyphenation{miRNA}
 \hyphenation{miRNAs}
+\hyphenation{miRNet}
 
 % Line spacing: dsingle/ddouble
 %   Whether to use single- or doublespacing.
@@ -167,37 +168,14 @@
 % Some definitions.
 \def\advisor#1{\gdef\@advisor{#1}}
 \def\coadvisorOne#1{\gdef\@coadvisorOne{#1}}
-\def\coadvisorTwo#1{\gdef\@coadvisorTwo{#1}}
-\def\committeeInternal#1{\gdef\@committeeInternal{#1}}
-\def\committeeInternalOne#1{\gdef\@committeeInternalOne{#1}}
-\def\committeeInternalTwo#1{\gdef\@committeeInternalTwo{#1}}
 \def\committeeExternal#1{\gdef\@committeeExternal{#1}}
 \def\degreeyear#1{\gdef\@degreeyear{#1}}
-\def\degreemonth#1{\gdef\@degreemonth{#1}}
-\def\degreeterm#1{\gdef\@degreeterm{#1}}
-\def\degree#1{\gdef\@degree{#1}}
-\def\department#1{\gdef\@department{#1}}
-\def\field#1{\gdef\@field{#1}}
-\def\university#1{\gdef\@university{#1}}
-\def\universitycity#1{\gdef\@universitycity{#1}}
-\def\universitystate#1{\gdef\@universitystate{#1}}
-\def\programname#1{\gdef\@programname{#1}}
-\def\pdOneName#1{\gdef\@pdOneName{#1}}
-\def\pdOneSchool#1{\gdef\@pdOneSchool{#1}}
-\def\pdOneYear#1{\gdef\@pdOneYear{#1}}
-\def\pdTwoName#1{\gdef\@pdTwoName{#1}}
-\def\pdTwoSchool#1{\gdef\@pdTwoSchool{#1}}
-\def\pdTwoYear#1{\gdef\@pdTwoYear{#1}}
-% School name and location
-\university{Johann Wolfgang von Goethe University}
-\universitycity{Frankfurt am Main}
-\universitystate{Hessen}
 
 %lstlisting definitions
-\definecolor{dkgreen}{rgb}{0,0.6,0}
-\definecolor{dkblue}{rgb}{0.1,0.1,0.7}
-\definecolor{gray}{rgb}{0.5,0.5,0.5}
-\definecolor{mauve}{rgb}{0.58,0,0.82}
+\definecolor{dkgreen}{RGB}{0,130,0}
+\definecolor{dkblue}{RGB}{0,20,180}
+\definecolor{gray}{RGB}{150,150,150}
+\definecolor{mauve}{RGB}{180,0,180}
 \lstset{frame=tb,
   aboveskip=3mm,
   belowskip=3mm,
@@ -253,7 +231,7 @@
     \setcounter{page}{1}
 	\thispagestyle{empty}
 	\vspace*{\fill}
-	\vspace{100pt}
+	\vspace{0pt}
 	\begin{center}
 	\Huge \textcolor{SchoolColor}{Small RNA dynamics\\ in cholinergic systems} \normalsize \\
 	\vspace{100pt}
@@ -335,7 +313,7 @@
 	\noindent
     \begin{spacing}{\dcompressedspacing}
 	\printacronyms[include-classes = abb, heading = none]
-	\printacronyms[include-classes = gene, name = Genes]
+	\printacronyms[include-classes = gene, name = Gene Symbols]
     \end{spacing}
 	\vspace*{\fill} \newpage
 	\setcounter{page}{1}

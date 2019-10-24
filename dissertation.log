@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  22 OCT 2019 23:11
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  24 OCT 2019 23:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -762,27 +762,27 @@ Package fontspec Info: Font family 'EBGaramond(1)' created for font 'EB
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
 (fontspec)             <->"EB Garamond/BI/OT:script=latn;language=DFLT;+smcp;"
 
-LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 92.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
 (Font)                  TU/EBGaramond(1)/m/n --> TU/EBGaramond(1)/bx/n on input
- line 92.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 92.
+ line 93.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/EBGaramond(1)/m/it on input line 92
+(Font)                  OT1/cmr/m/it --> TU/EBGaramond(1)/m/it on input line 93
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/EBGaramond(1)/m/it on input line 9
-2.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 92.
+3.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 93.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(1)/bx/n on input line 92
+(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(1)/bx/n on input line 93
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(1)/bx/n on input line 92
+(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(1)/bx/n on input line 93
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  TU/EBGaramond(1)/m/it --> TU/EBGaramond(1)/bx/it on inp
-ut line 92.
+ut line 93.
 \symOperators:m:n=\mathgroup11
 
 Package fontspec Info: Font family 'EBGaramond(2)' created for font 'EB
@@ -821,9 +821,9 @@ ping=tex-text;"
 (fontspec)             Garamond/BI/OT:script=latn;language=DFLT;+onum;+liga;+sm
 cp;mapping=tex-text;"
 
-LaTeX Info: Redefining \rmfamily on input line 97.
+LaTeX Info: Redefining \rmfamily on input line 98.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 97.
+(Font)              scaled to size 12.0pt on input line 98.
 
 Package fontspec Info: Font family 'EBGaramond(3)' created for font 'EB
 (fontspec)             Garamond' with options [RawFeature={+c2sc,+scmp}].
@@ -895,7 +895,7 @@ Package fontspec Info: Font family 'LatoRegular(0)' created for font 'Lato
 (fontspec)             Bold/I/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
-LaTeX Info: Redefining \sffamily on input line 99.
+LaTeX Info: Redefining \sffamily on input line 100.
 
 Package fontspec Info: Source Code Pro scale = 0.833334657882258.
 
@@ -957,7 +957,7 @@ Space,Scale=MatchLowercase].
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
-LaTeX Info: Redefining \ttfamily on input line 100.
+LaTeX Info: Redefining \ttfamily on input line 101.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
@@ -1090,7 +1090,7 @@ Package: quotchap 2012/10/20 v1.1 Decorative Chapter Headings with Quotes
 \@quotebox=\box61
 )
 \mybibindent=\skip122
-Package hyperref Info: Option `colorlinks' set `true' on input line 235.
+Package hyperref Info: Option `colorlinks' set `true' on input line 213.
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/todonotes/todonotes.sty
 Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
@@ -1415,37 +1415,56 @@ LaTeX Info: Redefining \addtolength on input line 81.
 )
 \c@@todonotes@numberoftodonotes=\count348
 )
+(/usr/local/texlive/2019/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen309
+\WF@size=\dimen310
+\c@WF@wrappedlines=\count349
+\WF@box=\box73
+\WF@everypar=\toks38
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip126
+\fb@frw=\dimen311
+\fb@frh=\dimen312
+\FrameRule=\dimen313
+\FrameSep=\dimen314
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ncctools/extdash.sty
+Package: extdash 2018/06/24 v1.3 Extended Dash Package (NCC)
+)
 \@input{acronyms.aux}
 \openout2 = `acronyms.aux'.
 
 (./acronyms.tex)
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 20.
- (./dissertation.aux (./chapters/000_introduction.aux)
-(./chapters/010_database.aux) (./chapters/030_cellculture.aux)
+h' as default language. on input line 30.
+ (./dissertation.aux (./chapters/010_introduction.aux)
+(./chapters/020_database.aux) (./chapters/030_cellculture.aux)
 (./chapters/040_stroke.aux) (./chapters/100_discussion.aux)
 (./chapters/110_conclusion.aux) (./chapters/appendixA.aux))
 \openout1 = `dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-\AtBeginShipoutBox=\box73
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+\AtBeginShipoutBox=\box74
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/translations/translations-basic-d
 ictionary-english.trsl
@@ -1453,7 +1472,7 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 20.
+or `english'. on input line 30.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -1484,7 +1503,7 @@ File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 * \headsep=19.8738pt
 * \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=38.0pt
+* \marginparwidth=56.9055pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.8pt plus 4.0pt minus 2.0pt
@@ -1498,9 +1517,9 @@ File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 20.
-\c@lstlisting=\count349
-Package hyperref Info: Link coloring ON on input line 20.
+LaTeX Info: Redefining \selectfont on input line 30.
+\c@lstlisting=\count350
+Package hyperref Info: Link coloring ON on input line 30.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1508,20 +1527,21 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count350
+\c@section@level=\count351
 )
-LaTeX Info: Redefining \ref on input line 20.
-LaTeX Info: Redefining \pageref on input line 20.
-LaTeX Info: Redefining \nameref on input line 20.
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
 
 (./dissertation.out) (./dissertation.out)
 \@outlinefile=\write4
 \openout4 = `dissertation.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package caption Info: We need package `ragged2e' on input line 20.
-LaTeX Info: Redefining \microtypecontext on input line 20.
+Package caption Info: We need package `ragged2e' on input line 30.
+LaTeX Info: Redefining \microtypecontext on input line 30.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1533,17 +1553,11 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 ABD: EveryShipout initializing macros
-
-Package todonotes Warning: The length marginparwidth is less than 2cm and will 
-most likely cause issues with the appearance of inserted todonotes. The issue c
-an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 20.
-
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 20.
+LaTeX Font Info:    Try loading font information for U+msa on input line 30.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1551,7 +1565,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 20.
+LaTeX Font Info:    Try loading font information for U+msb on input line 30.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1570,9 +1584,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 (./frontmatter/personalize.tex) (./frontmatter/personalize.tex)
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 26.
+(Font)              scaled to size 24.88pt on input line 36.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 26.
+(Font)              scaled to size 12.0pt on input line 36.
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
@@ -1584,14 +1598,14 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 ]
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 26.
+(Font)              scaled to size 10.95pt on input line 36.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 26.
+(Font)              scaled to size 10.95pt on input line 36.
  [2]
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 26.
+(Font)              scaled to size 17.28pt on input line 36.
  (./frontmatter/abstract.tex) [3]
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 26.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 36.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
@@ -1603,7 +1617,7 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/bx/n' will be
 (Font)              scaled to size 10.95pt on input line 1.
 
-Overfull \hbox (6.29678pt too wide) in paragraph at lines 27--27
+Overfull \hbox (6.29678pt too wide) in paragraph at lines 36--36
  [][] [][][]\TU/EBGaramond(2)/m/sc/12 microRNA Dynamics in Cholinergic Differen
 tiation of Human Neu- 
  []
@@ -1635,21 +1649,21 @@ LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
 
 ]
 LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
-(Font)              scaled to size 9.12494pt on input line 26.
+(Font)              scaled to size 9.12494pt on input line 36.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `SourceCodePro' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/it' will be
-(Font)              scaled to size 9.12494pt on input line 26.
+(Font)              scaled to size 9.12494pt on input line 36.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 26.
+(Font)              scaled to size 8.0pt on input line 36.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 26.
+(Font)              scaled to size 6.0pt on input line 36.
  [8]
-\openout2 = `chapters/000_introduction.aux'.
+\openout2 = `chapters/010_introduction.aux'.
 
- (./chapters/000_introduction.tex
+ (./chapters/010_introduction.tex
 Chapter 1.
 
 Overfull \hbox (5.3333pt too wide) in paragraph at lines 14--15
@@ -1679,63 +1693,57 @@ LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/n' will be
 (Font)              scaled to size 7.89734pt on input line 19.
  [2] [3]
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 39.
-
-
-LaTeX Warning: Marginpar on page 4 moved.
-
+ine 46.
+File: figures/neurokine.pdf Graphic file (type pdf)
+<use figures/neurokine.pdf>
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 51.
+(Font)              scaled to size 10.95pt on input line 62.
 
-Overfull \hbox (3.7346pt too wide) in paragraph at lines 59--60
-[]\TU/EBGaramond(2)/m/n/10.95 For the sake of simplicity, all descriptions of g
-enomics and transcriptomics matters, genes, []miRNAs,
+Overfull \hbox (5.60577pt too wide) in paragraph at lines 62--63
+\TU/EBGaramond(2)/m/n/10.95 jections between brain regions. In this dissertatio
+n, connectomics generally refers to epi-transcriptional
  []
 
-[4] [5]
-
-LaTeX Warning: Marginpar on page 6 moved.
-
-[6]
-Overfull \hbox (21.59038pt too wide) in paragraph at lines 86--87
+[4] [5] [6] [7]
+Overfull \hbox (21.59038pt too wide) in paragraph at lines 102--103
 []\TU/EBGaramond(2)/m/n/10.95 On the other hand, multiple groups have identifie
 d []tRFs to function not in an antisense-complementary
  []
 
-[7]
-Overfull \hbox (6.66237pt too wide) in paragraph at lines 92--93
+[8]
+Overfull \hbox (6.66237pt too wide) in paragraph at lines 108--109
 []\TU/EBGaramond(2)/m/n/10.95 ? Levels of []tRFs may be modulated even more rap
 idly than levels of []miRNAs, since []tRNA molecules
  []
 
-[8]
+[9]
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 103.
+(Font)              scaled to size 5.0pt on input line 119.
+ [10]) [11]
+\openout2 = `chapters/020_database.aux'.
 
-Overfull \hbox (3.46492pt too wide) in paragraph at lines 105--106
-[]\TU/EBGaramond(2)/m/n/10.95 Combining all aspects of transcriptional interact
-ion presents additional challenges. A simple model
- []
-
-[9]) [10]
-\openout2 = `chapters/010_database.aux'.
-
- (./chapters/010_database.tex
+ (./chapters/020_database.tex
 Chapter 2.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/it' will be
 (Font)              scaled to size 24.88pt on input line 7.
-[11
+[12
 
 
 
-] [12] [13]
-Overfull \hbox (11.24385pt too wide) in paragraph at lines 48--49
+] [13]
+File: figures/db.jpg Graphic file (type bmp)
+<figures/db.jpg>
+ [14]
+Overfull \hbox (11.24385pt too wide) in paragraph at lines 52--53
 \TU/EBGaramond(2)/m/n/10.95 All materials used in the creation of \TU/EBGaramon
 d(2)/m/it/10.95 miRNet \TU/EBGaramond(2)/m/n/10.95 have been acquired from reso
 urces that are non-commercial,
  []
 
-[14] [15] [16]
+[15] [16] [17]
+
+LaTeX Warning: Marginpar on page 18 moved.
+
 
 Package fontspec Info: Font family 'EBGaramond(4)' created for font 'EB
 (fontspec)             Garamond' with options
@@ -1774,17 +1782,28 @@ um;mapping=tex-text;"
 um;+smcp;mapping=tex-text;"
 
 LaTeX Font Info:    Font shape `TU/EBGaramond(4)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 81.
+(Font)              scaled to size 12.0pt on input line 85.
 
+LaTeX Warning: Marginpar on page 18 moved.
 
-LaTeX Warning: Marginpar on page 17 moved.
+[18] [19] [20] [21]
 
-[17] [18] [19] [20]) [21]
+LaTeX Warning: Reference `sec:stroke:ffl' on page 22 undefined on input line 18
+2.
+
+[22] [23]
+Overfull \hbox (3.80319pt too wide) in paragraph at lines 212--213
+[]\TU/EBGaramond(2)/m/n/10.95 A positive side-effect of performing such a permu
+tation on a base collection of data, such as \TU/EBGaramond(2)/m/it/10.95 miRNe
+t\TU/EBGaramond(2)/m/n/10.95 ,
+ []
+
+[24]) [25]
 \openout2 = `chapters/030_cellculture.aux'.
 
  (./chapters/030_cellculture.tex
 Chapter 3.
-[22
+[26
 
 
 
@@ -1793,45 +1812,67 @@ File: figures/bbb.pdf Graphic file (type pdf)
 <use figures/bbb.pdf>
 LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/n' will be
 (Font)              scaled to size 5.52814pt on input line 30.
- [23] [24]
+ [27] [28]
 File: figures/singlecell.pdf Graphic file (type pdf)
 <use figures/singlecell.pdf>
- [25] [26]
+ [29]
 
-LaTeX Warning: Reference `fig:dose-response' on page 27 undefined on input line
- 70.
+LaTeX Warning: Marginpar on page 30 moved.
 
-[27] [28]) [29]
+[30] [31]
+File: figures/time-dose.pdf Graphic file (type pdf)
+<use figures/time-dose.pdf>
+File: figures/timepoints.pdf Graphic file (type pdf)
+<use figures/timepoints.pdf>
+ [32] [33]
+
+LaTeX Warning: Marginpar on page 34 moved.
+
+
+Overfull \hbox (5.72989pt too wide) in paragraph at lines 110--111
+\TU/EBGaramond(2)/m/n/10.95 pipeline were used in accordance to the documentati
+on. This included the »Raw_data_parse«, »statis-
+ []
+
+[34]
+Overfull \hbox (0.86626pt too wide) in paragraph at lines 123--123
+|[]\TU/EBGaramond(2)/m/sc/12 microRNA Dynamics in CNTF-mediated Cholinergic Dif
+ferentiation
+ []
+
+File: figures/countchangecor.pdf Graphic file (type pdf)
+<use figures/countchangecor.pdf>
+[35]
+
+LaTeX Warning: Marginpar on page 36 moved.
+
+
+LaTeX Warning: Marginpar on page 36 moved.
+
+File: figures/timepointsexp.pdf Graphic file (type pdf)
+<use figures/timepointsexp.pdf>
+[36]
+File: figures/mir-de-fam.pdf Graphic file (type pdf)
+<use figures/mir-de-fam.pdf>
+) [37] [38]
 \openout2 = `chapters/040_stroke.aux'.
 
  (./chapters/040_stroke.tex
 Chapter 4.
-) [30
+) [39
 
 
 
-] [31]
+] [40]
 \openout2 = `chapters/100_discussion.aux'.
 
  (./chapters/100_discussion.tex
 Chapter 5.
-[32
+[41
 
 
 
-]
-Overfull \hbox (2.35605pt too wide) in paragraph at lines 21--22
-[]\TU/EBGaramond(2)/m/n/10.95 Pellentesque vel dui sed orci faucibus iaculis. S
-uspendisse dictum magna id purus tincidunt rutrum.
- []
-
-[33]
-Overfull \hbox (6.02432pt too wide) in paragraph at lines 25--26
-[]\TU/EBGaramond(2)/m/n/10.95 Pellentesque habitant morbi tristique senectus et
- netus et malesuada fames ac turpis egestas. Vestibu-
- []
-
-) [34]
+]) [42]
 \openout2 = `chapters/110_conclusion.aux'.
 
  (./chapters/110_conclusion.tex
@@ -1842,512 +1883,409 @@ Overfull \hbox (6.02432pt too wide) in paragraph at lines 9--10
  netus et malesuada fames ac turpis egestas. Vestibu-
  []
 
-[35
+[43
 
 
 
-]) [36] (./dissertation.bbl
-Underfull \hbox (badness 1681) in paragraph at lines 22--28
-\TU/EBGaramond(2)/m/n/10.95 CHOLINE IN THE SPLEEN OF THE OX AND THE HORSE.  \TU
-/EBGaramond(2)/m/it/10.95 J. Physiol.\TU/EBGaramond(2)/m/n/10.95 , 68:
+]) [44] (./dissertation.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 22--27
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][] [] 
+[][][] [] [][][] [] [][][] [] [][][] [] [][][][][][][][] [] [][][][][][][][][][
+] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--59
-[]\TU/EBGaramond(2)/m/n/10.95 R Levi-Montalcini and B Booker.  Destruction of t
-he sympathetic ganglia in
+Underfull \hbox (badness 10000) in paragraph at lines 45--54
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--59
-\TU/EBGaramond(2)/m/n/10.95 mammals by an antiserum to a nerve-growth protein. 
- \TU/EBGaramond(2)/m/it/10.95 Proceedings of the Na-
+Underfull \hbox (badness 10000) in paragraph at lines 45--54
+[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
+ [][][][] [] [][][][][] [] [][][][][][][][][][][][][] []
  []
 
-
-Underfull \hbox (badness 5533) in paragraph at lines 49--59
-\TU/EBGaramond(2)/m/it/10.95 tional Academy of Sciences\TU/EBGaramond(2)/m/n/10
-.95 , 46(3):384–391, mar 1960.  ISSN 0027-8424.  doi:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--59
-[] [] [][][] [] [][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][
-][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][][][][][][][] []
- []
-
-[37
+[45
 
 
 
 ]
-Underfull \hbox (badness 3536) in paragraph at lines 96--104
-\TU/EBGaramond(2)/m/it/10.95 rochemistry International\TU/EBGaramond(2)/m/n/10.
-95 , 61(6):874–878, nov 2012.  ISSN 01970186.  doi: $[][] []
- []
-
-[38]
-Underfull \hbox (badness 6461) in paragraph at lines 171--180
-[]\TU/EBGaramond(2)/m/n/10.95 John Speer, Charles W Gehrke, Kenneth C Kuo, T Ph
-illip Waalkes, and Ernest
+Underfull \hbox (badness 10000) in paragraph at lines 119--125
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--180
-\TU/EBGaramond(2)/m/n/10.95 Borek.  tRNA breakdown products as markers for canc
-er.  \TU/EBGaramond(2)/m/it/10.95 Cancer\TU/EBGaramond(2)/m/n/10.95 , 44(6):
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--180
-\TU/EBGaramond(2)/m/n/10.95 2120–2123, dec 1979.  ISSN 0008-543X.  doi: $[][] [
-] [][][][] [] [][][][][][][][][][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
+[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
+ [][][][] [] [][][][][] [] [][][][][][][][][][][][][][][] []
+ []
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 145--149
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][][][][][][][] [] 
+[][][][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][] [] [] [] [][][][] 
+[] [][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--180
-[][] [] [][][][][][][] [][] [][][][][][][][][][][][][][][][][][][] [][] [] [] [
-] [] [][] [] [][][][]$\TU/EBGaramond(2)/m/n/10.95 .  URL [][]$[][][][] [] [] []
- [][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 151--158
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][] [] [] [] [][][
+] [] [][][][][] [] [][][] [] [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--180
-[][][][] [] [][][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][] 
-[] [] [] [][][] [] [][][][][] [] [][][] [] [][] [] [][][][] []
+Overfull \hbox (52.27496pt too wide) in paragraph at lines 151--158
+[][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][] []
  []
 
 
-Overfull \hbox (26.00597pt too wide) in paragraph at lines 171--180
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [
-]
+Underfull \hbox (badness 1009) in paragraph at lines 160--169
+\TU/EBGaramond(2)/m/n/10.95 Dicer-dependent small RNAs derived from tRNAs.  \TU
+/EBGaramond(2)/m/it/10.95 RNA\TU/EBGaramond(2)/m/n/10.95 , 15(12):2147–2160 (20
+09).
  []
 
 
-Underfull \hbox (badness 4181) in paragraph at lines 183--193
-[]\TU/EBGaramond(2)/m/n/10.95 Christian Cole, Andrew Sobala, Cheng Lu, Shawn R 
-Thatcher, Andrew Bowman,
+Underfull \hbox (badness 10000) in paragraph at lines 160--169
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] []
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 183--193
-\TU/EBGaramond(2)/m/n/10.95 derived from tRNAs.  \TU/EBGaramond(2)/m/it/10.95 R
-NA\TU/EBGaramond(2)/m/n/10.95 , 15(12):2147–2160, dec 2009.  ISSN 1355-8382.  d
-oi:
+Underfull \hbox (badness 10000) in paragraph at lines 160--169
+[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
+ [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--193
-[] [] [][][] [] [][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][
-][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 171--177
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] []
  []
 
 
-Underfull \hbox (badness 3219) in paragraph at lines 195--203
-[]\TU/EBGaramond(2)/m/n/10.95 Yong Sun Lee, Yoshiyuki Shibata, Ankit Malhotra, 
-and Anindya Dutta.  A novel
+Underfull \hbox (badness 3168) in paragraph at lines 179--185
+\TU/EBGaramond(2)/m/n/10.95 position Between Human Biofluids.  \TU/EBGaramond(2
+)/m/it/10.95 Cell Reports\TU/EBGaramond(2)/m/n/10.95 , 25(5):1346–1358 (2018). 
+ doi:
  []
 
 
-Underfull \hbox (badness 1533) in paragraph at lines 195--203
-\TU/EBGaramond(2)/m/n/10.95 class of small RNAs: tRNA-derived RNA fragments (tR
-Fs).  \TU/EBGaramond(2)/m/it/10.95 Genes & development\TU/EBGaramond(2)/m/n/10.
-95 ,
+Underfull \hbox (badness 10000) in paragraph at lines 179--185
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][] [] []
+[] [] [][][][] [] [] [] [][][][][][] [] [][][][] [] [][] [] [][][][][][][][] []
+ [] [] [][][][][][][][][][] []
+ []
+
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 195--201
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
+[][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 2096) in paragraph at lines 195--203
-\TU/EBGaramond(2)/m/n/10.95 23(22):2639–49, nov 2009.  ISSN 1549-5477.  doi: $[
-][] [] [][][][] [] [][][] [] [][][][][][][]$.  URL
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 195--203
-[][]$[][][][] [] [] [] [][][] [] [][][][] [] [][][] [] [][][] [] [][][] [] [][]
-[][][][] [] [][][][][][][][][][][][] [] [] [] [][][] [] [][][][][][][][][][][][
-][] []
- []
-
-
-Underfull \hbox (badness 4819) in paragraph at lines 228--237
-[]\TU/EBGaramond(2)/m/n/10.95 Pavel Ivanov, Mohamed M. Emara, Judit Villen, Ste
-ven P. Gygi, and Paul Ander-
- []
-
-
-Underfull \hbox (badness 2452) in paragraph at lines 228--237
-\TU/EBGaramond(2)/m/n/10.95 son.  Angiogenin-Induced tRNA Fragments Inhibit Tra
-nslation Initiation.  \TU/EBGaramond(2)/m/it/10.95 Molec-
- []
-
-
-Underfull \hbox (badness 6047) in paragraph at lines 228--237
-\TU/EBGaramond(2)/m/it/10.95 ular Cell\TU/EBGaramond(2)/m/n/10.95 , 43(4):613–6
-23, aug 2011.  ISSN 10972765.  doi: $[][] [] [][][][] [] [] [] [][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 228--237
-[][][][] [] [][] [] [][][]$\TU/EBGaramond(2)/m/n/10.95 .  URL [][]$[][][][][] [
-] [] [] [][][] [] [][][][][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][
-][][][][][] [] [][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 228--237
+Underfull \hbox (badness 10000) in paragraph at lines 195--201
 [][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][] [] [] 
 [] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][] []
  []
 
-[39]
-Underfull \hbox (badness 3009) in paragraph at lines 251--261
-\TU/EBGaramond(2)/m/n/10.95 of tRNA derived RNA fragments reveals that they are
- evolutionarily conserved and
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--222
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] []
  []
 
 
-Underfull \hbox (badness 2351) in paragraph at lines 251--261
-\TU/EBGaramond(2)/m/n/10.95 associate with AGO proteins to recognize specific R
-NA targets.  \TU/EBGaramond(2)/m/it/10.95 BMC Biology\TU/EBGaramond(2)/m/n/10.9
-5 , 12
+Underfull \hbox (badness 10000) in paragraph at lines 213--222
+[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
+ [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--261
-[] [] [][][] [] [][][][] [] [][][] [] [][][] [] [][][] [] [][][][][][] [] [][][
-][][][][][][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][] [] [][][] []
+Underfull \hbox (badness 1776) in paragraph at lines 224--231
+[]\TU/EBGaramond(2)/m/n/10.95 Huang B, Yang H, Cheng X \TU/EBGaramond(2)/m/it/1
+0.95 et al.  \TU/EBGaramond(2)/m/n/10.95 tRF/miR-1280 Suppresses Stem Cell–like
+ Cells
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--261
-[][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
-][][][][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 224--231
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][][][][][][][] [] []
+[][][][][][][][][][][] [] [][][] [] [][][][] [] [] [] [][][][][][][][][] [] [][
+][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 2653) in paragraph at lines 264--275
-[]\TU/EBGaramond(2)/m/n/10.95 Bingqing Huang, Huipeng Yang, Xixi Cheng, Dan Wan
-g, Shuyu Fu, Wencui Shen,
+Underfull \hbox (badness 10000) in paragraph at lines 233--240
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
+[][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][] []
+
  []
 
 
-Underfull \hbox (badness 2401) in paragraph at lines 264--275
-\TU/EBGaramond(2)/m/n/10.95 1280 Suppresses Stem Cell–like Cells and Metastasis
- in Colorectal Cancer.  \TU/EBGaramond(2)/m/it/10.95 Cancer
+Underfull \hbox (badness 10000) in paragraph at lines 233--240
+[][][][][][][][][][][] [] [][][][][][][][][][][] [] [] [] [][][] [] [][][][][][
+][][][][][] [] [][][] [] [][][] [] [][][][] [] [][] [] [][][][] []
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 264--275
-\TU/EBGaramond(2)/m/it/10.95 Research\TU/EBGaramond(2)/m/n/10.95 , 77(12):3194–
-3206, jun 2017.  ISSN 0008-5472.  doi: $[][] [] [][][][] [] [][][][][][][][][][
-] []
+Underfull \hbox (badness 10000) in paragraph at lines 242--249
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
+[][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 264--275
-[][][][][][][][][][][][][]$\TU/EBGaramond(2)/m/n/10.95 .  URL [][]$[][][][] [] 
-[] [] [][][][][][][][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][] [] [
-] [] [][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 242--249
+[][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][] [] [] 
+[] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][] []
+ []
+
+[48]
+Underfull \hbox (badness 7869) in paragraph at lines 258--265
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][] [] [][][] [] [][][]
+ [] [][] [] [][][][] [] [][][][][][][][][][][][][] [] [] [] [][][] [] [][][][][
+][] [] [][][] [] [][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 2310) in paragraph at lines 278--288
-[]\TU/EBGaramond(2)/m/n/10.95 Jennifer Gebetsberger, Leander Wyss, Anna M Mlecz
-ko, Julia Reuther, and Norbert
+Underfull \hbox (badness 10000) in paragraph at lines 267--274
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] [] [][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 4096) in paragraph at lines 278--288
-\TU/EBGaramond(2)/m/n/10.95 Polacek.  A tRNA-derived fragment competes with mRN
-A for ribosome binding
+Underfull \hbox (badness 10000) in paragraph at lines 276--284
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] []
  []
 
 
-Underfull \hbox (badness 2486) in paragraph at lines 278--288
-\TU/EBGaramond(2)/m/n/10.95 and regulates translation during stress.  \TU/EBGar
-amond(2)/m/it/10.95 RNA Biology\TU/EBGaramond(2)/m/n/10.95 , 14(10):1364–1373, 
-oct 2017.
+Underfull \hbox (badness 10000) in paragraph at lines 276--284
+[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
+ [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 6526) in paragraph at lines 278--288
-\TU/EBGaramond(2)/m/n/10.95 ISSN 1547-6286.  doi: $[][] [] [][][][] [] [][][][]
-[][][][] [] [][][][] [] [][][][][][][]$.  URL [][]$[][][][][] [] [] [] [][][] [
-]
+Underfull \hbox (badness 10000) in paragraph at lines 302--305
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
+[][][] [] [][][] [] [][][][][][] [] [][][][][][][][] [] [][][][][][][][][][][] 
+[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--288
-[][][][][][][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][][
-][][][][] [] [][][][][][][][][][][] [] [][][][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 302--305
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 1406) in paragraph at lines 291--301
-\TU/EBGaramond(2)/m/n/10.95 Tavazoie.  Endogenous tRNA-Derived Fragments Suppre
-ss Breast Cancer Progression
- []
-
-
-Underfull \hbox (badness 1297) in paragraph at lines 291--301
-\TU/EBGaramond(2)/m/n/10.95 via YBX1 Displacement.  \TU/EBGaramond(2)/m/it/10.9
-5 Cell\TU/EBGaramond(2)/m/n/10.95 , 161(4):790–802, may 2015.  ISSN 00928674.  
-doi:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 291--301
-[][] [] [][][][] [] [] [] [][][][] [] [][][][] [] [][] [] [][][]$\TU/EBGaramond
-(2)/m/n/10.95 .  URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][
-][] [] [][][] [] [][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 291--301
-[][][][][][][] [] [][][] [] [][][][][][][][][][][][][][][][][] [] [][][][][][][
-][][][][][][][][][][] [] [] [] [][][][][][][][][][] [] [][][][][][][][] []
- []
-
-[40]
-Underfull \hbox (badness 1515) in paragraph at lines 337--349
-\TU/EBGaramond(2)/m/n/10.95 and Kenneth S Kosik.  Regulation of cell-type-speci
-fic transcriptomes by microRNA
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--349
-[][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [][][] []
- [][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] [
-]
- []
-
-
-Underfull \hbox (badness 1237) in paragraph at lines 355--371
-[]\TU/EBGaramond(2)/m/n/10.95 Eric Londin, Phillipe Loher, Aristeidis G Telonis
-, Kevin Quann, Peter Clark, Yi Jing,
- []
-
-[41]
-Underfull \hbox (badness 10000) in paragraph at lines 382--386
-[][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 382--386
+Underfull \hbox (badness 10000) in paragraph at lines 302--305
 [][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][
 ][][][][][][] []
  []
 
-
-Underfull \hbox (badness 3323) in paragraph at lines 427--444
-[]\TU/EBGaramond(2)/m/n/10.95 Chih-Hung Chou, Sirjana Shrestha, Chi-Dung Yang, 
-Nai-Wen Chang, Yu-Ling Lin,
- []
-
-
-Underfull \hbox (badness 1831) in paragraph at lines 427--444
-\TU/EBGaramond(2)/m/n/10.95 Kuang-Wen Liao, Wei-Chi Huang, Ting-Hsuan Sun, Sian
-g-Jyun Tu, Wei-Hsiang Lee,
- []
-
-
-Underfull \hbox (badness 1137) in paragraph at lines 427--444
-\TU/EBGaramond(2)/m/n/10.95 Yi-Shin Wu, Wen-Liang Chen, Meng-Ju Li, Yu-Chun Wu,
- Xin-Yi Huang, Fung Ling
- []
-
-
-Underfull \hbox (badness 2818) in paragraph at lines 427--444
-\TU/EBGaramond(2)/m/n/10.95 Long Weng, Yeong-Nan Cheng, Chao Liang, Wen-Lian Hs
-u, and Hsien-Da Huang.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 427--444
-[] [] [][][] [] [][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][
-][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
- []
-
-[42]
-Underfull \hbox (badness 2617) in paragraph at lines 446--455
-[]\TU/EBGaramond(2)/m/n/10.95 Dong Yue, Hui Liu, and Yufei Huang.  Survey of Co
-mputational Algorithms for
- []
-
-
-Underfull \hbox (badness 1215) in paragraph at lines 446--455
-\TU/EBGaramond(2)/m/n/10.95 MicroRNA Target Prediction.  \TU/EBGaramond(2)/m/it
-/10.95 Current Genomics\TU/EBGaramond(2)/m/n/10.95 , 10(7):478–492, nov 2009.  
-ISSN
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 446--455
-[][][][][][] [] [][][][][][][][][][][][] [] [] [] [][][] [] [][][][][][][][][][
-][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] [] [][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 446--455
-[][][][][] [] [][][][][][][][][][][][][][] [] [] [] [][][] [] [][][][][][][][][
-][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] [] [][][][][] [
-]
- []
-
-
-Underfull \hbox (badness 6641) in paragraph at lines 465--473
-[]\TU/EBGaramond(2)/m/n/10.95 Robin C Friedman, Kyle K.-H. Farh, Christopher B 
-Burge, and David P Bartel.
- []
-
-
-Underfull \hbox (badness 2521) in paragraph at lines 465--473
-\TU/EBGaramond(2)/m/n/10.95 Most mammalian mRNAs are conserved targets of micro
-RNAs.  \TU/EBGaramond(2)/m/it/10.95 Genome Research\TU/EBGaramond(2)/m/n/10.95 
-,
- []
-
-
-Underfull \hbox (badness 2961) in paragraph at lines 465--473
-\TU/EBGaramond(2)/m/n/10.95 19(1):92–105, oct 2009.  ISSN 1088-9051.  doi: $[][
-] [] [][][][] [] [][] [] [][][][][][] [] [][][]$.  URL
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 465--473
-[][]$[][][][] [] [] [] [][][] [] [][][][] [] [][][] [] [][][] [] [][][] [] [][]
-[][][][] [] [][][][][][][][][][][][] [] [] [] [][][] [] [][][][][][][][][][][][
-][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 465--473
-[][][] [] [][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][
-][][][][][][][][][][][][] [] [] [] [][][][][][] [] [][][][][] [] [][][] []
- []
-
-
-Underfull \hbox (badness 6380) in paragraph at lines 476--486
-[]\TU/EBGaramond(2)/m/n/10.95 Panagiotis Alexiou, Manolis Maragkakis, Giorgos L
-. Papadopoulos, Martin Reczko,
- []
-
-
-Underfull \hbox (badness 2384) in paragraph at lines 476--486
-\TU/EBGaramond(2)/m/n/10.95 and Artemis G. Hatzigeorgiou.  Lost in translation:
- an assessment and perspective
- []
-
-
-Underfull \hbox (badness 7576) in paragraph at lines 476--486
-\TU/EBGaramond(2)/m/n/10.95 for computational microRNA target identification.  
-\TU/EBGaramond(2)/m/it/10.95 Bioinformatics\TU/EBGaramond(2)/m/n/10.95 , 25(23)
-:3049–
- []
-
-
-Underfull \hbox (badness 2486) in paragraph at lines 476--486
-\TU/EBGaramond(2)/m/n/10.95 3055, dec 2009.  ISSN 1460-2059.  doi: $[][] [] [][
-][][] [] [][][][][][][][][][][][][][] [] [][][][][][]$.  URL
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 476--486
-[][]$[][][][] [] [] [] [][][] [] [][][][] [] [][][] [] [][][] [] [][][] [] [][]
-[][][][] [] [][][][][][][][][][][][][] [] [] [] [][][][][][][][] [] [][][] [] [
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 326--334
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
 ][][] []
  []
 
-[43]
-Underfull \hbox (badness 1953) in paragraph at lines 573--585
-[]\TU/EBGaramond(2)/m/n/10.95 Amit Zeisel, Hannah Hochgerner, Peter Lönnerberg,
- Anna Johnsson, Fatima Memic,
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--334
+[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
+ [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 573--585
-\TU/EBGaramond(2)/m/n/10.95 Job van der Zwan, Martin Häring, Emelie Braun, Lars
- E Borm, Gioele La Manno,
+Underfull \hbox (badness 10000) in paragraph at lines 336--343
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] []
  []
 
 
-Underfull \hbox (badness 3460) in paragraph at lines 573--585
-\TU/EBGaramond(2)/m/n/10.95 Simone Codeluppi, Alessandro Furlan, Kawai Lee, Nat
-han Skene, Kenneth D Har-
+Underfull \hbox (badness 10000) in paragraph at lines 336--343
+[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
+ [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 3724) in paragraph at lines 573--585
-\TU/EBGaramond(2)/m/n/10.95 ris, Jens Hjerling-Leffler, Ernest Arenas, Patrik E
-rnfors, Ulrika Marklund, and Sten
+Underfull \hbox (badness 10000) in paragraph at lines 336--343
+[] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][][][
+][][][] [] [][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 2245) in paragraph at lines 573--585
-\TU/EBGaramond(2)/m/n/10.95 Linnarsson.  Molecular Architecture of the Mouse Ne
-rvous System.  \TU/EBGaramond(2)/m/it/10.95 Cell\TU/EBGaramond(2)/m/n/10.95 , 1
-74(4):
+Underfull \hbox (badness 10000) in paragraph at lines 351--358
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] []
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 573--585
-\TU/EBGaramond(2)/m/n/10.95 999–1014.e22, aug 2018.  ISSN 00928674.  doi: $[][]
- [] [][][][] [] [] [] [][][][] [] [][][][] [] [][] [] [][][]$.  URL
+Underfull \hbox (badness 10000) in paragraph at lines 351--358
+[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
+ [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--585
-[][]$[][][][] [] [] [] [][][] [] [][][][] [] [][][] [] [][][] [] [][][] [] [][]
-[][][][] [] [][][][][][][][][][][][] [] [] [] [][][] [] [][][][][][][][][][][][
+Underfull \hbox (badness 10000) in paragraph at lines 360--367
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][] [] [] []
+ [][][][][][][][] [] [][][] []
+ []
+
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 384--393
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--393
+[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
+ [][][][] [] [][][][][] [] [][][][][][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 411--417
+[]\TU/EBGaramond(2)/m/n/10.95 Zeisel a, Manchado a B M, Codeluppi S \TU/EBGaram
+ond(2)/m/it/10.95 et al.  \TU/EBGaramond(2)/m/n/10.95 Cell types in the mouse c
+ortex and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--417
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][][][][][] [] [][][]
+[][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][][][][][] [] [][] []
+ [][][][][][][] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--443
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--443
+[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
+ [][][][] [] [][][][][] [] [][][][][][][][][][][][][][][] []
+ []
+
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 445--450
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][][][][][][][] [] []
+[][][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][] [] [][][][][][][][][
+][][][][] [] [][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--479
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--495
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
+[][][][][][][][][][][][][][][][][] [] [][][] [] [][][][][] [] [] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 497--503
+[]\TU/EBGaramond(2)/m/n/10.95 Love M I, Huber W, & Anders S.  Moderated estimat
+ion of fold change and dis-
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 497--503
+\TU/EBGaramond(2)/m/n/10.95 persion for RNA-seq data with DESeq2.  \TU/EBGaramo
+nd(2)/m/it/10.95 Genome Biology\TU/EBGaramond(2)/m/n/10.95 , 15(12):550 (2014).
+  doi:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--503
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][][][][][][][][][][]
+[] [] [][][][][][][][][][][][][] [] [][][] [] [][][][][][][][] [] [][] [] [][][
 ][] []
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 573--585
-[][][] [] [][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][
-][][][][][][][][][][][][][] [] [] [] [][][][][][][][][][] []
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 505--511
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][][][][][][][][][]
+[][][][][][] [] [][][][][][][][][][][][][] [] [][][] [] [][][][][][][][] [] [][
+] [] [][][][] []
  []
 
-[44]
-Underfull \hbox (badness 3884) in paragraph at lines 623--632
-\TU/EBGaramond(2)/m/n/10.95 acid.  \TU/EBGaramond(2)/m/it/10.95 Developmental B
-rain Research\TU/EBGaramond(2)/m/n/10.95 , 102(1):53–67, aug 1997.  ISSN 016538
-06.
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--521
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] []
  []
 
-) [45]
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--521
+[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
+ [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
+ []
+
+) [53]
 \openout2 = `chapters/appendixA.aux'.
 
  (./chapters/appendixA.tex
 Appendix A.
-) [46
+) [54
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 68.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 68.
- (./dissertation.aux (./chapters/000_introduction.aux)
-(./chapters/010_database.aux) (./chapters/030_cellculture.aux)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
+ (./dissertation.aux (./chapters/010_introduction.aux)
+(./chapters/020_database.aux) (./chapters/030_cellculture.aux)
 (./chapters/040_stroke.aux) (./chapters/100_discussion.aux)
 (./chapters/110_conclusion.aux) (./chapters/appendixA.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 68.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 68.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 81.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 81.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: E10F79D660C2C28242EA5F30E0D3DA62.
+(rerunfilecheck)             Checksum: 21B743B250EE5C127137A2DABE6BC515.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 45543 strings out of 492916
- 951455 string characters out of 6133345
- 1055622 words of memory out of 5000000
- 48876 multiletter control sequences out of 15000+600000
+ 46061 strings out of 492916
+ 963657 string characters out of 6133345
+ 1070415 words of memory out of 5000000
+ 49368 multiletter control sequences out of 15000+600000
  546196 words of font info for 152 fonts, out of 8000000 for 9000
- 1350 hyphenation exceptions out of 8191
- 73i,12n,118p,1769b,1085s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 1351 hyphenation exceptions out of 8191
+ 73i,12n,118p,1956b,2219s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (54 pages).
+Output written on dissertation.pdf (62 pages).

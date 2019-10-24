@@ -5,8 +5,18 @@
 \documentclass{Dissertate}
 
 % TODO notes
-\usepackage[textsize=tiny, linecolor=magenta, bordercolor=magenta,
-            backgroundcolor=magenta]{todonotes}
+\definecolor{lightmauve}{RGB}{230,0,230}
+\setlength{\marginparwidth}{2cm}
+\usepackage[textsize=tiny, linecolor=mauve, bordercolor=black,
+            backgroundcolor=lightmauve]{todonotes}
+            
+\usepackage{wrapfig}
+
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{195,205,230}
+
+% prevent breaking inside LA-N
+\usepackage[shortcuts]{extdash}
 
 % siunitx number format
 % \sisetup{detect-all}
@@ -38,8 +48,8 @@
 
 % include each chapter...
 % \setcounter{chapter}{-1}  % start chapter numbering at 0
-\include{chapters/000_introduction}
-\include{chapters/010_database}
+\include{chapters/010_introduction}
+\include{chapters/020_database}
 \include{chapters/030_cellculture}
 \include{chapters/040_stroke}
 \include{chapters/100_discussion}
@@ -51,7 +61,10 @@
 \clearpage
 \bibliography{library}
 \addcontentsline{toc}{chapter}{References}
-\bibliographystyle{unsrtnat}
+\bibliographystyle{mystyle}
+
+% articles with multiple URLs have to be manually arranged in library.bib using »note = "\url{}"«
+% maybe better just remove all but one URL
 
 
 %appendix

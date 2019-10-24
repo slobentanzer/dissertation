@@ -1,639 +1,530 @@
-\begin{thebibliography}{57}
-\providecommand{\natexlab}[1]{#1}
+\begin{thebibliography}{10}
 \providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
 \expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
 
-\bibitem[Dale(1914)]{Dale1914}
-H.~H. Dale.
+\bibitem{Dale1914}
+Dale H~H.
 \newblock {THE ACTION OF CERTAIN ESTERS AND ETHERS OF CHOLINE, AND THEIR
   RELATION TO MUSCARINE}.
-\newblock \emph{Journal of Pharmacology and Experimental Therapeutics},
-  6\penalty0 (2), 1914.
+\newblock \emph{Journal of Pharmacology and Experimental Therapeutics}, 6(2)
+  (1914).
 
-\bibitem[Loewi(1921)]{Loewi1921}
-O.~Loewi.
+\bibitem{Loewi1921}
+Loewi O.
 \newblock {{\"{U}}ber humorale {\"{U}}bertragbarkeit der Herznervenwirkung}.
-\newblock \emph{Pfl{\"{u}}gers Arch. Ges. Physiol.}, 189:\penalty0 239--242,
-  1921.
+\newblock \emph{Pfl{\"{u}}gers Arch. Ges. Physiol.}, 189:239--242 (1921).
 
-\bibitem[Dale and Dudley(1929)]{Dale1929}
-H~H Dale and H~W Dudley.
+\bibitem{Dale1929}
+Dale H~H \& Dudley H~W.
 \newblock {THE PRESENCE OF HISTAMINE AND ACETYLCHOLINE IN THE SPLEEN OF THE OX
   AND THE HORSE}.
-\newblock \emph{J. Physiol.}, 68:\penalty0 97, 1929.
-\newblock URL
-  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1402860/pdf/jphysiol01676-0019.pdf}.
+\newblock \emph{J. Physiol.}, 68:97 (1929).
+\newline\urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1402860/pdf/jphysiol01676-0019.pdf}
 
-\bibitem[Mesulam et~al.(1984)Mesulam, Mufson, Levey, and Wainer]{Mesulam1984}
-M.~M. Mesulam, E.~J. Mufson, A.~I. Levey, and B.~H. Wainer.
+\bibitem{Mesulam1984}
+Mesulam M~M, Mufson E~J, Levey A~I, \& Wainer B~H.
 \newblock {Atlas of cholinergic neurons in the forebrain and upper brainstem of
   the macaque based on monoclonal choline acetyltransferase
   immunohistochemistry and acetylcholinesterase histochemistry}.
-\newblock \emph{Neuroscience}, 12\penalty0 (3):\penalty0 669--686, 1984.
-\newblock ISSN 03064522.
+\newblock \emph{Neuroscience}, 12(3):669--686 (1984).
 \newblock \doi{10.1016/0306-4522(84)90163-5}.
 
-\bibitem[Lobentanzer et~al.(2019)Lobentanzer, Hanin, Klein, and
-  Soreq]{Lobentanzer2019a}
-Sebastian Lobentanzer, Geula Hanin, Jochen Klein, and Hermona Soreq.
+\bibitem{Lobentanzer2019a}
+Lobentanzer S, Hanin G, Klein J, \& Soreq H.
 \newblock {Integrative Transcriptomics Reveals Sexually Dimorphic Control of
   the Cholinergic/Neurokine Interface in Schizophrenia and Bipolar Disorder}.
-\newblock \emph{CellReports}, pages 1--19, 2019.
-\newblock ISSN 2211-1247.
+\newblock \emph{CellReports}, pp. 1--19 (2019).
 \newblock \doi{10.1016/j.celrep.2019.09.017}.
-\newblock URL \url{https://doi.org/10.1016/j.celrep.2019.09.017}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.celrep.2019.09.017}
 
-\bibitem[Levi-Montalcini and Booker(1960)]{Levi-Montalcini1960}
-R~Levi-Montalcini and B~Booker.
+\bibitem{Levi-Montalcini1960}
+Levi-Montalcini R \& Booker B.
 \newblock {Destruction of the sympathetic ganglia in mammals by an antiserum to
   a nerve-growth protein}.
-\newblock \emph{Proceedings of the National Academy of Sciences}, 46\penalty0
-  (3):\penalty0 384--391, mar 1960.
-\newblock ISSN 0027-8424.
+\newblock \emph{Proceedings of the National Academy of Sciences},
+  46(3):384--391 (1960).
 \newblock \doi{10.1073/pnas.46.3.384}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/16578497
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16578497
   http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC222845
-  http://www.pnas.org/cgi/doi/10.1073/pnas.46.3.384}.
+  http://www.pnas.org/cgi/doi/10.1073/pnas.46.3.384}
 
-\bibitem[Hefti(1986)]{Hefti1986}
-F.~Hefti.
+\bibitem{Hefti1986}
+Hefti F.
 \newblock {Nerve growth factor promotes survival of septal cholinergic neurons
   after fimbrial transections}.
-\newblock \emph{Journal of Neuroscience}, 6\penalty0 (8):\penalty0 2155--2162,
-  1986.
-\newblock ISSN 02706474.
+\newblock \emph{Journal of Neuroscience}, 6(8):2155--2162 (1986).
 
-\bibitem[McManaman et~al.(1988)McManaman, Crawford, Stewart, and
-  Appel]{McManaman1988}
-James~L. McManaman, Frances~G. Crawford, S.~Scott Stewart, and Stanley~H.
-  Appel.
+\bibitem{McManaman1988}
+McManaman J~L, Crawford F~G, Stewart S~S, \& Appel S~H.
 \newblock {Purification of a Skeletal Muscle Polypeptide Which Stimulates
   Choline Acetyltransferase Activity in Cultured Spinal Cord Neurons}.
-\newblock \emph{Journal of Biological Chemistry}, 263\penalty0 (12):\penalty0
-  5890--5897, 1988.
+\newblock \emph{Journal of Biological Chemistry}, 263(12):5890--5897 (1988).
 
-\bibitem[Rao et~al.(1992)Rao, Patterson, and Landis]{Rao1992}
-M~S Rao, P~H Patterson, and S~C Landis.
+\bibitem{Rao1992}
+Rao M~S, Patterson P~H, \& Landis S~C.
 \newblock {Multiple cholinergic differentiation factors are present in footpad
   extracts: comparison with known cholinergic factors.}
-\newblock \emph{Development (Cambridge, England)}, 116\penalty0 (3):\penalty0
-  731--44, nov 1992.
-\newblock ISSN 0950-1991.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/1289063}.
+\newblock \emph{Development (Cambridge, England)}, 116(3):731--44 (1992).
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/1289063}
 
-\bibitem[Rawlings(2004)]{Rawlings2004}
-J.~S. Rawlings.
+\bibitem{Rawlings2004}
+Rawlings J~S.
 \newblock {The JAK/STAT signaling pathway}.
-\newblock \emph{Journal of Cell Science}, 117\penalty0 (8):\penalty0
-  1281--1283, 2004.
-\newblock ISSN 0021-9533.
+\newblock \emph{Journal of Cell Science}, 117(8):1281--1283 (2004).
 \newblock \doi{10.1242/jcs.00963}.
-\newblock URL \url{http://jcs.biologists.org/cgi/doi/10.1242/jcs.00963}.
+\newline\urlprefix\url{http://jcs.biologists.org/cgi/doi/10.1242/jcs.00963}
 
-\bibitem[Nathanson(2012)]{Nathanson2012}
-Neil~M. Nathanson.
+\bibitem{Nathanson2012}
+Nathanson N~M.
 \newblock {Regulation of neurokine receptor signaling and trafficking}.
-\newblock \emph{Neurochemistry International}, 61\penalty0 (6):\penalty0
-  874--878, nov 2012.
-\newblock ISSN 01970186.
+\newblock \emph{Neurochemistry International}, 61(6):874--878 (2012).
 \newblock \doi{10.1016/j.neuint.2012.01.018}.
-\newblock URL
-  \url{https://linkinghub.elsevier.com/retrieve/pii/S0197018612000307}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0197018612000307}
 
-\bibitem[Babu et~al.(2004)Babu, Luscombe, Aravind, Gerstein, and
-  Teichmann]{Babu2004}
-M~Madan Babu, Nicholas~M Luscombe, L~Aravind, Mark Gerstein, and Sarah~A
-  Teichmann.
+\bibitem{Babu2004}
+Babu M~M, Luscombe N~M, Aravind L, Gerstein M, \& Teichmann S~A.
 \newblock {Structure and evolution of transcriptional regulatory networks}.
-\newblock \emph{Current Opinion in Structural Biology}, 14\penalty0
-  (3):\penalty0 283--291, jun 2004.
-\newblock ISSN 0959440X.
+\newblock \emph{Current Opinion in Structural Biology}, 14(3):283--291 (2004).
 \newblock \doi{10.1016/j.sbi.2004.05.004}.
-\newblock URL
-  \url{https://linkinghub.elsevier.com/retrieve/pii/S0959440X04000788}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0959440X04000788}
 
-\bibitem[Lee et~al.(1993)Lee, Feinbaum, and Ambros]{Lee1993}
-Rosalind~C. Lee, Rhonda~L. Feinbaum, and Victor Ambros.
+\bibitem{Lee1993}
+Lee R~C, Feinbaum R~L, \& Ambros V.
 \newblock {The C. elegans heterochronic gene lin-4 encodes small RNAs with
   antisense complementarity to lin-14}.
-\newblock \emph{Cell}, 75\penalty0 (5):\penalty0 843--854, dec 1993.
-\newblock ISSN 00928674.
+\newblock \emph{Cell}, 75(5):843--854 (1993).
 \newblock \doi{10.1016/0092-8674(93)90529-Y}.
-\newblock URL
-  \url{https://linkinghub.elsevier.com/retrieve/pii/009286749390529Y}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/009286749390529Y}
 
-\bibitem[Rodriguez(2004)]{Rodriguez2004}
-A.~Rodriguez.
+\bibitem{Rodriguez2004}
+Rodriguez A.
 \newblock {Identification of Mammalian microRNA Host Genes and Transcription
   Units}.
-\newblock \emph{Genome Research}, 14\penalty0 (10a):\penalty0 1902--1910, sep
-  2004.
-\newblock ISSN 1088-9051.
+\newblock \emph{Genome Research}, 14(10a):1902--1910 (2004).
 \newblock \doi{10.1101/gr.2722704}.
-\newblock URL \url{http://www.genome.org/cgi/doi/10.1101/gr.2722704}.
+\newline\urlprefix\url{http://www.genome.org/cgi/doi/10.1101/gr.2722704}
 
-\bibitem[Kozomara et~al.(2019)Kozomara, Birgaoanu, and
-  Griffiths-Jones]{Kozomara2019}
-Ana Kozomara, Maria Birgaoanu, and Sam Griffiths-Jones.
+\bibitem{Kozomara2019}
+Kozomara A, Birgaoanu M, \& Griffiths-Jones S.
 \newblock {miRBase: from microRNA sequences to function}.
-\newblock \emph{Nucleic Acids Research}, 47\penalty0 (D1):\penalty0 D155--D162,
-  jan 2019.
-\newblock ISSN 0305-1048.
+\newblock \emph{Nucleic Acids Research}, 47(D1):D155--D162 (2019).
 \newblock \doi{10.1093/nar/gky1141}.
-\newblock URL \url{https://academic.oup.com/nar/article/47/D1/D155/5179337}.
+\newline\urlprefix\url{https://academic.oup.com/nar/article/47/D1/D155/5179337}
 
-\bibitem[Ambros et~al.(2003)Ambros, Bartel, Bartel, Burge, Carrington, Chen,
-  Dreyfuss, Eddy, Griffiths-Jones, Marshall, Matzke, Ruvkun, and
-  Tuschl]{Ambros2003}
-Victor Ambros, Bonnie Bartel, David~P Bartel, Christopher~B Burge, James~C
-  Carrington, Xuemei Chen, Gideon Dreyfuss, Sean~R Eddy, Sam Griffiths-Jones,
-  Mhairi Marshall, Marjori Matzke, Gary Ruvkun, and Thomas Tuschl.
+\bibitem{Ambros2003}
+Ambros V, Bartel B, Bartel D~P \emph{et~al.}
 \newblock {A uniform system for microRNA annotation.}
-\newblock \emph{RNA (New York, N.Y.)}, 9\penalty0 (3):\penalty0 277--9, mar
-  2003.
-\newblock ISSN 1355-8382.
+\newblock \emph{RNA (New York, N.Y.)}, 9(3):277--9 (2003).
 \newblock \doi{10.1261/rna.2183803}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/12592000
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC1370393}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/12592000
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC1370393}
 
-\bibitem[Borek et~al.(1977)Borek, Baliga, Gehrke, Kuo, Belman, Troll, and
-  Waalkes]{Borek1977}
-Ernest Borek, B~S Baliga, Charles~W Gehrke, C~W Kuo, Sidney Belman, Walter
-  Troll, and T~Phillip Waalkes.
+\bibitem{Salta2017a}
+Salta E \& {De Strooper} B.
+\newblock {microRNA-132: a key noncoding RNA operating in the cellular phase of
+  Alzheimer's disease}.
+\newblock \emph{The FASEB Journal}, 31(2):424--433 (2017).
+\newblock \doi{10.1096/fj.201601308}.
+\newline\urlprefix\url{http://www.fasebj.org/doi/10.1096/fj.201601308}
+
+\bibitem{Lu2015}
+Lu L~F, Gasteiger G, Yu I~S \emph{et~al.}
+\newblock {A Single miRNA-mRNA Interaction Affects the Immune Response in a
+  Context- and Cell-Type-Specific Manner}.
+\newblock \emph{Immunity}, 43(1):52--64 (2015).
+\newblock \doi{10.1016/j.immuni.2015.04.022}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/26163372
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4529747
+  https://linkinghub.elsevier.com/retrieve/pii/S1074761315002551}
+
+\bibitem{Borek1977}
+Borek E, Baliga B~S, Gehrke C~W, Kuo C~W, Belman S, Troll W, \& Waalkes T~P.
 \newblock {High Turnover Rate of Transfer RNA in Tumor Tissue}.
-\newblock \emph{CANCER RESEARCH}, 37:\penalty0 3362--3366, 1977.
-\newblock URL
-  \url{https://cancerres.aacrjournals.org/content/37/9/3362.full-text.pdf}.
+\newblock \emph{CANCER RESEARCH}, 37:3362--3366 (1977).
+\newline\urlprefix\url{https://cancerres.aacrjournals.org/content/37/9/3362.full-text.pdf}
 
-\bibitem[Speer et~al.(1979)Speer, Gehrke, Kuo, Waalkes, and Borek]{Speer1979}
-John Speer, Charles~W Gehrke, Kenneth~C Kuo, T~Phillip Waalkes, and Ernest
-  Borek.
+\bibitem{Speer1979}
+Speer J, Gehrke C~W, Kuo K~C, Waalkes T~P, \& Borek E.
 \newblock {tRNA breakdown products as markers for cancer}.
-\newblock \emph{Cancer}, 44\penalty0 (6):\penalty0 2120--2123, dec 1979.
-\newblock ISSN 0008-543X.
+\newblock \emph{Cancer}, 44(6):2120--2123 (1979).
 \newblock
   \doi{10.1002/1097-0142(197912)44:6<2120::AID-CNCR2820440623>3.0.CO;2-6}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/509391
-  http://doi.wiley.com/10.1002/1097-0142{\%}28197912{\%}2944{\%}3A6{\%}3C2120{\%}3A{\%}3AAID-CNCR2820440623{\%}3E3.0.CO{\%}3B2-6}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/509391
+  http://doi.wiley.com/10.1002/1097-0142{\%}28197912{\%}2944{\%}3A6{\%}3C2120{\%}3A{\%}3AAID-CNCR2820440623{\%}3E3.0.CO{\%}3B2-6}
 
-\bibitem[Cole et~al.(2009)Cole, Sobala, Lu, Thatcher, Bowman, Brown, Green,
-  Barton, and Hutvagner]{Cole2009}
-Christian Cole, Andrew Sobala, Cheng Lu, Shawn~R Thatcher, Andrew Bowman,
-  J.~W.S. Brown, Pamela~J Green, Geoffrey~J Barton, and Gyorgy Hutvagner.
+\bibitem{Cole2009}
+Cole C, Sobala A, Lu C, Thatcher S~R, Bowman A, Brown J~W, Green P~J, Barton
+  G~J, \& Hutvagner G.
 \newblock {Filtering of deep sequencing data reveals the existence of abundant
   Dicer-dependent small RNAs derived from tRNAs}.
-\newblock \emph{RNA}, 15\penalty0 (12):\penalty0 2147--2160, dec 2009.
-\newblock ISSN 1355-8382.
+\newblock \emph{RNA}, 15(12):2147--2160 (2009).
 \newblock \doi{10.1261/rna.1738409}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/19850906
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/19850906
   http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2779667
-  http://rnajournal.cshlp.org/cgi/doi/10.1261/rna.1738409}.
+  http://rnajournal.cshlp.org/cgi/doi/10.1261/rna.1738409}
 
-\bibitem[Lee et~al.(2009)Lee, Shibata, Malhotra, and Dutta]{Lee2009}
-Yong~Sun Lee, Yoshiyuki Shibata, Ankit Malhotra, and Anindya Dutta.
+\bibitem{Lee2009}
+Lee Y~S, Shibata Y, Malhotra A, \& Dutta A.
 \newblock {A novel class of small RNAs: tRNA-derived RNA fragments (tRFs).}
-\newblock \emph{Genes {\&} development}, 23\penalty0 (22):\penalty0 2639--49,
-  nov 2009.
-\newblock ISSN 1549-5477.
+\newblock \emph{Genes {\&} development}, 23(22):2639--49 (2009).
 \newblock \doi{10.1101/gad.1837609}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/19933153
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2779758}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/19933153
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2779758}
 
-\bibitem[Godoy et~al.(2018)Godoy, Bhakta, Barczak, Cakmak, Fisher, MacKenzie,
-  Patel, Price, Smith, Woodruff, and Erle]{Godoy2018}
-Paula~M Godoy, Nirav~R Bhakta, Andrea~J Barczak, Hakan Cakmak, Susan Fisher,
-  Tippi~C. MacKenzie, Tushar Patel, Richard~W Price, James~F Smith, Prescott~G
-  Woodruff, and David~J Erle.
+\bibitem{Godoy2018}
+Godoy P~M, Bhakta N~R, Barczak A~J \emph{et~al.}
 \newblock {Large Differences in Small RNA Composition Between Human Biofluids}.
-\newblock \emph{Cell Reports}, 25\penalty0 (5):\penalty0 1346--1358, oct 2018.
-\newblock ISSN 22111247.
+\newblock \emph{Cell Reports}, 25(5):1346--1358 (2018).
 \newblock \doi{10.1016/j.celrep.2018.10.014}.
-\newblock URL \url{https://doi.org/10.1016/j.celrep.2018.10.014
-  https://linkinghub.elsevier.com/retrieve/pii/S2211124718315778}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.celrep.2018.10.014
+  https://linkinghub.elsevier.com/retrieve/pii/S2211124718315778}
 
-\bibitem[Yamasaki et~al.(2009)Yamasaki, Ivanov, Hu, and Anderson]{Yamasaki2009}
-Satoshi Yamasaki, Pavel Ivanov, Guo-fu Hu, and Paul Anderson.
+\bibitem{Yamasaki2009}
+Yamasaki S, Ivanov P, Hu G~f, \& Anderson P.
 \newblock {Angiogenin cleaves tRNA and promotes stress-induced translational
   repression}.
-\newblock \emph{The Journal of Cell Biology}, 185\penalty0 (1):\penalty0
-  35--42, apr 2009.
-\newblock ISSN 0021-9525.
+\newblock \emph{The Journal of Cell Biology}, 185(1):35--42 (2009).
 \newblock \doi{10.1083/JCB.200811106}.
-\newblock URL \url{http://jcb.rupress.org/content/185/1/35.long}.
+\newline\urlprefix\url{http://jcb.rupress.org/content/185/1/35.long}
 
-\bibitem[Ivanov et~al.(2011)Ivanov, Emara, Villen, Gygi, and
-  Anderson]{Ivanov2011}
-Pavel Ivanov, Mohamed~M. Emara, Judit Villen, Steven~P. Gygi, and Paul
-  Anderson.
+\bibitem{Ivanov2011}
+Ivanov P, Emara M~M, Villen J, Gygi S~P, \& Anderson P.
 \newblock {Angiogenin-Induced tRNA Fragments Inhibit Translation Initiation}.
-\newblock \emph{Molecular Cell}, 43\penalty0 (4):\penalty0 613--623, aug 2011.
-\newblock ISSN 10972765.
+\newblock \emph{Molecular Cell}, 43(4):613--623 (2011).
 \newblock \doi{10.1016/j.molcel.2011.06.022}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S1097276511005247?via{\%}3Dihub
-  https://linkinghub.elsevier.com/retrieve/pii/S1097276511005247}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1097276511005247?via{\%}3Dihub
+  https://linkinghub.elsevier.com/retrieve/pii/S1097276511005247}
 
-\bibitem[Burroughs et~al.(2011)Burroughs, Ando, de~Hoon, Tomaru, Suzuki,
-  Hayashizaki, and Daub]{Burroughs2011}
-Alexander~Maxwell Burroughs, Yoshinari Ando, Michiel~Laurens de~Hoon, Yasuhiro
-  Tomaru, Harukazu Suzuki, Yoshihide Hayashizaki, and Carsten~Olivier Daub.
+\bibitem{Burroughs2011}
+Burroughs A~M, Ando Y, de~Hoon M~L, Tomaru Y, Suzuki H, Hayashizaki Y, \& Daub
+  C~O.
 \newblock {Deep-sequencing of human Argonaute-associated small RNAs provides
   insight into miRNA sorting and reveals Argonaute association with RNA
   fragments of diverse origin}.
-\newblock \emph{RNA Biology}, 8\penalty0 (1):\penalty0 158--177, jan 2011.
-\newblock ISSN 1547-6286.
+\newblock \emph{RNA Biology}, 8(1):158--177 (2011).
 \newblock \doi{10.4161/rna.8.1.14300}.
-\newblock URL \url{http://www.tandfonline.com/doi/abs/10.4161/rna.8.1.14300}.
+\newline\urlprefix\url{http://www.tandfonline.com/doi/abs/10.4161/rna.8.1.14300}
 
-\bibitem[Kumar et~al.(2014)Kumar, Anaya, Mudunuri, and Dutta]{Kumar2014}
-Pankaj Kumar, Jordan Anaya, Suresh~B Mudunuri, and Anindya Dutta.
+\bibitem{Kumar2014}
+Kumar P, Anaya J, Mudunuri S~B, \& Dutta A.
 \newblock {Meta-analysis of tRNA derived RNA fragments reveals that they are
   evolutionarily conserved and associate with AGO proteins to recognize
   specific RNA targets}.
-\newblock \emph{BMC Biology}, 12\penalty0 (1):\penalty0 78, dec 2014.
-\newblock ISSN 1741-7007.
+\newblock \emph{BMC Biology}, 12(1):78 (2014).
 \newblock \doi{10.1186/s12915-014-0078-0}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/25270025
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/25270025
   http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4203973
-  http://bmcbiol.biomedcentral.com/articles/10.1186/s12915-014-0078-0}.
+  http://bmcbiol.biomedcentral.com/articles/10.1186/s12915-014-0078-0}
 
-\bibitem[Huang et~al.(2017)Huang, Yang, Cheng, Wang, Fu, Shen, Zhang, Zhang,
-  Xue, Li, Da, Yang, Li, Liu, Qiao, Kong, Yao, Zhao, Li, and Zhang]{Huang2017}
-Bingqing Huang, Huipeng Yang, Xixi Cheng, Dan Wang, Shuyu Fu, Wencui Shen,
-  Qi~Zhang, Lijuan Zhang, Zhenyi Xue, Yan Li, Yurong Da, Qing Yang, Zesong Li,
-  Li~Liu, Liang Qiao, Ying Kong, Zhi Yao, Peng Zhao, Min Li, and Rongxin Zhang.
+\bibitem{Huang2017}
+Huang B, Yang H, Cheng X \emph{et~al.}
 \newblock {tRF/miR-1280 Suppresses Stem Cell–like Cells and Metastasis in
   Colorectal Cancer}.
-\newblock \emph{Cancer Research}, 77\penalty0 (12):\penalty0 3194--3206, jun
-  2017.
-\newblock ISSN 0008-5472.
+\newblock \emph{Cancer Research}, 77(12):3194--3206 (2017).
 \newblock \doi{10.1158/0008-5472.CAN-16-3146}.
-\newblock URL \url{http://cancerres.aacrjournals.org/
-  http://cancerres.aacrjournals.org/lookup/doi/10.1158/0008-5472.CAN-16-3146}.
+\newline\urlprefix\url{http://cancerres.aacrjournals.org/
+  http://cancerres.aacrjournals.org/lookup/doi/10.1158/0008-5472.CAN-16-3146}
 
-\bibitem[Gebetsberger et~al.(2017)Gebetsberger, Wyss, Mleczko, Reuther, and
-  Polacek]{Gebetsberger2017}
-Jennifer Gebetsberger, Leander Wyss, Anna~M Mleczko, Julia Reuther, and Norbert
-  Polacek.
+\bibitem{Gebetsberger2017}
+Gebetsberger J, Wyss L, Mleczko A~M, Reuther J, \& Polacek N.
 \newblock {A tRNA-derived fragment competes with mRNA for ribosome binding and
   regulates translation during stress}.
-\newblock \emph{RNA Biology}, 14\penalty0 (10):\penalty0 1364--1373, oct 2017.
-\newblock ISSN 1547-6286.
+\newblock \emph{RNA Biology}, 14(10):1364--1373 (2017).
 \newblock \doi{10.1080/15476286.2016.1257470}.
-\newblock URL
-  \url{https://www.tandfonline.com/action/journalInformation?journalCode=krnb20
-  https://www.tandfonline.com/doi/full/10.1080/15476286.2016.1257470}.
+\newline\urlprefix\url{https://www.tandfonline.com/action/journalInformation?journalCode=krnb20
+  https://www.tandfonline.com/doi/full/10.1080/15476286.2016.1257470}
 
-\bibitem[Goodarzi et~al.(2015)Goodarzi, Liu, Nguyen, Zhang, Fish, and
-  Tavazoie]{Goodarzi2015}
-Hani Goodarzi, Xuhang Liu, Hoang~C.B. Nguyen, Steven Zhang, Lisa Fish, and
-  Sohail~F. Tavazoie.
+\bibitem{Goodarzi2015}
+Goodarzi H, Liu X, Nguyen H~C, Zhang S, Fish L, \& Tavazoie S~F.
 \newblock {Endogenous tRNA-Derived Fragments Suppress Breast Cancer Progression
   via YBX1 Displacement}.
-\newblock \emph{Cell}, 161\penalty0 (4):\penalty0 790--802, may 2015.
-\newblock ISSN 00928674.
+\newblock \emph{Cell}, 161(4):790--802 (2015).
 \newblock \doi{10.1016/j.cell.2015.02.053}.
-\newblock URL
-  \url{https://www.sciencedirect.com/science/article/pii/S0092867415003189?via{\%}3Dihub
-  https://linkinghub.elsevier.com/retrieve/pii/S0092867415003189}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0092867415003189?via{\%}3Dihub
+  https://linkinghub.elsevier.com/retrieve/pii/S0092867415003189}
 
-\bibitem[Kim et~al.(2017)Kim, Fuchs, Wang, Wei, Zhang, Park, Roy-Chaudhuri, Li,
-  Xu, Chu, Zhang, Chua, So, Zhang, Sarnow, and Kay]{Kim2017}
-Hak~Kyun Kim, Gabriele Fuchs, Shengchun Wang, Wei Wei, Yue Zhang, Hyesuk Park,
-  Biswajoy Roy-Chaudhuri, Pan Li, Jianpeng Xu, Kirk Chu, Feijie Zhang, Mei-Sze
-  Chua, Samuel So, Qiangfeng~Cliff Zhang, Peter Sarnow, and Mark~A. Kay.
+\bibitem{Kim2017}
+Kim H~K, Fuchs G, Wang S \emph{et~al.}
 \newblock {A transfer-RNA-derived small RNA regulates ribosome biogenesis}.
-\newblock \emph{Nature}, 552\penalty0 (7683):\penalty0 57, nov 2017.
-\newblock ISSN 0028-0836.
+\newblock \emph{Nature}, 552(7683):57 (2017).
 \newblock \doi{10.1038/nature25005}.
-\newblock URL \url{http://www.nature.com/doifinder/10.1038/nature25005}.
+\newline\urlprefix\url{http://www.nature.com/doifinder/10.1038/nature25005}
 
-\bibitem[Loher et~al.(2017)Loher, Telonis, and Rigoutsos]{Loher2017}
-Phillipe Loher, Aristeidis~G Telonis, and Isidore Rigoutsos.
+\bibitem{Loher2017}
+Loher P, Telonis A~G, \& Rigoutsos I.
 \newblock {MINTmap: fast and exhaustive profiling of nuclear and mitochondrial
   tRNA fragments from short RNA-seq data}.
-\newblock \emph{Scientific Reports}, 7\penalty0 (1):\penalty0 41184, mar 2017.
-\newblock ISSN 2045-2322.
+\newblock \emph{Scientific Reports}, 7(1):41184 (2017).
 \newblock \doi{10.1038/srep41184}.
-\newblock URL \url{http://dx.doi.org/10.1038/srep41184
-  http://www.nature.com/articles/srep41184}.
+\newline\urlprefix\url{http://dx.doi.org/10.1038/srep41184
+  http://www.nature.com/articles/srep41184}
 
-\bibitem[Marbach et~al.(2016)Marbach, Lamparter, Quon, Kellis, Kutalik, and
-  Bergmann]{Marbach2016}
-Daniel Marbach, David Lamparter, Gerald Quon, Manolis Kellis, Zolt{\'{a}}n
-  Kutalik, and Sven Bergmann.
+\bibitem{Marbach2016}
+Marbach D, Lamparter D, Quon G, Kellis M, Kutalik Z, \& Bergmann S.
 \newblock {Tissue-specific regulatory circuits reveal variable modular
   perturbations across complex diseases}.
-\newblock \emph{Nature Methods}, 13\penalty0 (4):\penalty0 366--370, apr 2016.
-\newblock ISSN 1548-7091.
+\newblock \emph{Nature Methods}, 13(4):366--370 (2016).
 \newblock \doi{10.1038/nmeth.3799}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/26950747
-  http://www.nature.com/articles/nmeth.3799 http://regulatorycircuits.org}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/26950747
+  http://www.nature.com/articles/nmeth.3799 http://regulatorycircuits.org}
 
-\bibitem[Nowakowski et~al.(2018)Nowakowski, Rani, Golkaram, Zhou, Alvarado,
-  Huch, West, Leyrat, Pollen, Kriegstein, Petzold, and Kosik]{Nowakowski2018}
-Tomasz~J Nowakowski, Neha Rani, Mahdi Golkaram, Hongjun~R Zhou, Beatriz
-  Alvarado, Kylie Huch, Jay~A West, Anne Leyrat, Alex~A Pollen, Arnold~R
-  Kriegstein, Linda~R Petzold, and Kenneth~S Kosik.
+\bibitem{Nowakowski2018}
+Nowakowski T~J, Rani N, Golkaram M \emph{et~al.}
 \newblock {Regulation of cell-type-specific transcriptomes by microRNA networks
   during human brain development}.
-\newblock \emph{Nature Neuroscience}, 21\penalty0 (12):\penalty0 1784--1792,
-  dec 2018.
-\newblock ISSN 1097-6256.
+\newblock \emph{Nature Neuroscience}, 21(12):1784--1792 (2018).
 \newblock \doi{10.1038/s41593-018-0265-3}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/30455455
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/30455455
   http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC6312854
-  http://www.nature.com/articles/s41593-018-0265-3}.
+  http://www.nature.com/articles/s41593-018-0265-3}
 
-\bibitem[Londin et~al.(2015)Londin, Loher, Telonis, Quann, Clark, Jing,
-  Hatzimichael, Kirino, Honda, Lally, Ramratnam, Comstock, Knudsen, Gomella,
-  Spaeth, Hark, Katz, Witkiewicz, Rostami, Jimenez, Hollingsworth, Yeh, Shaw,
-  McKenzie, Bray, Nelson, Zupo, {Van Roosbroeck}, Keating, Calin, Yeo, Jimbo,
-  Cozzitorto, Brody, Delgrosso, Mattick, Fortina, and Rigoutsos]{Londin2015}
-Eric Londin, Phillipe Loher, Aristeidis~G Telonis, Kevin Quann, Peter Clark,
-  Yi~Jing, Eleftheria Hatzimichael, Yohei Kirino, Shozo Honda, Michelle Lally,
-  Bharat Ramratnam, Clay E.~S. Comstock, Karen~E. Knudsen, Leonard Gomella,
-  George~L. Spaeth, Lisa Hark, L.~Jay Katz, Agnieszka Witkiewicz, Abdolmohamad
-  Rostami, Sergio~A. Jimenez, Michael~A. Hollingsworth, Jen~Jen Yeh, Chad~A.
-  Shaw, Steven~E. McKenzie, Paul Bray, Peter~T Nelson, Simona Zupo, Katrien
-  {Van Roosbroeck}, Michael~J Keating, George~A Calin, Charles Yeo, Masaya
-  Jimbo, Joseph Cozzitorto, Jonathan~R. Brody, Kathleen Delgrosso, John~S.
-  Mattick, Paolo Fortina, and Isidore Rigoutsos.
+\bibitem{Londin2015}
+Londin E, Loher P, Telonis A~G \emph{et~al.}
 \newblock {Analysis of 13 cell types reveals evidence for the expression of
   numerous novel primate- and tissue-specific microRNAs}.
-\newblock \emph{Proceedings of the National Academy of Sciences}, 112\penalty0
-  (10):\penalty0 E1106--E1115, mar 2015.
-\newblock ISSN 0027-8424.
+\newblock \emph{Proceedings of the National Academy of Sciences},
+  112(10):E1106--E1115 (2015).
 \newblock \doi{10.1073/pnas.1420955112}.
-\newblock URL \url{http://www.pnas.org/lookup/doi/10.1073/pnas.1420955112}.
+\newline\urlprefix\url{http://www.pnas.org/lookup/doi/10.1073/pnas.1420955112}
 
-\bibitem[Dweep and Gretz(2015)]{Dweep2015}
-Harsh Dweep and Norbert Gretz.
+\bibitem{Dweep2015}
+Dweep H \& Gretz N.
 \newblock {miRWalk2.0: a comprehensive atlas of microRNA-target interactions}.
-\newblock \emph{Nature Methods}, 12\penalty0 (8):\penalty0 697--697, 2015.
-\newblock ISSN 1548-7091.
+\newblock \emph{Nature Methods}, 12(8):697--697 (2015).
 \newblock \doi{10.1038/nmeth.3485}.
-\newblock URL \url{http://www.nature.com/doifinder/10.1038/nmeth.3485}.
+\newline\urlprefix\url{http://www.nature.com/doifinder/10.1038/nmeth.3485}
 
-\bibitem[Chaudhuri et~al.(2004)Chaudhuri, Narasayya, and
-  Ramamurthy]{Chaudhuri2004}
-Surajit Chaudhuri, Vivek Narasayya, and Ravi Ramamurthy.
-\newblock {Estimating Progress of Execution for SQL Queries}, jun 2004.
-\newblock URL
-  \url{https://www.microsoft.com/en-us/research/publication/estimating-progress-of-execution-for-sql-queries/?from=https{\%}3A{\%}2F{\%}2Fresearch.microsoft.com{\%}2Fapps{\%}2Fpubs{\%}2F{\%}3Fid{\%}3D76556}.
+\bibitem{Chaudhuri2004}
+Chaudhuri S, Narasayya V, \& Ramamurthy R.
+\newblock {Estimating Progress of Execution for SQL Queries} (2004).
+\newline\urlprefix\url{https://www.microsoft.com/en-us/research/publication/estimating-progress-of-execution-for-sql-queries/?from=https{\%}3A{\%}2F{\%}2Fresearch.microsoft.com{\%}2Fapps{\%}2Fpubs{\%}2F{\%}3Fid{\%}3D76556}
 
-\bibitem[Hon et~al.(2017)Hon, Ramilowski, Harshbarger, Bertin, Rackham, Gough,
-  Denisenko, Schmeier, Poulsen, Severin, Lizio, Kawaji, Kasukawa, Itoh,
-  Burroughs, Noma, Djebali, Alam, Kojima, Nakamura, Suzuki, Daub, Hoon, Arner,
-  and Rnas]{Hon2017}
-Chung-chau Hon, Jordan~A Ramilowski, Jayson Harshbarger, Nicolas Bertin, Owen
-  J~L Rackham, Julian Gough, Elena Denisenko, Sebastian Schmeier, Thomas~M
-  Poulsen, Jessica Severin, Marina Lizio, Hideya Kawaji, Takeya Kasukawa,
-  Masayoshi Itoh, A~Maxwell Burroughs, Shohei Noma, Sarah Djebali, Tanvir Alam,
-  Soichi Kojima, Yukio Nakamura, Harukazu Suzuki, Carsten~O Daub, Michiel J
-  L~De Hoon, Erik Arner, and Long Rnas.
+\bibitem{Hon2017}
+Hon C~c, Ramilowski J~A, Harshbarger J \emph{et~al.}
 \newblock {An atlas of human long non-coding RNAs with accurate 5′ ends}.
-\newblock \emph{Nature Publishing Group}, 543\penalty0 (7644):\penalty0
-  199--204, 2017.
-\newblock ISSN 0028-0836.
+\newblock \emph{Nature Publishing Group}, 543(7644):199--204 (2017).
 \newblock \doi{10.1038/nature21374}.
-\newblock URL \url{http://dx.doi.org/10.1038/nature21374}.
+\newline\urlprefix\url{http://dx.doi.org/10.1038/nature21374}
 
-\bibitem[Dweep and Gretz()]{miRWalk2}
-H~Dweep and N~Gretz.
+\bibitem{miRWalk2}
+Dweep H \& Gretz N.
 \newblock {miRWalk2 web page}.
 
-\bibitem[Karagkouni et~al.(2018)Karagkouni, Paraskevopoulou, Chatzopoulos,
-  Vlachos, Tastsoglou, Kanellos, Papadimitriou, Kavakiotis, Maniou, Skoufos,
-  Vergoulis, Dalamagas, and Hatzigeorgiou]{Karagkouni2018}
-Dimitra Karagkouni, Maria~D Paraskevopoulou, Serafeim Chatzopoulos, Ioannis~S
-  Vlachos, Spyros Tastsoglou, Ilias Kanellos, Dimitris Papadimitriou, Ioannis
-  Kavakiotis, Sofia Maniou, Giorgos Skoufos, Thanasis Vergoulis, Theodore
-  Dalamagas, and Artemis~G Hatzigeorgiou.
+\bibitem{Karagkouni2018}
+Karagkouni D, Paraskevopoulou M~D, Chatzopoulos S \emph{et~al.}
 \newblock {DIANA-TarBase v8: a decade-long collection of experimentally
   supported miRNA–gene interactions}.
-\newblock \emph{Nucleic Acids Research}, 46\penalty0 (D1):\penalty0 D239--D245,
-  jan 2018.
-\newblock ISSN 0305-1048.
+\newblock \emph{Nucleic Acids Research}, 46(D1):D239--D245 (2018).
 \newblock \doi{10.1093/nar/gkx1141}.
-\newblock URL \url{http://academic.oup.com/nar/article/46/D1/D239/4634010}.
+\newline\urlprefix\url{http://academic.oup.com/nar/article/46/D1/D239/4634010}
 
-\bibitem[Chou et~al.(2018)Chou, Shrestha, Yang, Chang, Lin, Liao, Huang, Sun,
-  Tu, Lee, Chiew, Tai, Wei, Tsai, Huang, Wang, Wu, Ho, Chen, Chuang, Hsieh, Wu,
-  Chen, Li, Wu, Huang, Ng, Buddhakosai, Huang, Lan, Huang, Weng, Cheng, Liang,
-  Hsu, and Huang]{Chou2018}
-Chih-Hung Chou, Sirjana Shrestha, Chi-Dung Yang, Nai-Wen Chang, Yu-Ling Lin,
-  Kuang-Wen Liao, Wei-Chi Huang, Ting-Hsuan Sun, Siang-Jyun Tu, Wei-Hsiang Lee,
-  Men-Yee Chiew, Chun-San Tai, Ting-Yen Wei, Tzi-Ren Tsai, Hsin-Tzu Huang,
-  Chung-Yu Wang, Hsin-Yi Wu, Shu-Yi Ho, Pin-Rong Chen, Cheng-Hsun Chuang,
-  Pei-Jung Hsieh, Yi-Shin Wu, Wen-Liang Chen, Meng-Ju Li, Yu-Chun Wu, Xin-Yi
-  Huang, Fung~Ling Ng, Waradee Buddhakosai, Pei-Chun Huang, Kuan-Chun Lan,
-  Chia-Yen Huang, Shun-Long Weng, Yeong-Nan Cheng, Chao Liang, Wen-Lian Hsu,
-  and Hsien-Da Huang.
+\bibitem{Chou2018}
+Chou C~H, Shrestha S, Yang C~D \emph{et~al.}
 \newblock {miRTarBase update 2018: a resource for experimentally validated
   microRNA-target interactions}.
-\newblock \emph{Nucleic Acids Research}, 46\penalty0 (D1):\penalty0 D296--D302,
-  jan 2018.
-\newblock ISSN 0305-1048.
+\newblock \emph{Nucleic Acids Research}, 46(D1):D296--D302 (2018).
 \newblock \doi{10.1093/nar/gkx1067}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/29126174
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/29126174
   http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5753222
-  http://academic.oup.com/nar/article/46/D1/D296/4595852}.
+  http://academic.oup.com/nar/article/46/D1/D296/4595852}
 
-\bibitem[Yue et~al.(2009)Yue, Liu, and Huang]{Yue2009}
-Dong Yue, Hui Liu, and Yufei Huang.
+\bibitem{Yue2009}
+Yue D, Liu H, \& Huang Y.
 \newblock {Survey of Computational Algorithms for MicroRNA Target Prediction}.
-\newblock \emph{Current Genomics}, 10\penalty0 (7):\penalty0 478--492, nov
-  2009.
-\newblock ISSN 13892029.
+\newblock \emph{Current Genomics}, 10(7):478--492 (2009).
 \newblock \doi{10.2174/138920209789208219}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/20436875
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/20436875
   http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2808675
-  http://www.eurekaselect.com/openurl/content.php?genre=article{\&}issn=1389-2029{\&}volume=10{\&}issue=7{\&}spage=478}.
+  http://www.eurekaselect.com/openurl/content.php?genre=article{\&}issn=1389-2029{\&}volume=10{\&}issue=7{\&}spage=478}
 
-\bibitem[Witkos et~al.(2011)Witkos, Koscianska, and Krzyzosiak]{Witkos2011}
-T~M Witkos, E~Koscianska, and W~J Krzyzosiak.
+\bibitem{Witkos2011}
+Witkos T~M, Koscianska E, \& Krzyzosiak W~J.
 \newblock {Practical Aspects of microRNA Target Prediction.}
-\newblock \emph{Current molecular medicine}, 11\penalty0 (2):\penalty0 93--109,
-  2011.
-\newblock ISSN 15665240.
+\newblock \emph{Current molecular medicine}, 11(2):93--109 (2011).
 \newblock \doi{10.2174/156652411794859250}.
 
-\bibitem[Friedman et~al.(2009)Friedman, Farh, Burge, and Bartel]{Friedman2009}
-Robin~C Friedman, Kyle K.-H. Farh, Christopher~B Burge, and David~P Bartel.
+\bibitem{Friedman2009}
+Friedman R~C, Farh K~K~H, Burge C~B, \& Bartel D~P.
 \newblock {Most mammalian mRNAs are conserved targets of microRNAs}.
-\newblock \emph{Genome Research}, 19\penalty0 (1):\penalty0 92--105, oct 2009.
-\newblock ISSN 1088-9051.
+\newblock \emph{Genome Research}, 19(1):92--105 (2009).
 \newblock \doi{10.1101/gr.082701.108}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/18955434
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/18955434
   http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2612969
-  http://genome.cshlp.org/cgi/doi/10.1101/gr.082701.108}.
+  http://genome.cshlp.org/cgi/doi/10.1101/gr.082701.108}
 
-\bibitem[Alexiou et~al.(2009)Alexiou, Maragkakis, Papadopoulos, Reczko, and
-  Hatzigeorgiou]{Alexiou2009}
-Panagiotis Alexiou, Manolis Maragkakis, Giorgos~L. Papadopoulos, Martin Reczko,
-  and Artemis~G. Hatzigeorgiou.
+\bibitem{Alexiou2009}
+Alexiou P, Maragkakis M, Papadopoulos G~L, Reczko M, \& Hatzigeorgiou A~G.
 \newblock {Lost in translation: an assessment and perspective for computational
   microRNA target identification}.
-\newblock \emph{Bioinformatics}, 25\penalty0 (23):\penalty0 3049--3055, dec
-  2009.
-\newblock ISSN 1460-2059.
+\newblock \emph{Bioinformatics}, 25(23):3049--3055 (2009).
 \newblock \doi{10.1093/bioinformatics/btp565}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/19789267
-  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btp565}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/19789267
+  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btp565}
 
-\bibitem[Agarwal et~al.(2015)Agarwal, Bell, Nam, and Bartel]{Agarwal2015}
-Vikram Agarwal, George~W Bell, Jin-Wu Nam, and David~P Bartel.
+\bibitem{Agarwal2015}
+Agarwal V, Bell G~W, Nam J~W, \& Bartel D~P.
 \newblock {Predicting effective microRNA target sites in mammalian mRNAs}.
-\newblock \emph{eLife}, 4, aug 2015.
-\newblock ISSN 2050-084X.
+\newblock \emph{eLife}, 4 (2015).
 \newblock \doi{10.7554/eLife.05005}.
-\newblock URL \url{https://elifesciences.org/articles/05005}.
+\newline\urlprefix\url{https://elifesciences.org/articles/05005}
 
-\bibitem[Raichle and Gusnard(2002)]{Raichle2002}
-M.~E. Raichle and D.~A. Gusnard.
+\bibitem{Raichle2002}
+Raichle M~E \& Gusnard D~A.
 \newblock {Appraising the brain's energy budget}.
-\newblock \emph{Proceedings of the National Academy of Sciences}, 99\penalty0
-  (16):\penalty0 10237--10239, aug 2002.
-\newblock ISSN 0027-8424.
+\newblock \emph{Proceedings of the National Academy of Sciences},
+  99(16):10237--10239 (2002).
 \newblock \doi{10.1073/pnas.172399499}.
-\newblock URL \url{http://www.pnas.org/cgi/doi/10.1073/pnas.172399499}.
+\newline\urlprefix\url{http://www.pnas.org/cgi/doi/10.1073/pnas.172399499}
 
-\bibitem[Lobentanzer and Klein(2019)]{Lobentanzer2019b}
-Sebastian Lobentanzer and Jochen Klein.
+\bibitem{Bohn2016}
+Bohn K~A, Adkins C~E, Mittapalli R~K, Terrell-Hall T~B, Mohammad A~S, Shah N,
+  Dolan E~L, Nounou M~I, \& Lockman P~R.
+\newblock {Semi-automated rapid quantification of brain vessel density
+  utilizing fluorescent microscopy}.
+\newblock \emph{Journal of Neuroscience Methods}, 270:124--131 (2016).
+\newblock \doi{10.1016/j.jneumeth.2016.06.012}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/27321229
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4981522
+  https://linkinghub.elsevier.com/retrieve/pii/S0165027016301339}
+
+\bibitem{Lobentanzer2019b}
+Lobentanzer S \& Klein J.
 \newblock {Zentrales und Peripheres Nervensystem}.
-\newblock In Wichmann and Fromme, editors, \emph{Handbuch f{\"{u}}r
-  Umweltmedizin}, chapter~11. Erg. lfg. edition, 2019.
+\newblock In Wichmann \& Fromme, (Editors) \emph{Handbuch f{\"{u}}r
+  Umweltmedizin}, chapter~11. Erg. lfg. edition (2019).
 
-\bibitem[Darmanis et~al.(2015)Darmanis, Sloan, Zhang, Enge, Caneda, Shuer,
-  {Hayden Gephart}, Barres, and Quake]{Darmanis2015}
-Spyros Darmanis, Steven~A. Sloan, Ye~Zhang, Martin Enge, Christine Caneda,
-  Lawrence~M. Shuer, Melanie~G. {Hayden Gephart}, Ben~A. Barres, and Stephen~R.
-  Quake.
+\bibitem{Darmanis2015}
+Darmanis S, Sloan S~A, Zhang Y, Enge M, Caneda C, Shuer L~M, {Hayden Gephart}
+  M~G, Barres B~A, \& Quake S~R.
 \newblock {A survey of human brain transcriptome diversity at the single cell
   level}.
-\newblock \emph{Proceedings of the National Academy of Sciences}, 112\penalty0
-  (23):\penalty0 201507125, 2015.
-\newblock ISSN 0027-8424.
+\newblock \emph{Proceedings of the National Academy of Sciences},
+  112(23):201507125 (2015).
 \newblock \doi{10.1073/pnas.1507125112}.
-\newblock URL \url{http://www.pnas.org/content/112/23/7285.abstract}.
+\newline\urlprefix\url{http://www.pnas.org/content/112/23/7285.abstract}
 
-\bibitem[Zeisel et~al.(2015)Zeisel, Manchado, Codeluppi, Lonnerberg, {La
-  Manno}, Jureus, Marques, Munguba, He, Betsholtz, Rolny, Castelo-Branco,
-  Hjerling-Leffler, and Linnarsson]{Zeisel2015}
-a.~Zeisel, a.~B.~M. Manchado, S.~Codeluppi, P.~Lonnerberg, G.~{La Manno},
-  A.~Jureus, S.~Marques, H.~Munguba, L.~He, C.~Betsholtz, C.~Rolny,
-  G.~Castelo-Branco, J.~Hjerling-Leffler, and S.~Linnarsson.
+\bibitem{Zeisel2015}
+Zeisel a, Manchado a~B~M, Codeluppi S \emph{et~al.}
 \newblock {Cell types in the mouse cortex and hippocampus revealed by
   single-cell RNA-seq}.
-\newblock \emph{Science}, 347\penalty0 (6226):\penalty0 1138--42, 2015.
-\newblock ISSN 0036-8075.
+\newblock \emph{Science}, 347(6226):1138--42 (2015).
 \newblock \doi{10.1126/science.aaa1934}.
-\newblock URL
-  \url{http://science.sciencemag.org.docelec.univ-lyon1.fr/content/347/6226/1138.abstract}.
+\newline\urlprefix\url{http://science.sciencemag.org.docelec.univ-lyon1.fr/content/347/6226/1138.abstract}
 
-\bibitem[Tasic et~al.(2016)Tasic, Menon, Nguyen, Kim, Jarsky, Yao, Levi, Gray,
-  Sorensen, Dolbeare, Bertagnolli, Goldy, Shapovalova, Parry, Lee, Smith,
-  Bernard, Madisen, Sunkin, Hawrylycz, Koch, Zeng, Yao, Lee, Shapovalova,
-  Parry, Madisen, Sunkin, Hawrylycz, Koch, and Zeng]{Tasic2016}
-Bosiljka Tasic, Vilas Menon, Thuc Nghi~TN Nguyen, TK~Tae~Kyung Kim, Tim Jarsky,
-  Zizhen Yao, Boaz~BP Levi, Lucas~T Gray, Staci~A Sorensen, Tim Dolbeare,
-  Darren Bertagnolli, Jeff Goldy, Nadiya Shapovalova, Sheana Parry, Changkyu~CK
-  Lee, Kimberly Smith, Amy Bernard, Linda Madisen, Susan~M Sunkin, Michael
-  Hawrylycz, Christof Koch, Hongkui Zeng, Zizhen Yao, Changkyu~CK Lee, Nadiya
-  Shapovalova, Sheana Parry, Linda Madisen, Susan~M Sunkin, Michael Hawrylycz,
-  Christof Koch, and Hongkui Zeng.
+\bibitem{Tasic2016}
+Tasic B, Menon V, Nguyen T~N~T \emph{et~al.}
 \newblock {Adult mouse cortical cell taxonomy revealed by single cell
   transcriptomics}.
-\newblock \emph{Nature Neuroscience}, advance on\penalty0 (January):\penalty0
-  1--37, 2016.
-\newblock ISSN 1097-6256.
+\newblock \emph{Nature Neuroscience}, advance on(January):1--37 (2016).
 \newblock \doi{10.1038/nn.4216}.
-\newblock URL \url{http://dx.doi.org/10.1038/nn.4216}.
+\newline\urlprefix\url{http://dx.doi.org/10.1038/nn.4216}
 
-\bibitem[Habib et~al.(2016)Habib, Li, Heidenreich, Swiech, Avraham-Davidi,
-  Trombetta, Hession, Zhang, and Regev]{Habib2016}
-Naomi Habib, Yinqing Li, Matthias Heidenreich, Lukasz Swiech, Inbal
-  Avraham-Davidi, John~J. Trombetta, Cynthia Hession, Feng Zhang, and Aviv
-  Regev.
+\bibitem{Habib2016}
+Habib N, Li Y, Heidenreich M, Swiech L, Avraham-Davidi I, Trombetta J~J,
+  Hession C, Zhang F, \& Regev A.
 \newblock {Div-Seq: Single-nucleus RNA-Seq reveals dynamics of rare adult
   newborn neurons}.
-\newblock \emph{Science}, 353\penalty0 (6302):\penalty0 925--928, 2016.
-\newblock ISSN 0036-8075.
+\newblock \emph{Science}, 353(6302):925--928 (2016).
 \newblock \doi{10.1126/science.aad7038}.
-\newblock URL
-  \url{http://www.sciencemag.org/lookup/doi/10.1126/science.aad7038}.
+\newline\urlprefix\url{http://www.sciencemag.org/lookup/doi/10.1126/science.aad7038}
 
-\bibitem[Zeisel et~al.(2018)Zeisel, Hochgerner, L{\"{o}}nnerberg, Johnsson,
-  Memic, van~der Zwan, H{\"{a}}ring, Braun, Borm, {La Manno}, Codeluppi,
-  Furlan, Lee, Skene, Harris, Hjerling-Leffler, Arenas, Ernfors, Marklund, and
-  Linnarsson]{Zeisel2018}
-Amit Zeisel, Hannah Hochgerner, Peter L{\"{o}}nnerberg, Anna Johnsson, Fatima
-  Memic, Job van~der Zwan, Martin H{\"{a}}ring, Emelie Braun, Lars~E Borm,
-  Gioele {La Manno}, Simone Codeluppi, Alessandro Furlan, Kawai Lee, Nathan
-  Skene, Kenneth~D Harris, Jens Hjerling-Leffler, Ernest Arenas, Patrik
-  Ernfors, Ulrika Marklund, and Sten Linnarsson.
+\bibitem{Zeisel2018}
+Zeisel A, Hochgerner H, L{\"{o}}nnerberg P \emph{et~al.}
 \newblock {Molecular Architecture of the Mouse Nervous System}.
-\newblock \emph{Cell}, 174\penalty0 (4):\penalty0 999--1014.e22, aug 2018.
-\newblock ISSN 00928674.
+\newblock \emph{Cell}, 174(4):999--1014.e22 (2018).
 \newblock \doi{10.1016/j.cell.2018.06.021}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/30096314
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/30096314
   http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC6086934
-  https://linkinghub.elsevier.com/retrieve/pii/S009286741830789X}.
+  https://linkinghub.elsevier.com/retrieve/pii/S009286741830789X}
 
-\bibitem[Biedler et~al.(1978)Biedler, Roffler-Tarlov, Schachner, and
-  Freedman]{Biedler1978}
-June~L. Biedler, Suzanne Roffler-Tarlov, Melitta Schachner, and Lewis~S.
-  Freedman.
+\bibitem{Biedler1978}
+Biedler J~L, Roffler-Tarlov S, Schachner M, \& Freedman L~S.
 \newblock {Multiple Neurotransmitter Synthesis by Human Neuroblastoma Cell
   Lines and Clones}.
-\newblock \emph{Cancer Res.}, 38\penalty0 (11{\_}Part{\_}1):\penalty0
-  3751--3757, nov 1978.
-\newblock URL
-  \url{http://cancerres.aacrjournals.org/content/38/11{\_}Part{\_}1/3751.short}.
+\newblock \emph{Cancer Res.}, 38(11{\_}Part{\_}1):3751--3757 (1978).
+\newline\urlprefix\url{http://cancerres.aacrjournals.org/content/38/11{\_}Part{\_}1/3751.short}
 
-\bibitem[Biedler et~al.(1973)Biedler, Helson, and Spengler]{Biedler1973}
-June~L. Biedler, Lawrence Helson, and Barbara~A. Spengler.
+\bibitem{Biedler1973}
+Biedler J~L, Helson L, \& Spengler B~A.
 \newblock {Morphology and Growth, Tumorigenicity, and Cytogenetics of Human
   Neuroblastoma Cells in Continuous Culture}.
-\newblock \emph{Cancer Research}, 33\penalty0 (11):\penalty0 2643--2652, 1973.
-\newblock ISSN 15387445.
+\newblock \emph{Cancer Research}, 33(11):2643--2652 (1973).
 
-\bibitem[Seeger et~al.(1977)Seeger, Rayner, Laug, Neustein, and
-  Benedict]{Seeger1977}
-Robert~C. Seeger, Sylvia~A. Rayner, Walter~E. Laug, Harry~B. Neustein, and
-  William~F. Benedict.
+\bibitem{Seeger1977}
+Seeger R~C, Rayner S~A, Laug W~E, Neustein H~B, \& Benedict W~F.
 \newblock {Morphology, Growth, Chromosomal Pattern, and Fibrinolytic Activity
   of two New Human Neuroblastoma Cell Lines}.
-\newblock \emph{Cancer Research}, 37\penalty0 (5):\penalty0 1364--1371., 1977.
-\newblock ISSN 15387445.
+\newblock \emph{Cancer Research}, 37(5):1364--1371. (1977).
 
-\bibitem[Seeger et~al.(1982)Seeger, Danon, Rayner, and Hoover]{Seeger1982}
-R~C Seeger, Y~L Danon, S~A Rayner, and F~Hoover.
+\bibitem{Seeger1982}
+Seeger R~C, Danon Y~L, Rayner S~A, \& Hoover F.
 \newblock {Definition of a Thy-1 determinant on human neuroblastoma, glioma,
   sarcoma, and teratoma cells with a monoclonal antibody.}
-\newblock \emph{Journal of immunology (Baltimore, Md. : 1950)}, 128\penalty0
-  (2):\penalty0 983--9, feb 1982.
-\newblock ISSN 0022-1767.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/6172518}.
+\newblock \emph{Journal of immunology (Baltimore, Md. : 1950)}, 128(2):983--9
+  (1982).
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/6172518}
 
-\bibitem[Hill and Robertson(1997)]{Hill1997}
-David~P Hill and Kent~a Robertson.
+\bibitem{Hill1997}
+Hill D~P \& Robertson K~a.
 \newblock {Characterization of the cholinergic neuronal differentiation of the
   human neuroblastoma cell line LA-N-5 after treatment with retinoic acid}.
-\newblock \emph{Developmental Brain Research}, 102\penalty0 (1):\penalty0
-  53--67, aug 1997.
-\newblock ISSN 01653806.
+\newblock \emph{Developmental Brain Research}, 102(1):53--67 (1997).
 \newblock \doi{10.1016/S0165-3806(97)00076-X}.
-\newblock URL \url{http://www.ncbi.nlm.nih.gov/pubmed/9298234
-  https://linkinghub.elsevier.com/retrieve/pii/S016538069700076X}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/9298234
+  https://linkinghub.elsevier.com/retrieve/pii/S016538069700076X}
 
-\bibitem[McManaman and Crawford(1991)]{McManaman1991}
-James~L. McManaman and Frances~G. Crawford.
+\bibitem{McManaman1991}
+McManaman J~L \& Crawford F~G.
 \newblock {Skeletal Muscle Proteins Stimulate Cholinergic Differentiation of
   Human Neuroblastoma Cells}.
-\newblock \emph{Journal of neurochemistry}, pages 258--266, 1991.
+\newblock \emph{Journal of neurochemistry}, pp. 258--266 (1991).
+
+\bibitem{Sun2016}
+Sun M, Liu H, Min S, Wang H, \& Wang X.
+\newblock {Ciliary neurotrophic factor-treated astrocyte-conditioned medium
+  increases the intracellular free calcium concentration in rat cortical
+  neurons}.
+\newblock \emph{Biomedical Reports}, 4(4):417--420 (2016).
+\newblock \doi{10.3892/br.2016.602}.
+\newline\urlprefix\url{https://www.spandidos-publications.com/
+  https://www.spandidos-publications.com/10.3892/br.2016.602}
+
+\bibitem{Love2014}
+Love M~I, Huber W, \& Anders S.
+\newblock {Moderated estimation of fold change and dispersion for RNA-seq data
+  with DESeq2}.
+\newblock \emph{Genome Biology}, 15(12):550 (2014).
+\newblock \doi{10.1186/s13059-014-0550-8}.
+\newline\urlprefix\url{http://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8}
+
+\bibitem{Bullard2010}
+Bullard J~H, Purdom E, Hansen K~D, \& Dudoit S.
+\newblock {Evaluation of statistical methods for normalization and differential
+  expression in mRNA-Seq experiments}.
+\newblock \emph{BMC Bioinformatics}, 11(1):94 (2010).
+\newblock \doi{10.1186/1471-2105-11-94}.
+\newline\urlprefix\url{https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-94}
+
+\bibitem{Chen2011}
+Chen Z, Liu J, Ng H, Nadarajah S, Kaufman H~L, Yang J~Y, \& Deng Y.
+\newblock {Statistical methods on detecting differentially expressed genes for
+  RNA-seq data}.
+\newblock \emph{BMC Systems Biology}, 5(Suppl 3):S1 (2011).
+\newblock \doi{10.1186/1752-0509-5-S3-S1}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/22784615
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3287564
+  http://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-5-S3-S1}
+
+\bibitem{Zhu2019}
+Zhu A, Ibrahim J~G, \& Love M~I.
+\newblock {Heavy-tailed prior distributions for sequence count data: removing
+  the noise and preserving large differences}.
+\newblock \emph{Bioinformatics}, 35(12):2084--2092 (2019).
+\newblock \doi{10.1093/bioinformatics/bty895}.
+\newline\urlprefix\url{https://academic.oup.com/bioinformatics/article/35/12/2084/5159452}
 
 \end{thebibliography}
