@@ -88,7 +88,6 @@ To study the small RNA dynamics following \ac{cntf} exposure of \ac{la2} and \ac
 \caption[LA-N-2 / LA-N-5 Differentiation Timeline.]{\textbf{LA-N-2 / LA-N-5 Differentiation Timeline.}
 \label{fig:timepoints}}
 \end{figure}
-\todo{add early/late}
 
 \subsection{RNA Isolation}
 Total RNA was isolated using TRIzol (ThermoFisher Scientific), essentially as suggested by the manufacturer, with slight changes to the protocol to enrich small RNA species. The cells, growing in a monolayer in 12-well-plates, were cleared of medium, washed two times with \SI{500}{\micro\litre} of cell culture grade \ac{pbs} (Gibco), and immediately suspended in \SI{1}{\milli\litre} of TRIzol, pipetting up and down until visibly dissolved. After incubation for 5 minutes at room temperature, the samples were stored in -20°C for short periods of time until RNA isolation.
@@ -117,11 +116,11 @@ The sequence used in the \textit{adapters.fa} file, as recommended by the manufa
 For the alignment of \ac{mir} sequences, parts of the miRExpress 2.0\cite{Wang2009} pipeline were used according to the documentation. First, a lookup table for the current miRBase version 21 was created as per the instructions of the authors. The alignment was then performed using the commands \textit{Raw\_data\_parse}, \textit{statistics\_reads}, \textit{alignmentSIMD}, and \textit{analysis}; \textit{Trim\_adaptor} \todo{describe what miRExpress does?} was skipped because the adapters had already been trimmed in the quality filtering step. Additionally, since miRExpress is not accepting of sequences of any length, the raw data was length filtered to include only reads up to a length of 25 bases before input into miRExpress. Thus, raw reads were aligned to the miRnome provided by miRBase v21, yielding count tables of mature \acp{mir} and miRNA precursors for each sample. In total, 1913 mature \acp{mir} from miRBase v21 were discovered in the data.
 
 \subsection{Differential Expression Analysis - R/DESeq2} \label{sec:cellculture:deseq}
-To determine the effect and dynamics of \ac{cntf}-mediated differentiation of \ac{la2} and \ac{la5}, the expression state of each measured time point was compared to the respective control using the established R package DESeq2\cite{Love2014}. DESeq2 determines differential expression in count-based data by application of a linear regression model to a negative binomial distribution based on a fitted mean $\mu$ and a gene-specific dispersion value $\alpha$ (for gene $i$ and sample $j$). The mean is derived using a sample-specific »size factor«, $s$, and a parameter $q$ proportional to the expected true concentration of RNA fragments in the sample. The DESeq2 differential expression pipeline is composed of the following commands:
+To determine the effect and dynamics of \ac{cntf}-mediated differentiation of \ac{la2} and \ac{la5}, the expression state of each measured time point was compared to the respective control using the established R package DESeq2\cite{Love2014}. DESeq2 determines differential expression (for gene $i$ and sample $j$) in count-based data by application of a linear regression model to a negative binomial distribution based on a fitted mean $\mu_{ij}$ and a gene-specific dispersion value $\alpha_i$. The mean is derived using a sample-specific »size factor«, $s_j$, and a parameter $q_{ij}$ proportional to the expected true concentration of RNA fragments in the sample. The DESeq2 differential expression pipeline is composed of the following commands:
 \begin{itemize}
 \item \texttt{estimateSizeFactors()} (to estimate $s_j$)
 \item \texttt{estimateDispersion()} (to estimate $\alpha_i$)
-\item \texttt{nbinomWaldTest()} (application of a generalised linear model to determine log-fold changes and statistics via the Wald test, using $\mu_{ij} = s_jq_{ij}$ and $log_2(q_{ij}) = x_j\beta_i$)
+\item \texttt{nbinomWaldTest()} (application of a generalised linear model to determine log-fold changes and statistics via the Wald test, using $\mu_{ij} = s_jq_{ij}$ and $log_2(q_{ij}) = x_j\beta_i$).
 \end{itemize}
 The Wald test, named after Abraham Wald, is an approach to hypothesis testing that measures the distance between the tested unrestricted estimate and the null hypothesis, using the precision as a weighting factor. The larger the distance between tested values and the null, the more likely the measured values are »true«. \ac{seq} data can be modelled using binomial distributions\cite{Bullard2010}, such as the Poisson distribution, and the difference between two Poisson means (e.g., »treated« vs »control«) can be tested by generalised linear models based on the distributions themselves, Fisher's exact test, or the likelihood ratio test. However, comparative analysis has shown that the Wald test on log-transformed data provides statistical power superior to these other methods\cite{Chen2011}, particularly in lowly expressed fragments. The design formula for the linear regression was a simple combination of condition and time point and applied to \ac{la2} and \ac{la5} separately: $$y \sim condition\_time$$
 
@@ -162,7 +161,7 @@ The frequently used log-fold change metric is not ideally suited for assessing t
 CC: count-change, BM: base mean expression, LFC: log-2-fold-change.
 \end{shaded}
 
-\subsubsection{Differential Expression Along The Timeline}
+\subsubsection{Differential Expression Along The Timeline} \label{sec:cellculture:along}
 For consistency, from hereon out, time points 30 minutes and 60 minutes will be termed »early«, while 2 days and 4 days will be referred to as »late«. Differential expression was detected in all groups, lending credibility to the rapid changes in expression needed for a \ac{mir} response of the »immediate-early« type. However, the response to long-term \ac{cntf} stimulation was larger in \ac{mir} numbers as well as effect sizes (Fig. \ref{fig:timepoints-expr-venn} A\&B). Of all early perturbed \acp{mir}, only 3 and 13 \acp{mir} were exclusively perturbed immediate-early-like in \ac{la2} and \ac{la5}, respectively; all others were still \ac{de} after 2 and/or 4 days. In \ac{la2}, the late time points at 2 and, particularly, 4 days showed the greatest perturbation; in \ac{la5}, the picture was more complex (Fig. \ref{fig:timepoints-expr-venn} C\&D). However, generally, there were large similarities as well as exclusivities between the time points 2 and 4 days in both cell lines. When comparing early and late time points between \ac{la2} and \ac{la5} directly, similarly complex patterns emerged (Fig. \ref{fig:timepoints-expr-venn} E\&F). Particularly at late time points (Fig. \ref{fig:timepoints-expr-venn} F), every possible combination of overlap exists. 24\todo{something special?} \acp{mir} were \ac{de} in all late conditions; 107 \acp{mir} were \ac{de} only in \ac{la2}, and 269 \acp{mir} were \ac{de} only in \ac{la5}. \todo{compare most important targets early/late}
 
 \begin{figure} 
@@ -176,29 +175,17 @@ While there was considerable intersection in \ac{de} \acp{mir} between the cell 
 
 To determine the influence of genotype on the differentiating effect of \ac{cntf}, I employed a statistical interaction design in the DESeq2 Wald test. Briefly, by including an interaction term in the linear regression formula, we can statistically isolate the effect of the condition (\ac{cntf} or control at each time point) between the two genotypes: $$y \sim condition + genotype + condition:genotype$$
 
-Using the interaction term $condition:genotype$, I filtered out the \acp{mir} that reacted significantly different to \ac{cntf} stimulation in \ac{la5} compared to \ac{la2} at each time point. 
+Using the interaction term $condition:genotype$, I filtered out the \acp{mir} that reacted significantly different to \ac{cntf} stimulation in \ac{la5} compared to \ac{la2} at each time point. Of note, the sexual dimorphism becomes more pronounced over the course of differentiation. While there is no significant difference between \ac{la2} and \ac{la5} at 30 minutes and only one \ac{mir} \ac{de} at 60 minutes, numbers increase at 2 days and reach a maximum at 4 days, with significant overlap (Fig. \ref{fig:la2-vs-la5-overlap-venn} A). The single \ac{mir} \ac{de} between \ac{la2} and \ac{la5} at three time points is \textbf{hsa\=/miR\=/125b\=/1\=/3p}. \todo{what will panel B be?} To further examine the effect of genotype on small RNA response to \ac{cntf}, I intersected the regular differential expression results (Section \ref{sec:cellculture:along}) with the interaction term for the late time points. This resulted in a complex pattern of intersecting \acp{mir}, in both cell lines (Fig. \ref{fig:la2-vs-la5-overlap-venn} C\&D). Again, all possible overlaps between any two groups exist; 37 and 38 \acp{mir} are found in all four groups of \ac{la2} and \ac{la5}, respectively. Among those, 16 mature \acp{mir} belong to all sets. All pertinent sets of \acp{mir} can be found in Appendix \ref{appendixB}. \todo{target, GO for which?}
 
-\begin{figure} 
-\centering
-\includegraphics[width=0.5\textwidth]{figures/la2-vs-la5-venn}
-\caption[DE miRNAs between LA-N-2 and LA-N-5.]{\textbf{DE miRNAs between LA-N-2 and LA-N-5.}
-\label{fig:la2-vs-la5-venn}}
-\end{figure}
 \begin{figure}
 \centering
 \includegraphics[width=\textwidth]{figures/la2-vs-la5-overlap-venn}
 \caption[LA-N-2 / LA-N-5 DE miRNAs late time points vs in-between.]{\textbf{LA-N-2 / LA-N-5 DE miRNAs late time-points vs in-between.}
 \label{fig:la2-vs-la5-overlap-venn}}
 \end{figure}
-\todo{combine}
-
-intersect with detected miRs in CNTF vs control experiments, 2 venns
-
-
-To categorise and systematise the sexual dimorphism of \ac{cntf} differentiation of LA-N cells, I performed gene set enrichment of \ac{mir} families in the differential expression datasets.
 
 \subsection{microRNA Family Enrichment}
-Of the 151 \ac{mir} families listed in miRBase v21, members of 71 families are \ac{de} in \ac{la2} and \ac{la5}. To test for the enrichment of male, female, and ubiquitously \ac{de} \acp{mir} in these families, I performed gene set enrichment based on Fisher's exact test for each of the families. I found 5 families to be enriched in both male and female cells, and 12 families enriched in only one of the two cell lines (Fig. \ref{fig:mir-de-fam}, left side). The size range of enriched families was substantial, from small families with only 4 mature members to extensive families with dozens of mature \acp{mir}. 
+\newthought{To categorise and systematise} the sexual dimorphism of \ac{cntf} differentiation of LA-N cells, I performed gene set enrichment of \ac{mir} families in the differential expression datasets. Of the 151 \ac{mir} families listed in miRBase v21, members of 71 families are \ac{de} in \ac{la2} and \ac{la5}. To test for the enrichment of male, female, and ubiquitously \ac{de} \acp{mir} in these families, I performed hypergeometric gene set enrichment based on Fisher's exact test for each of the families. I found 5 families to be enriched in both male and female cells, and 12 families enriched in only one of the two cell lines (Fig. \ref{fig:mir-de-fam}, left side). The size range of enriched families was substantial, from small families with only 4 mature members to extensive families with dozens of mature \acp{mir}. \todo{which/how many of the pertinent mirs above are in families?}
 
 \subsubsection{Gene Targeting of Enriched Families}
 Using \textit{miRNet}, the targets of all individual \acp{mir} were determined. Of note, the amount of family members in any \ac{mir} family did not correlate with the absolute amount of targets predicted. Rather, the influence of individual \acp{mir} was the main factor determining the size of the gene target network. However, those families that were enriched in only one cell line presented with significantly smaller target sets than those that were found \ac{de} in both (mean targeted genes per \ac{mir} 217 versus 378, Welch two-sample t test, p = 0.001). Relative to family size, 4 of the enriched families targeted less genes than all others (Fig. \ref{fig:mir-de-fam}, right side): mir-10 (p = 0.016), mir-192 (p = 0.042), mir-379 (p = 0.011), and mir-515 (p < 0.001). Hypothetically, the spectrum of target amounts might correlate with the degree of functional specification of distinct \ac{mir} families: on one end, broadly acting families such as let-7 with sex-independent function, on the other, families with a narrow target profile, such as mir-10, whose restricted function can associate with sex-specific effects.
