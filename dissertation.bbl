@@ -71,6 +71,10 @@ Rao M~S, Patterson P~H, \& Landis S~C.
 \newblock \emph{Development (Cambridge, England)}, 116(3):731--44 (1992).
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/1289063}
 
+\bibitem{Berger2014}
+Berger M.
+\newblock \emph{{Psychische Erkrankungen}} (2014).
+
 \bibitem{Rawlings2004}
 Rawlings J~S.
 \newblock {The JAK/STAT signaling pathway}.
@@ -253,6 +257,15 @@ Kim H~K, Fuchs G, Wang S \emph{et~al.}
 \newblock \emph{Nature}, 552(7683):57 (2017).
 \newblock \doi{10.1038/nature25005}.
 \newline\urlprefix\url{http://www.nature.com/doifinder/10.1038/nature25005}
+
+\bibitem{Parisien2013}
+Parisien M, Wang X, \& Pan T.
+\newblock {Diversity of human tRNA genes from the 1000-genomes project}.
+\newblock \emph{RNA Biology}, 10(12):1853--1867 (2013).
+\newblock \doi{10.4161/rna.27361}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/24448271
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3917988
+  http://www.tandfonline.com/doi/abs/10.4161/rna.27361}
 
 \bibitem{Loher2017}
 Loher P, Telonis A~G, \& Rigoutsos I.
@@ -492,6 +505,21 @@ Sun M, Liu H, Min S, Wang H, \& Wang X.
 \newblock \doi{10.3892/br.2016.602}.
 \newline\urlprefix\url{https://www.spandidos-publications.com/
   https://www.spandidos-publications.com/10.3892/br.2016.602}
+
+\bibitem{Roehr2017}
+Roehr J~T, Dieterich C, \& Reinert K.
+\newblock {Flexbar 3.0 – SIMD and multicore parallelization}.
+\newblock \emph{Bioinformatics}, 33(18):2941--2942 (2017).
+\newblock \doi{10.1093/bioinformatics/btx330}.
+\newline\urlprefix\url{https://academic.oup.com/bioinformatics/article/33/18/2941/3852078}
+
+\bibitem{Wang2009}
+Wang W~C, Lin F~M, Chang W~C, Lin K~Y, Huang H~D, \& Lin N~S.
+\newblock {miRExpress: analyzing high-throughput sequencing data for profiling
+  microRNA expression}.
+\newblock \emph{BMC Bioinformatics}, 10:328 (2009).
+\newblock \doi{10.1186/1471-2105-10-328}.
+\newline\urlprefix\url{https://www.ncbi.nlm.nih.gov/pubmed/19821977}
 
 \bibitem{Love2014}
 Love M~I, Huber W, \& Anders S.

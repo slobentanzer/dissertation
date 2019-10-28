@@ -21,6 +21,8 @@
 \RequirePackage{siunitx}
 
 %Hyphenation rules
+\hyphenation{mRNA}
+\hyphenation{mRNAs}
 \hyphenation{miRNA}
 \hyphenation{miRNAs}
 \hyphenation{miRNet}
