@@ -19,6 +19,7 @@
 \RequirePackage{etoolbox}
 \RequirePackage{acro}
 \RequirePackage{siunitx}
+	\sisetup{detect-all}
 
 %Hyphenation rules
 \hyphenation{mRNA}

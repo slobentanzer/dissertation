@@ -529,6 +529,14 @@ Love M~I, Huber W, \& Anders S.
 \newblock \doi{10.1186/s13059-014-0550-8}.
 \newline\urlprefix\url{http://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8}
 
+\bibitem{Wald1939}
+Wald A.
+\newblock {Contributions to the Theory of Statistical Estimation and Testing
+  Hypotheses}.
+\newblock \emph{The Annals of Mathematical Statistics}, 10(4):299--326 (1939).
+\newblock \doi{10.1098/rsta.1937.0005}.
+\newline\urlprefix\url{http://rsta.royalsocietypublishing.org/cgi/doi/10.1098/rsta.1937.0005}
+
 \bibitem{Bullard2010}
 Bullard J~H, Purdom E, Hansen K~D, \& Dudoit S.
 \newblock {Evaluation of statistical methods for normalization and differential
@@ -554,5 +562,14 @@ Zhu A, Ibrahim J~G, \& Love M~I.
 \newblock \emph{Bioinformatics}, 35(12):2084--2092 (2019).
 \newblock \doi{10.1093/bioinformatics/bty895}.
 \newline\urlprefix\url{https://academic.oup.com/bioinformatics/article/35/12/2084/5159452}
+
+\bibitem{Alexa2006}
+Alexa A, Rahnenfuhrer J, \& Lengauer T.
+\newblock {Improved scoring of functional groups from gene expression data by
+  decorrelating GO graph structure}.
+\newblock \emph{Bioinformatics}, 22(13):1600--1607 (2006).
+\newblock \doi{10.1093/bioinformatics/btl140}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16606683
+  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btl140}
 
 \end{thebibliography}

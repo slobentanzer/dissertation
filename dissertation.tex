@@ -15,8 +15,81 @@
             
 \usepackage{wrapfig}
 
-\usepackage{framed}
-\definecolor{shadecolor}{RGB}{195,205,230}
+% Scientific notation in text command
+\newcommand{\e}[2]{\num{#1}E\num[minimum-integer-digits=2]{#2}}
+
+% full page figure
+\usepackage{fltpage}
+
+% Environment for methods
+\newenvironment{method}
+	{
+	\vspace{6pt}
+	\begin{sffamily}
+	\begin{spacing}{\dcompressedspacing}
+	}
+	{
+	\end{spacing}
+	\end{sffamily}
+	\vspace{6pt}
+	}
+
+% small similar sign
+\newcommand{\smallsim}{\smallsym{\mathrel}{\sim}}
+
+\makeatletter
+\newcommand{\smallsym}[2]{#1{\mathpalette\make@small@sym{#2}}}
+\newcommand{\make@small@sym}[2]{%
+  \vcenter{\hbox{$\m@th\downgrade@style#1#2$}}%
+}
+\newcommand{\downgrade@style}[1]{%
+  \ifx#1\displaystyle\scriptstyle\else
+    \ifx#1\textstyle\scriptstyle\else
+      \scriptscriptstyle
+  \fi\fi
+}
+\makeatother
+
+% same with gtrsim
+\newcommand{\smallgtrsim}{\smallgtrsym{\mathrel}{\gtrsim}}
+
+\makeatletter
+\newcommand{\smallgtrsym}[2]{#1{\mathpalette\make@small@gtrsym{#2}}}
+\newcommand{\make@small@gtrsym}[2]{%
+  \vcenter{\hbox{$\m@th\downgrade@style#1#2$}}%
+}
+\makeatother
+
+% Items more compact
+\usepackage{enumitem}
+
+% Box environment
+\usepackage{newfloat}
+\DeclareFloatingEnvironment[within=none, fileext=frm, placement={!hb}, name=Box]{boxenv}
+\captionsetup[boxenv]{font=normalsize, labelfont=bf, textfont=sf} %labelfont %textfont %font ?
+\usepackage[framemethod=TikZ]{mdframed}
+\definecolor{shadecolor}{RGB}{143,177,196}
+\definecolor{dkshadecolor}{RGB}{51,99,125}
+\newenvironment{mybox}[1]
+    {
+    	\begin{boxenv}[!b]
+	\begin{small}
+    	\begin{mdframed}[
+		%roundcorner=5pt, 
+		backgroundcolor=shadecolor, 
+		linecolor=dkshadecolor,
+  		linewidth=4pt,
+  		topline=false,
+  		rightline=false,
+  		leftline=false
+		]
+    	\caption{#1}
+    }
+    {
+    	\end{mdframed}
+	\end{small}
+    	\end{boxenv}
+    }
 
 % prevent breaking inside LA-N
 \usepackage[shortcuts]{extdash}
