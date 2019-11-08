@@ -323,6 +323,13 @@ Hon C~c, Ramilowski J~A, Harshbarger J \emph{et~al.}
 \newblock \doi{10.1038/nature21374}.
 \newline\urlprefix\url{http://dx.doi.org/10.1038/nature21374}
 
+\bibitem{Fujii2017}
+Fujii T, Mashimo M, Moriwaki Y, Misawa H, Ono S, Horiguchi K, \& Kawashima K.
+\newblock {Physiological functions of the cholinergic system in immune cells}.
+\newblock \emph{Journal of Pharmacological Sciences}, 134(1):1--21 (2017).
+\newblock \doi{10.1016/j.jphs.2017.05.002}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S1347861317300695}
+
 \bibitem{miRWalk2}
 Dweep H \& Gretz N.
 \newblock {miRWalk2 web page}.
@@ -384,6 +391,30 @@ Agarwal V, Bell G~W, Nam J~W, \& Bartel D~P.
 \newblock \emph{eLife}, 4 (2015).
 \newblock \doi{10.7554/eLife.05005}.
 \newline\urlprefix\url{https://elifesciences.org/articles/05005}
+
+\bibitem{Soreq2015}
+Soreq H.
+\newblock {Checks and balances on cholinergic signaling in brain and body
+  function}.
+\newblock \emph{Trends in Neurosciences}, 38(7):448--458 (2015).
+\newblock \doi{10.1016/j.tins.2015.05.007}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.tins.2015.05.007}
+
+\bibitem{Smith1981}
+Smith T \& Waterman M.
+\newblock {Identification of common molecular subsequences}.
+\newblock \emph{Journal of Molecular Biology}, 147(1):195--197 (1981).
+\newblock \doi{10.1016/0022-2836(81)90087-5}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/0022283681900875?via{\%}3Dihub
+  https://linkinghub.elsevier.com/retrieve/pii/0022283681900875}
+
+\bibitem{Needleman1970}
+Needleman S~B \& Wunsch C~D.
+\newblock {A general method applicable to the search for similarities in the
+  amino acid sequence of two proteins}.
+\newblock \emph{Journal of Molecular Biology}, 48(3):443--453 (1970).
+\newblock \doi{10.1016/0022-2836(70)90057-4}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/0022283670900574?via{\%}3Dihub}
 
 \bibitem{Raichle2002}
 Raichle M~E \& Gusnard D~A.
@@ -453,6 +484,22 @@ Zeisel A, Hochgerner H, L{\"{o}}nnerberg P \emph{et~al.}
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/30096314
   http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC6086934
   https://linkinghub.elsevier.com/retrieve/pii/S009286741830789X}
+
+\bibitem{Murtagh2014}
+Murtagh F \& Legendre P.
+\newblock {Ward's Hierarchical Agglomerative Clustering Method: Which
+  Algorithms Implement Ward's Criterion?}
+\newblock \emph{Journal of Classification}, 31(3):274--295 (2014).
+\newblock \doi{10.1007/s00357-014-9161-z}.
+\newline\urlprefix\url{http://link.springer.com/10.1007/s00357-014-9161-z}
+
+\bibitem{Bray1957}
+Bray J~R \& Curtis J~T.
+\newblock {An Ordination of the Upland Forest Communities of Southern
+  Wisconsin}.
+\newblock \emph{Ecological Monographs}, 27(4):325--349 (1957).
+\newblock \doi{10.2307/1942268}.
+\newline\urlprefix\url{http://doi.wiley.com/10.2307/1942268}
 
 \bibitem{Biedler1978}
 Biedler J~L, Roffler-Tarlov S, Schachner M, \& Freedman L~S.
@@ -571,5 +618,12 @@ Alexa A, Rahnenfuhrer J, \& Lengauer T.
 \newblock \doi{10.1093/bioinformatics/btl140}.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16606683
   https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btl140}
+
+\bibitem{Jacomy2014}
+Jacomy M, Venturini T, Heymann S, \& Bastian M.
+\newblock {ForceAtlas2, a continuous graph layout algorithm for handy network
+  visualization designed for the Gephi software}.
+\newblock \emph{PLoS ONE}, 9(6):1--12 (2014).
+\newblock \doi{10.1371/journal.pone.0098679}.
 
 \end{thebibliography}

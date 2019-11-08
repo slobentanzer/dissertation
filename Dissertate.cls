@@ -19,7 +19,6 @@
 \RequirePackage{etoolbox}
 \RequirePackage{acro}
 \RequirePackage{siunitx}
-	\sisetup{detect-all}
 
 %Hyphenation rules
 \hyphenation{mRNA}
@@ -27,6 +26,7 @@
 \hyphenation{miRNA}
 \hyphenation{miRNAs}
 \hyphenation{miRNet}
+\hyphenation{homo-pen-ta-mer-ic}
 
 % Line spacing: dsingle/ddouble
 %   Whether to use single- or doublespacing.
@@ -103,7 +103,7 @@
 \setmonofont[Scale=MatchLowercase]{Source Code Pro}
 \RequirePackage[labelfont={bf,sf,footnotesize,singlespacing},
                 textfont={sf,footnotesize,singlespacing},
-                justification={justified,RaggedRight},
+                justification={justified},
                 singlelinecheck=false,
                 margin=0pt,
                 figurewithin=chapter,
@@ -120,7 +120,7 @@
 \RequirePackage{titling}
 
 % Front matter.
-\setcounter{tocdepth}{1}
+\setcounter{tocdepth}{2}
 \usepackage[titles]{tocloft}
 \usepackage[titletoc]{appendix}
 \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
@@ -315,6 +315,7 @@
 	\chapter*{Abbreviations}
 	\noindent
     \begin{spacing}{\dcompressedspacing}
+    	\footnotesize
 	\printacronyms[include-classes = abb, heading = none]
 	\printacronyms[include-classes = gene, name = Gene Symbols]
     \end{spacing}

@@ -21,12 +21,16 @@
 % full page figure
 \usepackage{fltpage}
 
+% table cells
+\usepackage{makecell}
+
 % Environment for methods
 \newenvironment{method}
 	{
 	\vspace{6pt}
 	\begin{sffamily}
 	\begin{spacing}{\dcompressedspacing}
+	\sisetup{detect-all}
 	}
 	{
 	\end{spacing}
