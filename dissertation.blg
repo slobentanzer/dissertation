@@ -12,49 +12,45 @@ A level-1 auxiliary file: chapters/appendix_marbach.aux
 A level-1 auxiliary file: chapters/appendix_homologues.aux
 A level-1 auxiliary file: chapters/appendix_de-mirs.aux
 Database file #1: library.bib
-Warning--I didn't find a database entry for ""
-Warning--can't use both author and editor fields in Berger2014
-Warning--missing publisher in Berger2014
-Warning--missing publisher in Lobentanzer2019b
-You've used 95 entries,
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+You've used 105 entries,
             2536 wiz_defined-function locations,
-            1367 strings with 38144 characters,
-and the built_in function-call counts, 89544 in all, are:
-= -- 9709
-> -- 1516
+            1452 strings with 64692 characters,
+and the built_in function-call counts, 98343 in all, are:
+= -- 10661
+> -- 1654
 < -- 4
-+ -- 975
-- -- 358
-* -- 6089
-:= -- 8293
-add.period$ -- 361
-call.type$ -- 95
-change.case$ -- 99
++ -- 1061
+- -- 390
+* -- 6687
+:= -- 9121
+add.period$ -- 401
+call.type$ -- 105
+change.case$ -- 111
 chr.to.int$ -- 0
-cite$ -- 98
-duplicate$ -- 10492
-empty$ -- 7506
-format.name$ -- 443
-if$ -- 19242
+cite$ -- 105
+duplicate$ -- 11527
+empty$ -- 8257
+format.name$ -- 484
+if$ -- 21139
 int.to.chr$ -- 0
-int.to.str$ -- 95
-missing$ -- 1007
-newline$ -- 635
-num.names$ -- 97
-pop$ -- 4758
+int.to.str$ -- 105
+missing$ -- 1108
+newline$ -- 704
+num.names$ -- 108
+pop$ -- 5212
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 810
+skip$ -- 886
 stack$ -- 0
-substring$ -- 12175
-swap$ -- 2683
+substring$ -- 13351
+swap$ -- 2951
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 3
-while$ -- 623
-width$ -- 97
-write$ -- 1276
-(There were 4 warnings)
+warning$ -- 0
+while$ -- 681
+width$ -- 108
+write$ -- 1417

@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -81,6 +81,14 @@ Schmitz T~W \& {Nathan Spreng} R.
 Kraepelin E.
 \newblock \emph{{Psychiatrie. Ein Lehrbuch f{\"{u}}r Studirende und Aerzte.}}
 \newblock Leipzig Barth, edition 8, edition (1913).
+
+\bibitem{Bortolato2015}
+Bortolato B, Miskowiak K, Vieta E, K{\"{o}}hler C, \& Carvalho A~F.
+\newblock {Cognitive dysfunction in bipolar disorder and schizophrenia: a
+  systematic review of meta-analyses}.
+\newblock \emph{Neuropsychiatric Disease and Treatment}, 11:3111 (2015).
+\newblock \doi{10.2147/NDT.S76700}.
+\newline\urlprefix\url{https://www.dovepress.com/cognitive-dysfunction-in-bipolar-disorder-and-schizophrenia-a-systemat-peer-reviewed-article-NDT}
 
 \bibitem{VanEnkhuizen2015}
 {Van Enkhuizen} J, Janowsky D~S, Olivier B, Minassian A, Perry W, Young J~W, \&
@@ -180,6 +188,90 @@ Değirmenci Y \& Ke{\c{c}}eci H.
 \newblock \emph{International Journal of Gerontology}, 10(4):240--241 (2016).
 \newblock \doi{10.1016/j.ijge.2015.10.010}.
 
+\bibitem{Leger2016}
+Leger M \& Neill J~C.
+\newblock {A systematic review comparing sex differences in cognitive function
+  in schizophrenia and in rodent models for schizophrenia, implications for
+  improved therapeutic strategies}.
+\newblock \emph{Neuroscience {\&} Biobehavioral Reviews}, 68:979--1000 (2016).
+\newblock \doi{10.1016/j.neubiorev.2016.06.029}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/27344000
+  http://linkinghub.elsevier.com/retrieve/pii/S0149763415302712}
+
+\bibitem{DeLeon2005}
+de~Leon J \& Diaz F~J.
+\newblock {A meta-analysis of worldwide studies demonstrates an association
+  between schizophrenia and tobacco smoking behaviors}.
+\newblock \emph{Schizophrenia Research}, 76(2-3):135--157 (2005).
+\newblock \doi{10.1016/j.schres.2005.02.010}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0920996405000757}
+
+\bibitem{Berger2014}
+Berger M, (Editor) \emph{{Psychische Erkrankungen}}.
+\newblock Berger, Mathias (2014).
+
+\bibitem{Anttila2018}
+Anttila V, Bulik-Sullivan B, Finucane H~K \emph{et~al.}
+\newblock {Analysis of shared heritability in common disorders of the brain}.
+\newblock \emph{Science}, 360(6395):eaap8757 (2018).
+\newblock \doi{10.1126/science.aap8757}.
+\newline\urlprefix\url{http://www.sciencemag.org/lookup/doi/10.1126/science.aap8757}
+
+\bibitem{Ruderfer2018}
+Ruderfer D~M, Ripke S, McQuillin A \emph{et~al.}
+\newblock {Genomic Dissection of Bipolar Disorder and Schizophrenia, Including
+  28 Subphenotypes}.
+\newblock \emph{Cell}, 173(7):1705--1715.e16 (2018).
+\newblock \doi{10.1016/j.cell.2018.05.046}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0092867418306585}
+
+\bibitem{Harrison2015}
+Harrison P~J.
+\newblock {Recent genetic findings in schizophrenia and their therapeutic
+  relevance}.
+\newblock \emph{Journal of Psychopharmacology}, 29(2):85--96 (2015).
+\newblock \doi{10.1177/0269881114553647}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/25315827
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4361495
+  http://journals.sagepub.com/doi/10.1177/0269881114553647}
+
+\bibitem{Henriksen2017}
+Henriksen M~G, Nordgaard J, \& Jansson L~B.
+\newblock {Genetics of Schizophrenia: Overview of Methods, Findings and
+  Limitations}.
+\newblock \emph{Frontiers in Human Neuroscience}, 11:322 (2017).
+\newblock \doi{10.3389/fnhum.2017.00322}.
+\newline\urlprefix\url{http://journal.frontiersin.org/article/10.3389/fnhum.2017.00322/full}
+
+\bibitem{Kanazawa2017}
+Kanazawa T, Bousman C~A, Liu C, \& Everall I~P.
+\newblock {Schizophrenia genetics in the genome-wide era: a review of Japanese
+  studies}.
+\newblock \emph{npj Schizophrenia}, 3(1):27 (2017).
+\newblock \doi{10.1038/s41537-017-0028-2}.
+\newline\urlprefix\url{http://www.nature.com/articles/s41537-017-0028-2}
+
+\bibitem{Fujii2017}
+Fujii T, Mashimo M, Moriwaki Y, Misawa H, Ono S, Horiguchi K, \& Kawashima K.
+\newblock {Physiological functions of the cholinergic system in immune cells}.
+\newblock \emph{Journal of Pharmacological Sciences}, 134(1):1--21 (2017).
+\newblock \doi{10.1016/j.jphs.2017.05.002}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S1347861317300695}
+
+\bibitem{Pavlov2017}
+Pavlov V~A \& Tracey K~J.
+\newblock {Neural regulation of immunity: Molecular mechanisms and clinical
+  translation}.
+\newblock \emph{Nature Neuroscience}, 20(2):156--166 (2017).
+\newblock \doi{10.1038/nn.4477}.
+
+\bibitem{Meisel2005}
+Meisel C, Schwab J~M, Prass K, Meisel A, \& Dirnagl U.
+\newblock {Central nervous system injury-induced immune deficiency syndrome.}
+\newblock \emph{Nature reviews. Neuroscience}, 6(10):775--86 (2005).
+\newblock \doi{10.1038/nrn1765}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16163382}
+
 \bibitem{Levi-Montalcini1960}
 Levi-Montalcini R \& Booker B.
 \newblock {Destruction of the sympathetic ganglia in mammals by an antiserum to
@@ -209,10 +301,6 @@ Rao M~S, Patterson P~H, \& Landis S~C.
   extracts: comparison with known cholinergic factors.}
 \newblock \emph{Development (Cambridge, England)}, 116(3):731--44 (1992).
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/1289063}
-
-\bibitem{Berger2014}
-Berger M.
-\newblock \emph{{Psychische Erkrankungen}} (2014).
 
 \bibitem{Rawlings2004}
 Rawlings J~S.
@@ -462,13 +550,6 @@ Hon C~c, Ramilowski J~A, Harshbarger J \emph{et~al.}
 \newblock \doi{10.1038/nature21374}.
 \newline\urlprefix\url{http://dx.doi.org/10.1038/nature21374}
 
-\bibitem{Fujii2017}
-Fujii T, Mashimo M, Moriwaki Y, Misawa H, Ono S, Horiguchi K, \& Kawashima K.
-\newblock {Physiological functions of the cholinergic system in immune cells}.
-\newblock \emph{Journal of Pharmacological Sciences}, 134(1):1--21 (2017).
-\newblock \doi{10.1016/j.jphs.2017.05.002}.
-\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S1347861317300695}
-
 \bibitem{miRWalk2}
 Dweep H \& Gretz N.
 \newblock {miRWalk2 web page}.
@@ -578,7 +659,7 @@ Bohn K~A, Adkins C~E, Mittapalli R~K, Terrell-Hall T~B, Mohammad A~S, Shah N,
 Lobentanzer S \& Klein J.
 \newblock {Zentrales und Peripheres Nervensystem}.
 \newblock In Wichmann \& Fromme, (Editors) \emph{Handbuch f{\"{u}}r
-  Umweltmedizin}, chapter~11. Erg. lfg. edition (2019).
+  Umweltmedizin}, chapter~11. ecomed Medizin, erg. lfg. edition (2019).
 
 \bibitem{Darmanis2015}
 Darmanis S, Sloan S~A, Zhang Y, Enge M, Caneda C, Shuer L~M, {Hayden Gephart}
