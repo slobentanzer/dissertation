@@ -289,24 +289,4 @@ For each of these categories, the method tests for a representation of genes in 
 
 Whenever a \ac{go} analysis is described in this dissertation, it means a gene set enrichment analysis performed on a particular subset of genes (that might e.g. be the targets of a group of \acp{mir}) towards the elucidation of their biological function, i.e., the »biological process« category of \ac{go} annotation.
 
-\subsection{The Leave-One-Out Approach}
-Identifying important regulatory circuits in large complex networks can be daunting. Multiple approaches for dimensionality reduction in networks have been proposed, such as modularisation, centrality measures, or random walks. While these are useful in describing the properties of a static network, they cannot be used to extend networks step-wise based on limiting factors. For this, an iterative \ac{loo} approach is better suited. Generally, it encapsulates an arbitrary, set-based method whose parameters can be measured, and repeats this method for all possible subsets of the original set. The set of all subsets of a set S is called a \emph{power set}. This procedure can be chained iteratively, producing $n!$ outcomes for a starting set of $n$ elements.
-
-In the case of miRNAs and their regulatory impact, a \ac{loo} operation can be performed on the targeting subnetwork of multiple miRNAs or genes (as starting set). The parameters to be measured can be network density, centrality, amount and identity of hub genes, or just the size of the network. During the LOO iterations, the parameters can be monitored for significant changes upon the leaving-out of any one miRNA, which can then serve as an indication of an important circuit involving this miRNA. 
-
 \end{method}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%% SECTION %%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Identification of Cholinergic Regulators} \label{sec:database:chol-reg}
-Having built a first version of the database, I set out to comprehensively characterise the system of miRNA controllers around cholinergic gene expression, which had not been attempted before. Since miRNA regulatory networks are scale-free networks of many-to-many organisation, a large amount of miRNAs involved with regulation of any gene set is to be expected. Finding the most important regulators thus is not a trivial query. The initial task was the definition of a gene set representative of cholinergic systems. Following this definition, an approach had to be found that enables the weighting of nodes in the miRNA network concerned with regulating these genes.
-
-\subsection{The Cholinergic Gene Set}
-A recent review gives an overview of genes involved in cholinergic processes\cite{Soreq2015} (see Box \ref{box:chol-genes}). Cholinergic genes in the strictest sense are those genes that code for proteins that come into direct contact with \acf{ach}. Those are \ac{chat} and \ac{slc}, the nicotinic and muscarinic ACh-receptors, and \acs{ache} and \acs{bche}. Extending the definition, all genes are cholinergic that are required for cholinergic transmission to function normally. This includes \acs{acly}, \acs{prima} and \acs{colq}, and \acs{hacu}. Together, these make up a list of 29 genes most essential for cholinergic transmission, from hereon out referred to simply as \emph{cholinergic genes}.
-
-\subsection{Iterative Network Size Analysis}
-
-
-
