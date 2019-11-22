@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  13 NOV 2019 20:32
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  22 NOV 2019 09:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -762,27 +762,27 @@ Package fontspec Info: Font family 'EBGaramond(1)' created for font 'EB
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
 (fontspec)             <->"EB Garamond/BI/OT:script=latn;language=DFLT;+smcp;"
 
-LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 96.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 97.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
 (Font)                  TU/EBGaramond(1)/m/n --> TU/EBGaramond(1)/bx/n on input
- line 96.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 96.
+ line 97.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 97.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/EBGaramond(1)/m/it on input line 96
+(Font)                  OT1/cmr/m/it --> TU/EBGaramond(1)/m/it on input line 97
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/EBGaramond(1)/m/it on input line 9
-6.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 96.
+7.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 97.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(1)/bx/n on input line 96
+(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(1)/bx/n on input line 97
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(1)/bx/n on input line 96
+(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(1)/bx/n on input line 97
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  TU/EBGaramond(1)/m/it --> TU/EBGaramond(1)/bx/it on inp
-ut line 96.
+ut line 97.
 \symOperators:m:n=\mathgroup11
 
 Package fontspec Info: Font family 'EBGaramond(2)' created for font 'EB
@@ -821,9 +821,9 @@ ping=tex-text;"
 (fontspec)             Garamond/BI/OT:script=latn;language=DFLT;+onum;+liga;+sm
 cp;mapping=tex-text;"
 
-LaTeX Info: Redefining \rmfamily on input line 101.
+LaTeX Info: Redefining \rmfamily on input line 102.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 101.
+(Font)              scaled to size 12.0pt on input line 102.
 
 Package fontspec Info: Font family 'EBGaramond(3)' created for font 'EB
 (fontspec)             Garamond' with options [RawFeature={+c2sc,+scmp}].
@@ -895,7 +895,7 @@ Package fontspec Info: Font family 'LatoRegular(0)' created for font 'Lato
 (fontspec)             Bold/I/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
-LaTeX Info: Redefining \sffamily on input line 103.
+LaTeX Info: Redefining \sffamily on input line 104.
 
 Package fontspec Info: Source Code Pro scale = 0.833334657882258.
 
@@ -957,7 +957,7 @@ Space,Scale=MatchLowercase].
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
-LaTeX Info: Redefining \ttfamily on input line 104.
+LaTeX Info: Redefining \ttfamily on input line 105.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
@@ -1090,7 +1090,7 @@ Package: quotchap 2012/10/20 v1.1 Decorative Chapter Headings with Quotes
 \@quotebox=\box61
 )
 \mybibindent=\skip122
-Package hyperref Info: Option `colorlinks' set `true' on input line 216.
+Package hyperref Info: Option `colorlinks' set `true' on input line 217.
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/todonotes/todonotes.sty
 Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
@@ -1436,6 +1436,13 @@ Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 \c@FP@tableC=\count351
 \FP@floatCorpusBOX=\box76
 )
+(/usr/local/texlive/2019/texmf-dist/tex/latex/was/upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup12
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen311
@@ -1452,10 +1459,10 @@ Package: enumitem 2019/02/04 v3.8 Customized lists
 \enitdp@description=\count354
 )
 Package newfloat Info: New float `boxenv' with options `within=none, fileext=fr
-m, placement={!hb}, name=Box' on input line 72.
+m, placement={!hb}, name=Box' on input line 77.
 \c@boxenv=\count355
 \newfloat@ftype=\count356
-Package newfloat Info: float type `boxenv'=8 on input line 72.
+Package newfloat Info: float type `boxenv'=8 on input line 77.
 \c@frmdepth=\count357
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/mdframed/mdframed.sty
@@ -1561,7 +1568,7 @@ Package: extdash 2018/06/24 v1.3 Extended Dash Package (NCC)
 
 (./acronyms.tex)
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 110.
+h' as default language. on input line 115.
  (./dissertation.aux (./chapters/010_introduction.aux)
 (./chapters/020_database.aux) (./chapters/030_cellculture.aux)
 (./chapters/040_stroke.aux) (./chapters/100_discussion.aux)
@@ -1569,24 +1576,24 @@ h' as default language. on input line 110.
 (./chapters/appendix_homologues.aux) (./chapters/appendix_de-mirs.aux))
 \openout1 = `dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
 \AtBeginShipoutBox=\box83
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/translations/translations-basic-d
@@ -1595,7 +1602,7 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 110.
+or `english'. on input line 115.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -1640,9 +1647,9 @@ File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 110.
+LaTeX Info: Redefining \selectfont on input line 115.
 \c@lstlisting=\count364
-Package hyperref Info: Link coloring ON on input line 110.
+Package hyperref Info: Link coloring ON on input line 115.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1652,9 +1659,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count365
 )
-LaTeX Info: Redefining \ref on input line 110.
-LaTeX Info: Redefining \pageref on input line 110.
-LaTeX Info: Redefining \nameref on input line 110.
+LaTeX Info: Redefining \ref on input line 115.
+LaTeX Info: Redefining \pageref on input line 115.
+LaTeX Info: Redefining \nameref on input line 115.
 
 (./dissertation.out) (./dissertation.out)
 \@outlinefile=\write4
@@ -1665,7 +1672,7 @@ Package caption Info: fltpage package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@FP@boxenvC=\count366
-LaTeX Info: Redefining \microtypecontext on input line 110.
+LaTeX Info: Redefining \microtypecontext on input line 115.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1681,7 +1688,7 @@ ABD: EveryShipout initializing macros
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 110.
+LaTeX Font Info:    Try loading font information for U+msa on input line 115.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1689,13 +1696,16 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 110.
+LaTeX Font Info:    Try loading font information for U+msb on input line 115.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-eur.cfg
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
 )
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
@@ -1708,9 +1718,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 (./frontmatter/personalize.tex) (./frontmatter/personalize.tex)
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 116.
+(Font)              scaled to size 24.88pt on input line 121.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 116.
+(Font)              scaled to size 12.0pt on input line 121.
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
@@ -1722,16 +1732,16 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 ]
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 116.
+(Font)              scaled to size 10.95pt on input line 121.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 116.
+(Font)              scaled to size 10.95pt on input line 121.
  [2]
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 116.
+(Font)              scaled to size 17.28pt on input line 121.
  (./frontmatter/abstract.tex) [3] [4
 
 ]
-LaTeX Font Info:    Try loading font information for T1+ppl on input line 116.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 121.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
@@ -1743,7 +1753,7 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/bx/n' will be
 (Font)              scaled to size 10.95pt on input line 1.
 
-Overfull \hbox (6.29678pt too wide) in paragraph at lines 42--42
+Overfull \hbox (6.29678pt too wide) in paragraph at lines 43--43
  [][] [][][]\TU/EBGaramond(2)/m/sc/12 microRNA Dynamics in Cholinergic Differen
 tiation of Human Neu- 
  []
@@ -1774,20 +1784,22 @@ LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
 
 ]
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 116.
+(Font)              scaled to size 10.0pt on input line 121.
  [11]
+LaTeX Font Info:    Font shape `TU/EBGaramond(2)/bx/it' will be
+(Font)              scaled to size 10.0pt on input line 121.
 LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
-(Font)              scaled to size 8.33328pt on input line 116.
+(Font)              scaled to size 8.33328pt on input line 121.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `SourceCodePro' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/it' will be
-(Font)              scaled to size 8.33328pt on input line 116.
+(Font)              scaled to size 8.33328pt on input line 121.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 116.
+(Font)              scaled to size 7.0pt on input line 121.
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 116.
+(Font)              scaled to size 5.0pt on input line 121.
  [12] [13]
 \openout2 = `chapters/010_introduction.aux'.
 
@@ -1817,61 +1829,77 @@ LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/n' will be
 (Font)              scaled to size 7.89734pt on input line 11.
 
+Overfull \hbox (7.36021pt too wide) in paragraph at lines 14--15
+\TU/EBGaramond(2)/m/n/10.95 staining procedures established in the 1970s utilis
+ed monoclonal antibodies against []acetylcholinesterase
+ []
+
+Package mdframed Info: mdframed works in twoside mode on input line 16.
+Package hyperref Info: bookmark level for unknown boxenv defaults to 0 on input
+ line 16.
+LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/it' will be
+(Font)              scaled to size 10.95pt on input line 17.
+LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
+(Font)              scaled to size 9.12494pt on input line 17.
+LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/it' will be
+(Font)              scaled to size 9.12494pt on input line 17.
+LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 17.
+LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/bx/n' will be
+(Font)              scaled to size 9.12494pt on input line 17.
+LaTeX Font Info:    Font shape `TU/EBGaramond(2)/bx/n' will be
+(Font)              scaled to size 8.0pt on input line 17.
+LaTeX Font Info:    Font shape `TU/EBGaramond(2)/bx/n' will be
+(Font)              scaled to size 6.0pt on input line 17.
+Package mdframed Info: mdframed inside float 
+ mdframed uses option nobreak mdframed on input line 18.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 18.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/n' will be
-(Font)              scaled to size 9.12494pt on input line 22.
-LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/m/it' will be
-(Font)              scaled to size 9.12494pt on input line 22.
-LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 22.
-LaTeX Font Info:    Font shape `TU/EBGaramond(2)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 32.
-
-[3]
-Package mdframed Info: mdframed works in twoside mode on input line 34.
-Package hyperref Info: bookmark level for unknown boxenv defaults to 0 on input
- line 34.
-LaTeX Font Info:    Font shape `TU/SourceCodePro(0)/bx/n' will be
-(Font)              scaled to size 9.12494pt on input line 35.
-LaTeX Font Info:    Font shape `TU/EBGaramond(2)/bx/n' will be
-(Font)              scaled to size 8.0pt on input line 35.
-LaTeX Font Info:    Font shape `TU/EBGaramond(2)/bx/n' will be
-(Font)              scaled to size 6.0pt on input line 35.
-Package mdframed Info: mdframed inside float 
- mdframed uses option nobreak mdframed on input line 36.
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 36.
- [4]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[3] [4]
+Underfull \vbox (badness 2744) has occurred while \output is active []
 
  [5]
-Underfull \vbox (badness 5403) has occurred while \output is active []
+[6]
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 62.
 
- [6]
-Overfull \hbox (14.75024pt too wide) in paragraph at lines 63--64
+
+LaTeX Warning: Marginpar on page 7 moved.
+
+
+LaTeX Warning: Marginpar on page 7 moved.
+
+[7]
+Overfull \hbox (14.75024pt too wide) in paragraph at lines 69--70
 []\TU/EBGaramond(2)/m/n/10.95 The immunological situation after stroke is domin
 ated by two opposing factors, the pro-inflammatory
  []
 
-[7]
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 68.
- [8]
-File: figures/neurokine.pdf Graphic file (type pdf)
-<use figures/neurokine.pdf>
-) (./chapters/012_trans_conn.tex [9] [10] [11] [12]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13]
-[14]
+ [8]
+Underfull \vbox (badness 5403) has occurred while \output is active []
+
+ [9]
+File: figures/neurokine.pdf Graphic file (type pdf)
+<use figures/neurokine.pdf>
+)
+(./chapters/012_trans_conn.tex [10] [11]
+Underfull \vbox (badness 4303) has occurred while \output is active []
+
+ [12]
+[13] [14] [15]
 Overfull \hbox (6.66237pt too wide) in paragraph at lines 47--48
 []\TU/EBGaramond(2)/m/n/10.95 ? Levels of []tRFs may be modulated even more rap
 idly than levels of []miRNAs, since []tRNA molecules
  []
 
-[15] [16])) [17]
+[16])) [17]
 \openout2 = `chapters/020_database.aux'.
 
  (./chapters/020_database.tex [18
@@ -1892,7 +1920,7 @@ Underfull \vbox (badness 3989) has occurred while \output is active []
 File: figures/graph-org.pdf Graphic file (type pdf)
 <use figures/graph-org.pdf>
 LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/it' will be
-(Font)              scaled to size 7.89734pt on input line 29.
+(Font)              scaled to size 7.89734pt on input line 33.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1901,7 +1929,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: figures/db-score-hist.pdf Graphic file (type pdf)
 <use figures/db-score-hist.pdf>
 LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/n' will be
-(Font)              scaled to size 8.64758pt on input line 88.
+(Font)              scaled to size 8.64758pt on input line 96.
 
 Package fontspec Info: Lato Regular scale = 0.78973461650627.
 
@@ -1948,26 +1976,26 @@ xt;"
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/LatoRegular(1)/m/n' will be
-(Font)              scaled to size 8.64758pt on input line 110.
+(Font)              scaled to size 8.64758pt on input line 118.
 
 Package fontspec Info: Lato Regular scale = 0.78973461650627.
 
  [26] [27]
 
 LaTeX Font Warning: Font shape `TU/LatoRegular(0)/m/sc' undefined
-(Font)              using `TU/LatoRegular(0)/m/n' instead on input line 150.
+(Font)              using `TU/LatoRegular(0)/m/n' instead on input line 158.
 
 LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/sc' will be
-(Font)              scaled to size 9.4768pt on input line 150.
+(Font)              scaled to size 9.4768pt on input line 158.
 LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/n' will be
-(Font)              scaled to size 4.7384pt on input line 153.
+(Font)              scaled to size 4.7384pt on input line 161.
 LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/it' will be
-(Font)              scaled to size 8.64758pt on input line 153.
+(Font)              scaled to size 8.64758pt on input line 161.
 [28]
 LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/sc' will be
-(Font)              scaled to size 8.64758pt on input line 165.
+(Font)              scaled to size 8.64758pt on input line 173.
 LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/n' will be
-(Font)              scaled to size 6.31787pt on input line 166.
+(Font)              scaled to size 6.31787pt on input line 174.
 
 Underfull \vbox (badness 1389) has occurred while \output is active []
 
@@ -1976,16 +2004,10 @@ File: figures/species-homo.pdf Graphic file (type pdf)
 <use figures/species-homo.pdf>
 
 
-LaTeX Warning: Float too large for page by 6.86752pt on input line 190.
+LaTeX Warning: Float too large for page by 6.86752pt on input line 198.
 
-[30] [31] [32]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [33]
-Underfull \vbox (badness 1609) has occurred while \output is active []
-
- [34]
-Overfull \hbox (6.38654pt too wide) in paragraph at lines 274--275
+[30] [31] [32] [33] [34]
+Overfull \hbox (6.38654pt too wide) in paragraph at lines 288--289
 \TU/LatoRegular(0)/m/sc/10.95 ([] with more than [] annotations) into [] ontolo
 gical terms ([] »biological process«, [] »molec-
  []
@@ -1999,11 +2021,12 @@ Underfull \vbox (badness 1584) has occurred while \output is active []
 
  (./chapters/030_cellculture.tex
 Chapter 3.
+(./chapters/031_single_cell.tex
 File: figures/bbb.pdf Graphic file (type pdf)
 <use figures/bbb.pdf>
 LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/n' will be
-(Font)              scaled to size 5.52814pt on input line 27.
-[37
+(Font)              scaled to size 5.52814pt on input line 8.
+ [37
 
 
 
@@ -2011,13 +2034,13 @@ LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/n' will be
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [38]
-Overfull \hbox (8.5351pt too wide) in paragraph at lines 39--40
+Overfull \hbox (8.5351pt too wide) in paragraph at lines 20--21
 []\TU/LatoRegular(0)/m/sc/10.95 To provide a detailed tally of transcriptional 
 subtypes in the []CNS, publicly available single-cell []RNA-seq datasets
  []
 
 
-Overfull \hbox (2.87668pt too wide) in paragraph at lines 41--41
+Overfull \hbox (2.87668pt too wide) in paragraph at lines 22--22
 []\TU/LatoRegular(0)/m/sc/10.95 An important quality-related parameter of a sin
 gle-cell []RNA-seq experiment is the sequencing depth achieved
  []
@@ -2025,25 +2048,32 @@ gle-cell []RNA-seq experiment is the sequencing depth achieved
 File: figures/singlecell.pdf Graphic file (type pdf)
 <use figures/singlecell.pdf>
 [39] [40]
-Underfull \vbox (badness 1762) has occurred while \output is active []
+Overfull \hbox (2.16869pt too wide) in paragraph at lines 44--45
+[]\TU/EBGaramond(2)/m/n/10.95 Permutation targeting analyses revealed a nested 
+regulatory interaction between 72 primate-specific
+ []
 
- [41]
+[41]
 
 Package fontspec Info: Lato Regular scale = 0.78973461650627.
 
 File: figures/chol-clusters.pdf Graphic file (type pdf)
 <use figures/chol-clusters.pdf>
-
-Overfull \hbox (2.51909pt too wide) in paragraph at lines 104--105
+) (./chapters/032_culture_de.tex
+Overfull \hbox (2.51909pt too wide) in paragraph at lines 3--4
 []\TU/EBGaramond(2)/m/n/10.95 LA[]N[]5. During the selection process, multiple 
 options were considered. Multicellular models would,
  []
 
-[42] [43]
+
+Underfull \vbox (badness 1527) has occurred while \output is active []
+
+ [42]
+[43]
 LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/n' will be
-(Font)              scaled to size 3.94867pt on input line 120.
+(Font)              scaled to size 3.94867pt on input line 19.
  [44]
-Overfull \hbox (3.78296pt too wide) in paragraph at lines 122--123
+Overfull \hbox (3.78296pt too wide) in paragraph at lines 21--22
 []\TU/LatoRegular(0)/m/sc/10.95 LA-N cells are very sensitive to repeated tempe
 rature changes (or other handling-related disturbances), which
  []
@@ -2051,36 +2081,42 @@ rature changes (or other handling-related disturbances), which
 File: figures/time-dose.pdf Graphic file (type pdf)
 <use figures/time-dose.pdf>
 
-Overfull \hbox (6.1087pt too wide) in paragraph at lines 136--137
+Overfull \hbox (6.1087pt too wide) in paragraph at lines 35--36
 []\TU/LatoRegular(0)/m/sc/10.95 To study the small RNA dynamics following []CNT
 F exposure of []LA[]N[]2 and []LA[]N[]5, the experiment was stopped
  []
 
 
-Overfull \hbox (4.01077pt too wide) in paragraph at lines 136--137
+Overfull \hbox (4.01077pt too wide) in paragraph at lines 35--36
 \TU/LatoRegular(0)/m/sc/10.95 at 4 time points and the cells were quickly lysed
  \TU/LatoRegular(0)/m/it/10.95 in situ \TU/LatoRegular(0)/m/sc/10.95 to preserv
 e total RNA in that state: for the quick, immediate-
  []
 
+
+Underfull \vbox (badness 2221) has occurred while \output is active []
+
+ [45]
 File: figures/timepoints.pdf Graphic file (type pdf)
 <use figures/timepoints.pdf>
-[45] [46] [47]
-File: figures/read-quality.pdf Graphic file (type pdf)
-<use figures/read-quality.pdf>
 
-Overfull \hbox (0.5119pt too wide) in paragraph at lines 185--186
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46]
+File: figures/read-quality-length.pdf Graphic file (type pdf)
+<use figures/read-quality-length.pdf>
+
+Overfull \hbox (0.5119pt too wide) in paragraph at lines 84--85
 []\TU/LatoRegular(0)/m/sc/10.95 Paired-end sequencing still is superfluous in s
 mall []RNA-seq, because none of the common alignment pipelines
  []
 
+[47]
 
 LaTeX Warning: Marginpar on page 48 moved.
 
-File: figures/read-dist-after-flexbar.pdf Graphic file (type pdf)
-<use figures/read-dist-after-flexbar.pdf>
-[48] [49]
-Overfull \hbox (10.65225pt too wide) in paragraph at lines 212--213
+[48]
+Overfull \hbox (10.65225pt too wide) in paragraph at lines 111--112
 \TU/LatoRegular(0)/m/sc/10.95 fined expression (count) value. Multiple variants
  are available; for []miRNA data, the adaptive algorithm »apeglm«$[]$
  []
@@ -2088,81 +2124,106 @@ Overfull \hbox (10.65225pt too wide) in paragraph at lines 212--213
 File: figures/apeglm-comp-la2d4.pdf Graphic file (type pdf)
 <use figures/apeglm-comp-la2d4.pdf>
 
-Overfull \hbox (0.86626pt too wide) in paragraph at lines 223--223
+Overfull \hbox (0.86626pt too wide) in paragraph at lines 122--122
 |[]\TU/EBGaramond(2)/m/sc/12 microRNA Dynamics in CNTF-mediated Cholinergic Dif
 ferentiation
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [50]
-File: figures/countchangecor.pdf Graphic file (type pdf)
-<use figures/countchangecor.pdf>
-Package mdframed Info: mdframed works in twoside mode on input line 244.
+[49]
+File: figures/cc-cor-de-perm.pdf Graphic file (type pdf)
+<use figures/cc-cor-de-perm.pdf>
+Package mdframed Info: mdframed works in twoside mode on input line 143.
 Package mdframed Info: mdframed inside float 
- mdframed uses option nobreak mdframed on input line 249.
+ mdframed uses option nobreak mdframed on input line 148.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 249.
+ mdframed uses option nobreak mdframed on input line 148.
 
-Overfull \hbox (5.18167pt too wide) in paragraph at lines 252--253
+Overfull \hbox (5.18167pt too wide) in paragraph at lines 151--152
 \TU/EBGaramond(2)/m/n/10.95 »immediate-early« type. However, the response to lo
 ng-term []CNTF stimulation was larger in []miRNA
  []
 
 
-Overfull \hbox (3.58986pt too wide) in paragraph at lines 252--253
-\TU/EBGaramond(2)/m/n/10.95 numbers as well as effect sizes (Fig.[][]3.10[][]A&
-B). Of all early perturbed []miRNAs, only 3 and 13 []miRNAs
- []
+Underfull \vbox (badness 3724) has occurred while \output is active []
 
-[51]
+ [50]
 
-LaTeX Warning: Marginpar on page 52 moved.
+LaTeX Warning: Marginpar on page 51 moved.
 
 File: figures/timepoints-expr-venn.pdf Graphic file (type pdf)
 <use figures/timepoints-expr-venn.pdf>
-
-LaTeX Warning: Marginpar on page 52 moved.
-
+[51] [52]
 File: figures/la2-vs-la5-overlap-venn.pdf Graphic file (type pdf)
 <use figures/la2-vs-la5-overlap-venn.pdf>
-
-Underfull \vbox (badness 2027) has occurred while \output is active []
-
- [52]
-[53] [54]
+ [53] [54]
 File: figures/mir-de-fam-go.pdf Graphic file (type pdf)
 <use figures/mir-de-fam-go.pdf>
- [55] [56]
+) (./chapters/033_ontology_network.tex [55] [56]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 309.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\to' on input line 309.
+(hyperref)                removing `math shift' on input line 24.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 309.
+(hyperref)                removing `\to' on input line 24.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 24.
 
 File: figures/bignet.png Graphic file (type bmp)
 <figures/bignet.png>
-[57] [58]
-
-LaTeX Warning: Marginpar on page 59 moved.
-
-
-Overfull \hbox (5.82043pt too wide) in paragraph at lines 334--335
-\TU/EBGaramond(2)/m/n/10.95 ease datasets were sought in the common repositorie
-s ArrayExpress, NCBI GEO, and Synapse. Among
+[57] [58]) (./chapters/034_scz_bd.tex
+Overfull \hbox (2.83174pt too wide) in paragraph at lines 3--4
+\TU/EBGaramond(2)/m/n/10.95 heavy truncation of results or dimensionality reduc
+tion methods. Truncation is commonly performed
  []
 
-) [59]
+
+Overfull \hbox (0.2062pt too wide) in paragraph at lines 3--4
+\TU/EBGaramond(2)/m/n/10.95 used dimensionality reduction techniques include []
+principal component analysis (PCA), []t-distributed
+ []
+
+[59]
+
+Package fontspec Info: Lato Regular scale = 0.78973461650627.
+
+LaTeX Font Info:    Font shape `TU/LatoRegular(1)/m/it' will be
+(Font)              scaled to size 8.64758pt on input line 20.
+LaTeX Font Info:    Font shape `TU/LatoRegular(1)/m/n' will be
+(Font)              scaled to size 6.31787pt on input line 20.
+
+Overfull \hbox (1.14787pt too wide) in paragraph at lines 39--40
+\TU/LatoRegular(0)/m/sc/10.95 were read and RMA-normalised (log$[]$-transformed
+, background corrected, quantile-normalised) using R/affy$[]$.
+ []
+
+
+Underfull \vbox (badness 2922) has occurred while \output is active []
+
+ [60]
+
+LaTeX Warning: Marginpar on page 61 moved.
+
+
+LaTeX Warning: Marginpar on page 61 moved.
+
+[61]
+Overfull \hbox (2.1843pt too wide) in paragraph at lines 76--77
+\TU/EBGaramond(2)/m/n/10.95 Shared transcriptional properties of SCZ and BD wer
+e identifiable only in male diverging genes. While
+ []
+
+File: figures/scz-bd-go.pdf Graphic file (type pdf)
+<use figures/scz-bd-go.pdf>
+[62] [63]
+File: figures/smallnet.pdf Graphic file (type pdf)
+<use figures/smallnet.pdf>
+)) [64] [65]
 \openout2 = `chapters/040_stroke.aux'.
 
- (./chapters/040_stroke.tex [60
+ (./chapters/040_stroke.tex [66
 
 
 
@@ -2171,8 +2232,8 @@ Chapter 4.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [61]
-[62]
+ [67]
+[68]
 \openout2 = `chapters/100_discussion.aux'.
 
  (./chapters/100_discussion.tex
@@ -2180,12 +2241,12 @@ Chapter 5.
 
 Underfull \vbox (badness 1348) has occurred while \output is active []
 
- [63
+ [69
 
 
 
 ])
-[64]
+[70]
 \openout2 = `chapters/110_conclusion.aux'.
 
  (./chapters/110_conclusion.tex
@@ -2196,30 +2257,37 @@ Overfull \hbox (6.02432pt too wide) in paragraph at lines 9--10
  netus et malesuada fames ac turpis egestas. Vestibu-
  []
 
-[65
+[71
 
 
 
-]) [66] (./dissertation.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 22--27
-\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][] [] 
-[][][] [] [][][] [] [][][] [] [][][] [] [][][][][][][][] [] [][][][][][][][][][
-] [] [][][] []
+]) [72] (./dissertation.bbl
+Underfull \hbox (badness 8189) in paragraph at lines 37--45
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][] [] [] [] [][
+][] [] [][][][][] [] [][][] [] [][] [] [][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--72
+Underfull \hbox (badness 10000) in paragraph at lines 55--62
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
 [][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] [] [][][
-] []
+] [] [][][][][][][][][][][][][][][][] []
  []
 
-[67
+[73
 
 
 
 ]
-Overfull \hbox (314.1396pt too wide) in paragraph at lines 86--92
+Underfull \hbox (badness 10000) in paragraph at lines 86--91
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
+[][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] [] [][][
+] [] [][][][][][][][][][][][][][][][] []
+ []
+
+
+Overfull \hbox (186.78485pt too wide) in paragraph at lines 113--119
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
 [][][] [] [][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
@@ -2228,554 +2296,549 @@ Overfull \hbox (314.1396pt too wide) in paragraph at lines 86--92
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--116
+Underfull \hbox (badness 10000) in paragraph at lines 137--143
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][][][][][][] [] [][]
 [][][][][][][][][] [] [][][] [] [][][][][][][] [] [][][][] [] [][][] [] [][] []
- [][][][] []
+ [][][][] [] [][][][][][][][][][][][][] [] [][][][] []
  []
 
-
-Underfull \hbox (badness 4096) in paragraph at lines 118--127
+[74]
+Underfull \hbox (badness 4096) in paragraph at lines 145--154
 []\TU/EBGaramond(2)/m/n/10.95 Eum S, Hill S K, Rubin L H \TU/EBGaramond(2)/m/it
 /10.95 et al.  \TU/EBGaramond(2)/m/n/10.95 Cognitive burden of anticholinergic 
 medi-
  []
 
 
-Underfull \hbox (badness 2591) in paragraph at lines 118--127
+Underfull \hbox (badness 2591) in paragraph at lines 145--154
 \TU/EBGaramond(2)/m/n/10.95 cations in psychotic disorders.  \TU/EBGaramond(2)/
 m/it/10.95 Schizophrenia Research\TU/EBGaramond(2)/m/n/10.95 , 190:129–135 (201
 7).  doi:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--127
+Underfull \hbox (badness 10000) in paragraph at lines 145--154
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
+][][] [] [][][][][][][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--127
-[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
- [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 145--154
+[][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
+][][][][][][][] [] [] [] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [] 
+[][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--127
-[] [] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][] []
- [][][] [] [][][][][][][][][][][][][][][][][][][][][][] []
- []
-
-[68]
-Underfull \hbox (badness 10000) in paragraph at lines 146--154
+Underfull \hbox (badness 10000) in paragraph at lines 173--181
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
+][][] [] [][][][][][][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--154
-[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
- [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 173--181
+[][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
+][][][][][][][] [] [] [] [][][][][][][][] [] [][][][][][][] [] [][][] [] [][][]
+ [] [][] [] [][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--175
+Underfull \hbox (badness 10000) in paragraph at lines 192--202
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
+][][] [] [][][][][][][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--175
-[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
- [][][][] [] [][][][][] [] [][][][][][][][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 192--202
+[][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
+][][][][][][][][] [] [] [] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [
+] [][][][][][][][] [] [][][] []
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--200
+[75]
+Underfull \hbox (badness 10000) in paragraph at lines 219--227
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][][][][][][][][] []
- []
-
-[69]
-Underfull \hbox (badness 10000) in paragraph at lines 229--237
-\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
-[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
+][][][][][][][][][] [] [][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--237
-[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
- [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 239--245
+Underfull \hbox (badness 10000) in paragraph at lines 248--255
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][][][][][] [] [][][]
-[][][][][][][][] [] [][][] [] [][][][][][][] [] [][] [] [][][][] [] [][][][][] 
-[] [][][][] [] [][][][][] []
+[][][][][][][] [] [][][] [] [][][][][][][] [] [][][] [] [][][][] [] [][][][][][
+][] [] [] [] [][][] [] [][][][][][][][][][] [] [][][] []
  []
 
-[70]
-Underfull \hbox (badness 10000) in paragraph at lines 276--285
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--273
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
+][][] [] [][][][][][][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--285
-[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
- [][][][] [] [][][][][] [] [][][][][][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 265--273
+[][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
+][][][][][][][] [] [] [] [][][][][][][][] [] [][][][][][][] [] [][][] [] [][][]
+ [] [][] [] [][][][] []
  []
 
-[71]
-Underfull \hbox (badness 10000) in paragraph at lines 350--356
+[76]
+Underfull \hbox (badness 10000) in paragraph at lines 319--328
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
+][][] [] [][][][][][][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 366--374
+Underfull \hbox (badness 10000) in paragraph at lines 319--328
+[][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
+][][][][][][] [] [] [] [][][] [] [][][][] [] [][][] [] [][][] [] [][][] [] [][]
+ [] [][][][] [] [][][][] [] [][] [] [] []
+ []
+
+[77]
+Underfull \hbox (badness 10000) in paragraph at lines 393--399
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
+][][] [] [][][][][][][][][][][][][] [] [][][] []
+ []
+
+[78]
+Underfull \hbox (badness 10000) in paragraph at lines 409--417
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] [] [][][][][][][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 366--374
-[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
- [][][][] [] [][][][][] [] [][][][][][][][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 409--417
+[][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
+][][][][][][][][] [] [] [] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [
+] [][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--380
-\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][][][][][][][] [] 
-[][][][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][] [] [] [] [][][][] 
-[] [][][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 382--389
+Underfull \hbox (badness 10000) in paragraph at lines 425--432
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][] [] [] [] [][][
-] [] [][][][][] [] [][][] [] [][] []
+] [] [][][][][] [] [][][] [] [][] [] [][][][] []
  []
 
 
-Overfull \hbox (52.27496pt too wide) in paragraph at lines 382--389
-[][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][] []
+Overfull \hbox (35.22722pt too wide) in paragraph at lines 425--432
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [
+]
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 391--400
+Underfull \hbox (badness 1009) in paragraph at lines 434--443
 \TU/EBGaramond(2)/m/n/10.95 Dicer-dependent small RNAs derived from tRNAs.  \TU
 /EBGaramond(2)/m/it/10.95 RNA\TU/EBGaramond(2)/m/n/10.95 , 15(12):2147–2160 (20
 09).
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--400
+Underfull \hbox (badness 10000) in paragraph at lines 434--443
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
+][][] [] [][][][][][][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--400
-[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
- [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 434--443
+[][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
+][][][][][][][] [] [] [] [][][][][][][][][][] [] [][][][][] [] [][][] [] [][][]
+ [] [][][] [] [][] [] [][][][] []
  []
 
-[72]
-Underfull \hbox (badness 10000) in paragraph at lines 402--408
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--451
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
+][][] [] [][][][][][][][][][][][][] [] [][][] []
  []
 
-
-Underfull \hbox (badness 3168) in paragraph at lines 410--416
-\TU/EBGaramond(2)/m/n/10.95 position Between Human Biofluids.  \TU/EBGaramond(2
-)/m/it/10.95 Cell Reports\TU/EBGaramond(2)/m/n/10.95 , 25(5):1346–1358 (2018). 
- doi:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 410--416
-\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][] [] []
-[] [] [][][][] [] [] [] [][][][][][] [] [][][][] [] [][] [] [][][][][][][][] []
- [] [] [][][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 426--432
+[79]
+Underfull \hbox (badness 10000) in paragraph at lines 469--475
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
-[][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] []
+[][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] [] [][][
+][][][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--432
-[][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][] [] [] 
-[] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 444--453
+Underfull \hbox (badness 10000) in paragraph at lines 487--496
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
+][][] [] [][][][][][][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 444--453
-[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
- [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 487--496
+[][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
+][][][][][][][] [] [] [] [][][][][][][] [] [][][][][][][][][][][][][] [] [][][]
+ [] [][][][][][][][] [] [][] []
  []
 
-[73]
-Underfull \hbox (badness 1776) in paragraph at lines 455--462
+
+Underfull \hbox (badness 1776) in paragraph at lines 498--505
 []\TU/EBGaramond(2)/m/n/10.95 Huang B, Yang H, Cheng X \TU/EBGaramond(2)/m/it/1
 0.95 et al.  \TU/EBGaramond(2)/m/n/10.95 tRF/miR-1280 Suppresses Stem Cell–like
  Cells
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 455--462
+Underfull \hbox (badness 10000) in paragraph at lines 498--505
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][][][][][][][] [] []
 [][][][][][][][][][][] [] [][][] [] [][][][] [] [] [] [][][][][][][][][] [] [][
-][][][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 464--471
-\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
-[][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][] []
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 464--471
-[][][][][][][][][][][] [] [][][][][][][][][][][] [] [] [] [][][] [] [][][][][][
-][][][][][] [] [][][] [] [][][] [] [][][][] [] [][] [] [][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 473--480
-\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
-[][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 473--480
-[][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][] [] [] 
-[] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 489--496
-\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
-[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 489--496
-[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
- [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 7869) in paragraph at lines 498--505
-\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][] [] [][][] [] [][][]
- [] [][] [] [][][][] [] [][][][][][][][][][][][][] [] [] [] [][][] [] [][][][][
-][] [] [][][] [] [][][][][][][][] []
+][][][][][][][][][][] [] [][][] [] [][][][][][] [] [][][] [] [][] []
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 507--514
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
+[][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][][][] []
+ [][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--523
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
+[][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] [] [][][
+][][][][][][][][][][][][][][] []
+ []
+
+[80]
+Underfull \hbox (badness 10000) in paragraph at lines 532--539
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] [] [][][][][][] [] [][][] []
+][][] [] [][][][][][][][][][][][][] [] [][][] []
  []
 
-[74]
-Underfull \hbox (badness 10000) in paragraph at lines 516--524
+
+Underfull \hbox (badness 10000) in paragraph at lines 532--539
+[][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
+][][][][][][][] [] [] [] [][][] [] [][][][][][][][][][][] [] [][][] [] [][][] [
+] [][][] [] [][] [] [][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--557
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
+][][] [] [][][][][][] [] [][][] [] [][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 516--524
-[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
- [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 559--567
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] [] [][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 542--545
+Underfull \hbox (badness 10000) in paragraph at lines 559--567
+[][][] [] [][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][
+][][][][][][][][][][][][] [] [] [] [][][] [] [][][][][][] [] [][][] [] [][][][]
+[][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--588
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
 [][][] [] [][][] [] [][][][][][] [] [][][][][][][][] [] [][][][][][][][][][][] 
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 542--545
+Underfull \hbox (badness 10000) in paragraph at lines 585--588
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][] []
+][][][][][][][][][][][][][][] [] [][][][][] [] [][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][] []
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 542--545
-[][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][
-][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 566--574
+[81]
+Underfull \hbox (badness 10000) in paragraph at lines 609--617
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
+][][] [] [][][][][][][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 566--574
-[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
- [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 609--617
+[][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
+][][][][][][][] [] [] [] [][][][][][][][] [] [][][] [] [][][] [] [][][] [] [][]
+[][][][][] [] [][] [] [][] []
  []
 
-[75]
-Underfull \hbox (badness 10000) in paragraph at lines 576--583
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--626
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
+][][] [] [][][][][][][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 576--583
-[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
- [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 619--626
+[][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
+][][][][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][]
+[][][][] [] [][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 576--583
-[] [] [][][] [] [][][][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][][][
-][][][] [] [][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 591--598
+Underfull \hbox (badness 10000) in paragraph at lines 634--641
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
+][][] [] [][][][][][][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 591--598
-[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
- [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 634--641
+[][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
+][][][][][][][] [] [] [] [][][][][][] [] [][][][][] [] [][][] [] [][][] [] [][]
+[] [] [][] [] [][][][] [] [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 600--607
+Underfull \hbox (badness 10000) in paragraph at lines 643--650
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][] [] [] []
- [][][][][][][][] [] [][][] []
+ [][][][][][][][] [] [][][] [] [][][] []
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 624--630
+[82]
+Underfull \hbox (badness 10000) in paragraph at lines 667--673
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
-[][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 624--630
-[][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][] [] [] []
- [][][][][][][][][][] [] [][][][][][][][] [] [][][] [] [][][][][][][][] []
- []
-
-[76]
-Underfull \hbox (badness 10000) in paragraph at lines 632--638
-\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
-[][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 648--657
-\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
-[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 648--657
-[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
- [][][][] [] [][][][][] [] [][][][][][][][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 675--681
-[]\TU/EBGaramond(2)/m/n/10.95 Zeisel a, Manchado a B M, Codeluppi S \TU/EBGaram
-ond(2)/m/it/10.95 et al.  \TU/EBGaramond(2)/m/n/10.95 Cell types in the mouse c
-ortex and
+[][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] [] [][][
+][][][][][][][][][][][][][] []
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 675--681
-\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][][][][][] [] [][][]
-[][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][][][][][] [] [][] []
- [][][][][][][] [] [][][] []
- []
-
-[77]
-Underfull \hbox (badness 10000) in paragraph at lines 700--707
-\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
-[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 700--707
-[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
- [][][][] [] [][][][][] [] [][][][][][][][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 725--730
-\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][][][][][][][] [] []
-[][][][][][][][][][][] [] [][][] [] [][][][][][][] [] [][] [] [][][][][][][][][
-][][][][] [] [][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 752--759
-\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
-[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][][][][][][][][] []
- []
-
-[78]
-Underfull \hbox (badness 10000) in paragraph at lines 767--775
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
-[][][][][][][][][][][][][][][][][] [] [][][] [] [][][][][] [] [] [] [][][] []
+[][][][][][][] [] [][][] [] [][][][][][][] [] [][][][][][][] [] [][][] [] [][][
+][][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 792--798
-[]\TU/EBGaramond(2)/m/n/10.95 Love M I, Huber W, & Anders S.  Moderated estimat
-ion of fold change and dis-
- []
-
-
-Underfull \hbox (badness 1342) in paragraph at lines 792--798
-\TU/EBGaramond(2)/m/n/10.95 persion for RNA-seq data with DESeq2.  \TU/EBGaramo
-nd(2)/m/it/10.95 Genome Biology\TU/EBGaramond(2)/m/n/10.95 , 15(12):550 (2014).
-  doi:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 792--798
-\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][][][][][][][][][][]
-[] [] [][][][][][][][][][][][][] [] [][][] [] [][][][][][][][] [] [][] [] [][][
-][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 800--806
-\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][][] [] [][][][][][]
-[][][][][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][] [] [][] [] [][][
-][] [] [][][][] [] [][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 808--814
-\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][][][][][][][][][]
-[][][][][][] [] [][][][][][][][][][][][][] [] [][][] [] [][][][][][][][] [] [][
-] [] [][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 816--824
+Underfull \hbox (badness 10000) in paragraph at lines 691--700
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
-][][] []
+][][] [] [][][][][][][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 816--824
-[][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] []
- [][][][] [] [][][][][] [] [][][][][][][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 691--700
+[][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
+][][][][][][][][] [] [] [] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [
+] [][][][][][][][] [] [][][] []
  []
 
-[79]
-Underfull \hbox (badness 10000) in paragraph at lines 834--841
+[83]
+Underfull \hbox (badness 10000) in paragraph at lines 743--750
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] [] [][][][][][][][][][][][][] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 743--750
+[][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
+][][][][][][][][] [] [] [] [][][][][][][][][][] [] [][][][][][][][] [] [][][] [
+] [][][][][][][][] [] [][][] []
+ []
+
+[84]
+Underfull \hbox (badness 10000) in paragraph at lines 795--802
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][][][][][][][][] [] [][][][][][][][] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 810--818
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
+[][][][][][][][][][][][][][][][][] [] [][][] [] [][][][][] [] [] [] [][][] [] [
+][][][][][][][][][][][][][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 835--841
+[]\TU/EBGaramond(2)/m/n/10.95 Love M I, Huber W, & Anders S.  Moderated estimat
+ion of fold change and disper-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 859--867
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] [] [][][][][][][][][][][][][] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 859--867
+[][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
+][][][][][][][] [] [] [] [][][][][][][][][][][] [] [][][][][][][][][][][][][] [
+] [][][] [] [][][][][][][][] []
+ []
+
+[85]
+Underfull \hbox (badness 10000) in paragraph at lines 877--884
 \TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
 [][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][] [] [] []
- [][][][][][][][] [] [][][] []
+ [][][][][][][][] [] [][][] [] [][][] []
  []
 
-) [80]
+
+Underfull \hbox (badness 10000) in paragraph at lines 893--901
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] [] [][][][][][][][][][][][][] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 912--920
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] [] [][][][][][][][][][][][][] [] [][][] []
+ []
+
+[86]
+Underfull \hbox (badness 10000) in paragraph at lines 930--938
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] [] [][][][][][][][][][][][][] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 986--993
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][] [] [][][][][][]
+[] [] [][][] [] [][][][][][][] [] [][][][][] [] [][][][] [] [][] [] [][] [] [][
+][][][][] [] [][][][][][][][][][][][][][][] [] [][][][] []
+ []
+
+[87]
+Underfull \hbox (badness 10000) in paragraph at lines 995--1001
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][] [] [] []
+ [][][][][][][][] [] [][][] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1003--1008
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][][][][][][] [] []
+[][] [] [][][] [] [][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][
+] [] [][][] [] [][] [] [][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1010--1018
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] [] [][][][][][][][][][][][][] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1010--1018
+[][][] [] [][][][][][][][][][][][][] [] [][][][] [] [][][][][] [] [][][][][][][
+][][][][][][][] [] [] [] [][][][][][][][][][][] [] [][][][][][][][][][][][][] [
+] [][][] [] [][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1020--1028
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [
+][][] [] [][][][][][][][][][][][][] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 1050--1058
+\TU/EBGaramond(2)/m/n/10.95 idaemia by synergistic multitarget suppression.  \T
+U/EBGaramond(2)/m/it/10.95 Gut\TU/EBGaramond(2)/m/n/10.95 , 67(6):1124–1134 (20
+18).  doi:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1058
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][] [] [] [] [][][] [] [][][] [] [][]
+[] [] [][][][][][] [] [][][] [] [][] [] [][][][] [] [][][][][][][][][][][][][][
+][][][][][][][][][][] [] [] [] [][][] [] [][][][] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1058
+[][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][] [] [] [] [][][] []
+ [][][][][][][][][][][][][] [] [][][] [] [][][] [] [][][][][][][][][][][][][] [
+] [][][][] [] [][][][][] []
+ []
+
+[88]
+Underfull \hbox (badness 2521) in paragraph at lines 1068--1074
+[]\TU/EBGaramond(2)/m/n/10.95 Shaked I, Meerson A, Wolf Y, Avni R, Greenberg D,
+ Gilboa-Geffen A, & Soreq H.
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 1068--1074
+\TU/EBGaramond(2)/m/n/10.95 MicroRNA-132 potentiates cholinergic anti-inflammat
+ory signaling by targeting acetyl-
+ []
+
+) [89]
 \openout2 = `chapters/appendix_marbach.aux'.
 
- (./chapters/appendix_marbach.tex
-Appendix A.
-) [81
+ (./chapters/appendix_marbach.tex [90
 
 
 ]
+Appendix A.
+) [91]
 \openout2 = `chapters/appendix_homologues.aux'.
 
- (./chapters/appendix_homologues.tex [82
+ (./chapters/appendix_homologues.tex [92
 
 
 
 ]
 Appendix B.
-) [83]
+) [93]
 \openout2 = `chapters/appendix_de-mirs.aux'.
 
- (./chapters/appendix_de-mirs.tex [84
+ (./chapters/appendix_de-mirs.tex [94
 
 
 
 ]
 Appendix C.
-) [85]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
+) [95]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 168.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 168.
  (./dissertation.aux (./chapters/010_introduction.aux)
 (./chapters/020_database.aux) (./chapters/030_cellculture.aux)
 (./chapters/040_stroke.aux) (./chapters/100_discussion.aux)
 (./chapters/110_conclusion.aux) (./chapters/appendix_marbach.aux)
-(./chapters/appendix_homologues.aux) (./chapters/appendix_de-mirs.aux)
-
-LaTeX Warning: Acronyms may have changed. Please rerun LaTeX.
-
-)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 163.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
+(./chapters/appendix_homologues.aux) (./chapters/appendix_de-mirs.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 168.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 168.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: 0E42269134B685F2BE9150E342AF48E1.
+(rerunfilecheck)             Checksum: AE34AB4AF64147239FDA8B2C9A19FC9D.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 48563 strings out of 492916
- 1022995 string characters out of 6133345
- 1102460 words of memory out of 5000000
- 51791 multiletter control sequences out of 15000+600000
- 546420 words of font info for 180 fonts, out of 8000000 for 9000
- 1354 hyphenation exceptions out of 8191
- 73i,15n,119p,2460b,2223s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48977 strings out of 492916
+ 1032848 string characters out of 6133345
+ 1116870 words of memory out of 5000000
+ 52178 multiletter control sequences out of 15000+600000
+ 548425 words of font info for 190 fonts, out of 8000000 for 9000
+ 1355 hyphenation exceptions out of 8191
+ 73i,15n,119p,2447b,2207s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (98 pages).
+Output written on dissertation.pdf (108 pages).

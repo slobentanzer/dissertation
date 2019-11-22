@@ -27,6 +27,7 @@
 \hyphenation{miRNAs}
 \hyphenation{miRNet}
 \hyphenation{homo-pen-ta-mer-ic}
+\hyphenation{mito-chon-dri-al}
 
 % Line spacing: dsingle/ddouble
 %   Whether to use single- or doublespacing.
@@ -214,6 +215,7 @@
     linkcolor=black,
     urlcolor=SchoolColor,
 }
+\urlstyle{same}
 
 % Formatting guidelines found in:
 % http://www.gsas.harvard.edu/publications/form_of_the_phd_dissertation.php

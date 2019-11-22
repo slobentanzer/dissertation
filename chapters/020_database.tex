@@ -11,6 +11,10 @@ Natural philosophy, as represented by the thought of Johann Wolfgang von Goethe,
 
 Since a large part of the scientific progress of this dissertation deals with practical problems of multimodal connectomics, I will begin by describing the infrastructure that makes effective computation of these problems possible. After this technical description of database structure and creation, I will explain the types and organisation of its content. The remainder of the chapter will then deal with the application of this infrastructure to real-world problems in transcriptional connectomics, and the statistical approaches suited to this special case.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%% SECTION %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \section{Implementation}
 For any biological question to be asked in a bioinformatics setting, the effectiveness of the computational query determines the practicality of the approach. Because resources (i.e., processing power, storage, and working memory) are limited, the database that is queried should be organised in a way that facilitates retrieval of the desired information without excess processing of useless information. In the simplified case of only \acp{mir} interacting with genes in one direction (\ac{mir}$\to$gene), this means retrieval of only those interactions relevant for the queried genes or \acp{mir}. 
 
@@ -46,6 +50,10 @@ Between those basic nodes, the batch insertion process created edges for each re
 All additional datasets, such as the \ac{tf} regulatory circuits or \ac{trf} targeting predictions, were entered into \textit{miRNet} using the regular operation mode. Testing was also performed in regular operation, with manual as well as automated tests to assert the correct transfer of information from raw data to the graph database, and to avoid unpredictable behaviour. At times, conflicts had to be resolved manually, for instance when \ac{mir} names conflicted between old »\ac{mir}*« and new »3p/5p« notation; all manual edits are documented in the code, which was published alongside Lobentanzer et al\cite{Lobentanzer2019a}.
 
 Except for the rapid import of large amounts of data in creation of a database, the Java implementation of Neo4j does not offer many advantages over the native R implementation, »RNeo4j«. Thus, after creation and a short period of experimentation with graphical user interfaces, I abandoned the Java program in favour of the more flexible R programming. While Java is an object-based programming language, whose benefits lie in extreme flexibility in regards to platform and purpose, high modularity, and speedy processing, R as a procedural language is the work horse of modern bioinformatics. Its procedural design (the division of data and functions that operate on that data) facilitates the transfer of approaches between distinct datasets, and the enormous vibrant community of data scientists using R provides a wealth of third party packages to tackle almost any bioinformatic task. In the remainder of this dissertation, all analyses are performed in R, unless specifically stated otherwise.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%% SECTION %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Materials}
 All materials used in the creation of \textit{miRNet} have been acquired from resources that are non\-/commercial, web-available, and open-source (in the case of code). All properties and relationships derived from this data were entered into \textit{miRNet} as either nodes, properties of nodes, edges, or properties of edges. 
@@ -181,7 +189,7 @@ Using the genome coordinates provided by miRBase, the genomic sequences of miRNA
 \end{method}
 
 \subsubsection{Inter-Species Distribution of miRNAs}
-The inter-species relationships of annotated miRNAs do not follow a simple evolutionary distribution from less complex to more complex organisms, but rather seem to partially result from parallel development (Fig. \ref{fig:species-homo}). 
+The inter-species relationships of annotated miRNAs do not follow a simple evolutionary distribution from less complex to more complex organisms, but rather seem to partially result from parallel development (Fig. \ref{fig:species-homo}).\todo{elaborate?} Taking into account the high probability of missing annotations in several species (particularly hominids), it seems prudent to define primate specificity of miRNAs not by presence in primates, but rather by absence of the miRNAs in non-primate species (also excluding miRNAs \emph{only} annotated in human). Thus, primate specificity of a human miRNA is assumed if the miRNA is expressed in at least one primate species, and absent from all non-primate species in this roster. This definition yields a list of 377 primary and 350 mature putative “primate specific” miRNAs in miRBase v21 (Appendix \ref{appendix:homologues}). Judging from recent analyses\cite{Londin2015}, there probably exist many more. The primate-specificity attribute was entered into \emph{miRNet} as miRNA node property.
 
 \begin{figure}
 \includegraphics[width=\textwidth]{figures/species-homo}
@@ -189,7 +197,9 @@ The inter-species relationships of annotated miRNAs do not follow a simple evolu
 \label{fig:species-homo}}
 \end{figure}
 
-Taking into account the high probability of missing annotations in several species (particularly hominids), it seems prudent to define primate specificity of miRNAs not by presence in primates, but rather by absence of the miRNAs in non-primate species (also excluding miRNAs \emph{only} annotated in human). This approach yields a list of 377 primary and 350 mature putative “primate specific” miRNAs in miRBase v21 (Appendix \ref{appendix:homologues}). Judging from recent analyses\cite{Londin2015}, there probably exist many more. The primate-specificity attribute was entered into \emph{miRNet} as miRNA node property.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%% SECTION %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{miRNet Usage}
 Neo4j uses a language (called »Cypher«) akin to \ac{sql}, which utilises keyphrases to issue commands, but combines it with a semi-graphical syntax to account for the graph-based layout of the data. In the following, I will describe its basic usage and the advantages it provides in the matter of transcriptional connectomics. The basic »finder« function (similar to \textcolor{dkblue}{SELECT} in \ac{sql}) is called \textcolor{dkblue}{MATCH} in Cypher, and, when combined with the semi-graphical syntax, can be used to identify nodes or more complex patterns in the database. The graphical syntax consists of two main building blocks that represent the basic types of data inside the database: nodes as regular brackets »\texttt{( )}« and edges between nodes as  a construct of hyphens and box brackets, that can also have a direction indicated by the greater sign \mbox{»\texttt{( )-\string[ \string]->( )}«}. To specify the elements to be found, attributes of nodes and/or edges can be filtered by using curly brackets in the node definition, or the \textcolor{dkblue}{WHERE} clause. To be returned, elements need to be assigned arbitrary variable names:
@@ -254,6 +264,10 @@ RETURN gene, tf, rel, type(rel) AS tissue, mir, rel_m1, rel_m2
 
 This analysis can be performed in real time, on the whole genome and miRnome, and merely takes seconds for one iteration, a performance unimaginable in a relational database approach; advanced statistical approaches such as permutation only become viable at this timescale.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%% SECTION %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \section{Statistical Approach to Transcriptional Connectomics}
 The enormous amounts of data generated by modern molecular biology methods, such as \ac{seq} and bioinformatics, present new challenges to statistical methodology. A major objective in the analysis of large datasets is a robust statistical representation of the distribution of this data. Traditionally used approaches such as Student's t-test are not automatically applicable to the intermediary results of these modern methods, because the premise of a normal distribution often does not hold, or has to be proven first. This section will describe the statistical problems encountered in the analysis of intermediary data produced by \textit{miRNet}; the statistical properties of large count data directly generated by \ac{seq} will be discussed in Section \ref{sec:cellculture:deseq}. From hereon out, largely method-related paragraphs will be set in sans-serif font face.
 
@@ -281,6 +295,10 @@ Identifying important regulatory circuits in large complex networks can be daunt
 In the case of miRNAs and their regulatory impact, a \ac{loo} operation can be performed on the targeting subnetwork of multiple miRNAs or genes (as starting set). The parameters to be measured can be network density, centrality, amount and identity of hub genes, or just the size of the network. During the LOO iterations, the parameters can be monitored for significant changes upon the leaving-out of any one miRNA, which can then serve as an indication of an important circuit involving this miRNA. 
 
 \end{method}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%% SECTION %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Identification of Cholinergic Regulators} \label{sec:database:chol-reg}
 Having built a first version of the database, I set out to comprehensively characterise the system of miRNA controllers around cholinergic gene expression, which had not been attempted before. Since miRNA regulatory networks are scale-free networks of many-to-many organisation, a large amount of miRNAs involved with regulation of any gene set is to be expected. Finding the most important regulators thus is not a trivial query. The initial task was the definition of a gene set representative of cholinergic systems. Following this definition, an approach had to be found that enables the weighting of nodes in the miRNA network concerned with regulating these genes.

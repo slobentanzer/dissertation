@@ -33,6 +33,16 @@ Mesulam M~M, Mufson E~J, Levey A~I, \& Wainer B~H.
 \newblock \emph{Neuroscience}, 12(3):669--686 (1984).
 \newblock \doi{10.1016/0306-4522(84)90163-5}.
 
+\bibitem{Mesulam1988}
+Mesulam M~M \& Geula C.
+\newblock {Nucleus basalis (Ch4) and cortical cholinergic innervation in the
+  human brain: Observations based on the distribution of acetylcholinesterase
+  and choline acetyltransferase}.
+\newblock \emph{The Journal of Comparative Neurology}, 275(2):216--240 (1988).
+\newblock \doi{10.1002/cne.902750205}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/3220975
+  http://doi.wiley.com/10.1002/cne.902750205}
+
 \bibitem{Lobentanzer2019a}
 Lobentanzer S, Hanin G, Klein J, \& Soreq H.
 \newblock {Integrative Transcriptomics Reveals Sexually Dimorphic Control of
@@ -40,6 +50,15 @@ Lobentanzer S, Hanin G, Klein J, \& Soreq H.
 \newblock \emph{CellReports}, pp. 1--19 (2019).
 \newblock \doi{10.1016/j.celrep.2019.09.017}.
 \newline\urlprefix\url{https://doi.org/10.1016/j.celrep.2019.09.017}
+
+\bibitem{Mesulam1976}
+Mesulam M~M \& {Van Hoesen} G~W.
+\newblock {Acetylcholinesterase-rich projections from the basal forebrain of
+  the rhesus monkey to neocortex}.
+\newblock \emph{Brain Research}, 109(1):152--157 (1976).
+\newblock \doi{10.1016/0006-8993(76)90385-1}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/abs/pii/0006899376903851?via{\%}3Dihub
+  https://linkinghub.elsevier.com/retrieve/pii/0006899376903851}
 
 \bibitem{Berrios1990}
 Berrios G~E.
@@ -76,6 +95,14 @@ Schmitz T~W \& {Nathan Spreng} R.
   spread of Alzheimer's pathology}.
 \newblock \emph{Nature Communications}, 7:1--13 (2016).
 \newblock \doi{10.1038/ncomms13249}.
+
+\bibitem{Schmitz2018}
+Schmitz T~W, Mur M, Aghourian M, Bedard M~A, \& Spreng R~N.
+\newblock {Longitudinal Alzheimer's Degeneration Reflects the Spatial
+  Topography of Cholinergic Basal Forebrain Projections}.
+\newblock \emph{Cell Reports}, 24(1):38--46 (2018).
+\newblock \doi{10.1016/j.celrep.2018.06.001}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.celrep.2018.06.001}
 
 \bibitem{Kraepelin1913}
 Kraepelin E.
@@ -217,6 +244,15 @@ Anttila V, Bulik-Sullivan B, Finucane H~K \emph{et~al.}
 \newblock \doi{10.1126/science.aap8757}.
 \newline\urlprefix\url{http://www.sciencemag.org/lookup/doi/10.1126/science.aap8757}
 
+\bibitem{Gandal2018}
+Gandal M~J, Haney J~R, Parikshak N~N \emph{et~al.}
+\newblock {Shared molecular neuropathology across major psychiatric disorders
+  parallels polygenic overlap}.
+\newblock \emph{Science}, 359(6376):693--697 (2018).
+\newblock \doi{10.1126/science.aad6469}.
+\newline\urlprefix\url{http://science.sciencemag.org/content/359/6376/693
+  http://www.sciencemag.org/lookup/doi/10.1126/science.aad6469}
+
 \bibitem{Ruderfer2018}
 Ruderfer D~M, Ripke S, McQuillin A \emph{et~al.}
 \newblock {Genomic Dissection of Bipolar Disorder and Schizophrenia, Including
@@ -250,6 +286,13 @@ Kanazawa T, Bousman C~A, Liu C, \& Everall I~P.
 \newblock \emph{npj Schizophrenia}, 3(1):27 (2017).
 \newblock \doi{10.1038/s41537-017-0028-2}.
 \newline\urlprefix\url{http://www.nature.com/articles/s41537-017-0028-2}
+
+\bibitem{Malhi2013}
+Malhi G~S, Tanious M, Das P, Coulston C~M, \& Berk M.
+\newblock {Potential Mechanisms of Action of Lithium in Bipolar Disorder}.
+\newblock \emph{CNS Drugs}, 27(2):135--153 (2013).
+\newblock \doi{10.1007/s40263-013-0039-0}.
+\newline\urlprefix\url{http://link.springer.com/10.1007/s40263-013-0039-0}
 
 \bibitem{Fujii2017}
 Fujii T, Mashimo M, Moriwaki Y, Misawa H, Ono S, Horiguchi K, \& Kawashima K.
@@ -845,5 +888,197 @@ Jacomy M, Venturini T, Heymann S, \& Bastian M.
   visualization designed for the Gephi software}.
 \newblock \emph{PLoS ONE}, 9(6):1--12 (2014).
 \newblock \doi{10.1371/journal.pone.0098679}.
+
+\bibitem{Chen2013}
+Chen C, Cheng L, Grennan K, Pibiri F, Zhang C, Badner J~A, {Members of the
+  Bipolar Disorder Genome Study (BiGS) Consortium}, Gershon E~S, \& Liu C.
+\newblock {Two gene co-expression modules differentiate psychotics and
+  controls.}
+\newblock \emph{Molecular psychiatry}, 18(12):1308--14 (2013).
+\newblock \doi{10.1038/mp.2012.146}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/23147385
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4018461}
+
+\bibitem{Iwamoto2005}
+Iwamoto K, Bundo M, \& Kato T.
+\newblock {Altered expression of mitochondria-related genes in postmortem
+  brains of patients with bipolar disorder or schizophrenia, as revealed by
+  large-scale DNA microarray analysis.}
+\newblock \emph{Human molecular genetics}, 14(2):241--53 (2005).
+\newblock \doi{10.1093/hmg/ddi022}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/15563509}
+
+\bibitem{Lanz2015}
+Lanz T~A, Joshi J~J, Reinhart V, Johnson K, Grantham L~E, \& Volfson D.
+\newblock {STEP levels are unchanged in pre-frontal cortex and associative
+  striatum in post-mortem human brain samples from subjects with schizophrenia,
+  bipolar disorder and major depressive disorder.}
+\newblock \emph{PloS one}, 10(3):e0121744 (2015).
+\newblock \doi{10.1371/journal.pone.0121744}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/25786133
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4364624}
+
+\bibitem{Maycox2009}
+Maycox P~R, Kelly F, Taylor A \emph{et~al.}
+\newblock {Analysis of gene expression in two large schizophrenia cohorts
+  identifies multiple changes associated with nerve terminal function.}
+\newblock \emph{Molecular psychiatry}, 14(12):1083--94 (2009).
+\newblock \doi{10.1038/mp.2009.18}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/19255580}
+
+\bibitem{Narayan2008}
+Narayan S, Tang B, Head S~R, Gilmartin T~J, Sutcliffe J~G, Dean B, \& Thomas
+  E~A.
+\newblock {Molecular profiles of schizophrenia in the CNS at different stages
+  of illness.}
+\newblock \emph{Brain research}, 1239:235--48 (2008).
+\newblock \doi{10.1016/j.brainres.2008.08.023}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/18778695
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC2783475}
+
+\bibitem{Ryan2006}
+Ryan M~M, Lockstone H~E, Huffaker S~J, Wayland M~T, Webster M~J, \& Bahn S.
+\newblock {Gene expression analysis of bipolar disorder reveals downregulation
+  of the ubiquitin cycle and alterations in synaptic genes.}
+\newblock \emph{Molecular psychiatry}, 11(10):965--78 (2006).
+\newblock \doi{10.1038/sj.mp.4001875}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16894394}
+
+\bibitem{Ramaker2017}
+Ramaker R~C, Bowling K~M, Lasseigne B~N \emph{et~al.}
+\newblock {Post-mortem molecular profiling of three psychiatric disorders}.
+\newblock \emph{Genome Medicine}, 9(1):1--12 (2017).
+\newblock \doi{10.1186/s13073-017-0458-5}.
+
+\bibitem{Hoffman2017}
+Hoffman G~E, Hartley B~J, Flaherty E, Ladran I, Gochman P, Ruderfer D~M, Stahl
+  E~A, Rapoport J, Sklar P, \& Brennand K~J.
+\newblock {Transcriptional signatures of schizophrenia in hiPSC-derived NPCs
+  and neurons are concordant with post-mortem adult brains}.
+\newblock \emph{Nature Communications}, 8(1) (2017).
+\newblock \doi{10.1038/s41467-017-02330-5}.
+\newline\urlprefix\url{http://dx.doi.org/10.1038/s41467-017-02330-5}
+
+\bibitem{Webb2015}
+Webb A, Papp A~C, Curtis A \emph{et~al.}
+\newblock {RNA sequencing of transcriptomes in human brain regions:
+  Protein-coding and non-coding RNAs, isoforms and alleles}.
+\newblock \emph{BMC Genomics}, 16(1):1--16 (2015).
+\newblock \doi{10.1186/s12864-015-2207-8}.
+\newline\urlprefix\url{http://dx.doi.org/10.1186/s12864-015-2207-8}
+
+\bibitem{Fontenot2017}
+Fontenot M~R, Berto S, Liu Y, Werthmann G, Douglas C, Usu N, Gleason K,
+  Tamminga C~A, Takahashi J~S, \& Konopka G.
+\newblock {Novel transcriptional networks regulated by clock in human neurons}.
+\newblock \emph{Genes and Development}, 31(21):2121--2135 (2017).
+\newblock \doi{10.1101/gad.305813.117}.
+
+\bibitem{Li2013}
+Li G, Klein J, \& Zimmermann M.
+\newblock {Pathophysiological Amyloid Concentrations Induce Sustained
+  Upregulation of Readthrough AChE Mediating Anti-Apoptotic Effects.}
+\newblock \emph{Neuroscience}, 240:349--60 (2013).
+\newblock \doi{10.1016/j.neuroscience.2013.02.040}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/23485809}
+
+\bibitem{Gulyas-Kovacs2018}
+Guly{\'{a}}s-Kov{\'{a}}cs A, Keydar I, Xia E, Fromer M, Hoffman G, Ruderfer D,
+  Sachidanandam R, \& Chess A.
+\newblock {Unperturbed expression bias of imprinted genes in schizophrenia}.
+\newblock \emph{Nature Communications}, 9(1):2914 (2018).
+\newblock \doi{10.1038/s41467-018-04960-9}.
+\newline\urlprefix\url{https://www.biorxiv.org/content/early/2018/05/24/329748?{\%}3Fcollection=
+  http://www.nature.com/articles/s41467-018-04960-9}
+
+\bibitem{Du2008}
+Du P, Kibbe W~A, \& Lin S~M.
+\newblock {lumi: a pipeline for processing Illumina microarray}.
+\newblock \emph{Bioinformatics}, 24(13):1547--1548 (2008).
+\newblock \doi{10.1093/bioinformatics/btn224}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/18467348
+  https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btn224}
+
+\bibitem{Gautier2004}
+Gautier L, Cope L, Bolstad B~M, \& Irizarry R~A.
+\newblock {affy--analysis of Affymetrix GeneChip data at the probe level}.
+\newblock \emph{Bioinformatics}, 20(3):307--315 (2004).
+\newblock \doi{10.1093/bioinformatics/btg405}.
+\newline\urlprefix\url{https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btg405}
+
+\bibitem{Oldham2012}
+Oldham M~C, Langfelder P, \& Horvath S.
+\newblock {Network methods for describing sample relationships in genomic
+  datasets: application to Huntington's disease}.
+\newblock \emph{BMC Systems Biology}, 6(1):63 (2012).
+\newblock \doi{10.1186/1752-0509-6-63}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/22691535
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3441531
+  http://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-6-63}
+
+\bibitem{Durinck2009}
+Durinck S, Spellman P~T, Birney E, \& Huber W.
+\newblock {Mapping identifiers for the integration of genomic datasets with the
+  R/Bioconductor package biomaRt}.
+\newblock \emph{Nature Protocols}, 4(8):1184--1191 (2009).
+\newblock \doi{10.1038/nprot.2009.97}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/19617889
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3159387
+  http://www.nature.com/articles/nprot.2009.97}
+
+\bibitem{Langfelder2008}
+Langfelder P \& Horvath S.
+\newblock {WGCNA: An R package for weighted correlation network analysis}.
+\newblock \emph{BMC Bioinformatics}, 9 (2008).
+\newblock \doi{10.1186/1471-2105-9-559}.
+
+\bibitem{Pinheiro2019}
+Pinheiro J, Bates D, DebRoy S, Sarkar D, \& {R Core Team}.
+\newblock \emph{{nlme}: Linear and Nonlinear Mixed Effects Models} (2019).
+\newblock R package version 3.1-142.
+\newline\urlprefix\url{https://CRAN.R-project.org/package=nlme}
+
+\bibitem{Shaltiel2013}
+Shaltiel G, Hanan M, Wolf Y, Barbash S, Kovalev E, Shoham S, \& Soreq H.
+\newblock {Hippocampal microRNA-132 mediates stress-inducible cognitive
+  deficits through its acetylcholinesterase target.}
+\newblock \emph{Brain structure function}, 218(1):1--5 (2013).
+\newblock \doi{10.1007/s00429-011-0376-z}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/22246100}
+
+\bibitem{Hanin2018}
+Hanin G, Yayon N, Tzur Y \emph{et~al.}
+\newblock {miRNA-132 induces hepatic steatosis and hyperlipidaemia by
+  synergistic multitarget suppression}.
+\newblock \emph{Gut}, 67(6):1124--1134 (2018).
+\newblock \doi{10.1136/gutjnl-2016-312869}.
+\newline\urlprefix\url{http://gut.bmj.com/lookup/doi/10.1136/gutjnl-2016-312869
+  http://www.ncbi.nlm.nih.gov/pubmed/28381526
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5969364}
+
+\bibitem{Mellios2011}
+Mellios N, Sugihara H, Castro J \emph{et~al.}
+\newblock {miR-132, an experience-dependent microRNA, is essential for visual
+  cortex plasticity}.
+\newblock \emph{Nature Neuroscience}, 14(10):1240--1242 (2011).
+\newblock \doi{10.1038/nn.2909}.
+\newline\urlprefix\url{http://www.nature.com/articles/nn.2909}
+
+\bibitem{Shaked2009}
+Shaked I, Meerson A, Wolf Y, Avni R, Greenberg D, Gilboa-Geffen A, \& Soreq H.
+\newblock {MicroRNA-132 potentiates cholinergic anti-inflammatory signaling by
+  targeting acetylcholinesterase.}
+\newblock \emph{Immunity}, 31(6):965--973 (2009).
+\newblock \doi{10.1016/j.immuni.2009.09.019}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/20005135}
+
+\bibitem{Pichler2017}
+Pichler S, Gu W, Hartl D, Gasparoni G, Leidinger P, Keller A, Meese E, Mayhaus
+  M, Hampel H, \& Riemenschneider M.
+\newblock {The miRNome of Alzheimer's disease: consistent downregulation of the
+  miR-132/212 cluster}.
+\newblock \emph{Neurobiology of Aging}, 50:167.e1--167.e10 (2017).
+\newblock \doi{10.1016/j.neurobiolaging.2016.09.019}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0197458016302330}
 
 \end{thebibliography}

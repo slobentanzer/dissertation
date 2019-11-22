@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.26)  9 NOV 2019 00:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.26)  19 NOV 2019 10:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -351,70 +351,4 @@ Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 \l__siunitx_table_result_dim=\dimen147
 \l__siunitx_table_uncert_dim=\dimen148
 \l__siunitx_table_fill_pre_dim=\dimen149
-\l__siunitx_table_fill_post_dim=\dimen150
-\l__siunitx_table_fill_mid_dim=\dimen151
-\l__siunitx_table_pre_box=\box51
-\l__siunitx_table_post_box=\box52
-\l__siunitx_table_mantissa_box=\box53
-\l__siunitx_table_result_box=\box54
-\l__siunitx_table_number_align_skip=\skip55
-\l__siunitx_table_text_align_skip=\skip56
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator.sty
-Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
-)))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2018/04/16 v5.8 Page Geometry
-
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count271
-\Gm@cntv=\count272
-\c@Gm@tempcnt=\count273
-\Gm@bindingoffset=\dimen152
-\Gm@wd@mp=\dimen153
-\Gm@odd@mp=\dimen154
-\Gm@even@mp=\dimen155
-\Gm@layoutwidth=\dimen156
-\Gm@layoutheight=\dimen157
-\Gm@layouthoffset=\dimen158
-\Gm@layoutvoffset=\dimen159
-\Gm@dimlist=\toks17
-)
-
-./Dissertate.cls:76: LaTeX Error: \usepackage before \documentclass.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 \usepackage{
-                 ragged2e}
-? 
-./Dissertate.cls:76: Emergency stop.
- ...                                              
-                                                  
-l.76 \usepackage{
-                 ragged2e}
-\usepackage may only appear in the document preamble, i.e.,
-between \documentclass and \begin{document}.
-
- 
-Here is how much of TeX's memory you used:
- 15521 strings out of 492616
- 330998 string characters out of 6129481
- 362474 words of memory out of 5000000
- 19411 multiletter control sequences out of 15000+600000
- 532636 words of font info for 25 fonts, out of 8000000 for 9000
- 1147 hyphenation exceptions out of 8191
- 43i,0n,63p,796b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
-./Dissertate.cls:76:  ==> Fatal error occurred, no output PDF file produced!
+\l__siunitx_t

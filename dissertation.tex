@@ -21,6 +21,11 @@
 % full page figure
 \usepackage{fltpage}
 
+% math non-italic
+%\usepackage[LGRgreek]{mathastext}
+%\usepackage{mathastext}
+\usepackage{upgreek} %text greek letters
+
 % table cells
 \usepackage{makecell}
 
@@ -99,9 +104,9 @@
 \usepackage[shortcuts]{extdash}
 
 % siunitx number format
-% \sisetup{detect-all}
+\sisetup{detect-all}
 
-% diagonal fractions?
+% diagonal fractions
 % \usepackage{xfrac}
             
 % acronyms
@@ -139,7 +144,7 @@
 
 %bibliography
 \clearpage
-\bibliography{library}
+\bibliography{library, manual_bib}
 \addcontentsline{toc}{chapter}{References}
 \bibliographystyle{mystyle}
 
