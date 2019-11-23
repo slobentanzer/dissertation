@@ -36,10 +36,6 @@
 \contentsline {section}{\numberline {2.4}Statistical Approach to Transcriptional Connectomics}{34}{section.2.4}% 
 \contentsline {subsection}{\numberline {2.4.1}Permutation}{34}{subsection.2.4.1}% 
 \contentsline {subsection}{\numberline {2.4.2}Gene Set Enrichment Analysis}{35}{subsection.2.4.2}% 
-\contentsline {subsection}{\numberline {2.4.3}The Leave-One-Out Approach}{35}{subsection.2.4.3}% 
-\contentsline {section}{\numberline {2.5}Identification of Cholinergic Regulators}{36}{section.2.5}% 
-\contentsline {subsection}{\numberline {2.5.1}The Cholinergic Gene Set}{36}{subsection.2.5.1}% 
-\contentsline {subsection}{\numberline {2.5.2}Iterative Network Size Analysis}{36}{subsection.2.5.2}% 
 \contentsline {chapter}{\numberline {3}microRNA Dynamics in Cholinergic Differentiation of Human Neuronal Cells}{37}{chapter.3}% 
 \contentsline {section}{\numberline {3.1}Neuronal Transcriptomes - Background}{37}{section.3.1}% 
 \contentsline {section}{\numberline {3.2}Cortical Single-Cell RNA Sequencing}{39}{section.3.2}% 
@@ -82,6 +78,9 @@
 \contentsline {subsubsection}{Overlap of Male-Biased Genes Between SCZ and BD}{62}{subsection.3.9.4}% 
 \contentsline {subsubsection}{Specificity of Ontological Terms}{62}{figure.caption.53}% 
 \contentsline {subsection}{\numberline {3.9.5}Combination of Disease Data and Cell Culture}{63}{subsection.3.9.5}% 
+\contentsline {subsection}{\numberline {3.9.6}miR-125b-5p Acetylcholinesterase Targeting Assays}{65}{subsection.3.9.6}% 
+\contentsline {subsection}{\numberline {3.9.7}hsa-miR-125b-5p Targets Acetylcholinesterase}{66}{subsection.3.9.7}% 
+\contentsline {subsection}{\numberline {3.9.8}Cholinergic/Neurokine Mechanisms in Web-Available RNA Sequencing Experiments}{66}{subsection.3.9.8}% 
 \contentsline {chapter}{\numberline {4}Dynamics Between Small and Large RNA in the Blood of Stroke Victims}{67}{chapter.4}% 
 \contentsline {section}{\numberline {4.1}Background}{68}{section.4.1}% 
 \contentsline {section}{\numberline {4.2}Cohort}{68}{section.4.2}% 
@@ -97,7 +96,7 @@
 \contentsline {section}{\numberline {5.2}The Cholinergic/Neurokine Interface}{70}{section.5.2}% 
 \contentsline {section}{\numberline {5.3}Small RNA Therapeutics and Pharmacology}{70}{section.5.3}% 
 \contentsline {chapter}{\numberline {6}Conclusion}{71}{chapter.6}% 
-\contentsline {chapter}{References}{89}{chapter*.55}% 
+\contentsline {chapter}{References}{89}{chapter*.58}% 
 \contentsline {chapter}{\numberline {A}Transcription Factor Regulatory Circuits - Tissue Types}{91}{appendix.A}% 
 \contentsline {chapter}{\numberline {B}List of Primate-Specific Homologues of Human microRNAs}{93}{appendix.B}% 
 \contentsline {chapter}{\numberline {C}microRNA Differential Expression in LA-N-2 and LA-N-5}{95}{appendix.C}% 

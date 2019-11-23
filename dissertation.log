@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  22 NOV 2019 09:41
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  23 NOV 2019 22:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -363,7 +363,10 @@ Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
 (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
-)))
+))
+(/Users/selo/Library/texmf/tex/latex/siunitx/siunitx.cfg
+File: siunitx.cfg 
+))
 (/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
@@ -787,38 +790,38 @@ ut line 97.
 
 Package fontspec Info: Font family 'EBGaramond(2)' created for font 'EB
 (fontspec)             Garamond' with options
-(fontspec)             [Ligatures=TeX,Numbers=OldStyle,Ligatures={Common,
+(fontspec)             [Ligatures=TeX,Numbers=Lining,Ligatures={Common,
 (fontspec)             TeX},Scale=1.0].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1.0]"EB
-(fontspec)             Garamond/OT:script=latn;language=DFLT;+onum;+liga;mappin
+(fontspec)             Garamond/OT:script=latn;language=DFLT;+lnum;+liga;mappin
 g=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->s*[1.0]"EB
-(fontspec)             Garamond/OT:script=latn;language=DFLT;+onum;+liga;+smcp;
+(fontspec)             Garamond/OT:script=latn;language=DFLT;+lnum;+liga;+smcp;
 mapping=tex-text;"
 (fontspec)             - 'bold' (bx/n) with NFSS spec.: <->s*[1.0]"EB
-(fontspec)             Garamond/B/OT:script=latn;language=DFLT;+onum;+liga;mapp
+(fontspec)             Garamond/B/OT:script=latn;language=DFLT;+lnum;+liga;mapp
 ing=tex-text;"
 (fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
 (fontspec)             <->s*[1.0]"EB
-(fontspec)             Garamond/B/OT:script=latn;language=DFLT;+onum;+liga;+smc
+(fontspec)             Garamond/B/OT:script=latn;language=DFLT;+lnum;+liga;+smc
 p;mapping=tex-text;"
 (fontspec)             - 'italic' (m/it) with NFSS spec.: <->s*[1.0]"EB
-(fontspec)             Garamond/I/OT:script=latn;language=DFLT;+onum;+liga;mapp
+(fontspec)             Garamond/I/OT:script=latn;language=DFLT;+lnum;+liga;mapp
 ing=tex-text;"
 (fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
 (fontspec)             <->s*[1.0]"EB
-(fontspec)             Garamond/I/OT:script=latn;language=DFLT;+onum;+liga;+smc
+(fontspec)             Garamond/I/OT:script=latn;language=DFLT;+lnum;+liga;+smc
 p;mapping=tex-text;"
 (fontspec)             - 'bold italic' (bx/it) with NFSS spec.: <->s*[1.0]"EB
-(fontspec)             Garamond/BI/OT:script=latn;language=DFLT;+onum;+liga;map
+(fontspec)             Garamond/BI/OT:script=latn;language=DFLT;+lnum;+liga;map
 ping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
 (fontspec)             <->s*[1.0]"EB
-(fontspec)             Garamond/BI/OT:script=latn;language=DFLT;+onum;+liga;+sm
+(fontspec)             Garamond/BI/OT:script=latn;language=DFLT;+lnum;+liga;+sm
 cp;mapping=tex-text;"
 
 LaTeX Info: Redefining \rmfamily on input line 102.
@@ -1753,7 +1756,7 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 LaTeX Font Info:    Font shape `TU/EBGaramond(2)/bx/n' will be
 (Font)              scaled to size 10.95pt on input line 1.
 
-Overfull \hbox (6.29678pt too wide) in paragraph at lines 43--43
+Overfull \hbox (6.29678pt too wide) in paragraph at lines 39--39
  [][] [][][]\TU/EBGaramond(2)/m/sc/12 microRNA Dynamics in Cholinergic Differen
 tiation of Human Neu- 
  []
@@ -2012,25 +2015,21 @@ Overfull \hbox (6.38654pt too wide) in paragraph at lines 288--289
 gical terms ([] »biological process«, [] »molec-
  []
 
-
-Underfull \vbox (badness 1584) has occurred while \output is active []
-
- [35])
-[36]
+) [35]
 \openout2 = `chapters/030_cellculture.aux'.
 
- (./chapters/030_cellculture.tex
+ (./chapters/030_cellculture.tex [36
+
+
+
+]
 Chapter 3.
 (./chapters/031_single_cell.tex
 File: figures/bbb.pdf Graphic file (type pdf)
 <use figures/bbb.pdf>
 LaTeX Font Info:    Font shape `TU/LatoRegular(0)/m/n' will be
 (Font)              scaled to size 5.52814pt on input line 8.
- [37
-
-
-
-]
+ [37]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [38]
@@ -2124,7 +2123,7 @@ Overfull \hbox (10.65225pt too wide) in paragraph at lines 111--112
 File: figures/apeglm-comp-la2d4.pdf Graphic file (type pdf)
 <use figures/apeglm-comp-la2d4.pdf>
 
-Overfull \hbox (0.86626pt too wide) in paragraph at lines 122--122
+Overfull \hbox (0.29025pt too wide) in paragraph at lines 122--122
 |[]\TU/EBGaramond(2)/m/sc/12 microRNA Dynamics in CNTF-mediated Cholinergic Dif
 ferentiation
  []
@@ -2220,19 +2219,19 @@ File: figures/scz-bd-go.pdf Graphic file (type pdf)
 [62] [63]
 File: figures/smallnet.pdf Graphic file (type pdf)
 <use figures/smallnet.pdf>
-)) [64] [65]
+ [64] [65])) [66]
 \openout2 = `chapters/040_stroke.aux'.
 
- (./chapters/040_stroke.tex [66
-
-
-
-]
+ (./chapters/040_stroke.tex
 Chapter 4.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [67]
+ [67
+
+
+
+]
 [68]
 \openout2 = `chapters/100_discussion.aux'.
 
@@ -2789,6 +2788,20 @@ Underfull \hbox (badness 2035) in paragraph at lines 1068--1074
 ory signaling by targeting acetyl-
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1095--1102
+\TU/EBGaramond(2)/m/n/10.95 URL [][]$[][][][][] [] [] [] [][][][][][][][] [] []
+[][] [] [][][] [] [][][] [] [][][][][][][][][][][][][][][] [] [][][] [] [][] []
+ [][][][] [] [][][] [] [][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1095--1102
+[] [] [][][] [] [][][][] [] [][][] [] [][][] [] [][][] [] [][][][][][] [] [][][
+][][][][][][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][] [] [][][] [] 
+[][][] []
+ []
+
 ) [89]
 \openout2 = `chapters/appendix_marbach.aux'.
 
@@ -2816,29 +2829,29 @@ Appendix B.
 ]
 Appendix C.
 ) [95]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 168.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 168.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
  (./dissertation.aux (./chapters/010_introduction.aux)
 (./chapters/020_database.aux) (./chapters/030_cellculture.aux)
 (./chapters/040_stroke.aux) (./chapters/100_discussion.aux)
 (./chapters/110_conclusion.aux) (./chapters/appendix_marbach.aux)
 (./chapters/appendix_homologues.aux) (./chapters/appendix_de-mirs.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 168.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 168.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 167.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 167.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: AE34AB4AF64147239FDA8B2C9A19FC9D.
+(rerunfilecheck)             Checksum: FE530CCFC3BCC8C726AE944D8227EE75.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 48977 strings out of 492916
- 1032848 string characters out of 6133345
- 1116870 words of memory out of 5000000
- 52178 multiletter control sequences out of 15000+600000
+ 49013 strings out of 492916
+ 1033764 string characters out of 6133345
+ 1116810 words of memory out of 5000000
+ 52211 multiletter control sequences out of 15000+600000
  548425 words of font info for 190 fonts, out of 8000000 for 9000
  1355 hyphenation exceptions out of 8191
- 73i,15n,119p,2447b,2207s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,15n,119p,2717b,2211s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on dissertation.pdf (108 pages).

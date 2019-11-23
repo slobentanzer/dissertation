@@ -1081,4 +1081,23 @@ Pichler S, Gu W, Hartl D, Gasparoni G, Leidinger P, Keller A, Meese E, Mayhaus
 \newblock \doi{10.1016/j.neurobiolaging.2016.09.019}.
 \newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0197458016302330}
 
+\bibitem{Soreq1990}
+Soreq H, Ben-Aziz R, Prody C~A, Seidman S, Gnatt A, Neville L, Lieman-Hurwitz
+  J, Lev-Lehman E, Ginzberg D, \& Lipidot-Lifson Y.
+\newblock {Molecular cloning and construction of the coding region for human
+  acetylcholinesterase reveals a G + C-rich attenuating structure.}
+\newblock \emph{Proceedings of the National Academy of Sciences},
+  87(24):9688--9692 (1990).
+\newblock \doi{10.1073/pnas.87.24.9688}.
+\newline\urlprefix\url{http://www.pnas.org/cgi/doi/10.1073/pnas.87.24.9688}
+
+\bibitem{Hanin2014}
+Hanin G, Shenhar-Tsarfaty S, Yayon N \emph{et~al.}
+\newblock {Competing targets of microRNA-608 affect anxiety and hypertension}.
+\newblock \emph{Human Molecular Genetics}, 23(17):4569--4580 (2014).
+\newblock \doi{10.1093/hmg/ddu170}.
+\newline\urlprefix\url{https://academic.oup.com/hmg/article-lookup/doi/10.1093/hmg/ddu170
+  http://www.ncbi.nlm.nih.gov/pubmed/24722204
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4119407}
+
 \end{thebibliography}
