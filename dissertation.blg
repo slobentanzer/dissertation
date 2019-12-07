@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: dissertation.aux
+A level-1 auxiliary file: chapters/010_introduction.aux
+A level-1 auxiliary file: chapters/020_database.aux
+A level-1 auxiliary file: chapters/030_cellculture.aux
+A level-1 auxiliary file: chapters/040_stroke.aux
+A level-1 auxiliary file: chapters/100_discussion.aux
+A level-1 auxiliary file: chapters/110_conclusion.aux
+The style file: mystyle.bst
+A level-1 auxiliary file: chapters/appendix_marbach.aux
+A level-1 auxiliary file: chapters/appendix_homologues.aux
+A level-1 auxiliary file: chapters/appendix_de-mirs.aux
+Database file #1: library.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Database file #2: manual_bib.bib
+You've used 158 entries,
+            2536 wiz_defined-function locations,
+            1873 strings with 84762 characters,
+and the built_in function-call counts, 158441 in all, are:
+= -- 17302
+> -- 2740
+< -- 4
++ -- 1785
+- -- 649
+* -- 10816
+:= -- 14594
+add.period$ -- 612
+call.type$ -- 158
+change.case$ -- 164
+chr.to.int$ -- 0
+cite$ -- 158
+duplicate$ -- 18612
+empty$ -- 13140
+format.name$ -- 793
+if$ -- 34021
+int.to.chr$ -- 0
+int.to.str$ -- 158
+missing$ -- 1734
+newline$ -- 1065
+num.names$ -- 161
+pop$ -- 8508
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1387
+stack$ -- 0
+substring$ -- 21895
+swap$ -- 4583
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 1089
+width$ -- 161
+write$ -- 2147

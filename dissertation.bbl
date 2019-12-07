@@ -365,14 +365,6 @@ Walsh J, Hendrix S, Boato F \emph{et~al.}
 \newblock \emph{Journal of Clinical Investigation}, 125(2):699--714 (2015).
 \newblock \doi{10.1172/JCI76210DS1}.
 
-\bibitem{Sabatino2019}
-Sabatino J~J, Pr{\"{o}}bstel A~K, \& Zamvil S~S.
-\newblock {B cells in autoimmune and neurodegenerative central nervous system
-  diseases.}
-\newblock \emph{Nature reviews. Neuroscience} (2019).
-\newblock \doi{10.1038/s41583-019-0233-2}.
-\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/31712781}
-
 \bibitem{Meisel2005}
 Meisel C, Schwab J~M, Prass K, Meisel A, \& Dirnagl U.
 \newblock {Central nervous system injury-induced immune deficiency syndrome.}
@@ -405,6 +397,15 @@ Xu M, Chung S, Zhang S \emph{et~al.}
 \newblock \doi{10.1073/pnas.1423136112}.
 \newline\urlprefix\url{http://www.pnas.org/lookup/doi/10.1073/pnas.1423136112}
 
+\bibitem{Teles-GriloRuivo2017}
+{Teles-Grilo Ruivo} L~M, Baker K~L, Conway M~W, Kinsley P~J, Gilmour G,
+  Phillips K~G, Isaac J~T, Lowry J~P, \& Mellor J~R.
+\newblock {Coordinated Acetylcholine Release in Prefrontal Cortex and
+  Hippocampus Is Associated with Arousal and Reward on Distinct Timescales}.
+\newblock \emph{Cell Reports}, 18(4):905--917 (2017).
+\newblock \doi{10.1016/j.celrep.2016.12.085}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S2211124716318071}
+
 \bibitem{Niwa2018}
 Niwa Y, Kanda G~N, Yamada R~G \emph{et~al.}
 \newblock {Muscarinic Acetylcholine Receptors Chrm1 and Chrm3 Are Essential for
@@ -422,15 +423,6 @@ Yamakawa G~R, Basu P, Cortese F, MacDonnell J, Whalley D, Smith V~M, \& Antle
   113(47):13498--13503 (2016).
 \newblock \doi{10.1073/pnas.1610342113}.
 \newline\urlprefix\url{http://www.pnas.org/lookup/doi/10.1073/pnas.1610342113}
-
-\bibitem{Teles-GriloRuivo2017}
-{Teles-Grilo Ruivo} L~M, Baker K~L, Conway M~W, Kinsley P~J, Gilmour G,
-  Phillips K~G, Isaac J~T, Lowry J~P, \& Mellor J~R.
-\newblock {Coordinated Acetylcholine Release in Prefrontal Cortex and
-  Hippocampus Is Associated with Arousal and Reward on Distinct Timescales}.
-\newblock \emph{Cell Reports}, 18(4):905--917 (2017).
-\newblock \doi{10.1016/j.celrep.2016.12.085}.
-\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S2211124716318071}
 
 \bibitem{Ising2005}
 Ising M, Lauer C, Holsboer F, \& Modell S.
@@ -1258,6 +1250,20 @@ Pichler S, Gu W, Hartl D, Gasparoni G, Leidinger P, Keller A, Meese E, Mayhaus
 \newblock \emph{Neurobiology of Aging}, 50:167.e1--167.e10 (2017).
 \newblock \doi{10.1016/j.neurobiolaging.2016.09.019}.
 \newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0197458016302330}
+
+\bibitem{Busch2015}
+Busch S, Auth E, Scholl F, Huenecke S, Koehl U, Suess B, \& Steinhilber D.
+\newblock {5-Lipoxygenase Is a Direct Target of miR-19a-3p and miR-125b-5p}.
+\newblock \emph{The Journal of Immunology}, 194(4):1646--1653 (2015).
+\newblock \doi{10.4049/jimmunol.1402163}.
+\newline\urlprefix\url{http://www.jimmunol.org/lookup/doi/10.4049/jimmunol.1402163}
+
+\bibitem{Zhang2017}
+Zhang J, Qu P, Zhou C, Liu X, Ma X, Wang M, Wang Y, Su J, Liu J, \& Zhang Y.
+\newblock {MicroRNA-125b is a key epigenetic regulatory factor that promotes
+  nuclear transfer reprogramming}.
+\newblock \emph{Journal of Biological Chemistry}, 292(38):15916--15926 (2017).
+\newblock \doi{10.1074/jbc.M117.796771}.
 
 \bibitem{Soreq1990}
 Soreq H, Ben-Aziz R, Prody C~A, Seidman S, Gnatt A, Neville L, Lieman-Hurwitz
