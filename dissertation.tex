@@ -18,6 +18,11 @@
 % Scientific notation in text command
 \newcommand{\e}[2]{\num{#1}E\num[minimum-integer-digits=2]{#2}}
 
+%hyphenation shorthand
+\usepackage[ngerman, english]{babel}
+\useshorthands{"}
+\addto\extrasenglish{\languageshorthands{ngerman}}
+
 % full page figure
 \usepackage{fltpage}
 
@@ -150,6 +155,7 @@
 
 % articles with multiple URLs have to be manually arranged in library.bib using »note = "\url{}"«
 % maybe better just remove all but one URL
+
 
 %appendix
 \appendix
