@@ -58,7 +58,7 @@ RNA quality was determined by analysis on a 2100 Bioanalyzer instrument (Agilent
 \section{Small RNA Sequencing and Differential Expression Analysis}
 \newthought{For the detection and analysis of small RNA species}, \ac{seq} is the current gold standard method. It allows the mapping of a comprehensive transcriptome and thus is vastly superior to small scale and consecutive methods such as \ac{pcr}, and even the larger scale microarrays. Microarrays, while also potentially allowing a »snapshot« of entire transcriptomes, are limited by the predetermined sequences on the chip. \ac{seq}, on the other hand, is not biased towards any structural property of the sample; this is particularly important in the analysis of small RNA species, since their sequences are very variable (\acp{trf}) and still not completely catalogued (\acp{mir}). Assuming an adequate sequencing depth ($\smallgtrsim$\e{1}{6} reads/sample), \ac{seq} allows a comparison of all expressed small RNA species at once, which is immensely helpful when dealing with processes on the combinatorial scale of \ac{mir} regulation.
 
-\subsection{Sequencing}
+\subsection{Sequencing} \label{sec:cellculture:sequencing}
 
 For small RNA sequencing, the aliquoted samples were shipped on dry ice to the cooperating institute at the Hebrew University of Jerusalem, the Silberman Institute of Molecular Biology, the laboratory of Prof. Hermona Soreq. \SI{600}{\nano\gram} of total RNA per sample were prepared for sequencing using the NEBNext Small RNA Library Prep Set for Illumina (New England BioLabs). The libraries were multiplexed with coloured barcodes, allowing for sequencing of all 48 samples on one chip. Briefly, this includes ligation of sequencing adapters to both 3' and 5' ends of all (single-stranded) RNA fragments in the sample, followed by 12-15 cycles of reverse transcription to form the RNA library. Ligated and amplified libraries were then size selected via gel electrophoresis on a 6\% Polyacrylamide gel. The band representing small RNA species on the gel was excised and prepared for loading onto the sequencing chip. After loading, the chip was sequenced in a NextSeq 550 series instrument (Illumina) with a read length of 80 \acfp{nt}, single-end. 
 
@@ -94,7 +94,7 @@ Paired-end sequencing still is superfluous in small \ac{seq}, because none of th
 
 \begin{method}
 
-\subsection{Sequence Alignment}
+\subsection{Sequence Alignment} \label{sec:cellculture:alignment}
 
 For the alignment of \ac{mir} sequences, parts of the miRExpress 2.0\cite{Wang2009} pipeline were used according to the documentation. First, a lookup table for the current miRBase version 21 was created as per the instructions of the authors. The alignment was then performed using the commands \textit{Raw\_data\_parse}, \textit{statistics\_reads}, \textit{alignmentSIMD}, and \textit{analysis}; \textit{Trim\_adaptor} \todo{describe what miRExpress does?} was skipped because the adapters had already been trimmed in the quality filtering step. Additionally, since miRExpress is not accepting of sequences of any length, the raw data was length filtered to include only reads up to a length of 25 \acp{nt} before input into miRExpress. Thus, raw reads were aligned to the miRnome provided by miRBase v21, yielding count tables of mature \acp{mir} and miRNA precursors for each sample. In total, 1913 mature \acp{mir} from miRBase v21 were discovered in the data.
 

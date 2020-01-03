@@ -9,9 +9,9 @@
 \contentsline {subsection}{\numberline {1.2.5}Stroke}{9}{subsection.1.2.5}% 
 \contentsline {subsection}{\numberline {1.2.6}Circadian Aspects of Cholinergic Systems}{10}{subsection.1.2.6}% 
 \contentsline {subsection}{\numberline {1.2.7}Neurokines}{11}{subsection.1.2.7}% 
-\contentsline {section}{\numberline {1.3}Transcriptional Connectomics}{12}{section.1.3}% 
+\contentsline {section}{\numberline {1.3}Transcriptional Connectomics}{13}{section.1.3}% 
 \contentsline {subsection}{\numberline {1.3.1}Transcription Factors}{14}{subsection.1.3.1}% 
-\contentsline {subsection}{\numberline {1.3.2}microRNAs}{14}{subsection.1.3.2}% 
+\contentsline {subsection}{\numberline {1.3.2}microRNAs}{15}{subsection.1.3.2}% 
 \contentsline {subsubsection}{Biogenesis}{15}{section*.9}% 
 \contentsline {subsubsection}{Organisation and Curation}{16}{section*.9}% 
 \contentsline {subsubsection}{Disease Association}{16}{section*.9}% 
@@ -82,12 +82,25 @@
 \contentsline {subsection}{\numberline {3.9.6}miR-125b-5p Acetylcholinesterase Targeting Assays}{68}{subsection.3.9.6}% 
 \contentsline {subsection}{\numberline {3.9.7}hsa-miR-125b-5p Targets Acetylcholinesterase}{69}{subsection.3.9.7}% 
 \contentsline {subsection}{\numberline {3.9.8}Cholinergic/Neurokine Mechanisms in Web-Available RNA Sequencing Experiments}{69}{subsection.3.9.8}% 
-\contentsline {chapter}{\numberline {4}Discussion}{71}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Methods}{71}{section.4.1}% 
-\contentsline {section}{\numberline {4.2}The Cholinergic/Neurokine Interface}{72}{section.4.2}% 
-\contentsline {section}{\numberline {4.3}Small RNA Therapeutics and Pharmacology}{72}{section.4.3}% 
-\contentsline {chapter}{\numberline {5}Conclusion}{73}{chapter.5}% 
-\contentsline {chapter}{References}{94}{chapter*.50}% 
-\contentsline {chapter}{\numberline {A}Transcription Factor Regulatory Circuits - Tissue Types}{95}{appendix.A}% 
-\contentsline {chapter}{\numberline {B}List of Primate-Specific Homologues of Human microRNAs}{97}{appendix.B}% 
-\contentsline {chapter}{\numberline {C}microRNA Differential Expression in LA-N-2 and LA-N-5}{99}{appendix.C}% 
+\contentsline {chapter}{\numberline {4}Dynamics Between Small and Large RNA in the Blood of Stroke Victims}{71}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}The PREDICT Cohort}{71}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Clinical Parameters Collected in the PREDICT Study}{72}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}Sample Collection, RNA Isolation, and Sequencing}{72}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}RNA Sequencing Alignment}{72}{section.4.4}% 
+\contentsline {section}{\numberline {4.5}Quality Control and Filtering}{73}{section.4.5}% 
+\contentsline {section}{\numberline {4.6}RNA Sequencing Differential Expression Analysis}{73}{section.4.6}% 
+\contentsline {section}{\numberline {4.7}tRF Homology}{73}{section.4.7}% 
+\contentsline {section}{\numberline {4.8}WGCNA}{73}{section.4.8}% 
+\contentsline {section}{\numberline {4.9}Co-correlation}{73}{section.4.9}% 
+\contentsline {section}{\numberline {4.10}Networks}{73}{section.4.10}% 
+\contentsline {section}{\numberline {4.11}Direct Interaction}{73}{section.4.11}% 
+\contentsline {section}{\numberline {4.12}Feedforward Loops}{73}{section.4.12}% 
+\contentsline {chapter}{\numberline {5}Discussion}{75}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Methods}{75}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}The Cholinergic/Neurokine Interface}{76}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Small RNA Therapeutics and Pharmacology}{76}{section.5.3}% 
+\contentsline {chapter}{\numberline {6}Conclusion}{77}{chapter.6}% 
+\contentsline {chapter}{References}{99}{chapter*.52}% 
+\contentsline {chapter}{\numberline {A}Transcription Factor Regulatory Circuits - Tissue Types}{101}{appendix.A}% 
+\contentsline {chapter}{\numberline {B}List of Primate-Specific Homologues of Human microRNAs}{103}{appendix.B}% 
+\contentsline {chapter}{\numberline {C}microRNA Differential Expression in LA-N-2 and LA-N-5}{105}{appendix.C}% 

@@ -6,14 +6,42 @@ I know words. I have the best words.
 
 \chapter{Dynamics Between Small and Large RNA in the Blood of Stroke Victims}
 
-\newthought{Lorem ipsum dolor sit amet}, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero. Vivamus pharetra posuere sapien. Nam consectetuer. Sed aliquam, nunc eget euismod ullamcorper, lectus nunc ullamcorper orci, fermentum bibendum enim nibh eget ipsum. Donec porttitor ligula eu dolor. Maecenas vitae nulla consequat libero cursus venenatis. Nam magna enim, accumsan eu, blandit sed, blandit a, eros.
+Stroke is a dramatic incision into bodily homeostasis and affects a multitude of organ functions, first and foremost the brain. The immediate actions upon stroke are focused in preserving as much functional tissue as possible, so as to alleviate the cognitive damages resulting from neuron death. After this initial period of few hours, longer-lasting reactions determine the health and recovery of the patient. Many of these later events are related to immunity. The greatest danger to the patient after survival of the initial period are infections, such as pneumonia, usually between one and two weeks after the infarction. Pneumonia is often facilitated by aspiration of liquids or solids when the swallowing mechanism is impaired by neuron death. However, as introduced in Section \ref{sec:intro:stroke}, stroke-related immunodepression can play a role in post-stroke survival, and has been shown to have an impact on the transcriptome of blood-borne immune cells, at least for protein coding genes. The role of short RNA transcripts, and particularly of transfer RNA fragments, is much less clear.
 
-\section{Background}
-\section{Cohort}
-\section{RNA Sequencing and Differential Expression Analysis}
+We thus opted to analyse the blood of stroke victims taken upon hospitalisation, and screen it for changes in small and large RNA expression.
+
+\section{The PREDICT Cohort}
+The patient collective for the present study was recruited from a prospective, international, multi-center study with 11 study sites in Germany and Spain, led and approved by the neurologic department of Charité Berlin (www.clinicaltrials.gov, NCT01079728).\cite{Hoffmann2017} The study, called PREDICT, screened 484 stroke patients for clinical attributes and conventional biomarkers, with daily measurements in the first 5 days after stroke, and a three months follow-up. From these patients, a representative cohort of 49 patients were selected for blood small RNA sequencing. 
+
+\begin{method}
+
+\section{Clinical Parameters Collected in the PREDICT Study}
+Stroke patients were assessed daily for the duration of hospitalisation, at least until four days after admission. Blood-based biomarkers that were measured at least once during this period include: \ac{hladr}, interleukins IL-6, IL-8 and IL-10, IL-10 levels after 24h \emph{in vitro} stimulation with lipopolysaccharide, \ac{lbp}, \ac{mbl}, and \ac{tnf}-$\upalpha$. Also recorded were the time between admission and the collection of the blood sample, and the \ac{mrs}. This scale is a rough categorisation of the severity of stroke, with 0 referring to no symptoms, and 6 signifying death. Scores 1-2 describe slight neurological deficits, 3 requires frequent help because of medium level deficits, 4 requires constant assistance with daily tasks, and 5 requires stationary care.
+
+\section{Sample Collection, RNA Isolation, and Sequencing}
+Blood was collected into RNA stabilising tubes (Tempus Blood RNA tubes, Applied Biosystems) on each day of hospitalisation, and we subjected blood samples collected on the second day to small and large RNA-sequencing. While choosing samples for sequencing we only considered samples from patients with modified Rankin Scale (mRS) values of 3 and below at discharge from the hospital, to exclude very severe cases of stroke, leaving n=240 relevant cases. The time from stroke occurrence to blood withdrawal varied between 0.94 to 2.63 days, with an average of 1.98 days. Blood samples from age- and ethnicity-matched healthy controls were obtained at matched circadian time from donors with ethical approvals from institutional review boards (ZenBio, North Carolina, USA).
+
+RNA was extracted from 3 ml of whole blood of all 484 PREDICT patients using the Tempus Spin RNA isolation kit (Invitrogen, Thermo Fisher Scientific, Waltham MA, USA). RNA quality was determined by RNA gel for all samples and by Bioanalyzer 6000 (Agilent, Santa Clara CA, USA) for samples selected for RNA-sequencing, which showed high RNA quality with a median RIN of 8.8 (lowest RIN 7.9, highest RIN 9.9). We used 600 ng total RNA of 49 samples for small RNA library construction (NEBNext Multiplex Small RNA library prep set for Illumina, New England Biolabs, Ipswich MA, USA) and selected 24 out of the 49 short RNA-sequenced samples for PolyA-selected mRNA sequencing. These libraries were prepared from 1000 ng total RNA using the TruSeq RNA library preparation kit (Illumina, San Diego CA, USA) and were sequenced on the Illumina NextSeq 500 platform at the Hebrew University’s Center for Genomic Technologies.
+
+\section{RNA Sequencing Alignment}
+Small RNA species were aligned after quality filtering using flexbar and miRExpress 2.0, as described in Section \ref{sec:cellculture:alignment}. Additionally, to assess tRF expression, small RNA reads were aligned to the exclusive tRNA space using the MINTmap pipeline.\cite{Loher2017} Briefly, this pipeline compares short RNA sequencing reads with a collection of sequences determined to only be contained inside mature tRNAs, without confounding from the many tRNA lookalikes in the human genome, e.g., in pseudogenes. The two RNA species were united into one expression matrix containing both miRNA and tRF expression.
+
+Large RNA species were aligned to the human transcriptome (ENSEMBL version\todo{check}) using the fast dual-phase parallel inference algorithm \emph{Salmon}.\cite{Patro2017} Briefly, the method combines an "online" fragment mapping utilising continuous updating of a Bayesian prior with an "offline" phase that determines fragment quantities by application of the Bayesian model determined before via a standard expectation maximisation (EM) algorithm or a variable Bayesian EM. Additionally, the pipeline corrects for multiple typical biases in sequencing, such as position-specific biases, sequence-specific 3' and 5' end biases, fragment GC content bias, and fragment length distribution. The resulting quantified fragments were imported into R using the rsubreads package.(cite)
+
+\section{Quality Control and Filtering}
+Raw and processed reads were quality-controlled using FastQC, as described in Section \ref{sec:cellculture:sequencing}, with no samples falling below acceptable thresholds. Small and large RNA alignments were batch-corrected before analysis of inter-sample relationships via the method proposed by Oldham \emph{et al.} (see Section \ref{sec:cellculture:quality}). \todo{excluded}
+
+\section{RNA Sequencing Differential Expression Analysis}
+Quantified reads were subjected to differential expression analysis using DESeq2, essentially as described in Section \ref{sec:cellculture:deseq}. Small RNA species were analysed together, large RNA separately; both were corrected for covariates age, sex, RIN. Log-fold changes were shrunk using \emph{apeglm} as descibed above, at an alpha level of \emph{0.1}.
+
 \section{tRF Homology}
+
 \section{WGCNA}
+
 \section{Co-correlation}
+
+\end{method}
+
 \section{Networks}
 \section{Direct Interaction}
 \section{Feedforward Loops} \label{sec:stroke:ffl}

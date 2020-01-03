@@ -34,7 +34,7 @@ Synapse & CMC & Gulyás-Kovács \emph{et al.}\cite{Gulyas-Kovacs2018} & RNA-seq 
 \label{tab:datasets}
 \end{table}
 
-\subsection{Microarray Quality Control and Data Preparation}
+\subsection{Microarray Quality Control and Data Preparation} \label{sec:cellculture:quality}
 \subsubsection{Read-In and Normalisation}
 Illumina datasets were read, log$_2$-transformed, and quantile-normalised using R/lumi.\cite{Du2008} Affymetrix datasets were read and RMA-normalised (log$_2$-transformed, background corrected, quantile-normalised) using R/affy.\cite{Gautier2004} Affymetrix data were additionally corrected for 3'/5' bias using the \emph{AffyRNAdeg()} function (not available for other chip manufacturers). All available biological (e.g., sex, age) and technical (e.g., batch, \ac{rin}, post-mortem interval) covariates were collected and used for the analysis. Individual correlations of case-control status $S$ with any covariate $C$ were assessed using a linear model (R/lm) with formula $C \smallsim S$; statistical significance was determined via ANOVA (R/anova). If necessary, case-control samples were balanced to eliminate significant covariate correlations with case-control status (all p > 0.05).
 
