@@ -1361,4 +1361,41 @@ Hanin G, Shenhar-Tsarfaty S, Yayon N \emph{et~al.}
   http://www.ncbi.nlm.nih.gov/pubmed/24722204
   http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC4119407}
 
+\bibitem{Hoffmann2017}
+Hoffmann S, Harms H, Ulm L \emph{et~al.}
+\newblock {Stroke-induced immunodepression and dysphagia independently predict
+  stroke-associated pneumonia – The PREDICT study}.
+\newblock \emph{Journal of Cerebral Blood Flow {\&} Metabolism},
+  37(12):3671--3682 (2017).
+\newblock \doi{10.1177/0271678X16671964}.
+\newline\urlprefix\url{https://www.ncbi.nlm.nih.gov/pubmed/27733675
+  http://journals.sagepub.com/doi/10.1177/0271678X16671964}
+
+\bibitem{Patro2017}
+Patro R, Duggal G, Love M~I, Irizarry R~A, \& Kingsford C.
+\newblock {Salmon provides fast and bias-aware quantification of transcript
+  expression}.
+\newblock \emph{Nature Methods}, 14(4):417--419 (2017).
+\newblock \doi{10.1038/nmeth.4197}.
+\newline\urlprefix\url{http://www.nature.com/articles/nmeth.4197}
+
+\bibitem{Maaten2008}
+van~der Maaten L \& Hinton G.
+\newblock {Visualizing Data using t-SNE}.
+\newblock \emph{Journal of Machine Learning research}, 9(1) (2008).
+
+\bibitem{Juzenas2017}
+Juzenas S, Venkatesh G, H{\"{u}}benthal M \emph{et~al.}
+\newblock {A comprehensive, cell specific microRNA catalogue of human
+  peripheral blood}.
+\newblock \emph{Nucleic Acids Research}, 45(16):9290--9301 (2017).
+\newblock \doi{10.1093/nar/gkx706}.
+
+\bibitem{Broido2019}
+Broido A~D \& Clauset A.
+\newblock {Scale-free networks are rare}.
+\newblock \emph{Nature Communications}, 10(1):1017 (2019).
+\newblock \doi{10.1038/s41467-019-08746-5}.
+\newline\urlprefix\url{http://www.nature.com/articles/s41467-019-08746-5}
+
 \end{thebibliography}

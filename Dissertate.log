@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.26)  23 NOV 2019 21:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.26)  3 JAN 2020 03:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -366,7 +366,10 @@ Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
 (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
-)))
+))
+(/Users/selo/Library/texmf/tex/latex/siunitx/siunitx.cfg
+File: siunitx.cfg 
+))
 (/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
@@ -391,30 +394,30 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks17
 )
 
-./Dissertate.cls:77: LaTeX Error: \usepackage before \documentclass.
+./Dissertate.cls:78: LaTeX Error: \usepackage before \documentclass.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.77 \usepackage{
+l.78 \usepackage{
                  ragged2e}
 ? 
-./Dissertate.cls:77: Emergency stop.
+./Dissertate.cls:78: Emergency stop.
  ...                                              
                                                   
-l.77 \usepackage{
+l.78 \usepackage{
                  ragged2e}
 \usepackage may only appear in the document preamble, i.e.,
 between \documentclass and \begin{document}.
 
  
 Here is how much of TeX's memory you used:
- 15522 strings out of 492616
- 331012 string characters out of 6129481
- 362477 words of memory out of 5000000
- 19411 multiletter control sequences out of 15000+600000
+ 15537 strings out of 492616
+ 331387 string characters out of 6129481
+ 362588 words of memory out of 5000000
+ 19422 multiletter control sequences out of 15000+600000
  532636 words of font info for 25 fonts, out of 8000000 for 9000
- 1148 hyphenation exceptions out of 8191
+ 1149 hyphenation exceptions out of 8191
  43i,0n,63p,796b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
-./Dissertate.cls:77:  ==> Fatal error occurred, no output PDF file produced!
+./Dissertate.cls:78:  ==> Fatal error occurred, no output PDF file produced!

@@ -21,6 +21,7 @@
 \RequirePackage{siunitx}
 
 %Hyphenation rules
+\hyphenation{smRNA}
 \hyphenation{mRNA}
 \hyphenation{mRNAs}
 \hyphenation{miRNA}
@@ -28,6 +29,7 @@
 \hyphenation{miRNet}
 \hyphenation{homo-pen-ta-mer-ic}
 \hyphenation{mito-chon-dri-al}
+\hyphenation{lipo-poly-sac-cha-ri-de}
 
 % Line spacing: dsingle/ddouble
 %   Whether to use single- or doublespacing.
