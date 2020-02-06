@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  6 FEB 2020 03:06
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  6 FEB 2020 03:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1790,13 +1790,7 @@ Overfull \hbox (6.29678pt too wide) in paragraph at lines 40--40
 tiation of Human Neu- 
  []
 
-[5]
-Overfull \hbox (6.22028pt too wide) in paragraph at lines 112--112
- [][] [][][]\TU/EBGaramond(2)/m/n/10.95 Expression Patterns of Differentially E
-xpressed and Cholinergic-Associated 
- []
-
-[6]
+[5] [6]
 Overfull \hbox (5.1874pt too wide) in paragraph at lines 115--115
  [][] [][][]\TU/EBGaramond(2)/m/n/10.95 Gene Ontology Analyses of TF$\OMS/cmsy/
 m/n/10.95 !$\TU/EBGaramond(2)/m/n/10.95 Gene Networks of CD14-positive Mono- 
@@ -2222,7 +2216,11 @@ Overfull \hbox (1.85698pt too wide) in paragraph at lines 39--40
 , background corrected, quantile-normalised) using R/affy.$[]$
  []
 
-[62] [63] [64]
+[62]
+Underfull \vbox (badness 1147) has occurred while \output is active []
+
+ [63]
+[64]
 Overfull \hbox (2.1843pt too wide) in paragraph at lines 78--79
 \TU/EBGaramond(2)/m/n/10.95 Shared transcriptional properties of SCZ and BD wer
 e identifiable only in male diverging genes. While
@@ -3053,7 +3051,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 174.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 174.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 174.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: 1808299348CCC09E03B0DEAFBACA2740.
+(rerunfilecheck)             Checksum: F03DC68A804B8A7615BCC964131D4748.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -3065,7 +3063,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  51247 strings out of 492916
  1089516 string characters out of 6133345
- 1148856 words of memory out of 5000000
+ 1148854 words of memory out of 5000000
  54406 multiletter control sequences out of 15000+600000
  548401 words of font info for 187 fonts, out of 8000000 for 9000
  1357 hyphenation exceptions out of 8191

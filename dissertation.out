@@ -16,7 +16,7 @@
 \BOOKMARK [2][-]{subsection.1.3.2}{microRNAs}{section.1.3}% 16
 \BOOKMARK [2][-]{subsection.1.3.3}{Transfer\040RNA\040Fragments}{section.1.3}% 17
 \BOOKMARK [1][-]{section.1.4}{Nested\040Multimodal\040Transcriptional\040Interactions\040-\040The\040Need\040for\040Connectomics}{chapter.1}% 18
-\BOOKMARK [0][-]{chapter.2}{miRNetDB:\040Creation\040of\040a\040Comprehensive\040Connectomics\040Database}{}% 19
+\BOOKMARK [0][-]{chapter.2}{miRNeo:\040Creation\040of\040a\040Comprehensive\040Connectomics\040Database}{}% 19
 \BOOKMARK [1][-]{section.2.1}{Implementation}{chapter.2}% 20
 \BOOKMARK [2][-]{subsection.2.1.1}{Neo4j:\040A\040Graph-Based\040Infrastructure}{section.2.1}% 21
 \BOOKMARK [2][-]{subsection.2.1.2}{High-throughput\040Database\040Generation}{section.2.1}% 22
@@ -29,7 +29,7 @@
 \BOOKMARK [2][-]{subsection.2.2.5}{Filtering\040of\040Aggregated\040Prediction\040Scores}{section.2.2}% 29
 \BOOKMARK [2][-]{subsection.2.2.6}{De-novo\040Prediction\040of\040tRF\040Targeting}{section.2.2}% 30
 \BOOKMARK [2][-]{subsection.2.2.7}{microRNA\040Primate\040Specificity}{section.2.2}% 31
-\BOOKMARK [1][-]{section.2.3}{miRNetDB\040Usage}{chapter.2}% 32
+\BOOKMARK [1][-]{section.2.3}{miRNeo\040Usage}{chapter.2}% 32
 \BOOKMARK [1][-]{section.2.4}{Statistical\040Approach\040to\040Transcriptional\040Connectomics}{chapter.2}% 33
 \BOOKMARK [2][-]{subsection.2.4.1}{Permutation}{section.2.4}% 34
 \BOOKMARK [2][-]{subsection.2.4.2}{Gene\040Set\040Enrichment\040Analysis}{section.2.4}% 35
