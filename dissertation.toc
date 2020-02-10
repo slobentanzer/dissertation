@@ -1,7 +1,7 @@
 \babel@toc {english}{}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}Cholinergic Systems}{1}{section.1.1}% 
-\contentsline {section}{\numberline {1.2}Cholinergic Aspects of Disease}{3}{section.1.2}% 
+\contentsline {section}{\numberline {1.2}Cholinergic Aspects of Physiology and Disease}{3}{section.1.2}% 
 \contentsline {subsection}{\numberline {1.2.1}Alzheimer's Disease}{3}{subsection.1.2.1}% 
 \contentsline {subsection}{\numberline {1.2.2}Schizophrenia and Bipolar Disorder}{5}{subsection.1.2.2}% 
 \contentsline {subsection}{\numberline {1.2.3}Immunity}{6}{subsection.1.2.3}% 
@@ -10,123 +10,129 @@
 \contentsline {subsection}{\numberline {1.2.6}Circadian Aspects of Cholinergic Systems}{10}{subsection.1.2.6}% 
 \contentsline {subsection}{\numberline {1.2.7}Neurokines}{11}{subsection.1.2.7}% 
 \contentsline {section}{\numberline {1.3}Transcriptional Connectomics}{13}{section.1.3}% 
-\contentsline {subsection}{\numberline {1.3.1}Transcription Factors}{14}{subsection.1.3.1}% 
+\contentsline {subsection}{\numberline {1.3.1}Transcription Factors}{15}{subsection.1.3.1}% 
 \contentsline {subsection}{\numberline {1.3.2}microRNAs}{15}{subsection.1.3.2}% 
-\contentsline {subsubsection}{Biogenesis}{15}{section*.9}% 
+\contentsline {subsubsection}{Biogenesis}{16}{section*.9}% 
 \contentsline {subsubsection}{Organisation and Curation}{16}{section*.9}% 
-\contentsline {subsubsection}{Disease Association}{16}{section*.9}% 
-\contentsline {subsection}{\numberline {1.3.3}Transfer RNA Fragments}{17}{subsection.1.3.3}% 
-\contentsline {section}{\numberline {1.4}Nested Multimodal Transcriptional Interactions - The Need for Connectomics}{18}{section.1.4}% 
-\contentsline {chapter}{\numberline {2}miRNeo: Creation of a Comprehensive Connectomics Database}{21}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Implementation}{22}{section.2.1}% 
-\contentsline {subsection}{\numberline {2.1.1}Neo4j: A Graph-Based Infrastructure}{23}{subsection.2.1.1}% 
-\contentsline {subsection}{\numberline {2.1.2}High-throughput Database Generation}{24}{subsection.2.1.2}% 
-\contentsline {subsection}{\numberline {2.1.3}Maintenance and Quality Control}{24}{subsection.2.1.3}% 
-\contentsline {section}{\numberline {2.2}Materials}{25}{section.2.2}% 
-\contentsline {subsection}{\numberline {2.2.1}Gene Annotation}{25}{subsection.2.2.1}% 
-\contentsline {subsection}{\numberline {2.2.2}microRNA Annotation}{26}{subsection.2.2.2}% 
-\contentsline {subsection}{\numberline {2.2.3}Transcription Factor Targeting}{26}{subsection.2.2.3}% 
-\contentsline {subsection}{\numberline {2.2.4}microRNA Interactions}{27}{subsection.2.2.4}% 
-\contentsline {subsection}{\numberline {2.2.5}Filtering of Aggregated Prediction Scores}{29}{subsection.2.2.5}% 
-\contentsline {subsection}{\numberline {2.2.6}De-novo Prediction of tRF Targeting}{29}{subsection.2.2.6}% 
-\contentsline {subsection}{\numberline {2.2.7}microRNA Primate Specificity}{30}{subsection.2.2.7}% 
-\contentsline {subsubsection}{Species Selection}{31}{subsection.2.2.7}% 
-\contentsline {subsubsection}{Single miRNA Inter-Species Homology Computation}{31}{subsection.2.2.7}% 
-\contentsline {subsubsection}{Inter-Species Distribution of miRNAs}{32}{subsection.2.2.7}% 
-\contentsline {section}{\numberline {2.3}miRNeo Usage}{32}{section.2.3}% 
-\contentsline {section}{\numberline {2.4}Statistical Approach to Transcriptional Connectomics}{36}{section.2.4}% 
-\contentsline {subsection}{\numberline {2.4.1}Permutation}{36}{subsection.2.4.1}% 
-\contentsline {subsection}{\numberline {2.4.2}Gene Set Enrichment Analysis}{37}{subsection.2.4.2}% 
-\contentsline {chapter}{\numberline {3}microRNA Dynamics in Cholinergic Differentiation of Human Neuronal Cells}{39}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Neuronal Transcriptomes - Background}{39}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}Cortical Single-Cell RNA Sequencing}{41}{section.3.2}% 
-\contentsline {section}{\numberline {3.3}microRNA and Transcription Factor Targeting Predictions}{42}{section.3.3}% 
-\contentsline {section}{\numberline {3.4}Gene Clustering Based On Expression}{43}{section.3.4}% 
-\contentsline {subsection}{\numberline {3.4.1}Co-Expression of Functional Groups of Cholinergic Genes}{43}{subsection.3.4.1}% 
-\contentsline {section}{\numberline {3.5}The Cellular Model}{44}{section.3.5}% 
-\contentsline {subsection}{\numberline {3.5.1}The SH-SY5Y Neuroblastoma Cell Line}{44}{subsection.3.5.1}% 
-\contentsline {subsection}{\numberline {3.5.2}The LA-N Neuroblastoma Cell Lines}{45}{subsection.3.5.2}% 
-\contentsline {subsection}{\numberline {3.5.3}Culture}{46}{subsection.3.5.3}% 
-\contentsline {subsection}{\numberline {3.5.4}Differentiation}{46}{subsection.3.5.4}% 
-\contentsline {subsection}{\numberline {3.5.5}RNA Isolation}{47}{subsection.3.5.5}% 
-\contentsline {section}{\numberline {3.6}Small RNA Sequencing and Differential Expression Analysis}{49}{section.3.6}% 
-\contentsline {subsection}{\numberline {3.6.1}Sequencing}{49}{subsection.3.6.1}% 
-\contentsline {subsection}{\numberline {3.6.2}Sequence Alignment}{51}{subsection.3.6.2}% 
-\contentsline {subsection}{\numberline {3.6.3}Differential Expression Analysis - R/DESeq2}{51}{subsection.3.6.3}% 
-\contentsline {subsection}{\numberline {3.6.4}microRNA Dynamics in CNTF-mediated Cholinergic Differentiation of LA-N-2 and LA-N-5}{52}{subsection.3.6.4}% 
-\contentsline {subsubsection}{Differential Expression in Both Cell Lines}{52}{subsection.3.6.4}% 
-\contentsline {subsubsection}{Differential Expression Along The Timeline}{53}{boxenv.caption.34}% 
-\contentsline {subsubsection}{Differential Expression Between LA-N-2 and LA-N-5}{54}{figure.caption.37}% 
-\contentsline {subsection}{\numberline {3.6.5}microRNA Family Enrichment}{57}{subsection.3.6.5}% 
-\contentsline {subsubsection}{Gene Targeting of Enriched Families}{57}{section*.41}% 
-\contentsline {section}{\numberline {3.7}microRNA Family Gene Ontology Enrichment}{57}{section.3.7}% 
-\contentsline {subsection}{\numberline {3.7.1}Creation of miRNA Family Gene Target Sets}{58}{subsection.3.7.1}% 
-\contentsline {subsection}{\numberline {3.7.2}GO Analysis of Target Sets}{58}{subsection.3.7.2}% 
-\contentsline {subsection}{\numberline {3.7.3}Large Scale GO Term Curation}{59}{subsection.3.7.3}% 
-\contentsline {section}{\numberline {3.8}Whole Genome miRNA$\to $Gene Network Generation}{59}{section.3.8}% 
-\contentsline {section}{\numberline {3.9}Application to Schizophrenia and Bipolar Disorder}{60}{section.3.9}% 
-\contentsline {subsection}{\numberline {3.9.1}Analysed Datasets}{62}{subsection.3.9.1}% 
-\contentsline {subsection}{\numberline {3.9.2}Microarray Quality Control and Data Preparation}{62}{subsection.3.9.2}% 
-\contentsline {subsubsection}{Read-In and Normalisation}{62}{subsection.3.9.2}% 
-\contentsline {subsubsection}{Outliers}{63}{subsection.3.9.2}% 
-\contentsline {subsubsection}{Annotation}{63}{subsection.3.9.2}% 
-\contentsline {subsection}{\numberline {3.9.3}Differential Expression Meta-Analysis}{63}{subsection.3.9.3}% 
-\contentsline {subsubsection}{Sex-Specific Meta-Analysis}{64}{subsection.3.9.3}% 
-\contentsline {subsubsection}{Transcriptome Correlation}{64}{subsection.3.9.3}% 
-\contentsline {subsubsection}{Most Diverging Genes}{64}{subsection.3.9.3}% 
-\contentsline {subsection}{\numberline {3.9.4}Sexual Dimorphism in Schizophrenia and Bipolar Disorder}{64}{subsection.3.9.4}% 
-\contentsline {subsubsection}{Differences in Sexual Dimorphism Between SCZ and BD}{65}{subsection.3.9.4}% 
-\contentsline {subsubsection}{Overlap of Male-Biased Genes Between SCZ and BD}{65}{subsection.3.9.4}% 
-\contentsline {subsubsection}{Specificity of Ontological Terms}{65}{figure.caption.46}% 
-\contentsline {subsection}{\numberline {3.9.5}Combination of Disease Data and Cell Culture}{66}{subsection.3.9.5}% 
-\contentsline {subsection}{\numberline {3.9.6}miR-125b-5p Acetylcholinesterase Targeting Assays}{68}{subsection.3.9.6}% 
-\contentsline {subsection}{\numberline {3.9.7}hsa-miR-125b-5p Targets Acetylcholinesterase}{69}{subsection.3.9.7}% 
-\contentsline {subsection}{\numberline {3.9.8}Cholinergic/Neurokine Mechanisms in Web-Available RNA Sequencing Experiments}{69}{subsection.3.9.8}% 
-\contentsline {chapter}{\numberline {4}Dynamics Between Small and Large RNA in the Blood of Stroke Victims}{71}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}RNA Sequencing, Differential Expression, and Descriptive Methods}{71}{section.4.1}% 
-\contentsline {subsection}{\numberline {4.1.1}The PREDICT Cohort}{72}{subsection.4.1.1}% 
-\contentsline {subsection}{\numberline {4.1.2}Clinical Parameters Collected in the PREDICT Study}{72}{subsection.4.1.2}% 
-\contentsline {subsection}{\numberline {4.1.3}Sample Collection, RNA Isolation, and Sequencing}{72}{subsection.4.1.3}% 
-\contentsline {subsection}{\numberline {4.1.4}RNA Sequencing Alignment}{72}{subsection.4.1.4}% 
-\contentsline {subsection}{\numberline {4.1.5}Quality Control and Filtering}{73}{subsection.4.1.5}% 
-\contentsline {subsection}{\numberline {4.1.6}RNA Sequencing Differential Expression Analysis}{73}{subsection.4.1.6}% 
-\contentsline {subsection}{\numberline {4.1.7}Gene Ontology Analyses}{73}{subsection.4.1.7}% 
-\contentsline {subsubsection}{Ranking by P-Value}{73}{subsection.4.1.7}% 
-\contentsline {subsubsection}{Ranking By Count-Change}{73}{subsection.4.1.7}% 
-\contentsline {subsection}{\numberline {4.1.8}Homology Computation Among tRNA Fragments}{74}{subsection.4.1.8}% 
-\contentsline {subsection}{\numberline {4.1.9}t-Distributed Stochastic Neighbour Embedding}{74}{subsection.4.1.9}% 
-\contentsline {subsection}{\numberline {4.1.10}Cholinergic Association of Small RNA Species}{74}{subsection.4.1.10}% 
-\contentsline {section}{\numberline {4.2}Descriptive Analysis of RNA Dynamics in Blood After Stroke}{74}{section.4.2}% 
-\contentsline {subsection}{\numberline {4.2.1}Differential Expression of Large RNA}{74}{subsection.4.2.1}% 
-\contentsline {subsection}{\numberline {4.2.2}Gene Ontology Analyses of Differentially Expressed Genes}{75}{subsection.4.2.2}% 
-\contentsline {subsection}{\numberline {4.2.3}Differential Expression of small RNA}{76}{subsection.4.2.3}% 
-\contentsline {subsection}{\numberline {4.2.4}Homology Among tRNA Fragments}{76}{subsection.4.2.4}% 
-\contentsline {subsection}{\numberline {4.2.5}Cholinergic Association of Small RNA Species}{76}{subsection.4.2.5}% 
-\contentsline {section}{\numberline {4.3}Blood Compartments of Cholinergic Systems and Small RNA Species}{78}{section.4.3}% 
-\contentsline {subsection}{\numberline {4.3.1}Large RNA Regulatory Circuits in Tissues of the Blood}{78}{subsection.4.3.1}% 
-\contentsline {subsection}{\numberline {4.3.2}An Atlas of Small RNA Expression in Cell Types of the Blood}{78}{subsection.4.3.2}% 
-\contentsline {subsubsection}{Definition of Presence and Absence of Lowly Expressed smRNA Molecules}{79}{subsection.4.3.2}% 
-\contentsline {subsubsection}{Analysis of Expression Patterns and Establishment of Virtual Tissues}{79}{subsection.4.3.2}% 
-\contentsline {subsection}{\numberline {4.3.3}Large RNA Expression Patterns Identify Cholinergic Systems\\ in CD14-positive Monocytes}{80}{subsection.4.3.3}% 
-\contentsline {subsection}{\numberline {4.3.4}Identification of Functional Enrichment of smRNA Expression\\ in Blood-Borne Cells}{80}{subsection.4.3.4}% 
-\contentsline {subsection}{\numberline {4.3.5}Expression Patterns of Differentially Expressed and\\ Cholinergic-Associated smRNAs}{81}{subsection.4.3.5}% 
-\contentsline {section}{\numberline {4.4}Regulatory Circuits of Small RNA and Transcription Factors\\ in CD14-positive Monocytes}{81}{section.4.4}% 
-\contentsline {subsection}{\numberline {4.4.1}Comprehensive Circuit Network Creation}{81}{subsection.4.4.1}% 
-\contentsline {subsection}{\numberline {4.4.2}Gene Ontology Analyses of TF$\to $Gene Networks of CD14-positive Monocytes}{83}{subsection.4.4.2}% 
-\contentsline {subsection}{\numberline {4.4.3}Dichotomy of Small RNA Targeting of Transcription Factors in CD14-positive Monocytes}{83}{subsection.4.4.3}% 
-\contentsline {subsection}{\numberline {4.4.4}Transcriptomic Footprints of Dichotomous Transcription Factors in CD14-positive Monocytes}{84}{subsection.4.4.4}% 
-\contentsline {subsection}{\numberline {4.4.5}miRNA-targeted Transcription Factors convey XX}{85}{subsection.4.4.5}% 
-\contentsline {subsection}{\numberline {4.4.6}tRF-targeted Transcription Factors convey XX}{85}{subsection.4.4.6}% 
-\contentsline {section}{\numberline {4.5}Dimensionality Reduction and Correlation of Expression with Clinical Parameters}{85}{section.4.5}% 
-\contentsline {subsection}{\numberline {4.5.1}WGCNA}{85}{subsection.4.5.1}% 
-\contentsline {subsection}{\numberline {4.5.2}Co-correlation}{85}{subsection.4.5.2}% 
-\contentsline {chapter}{\numberline {5}Discussion}{87}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Methods}{87}{section.5.1}% 
-\contentsline {section}{\numberline {5.2}The Cholinergic/Neurokine Interface}{88}{section.5.2}% 
-\contentsline {section}{\numberline {5.3}Small RNA Therapeutics and Pharmacology}{88}{section.5.3}% 
-\contentsline {chapter}{\numberline {6}Conclusion}{89}{chapter.6}% 
-\contentsline {chapter}{Bibliography}{91}{chapter.6}% 
-\contentsline {chapter}{\numberline {A}Transcription Factor Regulatory Circuits - Tissue Types}{113}{appendix.A}% 
-\contentsline {chapter}{\numberline {B}List of Primate-Specific Homologues of Human microRNAs}{115}{appendix.B}% 
-\contentsline {chapter}{\numberline {C}microRNA Differential Expression in LA-N-2 and LA-N-5}{117}{appendix.C}% 
-\contentsline {chapter}{\numberline {D}List of GO Terms from Analysis of Differentially Expressed Large RNA in Stroke}{119}{appendix.D}% 
+\contentsline {subsubsection}{Disease Association}{17}{section*.9}% 
+\contentsline {subsection}{\numberline {1.3.3}Transfer RNA Fragments}{18}{subsection.1.3.3}% 
+\contentsline {section}{\numberline {1.4}Nested Multimodal Transcriptional Interactions - The Need for Connectomics}{19}{section.1.4}% 
+\contentsline {chapter}{\numberline {2}miRNeo: Creation of a Comprehensive Connectomics Database}{23}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Implementation}{24}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Neo4j: A Graph-Based Infrastructure}{25}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}High-throughput Database Generation}{26}{subsection.2.1.2}% 
+\contentsline {subsection}{\numberline {2.1.3}Maintenance and Quality Control}{26}{subsection.2.1.3}% 
+\contentsline {section}{\numberline {2.2}Materials}{27}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Gene Annotation}{27}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}microRNA Annotation}{28}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.3}Transcription Factor Targeting}{28}{subsection.2.2.3}% 
+\contentsline {subsection}{\numberline {2.2.4}microRNA Interactions}{29}{subsection.2.2.4}% 
+\contentsline {subsection}{\numberline {2.2.5}Filtering of Aggregated Prediction Scores}{31}{subsection.2.2.5}% 
+\contentsline {subsection}{\numberline {2.2.6}De-novo Prediction of tRF Targeting}{31}{subsection.2.2.6}% 
+\contentsline {subsection}{\numberline {2.2.7}microRNA Primate Specificity}{32}{subsection.2.2.7}% 
+\contentsline {subsubsection}{Species Selection}{33}{subsection.2.2.7}% 
+\contentsline {subsubsection}{Single miRNA Inter-Species Homology Computation}{33}{subsection.2.2.7}% 
+\contentsline {subsubsection}{Inter-Species Distribution of miRNAs}{34}{subsection.2.2.7}% 
+\contentsline {section}{\numberline {2.3}miRNeo Usage}{34}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Statistical Approach to Transcriptional Connectomics}{38}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}Permutation}{38}{subsection.2.4.1}% 
+\contentsline {subsection}{\numberline {2.4.2}Gene Set Enrichment Analysis}{39}{subsection.2.4.2}% 
+\contentsline {chapter}{\numberline {3}microRNA Dynamics in Cholinergic Differentiation\\ of Human Neuronal Cells}{41}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Neuronal Transcriptomes - Background}{41}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Cortical Single-Cell RNA Sequencing}{43}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}microRNA and Transcription Factor Targeting Predictions}{44}{section.3.3}% 
+\contentsline {section}{\numberline {3.4}Gene Clustering Based On Expression}{45}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}Co-Expression of Functional Groups of Cholinergic Genes}{45}{subsection.3.4.1}% 
+\contentsline {section}{\numberline {3.5}The Cellular Model}{46}{section.3.5}% 
+\contentsline {subsection}{\numberline {3.5.1}The SH-SY5Y Neuroblastoma Cell Line}{47}{subsection.3.5.1}% 
+\contentsline {subsection}{\numberline {3.5.2}The LA-N Neuroblastoma Cell Lines}{48}{subsection.3.5.2}% 
+\contentsline {subsection}{\numberline {3.5.3}Culture}{48}{subsection.3.5.3}% 
+\contentsline {subsection}{\numberline {3.5.4}Differentiation}{48}{subsection.3.5.4}% 
+\contentsline {subsection}{\numberline {3.5.5}RNA Isolation}{49}{subsection.3.5.5}% 
+\contentsline {section}{\numberline {3.6}Small RNA Sequencing and Differential Expression Analysis}{51}{section.3.6}% 
+\contentsline {subsection}{\numberline {3.6.1}Sequencing}{51}{subsection.3.6.1}% 
+\contentsline {subsection}{\numberline {3.6.2}Sequence Alignment}{53}{subsection.3.6.2}% 
+\contentsline {subsection}{\numberline {3.6.3}Differential Expression Analysis - R/DESeq2}{53}{subsection.3.6.3}% 
+\contentsline {subsection}{\numberline {3.6.4}microRNA Dynamics in CNTF-mediated Cholinergic\\ Differentiation of LA-N-2 and LA-N-5}{54}{subsection.3.6.4}% 
+\contentsline {subsubsection}{Differential Expression in Both Cell Lines}{54}{subsection.3.6.4}% 
+\contentsline {subsubsection}{Differential Expression Along The Timeline}{55}{boxenv.caption.32}% 
+\contentsline {subsubsection}{Differential Expression Between LA-N-2 and LA-N-5}{56}{figure.caption.35}% 
+\contentsline {subsection}{\numberline {3.6.5}microRNA Family Enrichment}{56}{subsection.3.6.5}% 
+\contentsline {subsubsection}{Gene Targeting of Enriched Families}{59}{section*.39}% 
+\contentsline {section}{\numberline {3.7}microRNA Family Gene Ontology Enrichment}{59}{section.3.7}% 
+\contentsline {subsection}{\numberline {3.7.1}Creation of miRNA Family Gene Target Sets}{59}{subsection.3.7.1}% 
+\contentsline {subsection}{\numberline {3.7.2}GO Analysis of Target Sets}{60}{subsection.3.7.2}% 
+\contentsline {subsection}{\numberline {3.7.3}Large Scale GO Term Curation}{61}{subsection.3.7.3}% 
+\contentsline {section}{\numberline {3.8}Whole Genome miRNA$\to $Gene Network Generation}{61}{section.3.8}% 
+\contentsline {section}{\numberline {3.9}Application to Schizophrenia and Bipolar Disorder}{62}{section.3.9}% 
+\contentsline {subsection}{\numberline {3.9.1}Analysed Datasets}{64}{subsection.3.9.1}% 
+\contentsline {subsection}{\numberline {3.9.2}Microarray Quality Control and Data Preparation}{64}{subsection.3.9.2}% 
+\contentsline {subsubsection}{Read-In and Normalisation}{64}{subsection.3.9.2}% 
+\contentsline {subsubsection}{Outliers}{65}{subsection.3.9.2}% 
+\contentsline {subsubsection}{Annotation}{65}{subsection.3.9.2}% 
+\contentsline {subsection}{\numberline {3.9.3}Differential Expression Meta-Analysis}{65}{subsection.3.9.3}% 
+\contentsline {subsubsection}{Sex-Specific Meta-Analysis}{66}{subsection.3.9.3}% 
+\contentsline {subsubsection}{Transcriptome Correlation}{66}{subsection.3.9.3}% 
+\contentsline {subsubsection}{Most Diverging Genes}{66}{subsection.3.9.3}% 
+\contentsline {subsection}{\numberline {3.9.4}Sexual Dimorphism in Schizophrenia and Bipolar Disorder}{66}{subsection.3.9.4}% 
+\contentsline {subsubsection}{Differences in Sexual Dimorphism Between SCZ and BD}{67}{subsection.3.9.4}% 
+\contentsline {subsubsection}{Overlap of Male-Biased Genes Between SCZ and BD}{67}{subsection.3.9.4}% 
+\contentsline {subsubsection}{Specificity of Ontological Terms}{67}{figure.caption.44}% 
+\contentsline {subsection}{\numberline {3.9.5}Combination of Disease Data and Cell Culture}{68}{subsection.3.9.5}% 
+\contentsline {subsection}{\numberline {3.9.6}miR-125b-5p Acetylcholinesterase Targeting Assays}{70}{subsection.3.9.6}% 
+\contentsline {subsection}{\numberline {3.9.7}hsa-miR-125b-5p Targets Acetylcholinesterase}{71}{subsection.3.9.7}% 
+\contentsline {subsection}{\numberline {3.9.8}Cholinergic/Neurokine Mechanisms in Web-Available\\ RNA Sequencing Experiments}{71}{subsection.3.9.8}% 
+\contentsline {chapter}{\numberline {4}Dynamics Between Small and Large RNA\\ in the Blood of Stroke Victims}{73}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}RNA Sequencing, Differential Expression, and Descriptive Methods}{73}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}The PREDICT Cohort}{74}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {4.1.2}Clinical Parameters Collected in the PREDICT Study}{74}{subsection.4.1.2}% 
+\contentsline {subsection}{\numberline {4.1.3}Sample Collection, RNA Isolation, and Sequencing}{74}{subsection.4.1.3}% 
+\contentsline {subsection}{\numberline {4.1.4}RNA Sequencing Alignment}{74}{subsection.4.1.4}% 
+\contentsline {subsection}{\numberline {4.1.5}Quality Control and Filtering}{75}{subsection.4.1.5}% 
+\contentsline {subsection}{\numberline {4.1.6}RNA Sequencing Differential Expression Analysis}{75}{subsection.4.1.6}% 
+\contentsline {subsection}{\numberline {4.1.7}Gene Ontology Analyses}{75}{subsection.4.1.7}% 
+\contentsline {subsubsection}{Ranking by P-Value}{75}{subsection.4.1.7}% 
+\contentsline {subsubsection}{Ranking By Count-Change}{75}{subsection.4.1.7}% 
+\contentsline {subsection}{\numberline {4.1.8}Homology Computation Among tRNA Fragments}{76}{subsection.4.1.8}% 
+\contentsline {subsection}{\numberline {4.1.9}t-Distributed Stochastic Neighbour Embedding}{76}{subsection.4.1.9}% 
+\contentsline {subsection}{\numberline {4.1.10}Cholinergic Association of Small RNA Species}{76}{subsection.4.1.10}% 
+\contentsline {section}{\numberline {4.2}Descriptive Analysis of RNA Dynamics in Blood After Stroke}{76}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Differential Expression of Large RNA}{76}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Gene Ontology Analyses of Differentially Expressed Genes}{77}{subsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.2.3}Differential Expression of small RNA}{78}{subsection.4.2.3}% 
+\contentsline {subsection}{\numberline {4.2.4}Homology Among tRNA Fragments}{78}{subsection.4.2.4}% 
+\contentsline {subsection}{\numberline {4.2.5}Cholinergic Association of Small RNA Species}{78}{subsection.4.2.5}% 
+\contentsline {section}{\numberline {4.3}Blood Compartments of Cholinergic Systems and Small RNA Species}{79}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}Large RNA Regulatory Circuits in Tissues of the Blood}{80}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}An Atlas of Small RNA Expression in Cell Types of the Blood}{80}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.3}Definition of Presence and Absence of Lowly Expressed\\ smRNA Molecules}{80}{subsection.4.3.3}% 
+\contentsline {subsubsection}{Analysis of Expression Patterns and Establishment of Virtual Tissues}{81}{subsection.4.3.3}% 
+\contentsline {subsection}{\numberline {4.3.4}Large RNA Expression Patterns Identify Cholinergic Systems\\ in CD14-positive Monocytes}{81}{subsection.4.3.4}% 
+\contentsline {subsection}{\numberline {4.3.5}Identification of Functional Enrichment of smRNA Expression\\ in Blood-Borne Cells}{82}{subsection.4.3.5}% 
+\contentsline {subsection}{\numberline {4.3.6}Expression Patterns of Differentially Expressed and\\ Cholinergic-Associated smRNAs}{84}{subsection.4.3.6}% 
+\contentsline {section}{\numberline {4.4}Regulatory Circuits of Small RNA and Transcription Factors\\ in CD14-positive Monocytes}{84}{section.4.4}% 
+\contentsline {subsection}{\numberline {4.4.1}Comprehensive Circuit Network Creation}{84}{subsection.4.4.1}% 
+\contentsline {subsection}{\numberline {4.4.2}Gene Ontology Analyses of TF$\to $Gene Networks\\ of CD14-positive Monocytes}{86}{subsection.4.4.2}% 
+\contentsline {subsection}{\numberline {4.4.3}Dichotomy of Small RNA Targeting of Transcription Factors\\ in CD14-positive Monocytes}{86}{subsection.4.4.3}% 
+\contentsline {subsection}{\numberline {4.4.4}Gradual Shift in Control Over Transcription Factors\\ by miRNAs and tRFs}{86}{subsection.4.4.4}% 
+\contentsline {subsection}{\numberline {4.4.5}Dichotomous Transcriptomic Footprints of Transcription Factors\\ in CD14-positive Monocytes}{87}{subsection.4.4.5}% 
+\contentsline {subsubsection}{GO Term Overlap Between miRNA- and tRF-targeted Transcription Factors}{87}{subsection.4.4.5}% 
+\contentsline {subsubsection}{Functions Distinguishing Between miRNA- and tRF-targeted Transcription Factors}{89}{subsection.4.4.5}% 
+\contentsline {section}{\numberline {4.5}Feedforward Loops of Small and Large RNA}{90}{section.4.5}% 
+\contentsline {subsection}{\numberline {4.5.1}Feedforward Loop Creation}{90}{subsection.4.5.1}% 
+\contentsline {subsection}{\numberline {4.5.2}Visualisation and Modularisation}{90}{subsection.4.5.2}% 
+\contentsline {subsection}{\numberline {4.5.3}Module-specific Functions via GO Analysis}{91}{subsection.4.5.3}% 
+\contentsline {subsection}{\numberline {4.5.4}Feedforward Loop Network of CD14-positive Monocytes}{91}{subsection.4.5.4}% 
+\contentsline {section}{\numberline {4.6}Chapter Discussion}{92}{section.4.6}% 
+\contentsline {chapter}{\numberline {5}Discussion}{93}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Methods}{93}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}The Cholinergic/Neurokine Interface}{93}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Small RNA Therapeutics and Pharmacology}{94}{section.5.3}% 
+\contentsline {chapter}{\numberline {6}Conclusion}{95}{chapter.6}% 
+\contentsline {chapter}{Bibliography}{97}{chapter.6}% 
+\contentsline {chapter}{List of Figures}{120}{chapter*.59}% 
+\contentsline {chapter}{\numberline {A}Transcription Factor Regulatory Circuits - Tissue Types}{123}{appendix.A}% 
+\contentsline {chapter}{\numberline {B}List of Primate-Specific Homologues of Human microRNAs}{125}{appendix.B}% 
+\contentsline {chapter}{\numberline {C}microRNA Differential Expression in LA-N-2 and LA-N-5}{127}{appendix.C}% 
+\contentsline {chapter}{\numberline {D}List of GO Terms from Analysis of Differentially Expressed Large RNA in Stroke}{129}{appendix.D}% 
+\contentsline {chapter}{\numberline {E}Examples of Presence/Absence Definition of Small RNA}{131}{appendix.E}% 

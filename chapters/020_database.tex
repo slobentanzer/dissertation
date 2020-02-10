@@ -201,7 +201,7 @@ The inter-species relationships of annotated miRNAs do not follow a simple evolu
 %%%%%%%%%%%%%%%%%%%%% SECTION %%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{miRNeo Usage}
+\section{miRNeo Usage} \label{sec:database:usage}
 Neo4j uses a language (called »Cypher«) akin to \ac{sql}, which utilises keyphrases to issue commands, but combines it with a semi-graphical syntax to account for the graph-based layout of the data. In the following, I will describe its basic usage and the advantages it provides in the matter of transcriptional connectomics. The basic »finder« function (similar to \textcolor{dkblue}{SELECT} in \ac{sql}) is called \textcolor{dkblue}{MATCH} in Cypher, and, when combined with the semi-graphical syntax, can be used to identify nodes or more complex patterns in the database. The graphical syntax consists of two main building blocks that represent the basic types of data inside the database: nodes as regular brackets »\textbf{\texttt{( )}}« and edges between nodes as  a construct of hyphens and box brackets, that can also have a direction indicated by the greater sign \mbox{»\textbf{\texttt{( )-\string[ \string]->( )}}«}. To specify the elements to be found, attributes of nodes and/or edges can be filtered by using curly brackets in the node definition, or the \textcolor{dkblue}{WHERE} clause. To be returned, elements need to be assigned arbitrary variable names:
 
 \begin{lstlisting}[label=lst:match, caption=MATCH, language=Cypher]
@@ -255,8 +255,8 @@ MATCH (tf:GENE {species: 'HSA', tf:TRUE})-[rel]->(gene)
 WHERE type(rel) IN {tissue_types} //TFs only from specific tissues
 //for instance, CNS cell types (Appendix A)
 WITH gene, rel, tf //use as input for next step
-MATCH (gene)<-[rel_m1:TARGETS]-(mir:MIR {species: 'HSA'})-[rel_m2:TARGETS]->(tf) 
-//find miRNAs that target both gene and TF
+MATCH (tf)-[rel]->(gene)<-[rel_m1:TARGETS]-(mir:MIR {species: 'HSA'})-[rel_m2:TARGETS]->(tf) 
+//find miRNAs that target gene and gene-targeting TF at the same time
 WHERE rel_m1.score > 5 AND rel_m2.score > 5 
 //low-cut filter at a minimum cumulative score of 6
 RETURN gene, tf, rel, type(rel) AS tissue, mir, rel_m1, rel_m2
