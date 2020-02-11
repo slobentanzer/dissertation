@@ -1459,4 +1459,37 @@ Ward J~H.
 \newblock \doi{10.1080/01621459.1963.10500845}.
 \newline\urlprefix\url{http://www.tandfonline.com/doi/abs/10.1080/01621459.1963.10500845}
 
+\bibitem{Lehtonen1997}
+Lehtonen A, Matikainen S, \& Julkunen I.
+\newblock {Interferons up-regulate STAT1, STAT2, and IRF family transcription
+  factor gene expression in human peripheral blood mononuclear cells and
+  macrophages.}
+\newblock \emph{The Journal of Immunology}, 159(2):794 LP -- 803 (1997).
+\newline\urlprefix\url{http://www.jimmunol.org/content/159/2/794.abstract}
+
+\bibitem{Reeves2019}
+Reeves G~T.
+\newblock {The engineering principles of combining a transcriptional incoherent
+  feedforward loop with negative feedback}.
+\newblock \emph{Journal of Biological Engineering}, 13(1):62 (2019).
+\newblock \doi{10.1186/s13036-019-0190-3}.
+\newline\urlprefix\url{https://jbioleng.biomedcentral.com/articles/10.1186/s13036-019-0190-3}
+
+\bibitem{Lai2016}
+Lai X, Wolkenhauer O, \& Vera J.
+\newblock {Understanding microRNA-mediated gene regulatory networks through
+  mathematical modelling}.
+\newblock \emph{Nucleic Acids Research}, 44(13):6019--6035 (2016).
+\newblock \doi{10.1093/nar/gkw550}.
+\newline\urlprefix\url{https://academic.oup.com/nar/article/44/13/6019/2457646/Understanding-microRNA-mediated-gene-regulatory
+  https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw550}
+
+\bibitem{Blondel2008}
+Blondel V~D, Guillaume J~L, Lambiotte R, \& Lefebvre E.
+\newblock {Fast unfolding of communities in large networks}.
+\newblock \emph{Journal of Statistical Mechanics Theory and Experiment} (2008).
+\newblock \doi{10.1088/1742-5468/2008/10/P10008}.
+\newline\urlprefix\url{http://arxiv.org/abs/0803.0476
+  http://dx.doi.org/10.1088/1742-5468/2008/10/P10008}
+
 \end{thebibliography}

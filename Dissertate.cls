@@ -222,11 +222,13 @@
 % Formatting guidelines found in:
 % http://www.gsas.harvard.edu/publications/form_of_the_phd_dissertation.php
 \renewcommand{\frontmatter}{
-	\input{frontmatter/personalize}
+	%\input{frontmatter/personalize}
 	\maketitle
+	\formalpage
 	\copyrightpage
 	\abstractpage
-    \contentspage
+    	\contentspage
+	\preamble
 	% \listoffigures % optional
 	\dedicationpage
 	\acknowledgments
@@ -252,6 +254,16 @@
 	Frankfurt \@degreeyear\\
 	(D30)}
 	\end{center} \vspace*{\fill}
+}
+
+\newcommand{\formalpage}{
+	\newpage
+	\thispagestyle{empty}
+	\vspace*{\fill}
+	Dissertation vorgelegt...
+	\vspace*{\fill}
+	\newpage
+	\rm
 }
 
 \newcommand{\copyrightpage}{
@@ -309,6 +321,17 @@
 	\noindent
     \begin{spacing}{\dnormalspacing}
     	\input{frontmatter/thanks}
+    \end{spacing}
+	\vspace*{\fill} \newpage
+}
+
+\newcommand{\preamble}{
+	%\setlength{\headheight}{100pt}
+	\renewcommand{\chapterheadstartvskip}{\vspace*{10\baselineskip}}
+	\chapter*{Preamble}
+	\noindent
+    \begin{spacing}{\dnormalspacing}
+    	\input{frontmatter/preamble}
     \end{spacing}
 	\vspace*{\fill} \newpage
 }
