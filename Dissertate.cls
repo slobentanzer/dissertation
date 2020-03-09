@@ -11,7 +11,7 @@
 
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{Dissertate}[2014/03/25 v2.0 Dissertate Class]
-\LoadClass[12pt, twoside, a4paper]{book}
+\LoadClass[12pt, openany, a4paper]{book}
 
 %
 % Options

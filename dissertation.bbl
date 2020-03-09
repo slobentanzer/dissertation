@@ -6,6 +6,14 @@
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 
+\bibitem{Lobentanzer2019a}
+Lobentanzer S, Hanin G, Klein J, \& Soreq H.
+\newblock {Integrative Transcriptomics Reveals Sexually Dimorphic Control of
+  the Cholinergic/Neurokine Interface in Schizophrenia and Bipolar Disorder}.
+\newblock \emph{CellReports}, pp. 1--19 (2019).
+\newblock \doi{10.1016/j.celrep.2019.09.017}.
+\newline\urlprefix\url{https://doi.org/10.1016/j.celrep.2019.09.017}
+
 \bibitem{Dale1914}
 Dale H~H.
 \newblock {THE ACTION OF CERTAIN ESTERS AND ETHERS OF CHOLINE, AND THEIR
@@ -42,14 +50,6 @@ Mesulam M~M \& Geula C.
 \newblock \doi{10.1002/cne.902750205}.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/3220975
   http://doi.wiley.com/10.1002/cne.902750205}
-
-\bibitem{Lobentanzer2019a}
-Lobentanzer S, Hanin G, Klein J, \& Soreq H.
-\newblock {Integrative Transcriptomics Reveals Sexually Dimorphic Control of
-  the Cholinergic/Neurokine Interface in Schizophrenia and Bipolar Disorder}.
-\newblock \emph{CellReports}, pp. 1--19 (2019).
-\newblock \doi{10.1016/j.celrep.2019.09.017}.
-\newline\urlprefix\url{https://doi.org/10.1016/j.celrep.2019.09.017}
 
 \bibitem{Mesulam1976}
 Mesulam M~M \& {Van Hoesen} G~W.
@@ -1420,10 +1420,36 @@ Liao Y, Smyth G~K, \& Shi W.
 \newblock \doi{10.1093/nar/gkz114}.
 \newline\urlprefix\url{https://academic.oup.com/nar/article/47/8/e47/5345150}
 
+\bibitem{Tokar2020}
+Tokar T.
+\newblock \emph{gsoap: A tool for visualisation of gene set over-representation
+  analysis (GSOA).} (2020).
+\newblock R package version 0.1.0.
+
+\bibitem{Wickham2016}
+Wickham H.
+\newblock \emph{ggplot2: Elegant Graphics for Data Analysis}.
+\newblock Springer-Verlag New York (2016).
+\newline\urlprefix\url{https://ggplot2.tidyverse.org}
+
 \bibitem{Maaten2008}
 van~der Maaten L \& Hinton G.
 \newblock {Visualizing Data using t-SNE}.
 \newblock \emph{Journal of Machine Learning research}, 9(1) (2008).
+
+\bibitem{McInnes2018}
+McInnes L, Healy J, \& Melville J.
+\newblock \emph{UMAP: Uniform Manifold Approximation and Projection for
+  Dimension Reduction} (2018).
+
+\bibitem{Becht2019}
+Becht E, McInnes L, Healy J, Dutertre C~A, Kwok I~W~H, Ng L~G, Ginhoux F, \&
+  Newell E~W.
+\newblock {Dimensionality reduction for visualizing single-cell data using
+  UMAP}.
+\newblock \emph{Nature Biotechnology}, 37(1):38--44 (2019).
+\newblock \doi{10.1038/nbt.4314}.
+\newline\urlprefix\url{http://www.nature.com/articles/nbt.4314}
 
 \bibitem{Krijthe2015}
 Krijthe J~H.
@@ -1438,12 +1464,6 @@ Juzenas S, Venkatesh G, H{\"{u}}benthal M \emph{et~al.}
   peripheral blood}.
 \newblock \emph{Nucleic Acids Research}, 45(16):9290--9301 (2017).
 \newblock \doi{10.1093/nar/gkx706}.
-
-\bibitem{Wickham2016}
-Wickham H.
-\newblock \emph{ggplot2: Elegant Graphics for Data Analysis}.
-\newblock Springer-Verlag New York (2016).
-\newline\urlprefix\url{https://ggplot2.tidyverse.org}
 
 \bibitem{Delignette-Muller2015}
 Delignette-Muller M~L \& Dutang C.
@@ -1491,5 +1511,698 @@ Blondel V~D, Guillaume J~L, Lambiotte R, \& Lefebvre E.
 \newblock \doi{10.1088/1742-5468/2008/10/P10008}.
 \newline\urlprefix\url{http://arxiv.org/abs/0803.0476
   http://dx.doi.org/10.1088/1742-5468/2008/10/P10008}
+
+\bibitem{Sanchez-Pulido2007}
+Sanchez-Pulido L, Valencia A, \& Rojas A~M.
+\newblock {Are promyelocytic leukaemia protein nuclear bodies a scaffold for
+  caspase-2 programmed cell death?}
+\newblock \emph{Trends in Biochemical Sciences}, 32(9):400--406 (2007).
+\newblock \doi{10.1016/j.tibs.2007.08.001}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0968000407001892}
+
+\bibitem{Vlasakova2007}
+Vlasáková J, Nováková Z, Rossmeislová L, Kahle M, Hozák P, \&
+  Hodný Z.
+\newblock {Histone deacetylase inhibitors suppress IFN$\alpha$-induced
+  up-regulation of promyelocytic leukemia protein}.
+\newblock \emph{Blood}, 109(4):1373--1380 (2007).
+\newblock \doi{10.1182/blood-2006-02-003418}.
+\newline\urlprefix\url{https://ashpublications.org/blood/article/109/4/1373/23413/Histone-deacetylase-inhibitors-suppress}
+
+\bibitem{Lorenz2019}
+Lorenz D~R, Misra V, \& Gabuzda D.
+\newblock {Transcriptomic analysis of monocytes from HIV-positive men on
+  antiretroviral therapy reveals effects of tobacco smoking on interferon and
+  stress response systems associated with depressive symptoms}.
+\newblock \emph{Human Genomics}, 13(1):59 (2019).
+\newblock \doi{10.1186/s40246-019-0247-x}.
+\newline\urlprefix\url{https://humgenomics.biomedcentral.com/articles/10.1186/s40246-019-0247-x}
+
+\bibitem{Kim2018}
+Kim J~O, Park J~H, Kim T \emph{et~al.}
+\newblock {A novel system-level approach using RNA-sequencing data identifies
+  miR-30-5p and miR-142a-5p as key regulators of apoptosis in myocardial
+  infarction}.
+\newblock \emph{Scientific Reports}, 8(1):14638 (2018).
+\newblock \doi{10.1038/s41598-018-33020-x}.
+\newline\urlprefix\url{http://www.nature.com/articles/s41598-018-33020-x}
+
+\bibitem{Makino2017}
+Makino Y, Yoon J~H, Bae E, Kato M, Miyazawa K, Ohira T, Ikeda N, Kuroda M, \&
+  Mamura M.
+\newblock {Repression of Smad3 by Stat3 and c-Ski/SnoN induces gefitinib
+  resistance in lung adenocarcinoma}.
+\newblock \emph{Biochemical and Biophysical Research Communications},
+  484(2):269--277 (2017).
+\newblock \doi{10.1016/j.bbrc.2017.01.093}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0006291X17301432}
+
+\bibitem{Xu2016}
+Xu Y, Yue W, {Yao Shugart} Y \emph{et~al.}
+\newblock {Exploring Transcription Factors-microRNAs Co-regulation Networks in
+  Schizophrenia}.
+\newblock \emph{Schizophrenia Bulletin}, 42(4):1037--1045 (2016).
+\newblock \doi{10.1093/schbul/sbv170}.
+\newline\urlprefix\url{https://academic.oup.com/schizophreniabulletin/article-lookup/doi/10.1093/schbul/sbv170}
+
+\bibitem{Song2016}
+Song H~M, Park G~H, Eo H~J, \& Jeong J~B.
+\newblock {Naringenin-Mediated ATF3 Expression Contributes to Apoptosis in
+  Human Colon Cancer}.
+\newblock \emph{Biomolecules {\&} Therapeutics}, 24(2):140--146 (2016).
+\newblock \doi{10.4062/biomolther.2015.109}.
+\newline\urlprefix\url{http://www.biomolther.org/journal/DOIx.php?id=10.4062/biomolther.2015.109}
+
+\bibitem{Sun2017}
+Sun M~M, Wang Y~C, Li Y, Guo X~D, Chen Y~M, \& Zhang Z~Z.
+\newblock {Effect of ATF3-deletion on apoptosis of cultured retinal ganglion
+  cells.}
+\newblock \emph{International journal of ophthalmology}, 10(5):691--695 (2017).
+\newblock \doi{10.18240/ijo.2017.05.05}.
+\newline\urlprefix\url{http://www.ijo.cn/gjyken/ch/reader/view{\_}abstract.aspx?file{\_}no=20170505{\&}flag=1
+  http://www.ncbi.nlm.nih.gov/pubmed/28546922
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5437453}
+
+\bibitem{Labzin2015}
+Labzin L~I, Schmidt S~V, Masters S~L \emph{et~al.}
+\newblock {ATF3 Is a Key Regulator of Macrophage IFN Responses}.
+\newblock \emph{The Journal of Immunology}, 195(9):4446--4455 (2015).
+\newblock \doi{10.4049/jimmunol.1500204}.
+\newline\urlprefix\url{http://www.jimmunol.org/lookup/doi/10.4049/jimmunol.1500204}
+
+\bibitem{Glal2018}
+Glal D, Sudhakar J~N, Lu H~H, Liu M~C, Chiang H~Y, Liu Y~C, Cheng C~F, \& Shui
+  J~W.
+\newblock {ATF3 Sustains IL-22-Induced STAT3 Phosphorylation to Maintain
+  Mucosal Immunity Through Inhibiting Phosphatases}.
+\newblock \emph{Frontiers in Immunology}, 9 (2018).
+\newblock \doi{10.3389/fimmu.2018.02522}.
+\newline\urlprefix\url{https://www.frontiersin.org/article/10.3389/fimmu.2018.02522/full}
+
+\bibitem{Heinrich2018}
+Heinrich R, Hertz R, Zemel E, Mann I, Brenner L, Massarweh A, Berlin S, \&
+  Perlman I.
+\newblock {ATF3 Regulates the Expression of AChE During Stress}.
+\newblock \emph{Frontiers in Molecular Neuroscience}, 11 (2018).
+\newblock \doi{10.3389/fnmol.2018.00088}.
+\newline\urlprefix\url{http://journal.frontiersin.org/article/10.3389/fnmol.2018.00088/full}
+
+\bibitem{Huang2015}
+Huang C~Y, Chen J~J, Wu J~S, Tsai H~D, Lin H, Yan Y~T, Hsu C~Y, Ho Y~S, \& Lin
+  T~N.
+\newblock {Novel Link of Anti-apoptotic ATF3 with Pro-apoptotic CTMP in the
+  Ischemic Brain}.
+\newblock \emph{Molecular Neurobiology}, 51(2):543--557 (2015).
+\newblock \doi{10.1007/s12035-014-8710-0}.
+\newline\urlprefix\url{http://link.springer.com/10.1007/s12035-014-8710-0}
+
+\bibitem{Ghaleb2017}
+Ghaleb A~M \& Yang V~W.
+\newblock {Kr{\"{u}}ppel-like factor 4 (KLF4): What we currently know}.
+\newblock \emph{Gene}, 611:27--37 (2017).
+\newblock \doi{10.1016/j.gene.2017.02.025}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0378111917301142}
+
+\bibitem{Yin2015}
+Yin R~H, Yu J~T, \& Tan L.
+\newblock {The Role of SORL1 in Alzheimer's Disease}.
+\newblock \emph{Molecular Neurobiology}, 51(3):909--918 (2015).
+\newblock \doi{10.1007/s12035-014-8742-5}.
+\newline\urlprefix\url{http://link.springer.com/10.1007/s12035-014-8742-5}
+
+\bibitem{Sakai2012}
+Sakai S, Nakaseko C, Takeuchi M \emph{et~al.}
+\newblock {Circulating soluble LR11/SorLA levels are highly increased and
+  ameliorated by chemotherapy in acute leukemias}.
+\newblock \emph{Clinica Chimica Acta}, 413(19-20):1542--1548 (2012).
+\newblock \doi{10.1016/j.cca.2012.06.025}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0009898112003300}
+
+\bibitem{Larsen2017}
+Larsen J~V \& Petersen C~M.
+\newblock {SorLA in Interleukin-6 Signaling and Turnover}.
+\newblock \emph{Molecular and Cellular Biology}, 37(11) (2017).
+\newblock \doi{10.1128/MCB.00641-16}.
+\newline\urlprefix\url{http://mcb.asm.org/lookup/doi/10.1128/MCB.00641-16}
+
+\bibitem{Rabe2008}
+Rabe B, Chalaris A, May U, Waetzig G~H, Seegert D, Williams A~S, Jones S~A,
+  Rose-John S, \& Scheller J.
+\newblock {Transgenic blockade of interleukin 6 transsignaling abrogates
+  inflammation}.
+\newblock \emph{Blood}, 111(3):1021--1028 (2008).
+\newblock \doi{10.1182/blood-2007-07-102137}.
+\newline\urlprefix\url{https://ashpublications.org/blood/article/111/3/1021/25448/Transgenic-blockade-of-interleukin-6}
+
+\bibitem{Zhang2018}
+Zhang C, Xiao C, Dang E \emph{et~al.}
+\newblock {CD100–Plexin-B2 Promotes the Inflammation in Psoriasis by
+  Activating NF-$\kappa$B and the Inflammasome in Keratinocytes}.
+\newblock \emph{Journal of Investigative Dermatology}, 138(2):375--383 (2018).
+\newblock \doi{10.1016/j.jid.2017.09.005}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0022202X17329494}
+
+\bibitem{Yu2017}
+Yu W, Goncalves K~A, Li S \emph{et~al.}
+\newblock {Plexin-B2 Mediates Physiologic and Pathologic Functions of
+  Angiogenin}.
+\newblock \emph{Cell}, 171(4):849--864.e25 (2017).
+\newblock \doi{10.1016/j.cell.2017.10.005}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0092867417311893}
+
+\bibitem{Akbar2017}
+Akbar N, Digby J~E, Cahill T~J \emph{et~al.}
+\newblock {Endothelium-derived extracellular vesicles promote splenic monocyte
+  mobilization in myocardial infarction}.
+\newblock \emph{JCI Insight}, 2(17) (2017).
+\newblock \doi{10.1172/jci.insight.93344}.
+\newline\urlprefix\url{https://insight.jci.org/articles/view/93344}
+
+\bibitem{Roney2011}
+Roney K~E, O'Connor B~P, Wen H \emph{et~al.}
+\newblock {Plexin-B2 Negatively Regulates Macrophage Motility, Rac, and Cdc42
+  Activation}.
+\newblock \emph{PLoS ONE}, 6(9):e24795 (2011).
+\newblock \doi{10.1371/journal.pone.0024795}.
+\newline\urlprefix\url{https://dx.plos.org/10.1371/journal.pone.0024795}
+
+\bibitem{Takahashi2006}
+Takahashi K \& Yamanaka S.
+\newblock {Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult
+  Fibroblast Cultures by Defined Factors}.
+\newblock \emph{Cell}, 126(4):663--676 (2006).
+\newblock \doi{10.1016/j.cell.2006.07.024}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0092867406009767}
+
+\bibitem{Feinberg2005}
+Feinberg M~W, Cao Z, Wara A~K, Lebedeva M~A, SenBanerjee S, \& Jain M~K.
+\newblock {Kruppel-like Factor 4 Is a Mediator of Proinflammatory Signaling in
+  Macrophages}.
+\newblock \emph{Journal of Biological Chemistry}, 280(46):38247--38258 (2005).
+\newblock \doi{10.1074/jbc.M509378200}.
+\newline\urlprefix\url{http://www.jbc.org/lookup/doi/10.1074/jbc.M509378200}
+
+\bibitem{Liu2008}
+Liu J, Liu Y, Zhang H, Chen G, Wang K, \& Xiao X.
+\newblock {KLF4 PROMOTES THE EXPRESSION, TRANSLOCATION, AND RELEASE OF HMGB1 IN
+  RAW264.7 MACROPHAGES IN RESPONSE TO LPS}.
+\newblock \emph{Shock}, p.~1 (2008).
+\newblock \doi{10.1097/shk.0b013e318162bef7}.
+\newline\urlprefix\url{http://journals.lww.com/00024382-900000000-99762}
+
+\bibitem{Liu2012}
+Liu J, Yang T, Liu Y, Zhang H, Wang K, Liu M, Chen G, \& Xiao X.
+\newblock {Kr{\"{u}}ppel-like factor 4 inhibits the expression of interleukin-1
+  beta in lipopolysaccharide-induced RAW264.7 macrophages}.
+\newblock \emph{FEBS Letters}, 586(6):834--840 (2012).
+\newblock \doi{10.1016/j.febslet.2012.02.003}.
+\newline\urlprefix\url{http://doi.wiley.com/10.1016/j.febslet.2012.02.003}
+
+\bibitem{Feinberg2007}
+Feinberg M~W, Wara A~K, Cao Z \emph{et~al.}
+\newblock {The Kruppel-like factor KLF4 is a critical regulator of monocyte
+  differentiation}.
+\newblock \emph{The EMBO Journal}, 26(18):4138--4148 (2007).
+\newblock \doi{10.1038/sj.emboj.7601824}.
+\newline\urlprefix\url{http://emboj.embopress.org/cgi/doi/10.1038/sj.emboj.7601824}
+
+\bibitem{Alder2008}
+Alder J~K, Georgantas R~W, Hildreth R~L, Kaplan I~M, Morisot S, Yu X, McDevitt
+  M, \& Civin C~I.
+\newblock {Kruppel-Like Factor 4 Is Essential for Inflammatory Monocyte
+  Differentiation In Vivo}.
+\newblock \emph{The Journal of Immunology}, 180(8):5645--5652 (2008).
+\newblock \doi{10.4049/jimmunol.180.8.5645}.
+\newline\urlprefix\url{http://www.jimmunol.org/lookup/doi/10.4049/jimmunol.180.8.5645}
+
+\bibitem{Kurotaki2013}
+Kurotaki D, Osato N, Nishiyama A \emph{et~al.}
+\newblock {Essential role of the IRF8-KLF4 transcription factor cascade in
+  murine monocyte differentiation}.
+\newblock \emph{Blood}, 121(10):1839--1849 (2013).
+\newblock \doi{10.1182/blood-2012-06-437863}.
+\newline\urlprefix\url{https://ashpublications.org/blood/article/121/10/1839/31201/Essential-role-of-the-IRF8KLF4-transcription}
+
+\bibitem{Spalinger2018}
+Spalinger M~R, Manzini R, Hering L \emph{et~al.}
+\newblock {PTPN2 Regulates Inflammasome Activation and Controls Onset of
+  Intestinal Inflammation and Colon Cancer}.
+\newblock \emph{Cell Reports}, 22(7):1835--1848 (2018).
+\newblock \doi{10.1016/j.celrep.2018.01.052}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S2211124718301013}
+
+\bibitem{Kim2018a}
+Kim M, Morales L, Jang I~S, Cho Y~Y, \& Kim D.
+\newblock {Protein Tyrosine Phosphatases as Potential Regulators of STAT3
+  Signaling}.
+\newblock \emph{International Journal of Molecular Sciences}, 19(9):2708
+  (2018).
+\newblock \doi{10.3390/ijms19092708}.
+\newline\urlprefix\url{http://www.mdpi.com/1422-0067/19/9/2708}
+
+\bibitem{Ben-Efraim2004}
+Ben-Efraim I, Zhou Q, Wiedmer T, Gerace L, \& Sims P~J.
+\newblock {Phospholipid Scramblase 1 Is Imported into the Nucleus by a
+  Receptor-Mediated Pathway and Interacts with DNA † , ‡}.
+\newblock \emph{Biochemistry}, 43(12):3518--3526 (2004).
+\newblock \doi{10.1021/bi0356911}.
+\newline\urlprefix\url{https://pubs.acs.org/doi/10.1021/bi0356911}
+
+\bibitem{Huang2006}
+Huang Y, Zhao Q, Zhou C~X, Gu Z~M, Li D, Xu H~Z, Sims P~J, Zhao K~W, \& Chen
+  G~Q.
+\newblock {Antileukemic roles of human phospholipid scramblase 1 gene, evidence
+  from inducible PLSCR1-expressing leukemic cells}.
+\newblock \emph{Oncogene}, 25(50):6618--6627 (2006).
+\newblock \doi{10.1038/sj.onc.1209677}.
+\newline\urlprefix\url{http://www.nature.com/articles/1209677}
+
+\bibitem{Dong2004}
+Dong B, Zhou Q, Zhao J \emph{et~al.}
+\newblock {Phospholipid Scramblase 1 Potentiates the Antiviral Activity of
+  Interferon}.
+\newblock \emph{Journal of Virology}, 78(17):8983--8993 (2004).
+\newblock \doi{10.1128/JVI.78.17.8983-8993.2004}.
+\newline\urlprefix\url{http://jvi.asm.org/cgi/doi/10.1128/JVI.78.17.8983-8993.2004}
+
+\bibitem{Suzuki2010}
+Suzuki E, Amengual O, Atsumi T \emph{et~al.}
+\newblock {Increased expression of phospholipid scramblase 1 in monocytes from
+  patients with systemic lupus erythematosus.}
+\newblock \emph{The Journal of rheumatology}, 37(8):1639--45 (2010).
+\newblock \doi{10.3899/jrheum.091420}.
+\newline\urlprefix\url{http://www.jrheum.org/lookup/doi/10.3899/jrheum.091420
+  http://www.ncbi.nlm.nih.gov/pubmed/20516018}
+
+\bibitem{Herate2016}
+Herate C, Ramdani G, Grant N~J, Marion S, Gasman S, Niedergang F, Benichou S,
+  \& Bouchet J.
+\newblock {Phospholipid Scramblase 1 Modulates FcR-Mediated Phagocytosis in
+  Differentiated Macrophages}.
+\newblock \emph{PLOS ONE}, 11(1):e0145617 (2016).
+\newblock \doi{10.1371/journal.pone.0145617}.
+\newline\urlprefix\url{http://dx.plos.org/10.1371/journal.pone.0145617}
+
+\bibitem{Regad2001}
+Regad T, Saib A, Lallemand-Breitenbach V, Pandolfi P~P, de~Th{\'{e}} H, \&
+  Chelbi-Alix M~K.
+\newblock {PML mediates the interferon-induced antiviral state against a
+  complex retrovirus via its association with the viral transactivator.}
+\newblock \emph{The EMBO journal}, 20(13):3495--505 (2001).
+\newblock \doi{10.1093/emboj/20.13.3495}.
+\newline\urlprefix\url{http://emboj.embopress.org/cgi/doi/10.1093/emboj/20.13.3495
+  http://www.ncbi.nlm.nih.gov/pubmed/11432836
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC125516}
+
+\bibitem{Chee2003}
+Chee A~V, Lopez P, Pandolfi P~P, \& Roizman B.
+\newblock {Promyelocytic Leukemia Protein Mediates Interferon-Based Anti-Herpes
+  Simplex Virus 1 Effects}.
+\newblock \emph{Journal of Virology}, 77(12):7101--7105 (2003).
+\newblock \doi{10.1128/JVI.77.12.7101-7105.2003}.
+\newline\urlprefix\url{http://jvi.asm.org/cgi/doi/10.1128/JVI.77.12.7101-7105.2003}
+
+\bibitem{Chen2015}
+Chen Y, Wright J, Meng X, \& Leppard K~N.
+\newblock {Promyelocytic Leukemia Protein Isoform II Promotes Transcription
+  Factor Recruitment To Activate Interferon Beta and Interferon-Responsive Gene
+  Expression}.
+\newblock \emph{Molecular and Cellular Biology}, 35(10):1660--1672 (2015).
+\newblock \doi{10.1128/MCB.01478-14}.
+\newline\urlprefix\url{http://mcb.asm.org/lookup/doi/10.1128/MCB.01478-14}
+
+\bibitem{Lo2013}
+Lo Y~H, Huang Y~W, Wu Y~H \emph{et~al.}
+\newblock {Selective inhibition of the NLRP3 inflammasome by targeting to
+  promyelocytic leukemia protein in mouse and human.}
+\newblock \emph{Blood}, 121(16):3185--94 (2013).
+\newblock \doi{10.1182/blood-2012-05-432104}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/23430110}
+
+\bibitem{Lunardi2011}
+Lunardi A, Gaboli M, Giorgio M \emph{et~al.}
+\newblock {A Role for PML in Innate Immunity}.
+\newblock \emph{Genes {\&} Cancer}, 2(1):10--19 (2011).
+\newblock \doi{10.1177/1947601911402682}.
+\newline\urlprefix\url{http://gan.sagepub.com/lookup/doi/10.1177/1947601911402682}
+
+\bibitem{Iliopoulos2009}
+Iliopoulos D, Hirsch H~A, \& Struhl K.
+\newblock {An Epigenetic Switch Involving NF-$\kappa$B, Lin28, Let-7 MicroRNA,
+  and IL6 Links Inflammation to Cell Transformation}.
+\newblock \emph{Cell}, 139(4):693--706 (2009).
+\newblock \doi{10.1016/j.cell.2009.10.014}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0092867409013026}
+
+\bibitem{Li2016}
+Li D, De S, Li D, Song S, Matta B, \& Barnes B~J.
+\newblock {Specific detection of interferon regulatory factor 5 (IRF5): A case
+  of antibody inequality}.
+\newblock \emph{Scientific Reports}, 6(1):31002 (2016).
+\newblock \doi{10.1038/srep31002}.
+\newline\urlprefix\url{http://www.nature.com/articles/srep31002}
+
+\bibitem{Takaoka2005}
+Takaoka A, Yanai H, Kondo S \emph{et~al.}
+\newblock {Integral role of IRF-5 in the gene induction programme activated by
+  Toll-like receptors}.
+\newblock \emph{Nature}, 434(7030):243--249 (2005).
+\newblock \doi{10.1038/nature03308}.
+\newline\urlprefix\url{http://www.nature.com/articles/nature03308}
+
+\bibitem{Krausgruber2011}
+Krausgruber T, Blazek K, Smallie T, Alzabin S, Lockstone H, Sahgal N, Hussell
+  T, Feldmann M, \& Udalova I~A.
+\newblock {IRF5 promotes inflammatory macrophage polarization and TH1-TH17
+  responses}.
+\newblock \emph{Nature Immunology}, 12(3):231--238 (2011).
+\newblock \doi{10.1038/ni.1990}.
+\newline\urlprefix\url{http://www.nature.com/articles/ni.1990}
+
+\bibitem{Chistiakov2018}
+Chistiakov D~A, Myasoedova V~A, Revin V~V, Orekhov A~N, \& Bobryshev Y~V.
+\newblock {The impact of interferon-regulatory factors to macrophage
+  differentiation and polarization into M1 and M2}.
+\newblock \emph{Immunobiology}, 223(1):101--111 (2018).
+\newblock \doi{10.1016/j.imbio.2017.10.005}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.imbio.2017.10.005}
+
+\bibitem{Wang2014a}
+Wang N, Liang H, \& Zen K.
+\newblock {Molecular Mechanisms That Influence the Macrophage M1/M2
+  Polarization Balance}.
+\newblock \emph{Frontiers in Immunology}, 5 (2014).
+\newblock \doi{10.3389/fimmu.2014.00614}.
+\newline\urlprefix\url{http://journal.frontiersin.org/article/10.3389/fimmu.2014.00614/abstract}
+
+\bibitem{Negishi2006}
+Negishi H, Fujita Y, Yanai H, Sakaguchi S, Ouyang X, Shinohara M, Takayanagi H,
+  Ohba Y, Taniguchi T, \& Honda K.
+\newblock {Evidence for licensing of IFN- -induced IFN regulatory factor 1
+  transcription factor by MyD88 in Toll-like receptor-dependent gene induction
+  program}.
+\newblock \emph{Proceedings of the National Academy of Sciences},
+  103(41):15136--15141 (2006).
+\newblock \doi{10.1073/pnas.0607181103}.
+\newline\urlprefix\url{http://www.pnas.org/cgi/doi/10.1073/pnas.0607181103}
+
+\bibitem{Courties2014}
+Courties G, Heidt T, Sebas M \emph{et~al.}
+\newblock {In vivo silencing of the transcription factor IRF5 reprograms the
+  macrophage phenotype and improves infarct healing.}
+\newblock \emph{Journal of the American College of Cardiology}, 63(15):1556--66
+  (2014).
+\newblock \doi{10.1016/j.jacc.2013.11.023}.
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/24361318
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC3992176}
+
+\bibitem{Fujiwara2016}
+Fujiwara Y, Hizukuri Y, Yamashiro K, Makita N, Ohnishi K, Takeya M, Komohara Y,
+  \& Hayashi Y.
+\newblock {Guanylate-binding protein 5 is a marker of
+  interferon-$\gamma$-induced classically activated macrophages}.
+\newblock \emph{Clinical {\&} Translational Immunology}, 5(11):e111 (2016).
+\newblock \doi{10.1038/cti.2016.59}.
+\newline\urlprefix\url{http://doi.wiley.com/10.1038/cti.2016.59}
+
+\bibitem{Shenoy2012}
+Shenoy A~R, Wellington D~A, Kumar P, Kassa H, Booth C~J, Cresswell P, \&
+  MacMicking J~D.
+\newblock {GBP5 Promotes NLRP3 Inflammasome Assembly and Immunity in Mammals}.
+\newblock \emph{Science}, 336(6080):481--485 (2012).
+\newblock \doi{10.1126/science.1217141}.
+\newline\urlprefix\url{https://www.sciencemag.org/lookup/doi/10.1126/science.1217141}
+
+\bibitem{Feng2017}
+Feng J, Cao Z, Wang L, Wan Y, Peng N, Wang Q, Chen X, Zhou Y, \& Zhu Y.
+\newblock {Inducible GBP5 Mediates the Antiviral Response via
+  Interferon-Related Pathways during Influenza A Virus Infection}.
+\newblock \emph{Journal of Innate Immunity}, 9(4):419--435 (2017).
+\newblock \doi{10.1159/000460294}.
+\newline\urlprefix\url{https://www.karger.com/Article/FullText/460294}
+
+\bibitem{Krapp2016}
+Krapp C, Hotter D, Gawanbacht A \emph{et~al.}
+\newblock {Guanylate Binding Protein (GBP) 5 Is an Interferon-Inducible
+  Inhibitor of HIV-1 Infectivity}.
+\newblock \emph{Cell Host {\&} Microbe}, 19(4):504--514 (2016).
+\newblock \doi{10.1016/j.chom.2016.02.019}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S1931312816300609}
+
+\bibitem{Corsetti2018}
+Corsetti P~P, de~Almeida L~A, Gon{\c{c}}alves A~N~A, Gomes M~T~R,
+  Guimar{\~{a}}es E~S, Marques J~T, \& Oliveira S~C.
+\newblock {miR-181a-5p Regulates TNF-$\alpha$ and miR-21a-5p Influences
+  Gualynate-Binding Protein 5 and IL-10 Expression in Macrophages Affecting
+  Host Control of Brucella abortus Infection}.
+\newblock \emph{Frontiers in Immunology}, 9 (2018).
+\newblock \doi{10.3389/fimmu.2018.01331}.
+\newline\urlprefix\url{https://www.frontiersin.org/article/10.3389/fimmu.2018.01331/full}
+
+\bibitem{Hamada2020}
+Hamada M, Tsunakawa Y, Jeon H, Yadav M~K, \& Takahashi S.
+\newblock {Role of MafB in macrophages}.
+\newblock \emph{Experimental Animals}, 69(1):1--10 (2020).
+\newblock \doi{10.1538/expanim.19-0076}.
+\newline\urlprefix\url{https://www.jstage.jst.go.jp/article/expanim/69/1/69{\_}19-0076/{\_}article}
+
+\bibitem{Aziz2009}
+Aziz A, Soucie E, Sarrazin S, \& Sieweke M~H.
+\newblock {MafB/c-Maf Deficiency Enables Self-Renewal of Differentiated
+  Functional Macrophages}.
+\newblock \emph{Science}, 326(5954):867--871 (2009).
+\newblock \doi{10.1126/science.1176056}.
+\newline\urlprefix\url{???
+  https://www.sciencemag.org/lookup/doi/10.1126/science.1176056}
+
+\bibitem{Shichita2017}
+Shichita T, Ito M, Morita R, Komai K, Noguchi Y, Ooboshi H, Koshida R,
+  Takahashi S, Kodama T, \& Yoshimura A.
+\newblock {MAFB prevents excess inflammation after ischemic stroke by
+  accelerating clearance of damage signals through MSR1}.
+\newblock \emph{Nature Medicine}, 23(6):723--732 (2017).
+\newblock \doi{10.1038/nm.4312}.
+\newline\urlprefix\url{http://dx.doi.org/10.1038/nm.4312}
+
+\bibitem{Liu2019}
+Liu T~M, Wang H, Zhang D~N, \& Zhu G~Z.
+\newblock {Transcription Factor MafB Suppresses Type I Interferon Production by
+  CD14+ Monocytes in Patients With Chronic Hepatitis C}.
+\newblock \emph{Frontiers in Microbiology}, 10 (2019).
+\newblock \doi{10.3389/fmicb.2019.01814}.
+\newline\urlprefix\url{https://www.frontiersin.org/article/10.3389/fmicb.2019.01814/full}
+
+\bibitem{Tran2017}
+Tran M~T~N, Hamada M, Jeon H \emph{et~al.}
+\newblock {MafB is a critical regulator of complement component C1q}.
+\newblock \emph{Nature Communications}, 8(1):1700 (2017).
+\newblock \doi{10.1038/s41467-017-01711-0}.
+\newline\urlprefix\url{http://www.nature.com/articles/s41467-017-01711-0}
+
+\bibitem{Sato2018}
+Sato M, Shibata Y, Inoue S \emph{et~al.}
+\newblock {MafB enhances efferocytosis in RAW264.7 macrophages by regulating
+  Axl expression}.
+\newblock \emph{Immunobiology}, 223(1):94--100 (2018).
+\newblock \doi{10.1016/j.imbio.2017.10.007}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0171298517301420}
+
+\bibitem{Tozaki-Saitoh2019}
+Tozaki-Saitoh H, Masuda J, Kawada R, Kojima C, Yoneda S, Masuda T, Inoue K, \&
+  Tsuda M.
+\newblock {Transcription factor MafB contributes to the activation of spinal
+  microglia underlying neuropathic pain development}.
+\newblock \emph{Glia}, 67(4):729--740 (2019).
+\newblock \doi{10.1002/glia.23570}.
+\newline\urlprefix\url{http://doi.wiley.com/10.1002/glia.23570}
+
+\bibitem{Jablonski2016}
+Jablonski K~A, Gaudet A~D, Amici S~A, Popovich P~G, \& Guerau-de Arellano M.
+\newblock {Control of the Inflammatory Macrophage Transcriptional Signature by
+  miR-155}.
+\newblock \emph{PLOS ONE}, 11(7):e0159724 (2016).
+\newblock \doi{10.1371/journal.pone.0159724}.
+\newline\urlprefix\url{https://dx.plos.org/10.1371/journal.pone.0159724}
+
+\bibitem{Kuriakose2018}
+Kuriakose T \& Kanneganti T~D.
+\newblock {ZBP1: Innate Sensor Regulating Cell Death and Inflammation}.
+\newblock \emph{Trends in Immunology}, 39(2):123--134 (2018).
+\newblock \doi{10.1016/j.it.2017.11.002}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S1471490617302120}
+
+\bibitem{Yang2019}
+Yang D, Liang Y, Zhao S, Ding Y, Zhuang Q, Shi Q, Ai T, Wu S~Q, \& Han J.
+\newblock {ZBP1 mediates interferon-induced necroptosis}.
+\newblock \emph{Cellular and Molecular Immunology}, (April):1--13 (2019).
+\newblock \doi{10.1038/s41423-019-0237-x}.
+\newline\urlprefix\url{http://dx.doi.org/10.1038/s41423-019-0237-x}
+
+\bibitem{Maelfait2017}
+Maelfait J, Liverpool L, Bridgeman A, Ragan K~B, Upton J~W, \& Rehwinkel J.
+\newblock {Sensing of viral and endogenous RNA by ZBP1/DAI induces
+  necroptosis.}
+\newblock \emph{The EMBO journal}, 36(17):2529--2543 (2017).
+\newblock \doi{10.15252/embj.201796476}.
+\newline\urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.15252/embj.201796476
+  http://www.ncbi.nlm.nih.gov/pubmed/5579359
+  http://www.ncbi.nlm.nih.gov/pubmed/28716805
+  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC5579359}
+
+\bibitem{Kuriakose2016}
+Kuriakose T, Man S~M, {Subbarao Malireddi} R~K, Karki R, Kesavardhana S, Place
+  D~E, Neale G, Vogel P, \& Kanneganti T~D.
+\newblock {ZBP1/DAI is an innate sensor of influenza virus triggering the NLRP3
+  inflammasome and programmed cell death pathways}.
+\newblock \emph{Science Immunology}, 1(2):aag2045--aag2045 (2016).
+\newblock \doi{10.1126/sciimmunol.aag2045}.
+\newline\urlprefix\url{https://immunology.sciencemag.org/lookup/doi/10.1126/sciimmunol.aag2045}
+
+\bibitem{Thapa2011}
+Thapa R~J, Basagoudanavar S~H, Nogusa S, Irrinki K, Mallilankaraman K, Slifker
+  M~J, Beg A~A, Madesh M, \& Balachandran S.
+\newblock {NF- B Protects Cells from Gamma Interferon-Induced RIP1-Dependent
+  Necroptosis}.
+\newblock \emph{Molecular and Cellular Biology}, 31(14):2934--2946 (2011).
+\newblock \doi{10.1128/MCB.05445-11}.
+\newline\urlprefix\url{http://mcb.asm.org/cgi/doi/10.1128/MCB.05445-11}
+
+\bibitem{Brown1996}
+Brown M~T \& Cooper J~A.
+\newblock {Regulation, substrates and functions of src}.
+\newblock \emph{Biochimica et Biophysica Acta (BBA) - Reviews on Cancer},
+  1287(2-3):121--149 (1996).
+\newblock \doi{10.1016/0304-419X(96)00003-0}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/0304419X96000030}
+
+\bibitem{Okutani2006}
+Okutani D, Lodyga M, Han B, \& Liu M.
+\newblock {Src protein tyrosine kinase family and acute inflammatory
+  responses}.
+\newblock \emph{American Journal of Physiology-Lung Cellular and Molecular
+  Physiology}, 291(2):L129--L141 (2006).
+\newblock \doi{10.1152/ajplung.00261.2005}.
+\newline\urlprefix\url{https://www.physiology.org/doi/10.1152/ajplung.00261.2005}
+
+\bibitem{Paul2001}
+Paul R, Zhang Z~G, Eliceiri B~P, Jiang Q, Boccia A~D, Zhang R~L, Chopp M, \&
+  Cheresh D~A.
+\newblock {Src deficiency or blockade of Src activity in mice provides cerebral
+  protection following stroke}.
+\newblock \emph{Nature Medicine}, 7(2):222--227 (2001).
+\newblock \doi{10.1038/84675}.
+
+\bibitem{Zan2014}
+Zan L, Zhang X, Xi Y, Wu H, Song Y, Teng G, Li H, Qi J, \& Wang J.
+\newblock {Src regulates angiogenic factors and vascular permeability after
+  focal cerebral ischemia–reperfusion}.
+\newblock \emph{Neuroscience}, 262(2):118--128 (2014).
+\newblock \doi{10.1016/j.neuroscience.2013.12.060}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0022202X15370834
+  https://linkinghub.elsevier.com/retrieve/pii/S0306452213010932}
+
+\bibitem{Kumar2014b}
+Kumar A, Jaggi A~S, \& Singh N.
+\newblock {Pharmacological investigations on possible role of Src kinases in
+  neuroprotective mechanism of ischemic postconditioning in mice}.
+\newblock \emph{International Journal of Neuroscience}, 124(10):777--786
+  (2014).
+\newblock \doi{10.3109/00207454.2013.879869}.
+\newline\urlprefix\url{http://www.tandfonline.com/doi/full/10.3109/00207454.2013.879869}
+
+\bibitem{Adam2016}
+Adam A~P, Lowery A~M, Martino N, Alsaffar H, \& Vincent P~A.
+\newblock {Src Family Kinases Modulate the Loss of Endothelial Barrier Function
+  in Response to TNF-$\alpha$: Crosstalk with p38 Signaling}.
+\newblock \emph{PLOS ONE}, 11(9):e0161975 (2016).
+\newblock \doi{10.1371/journal.pone.0161975}.
+\newline\urlprefix\url{https://dx.plos.org/10.1371/journal.pone.0161975}
+
+\bibitem{Hama2018}
+Hama K, Fujiwara Y, Morita M \emph{et~al.}
+\newblock {Profiling and Imaging of Phospholipids in Brains of Abcd1 -Deficient
+  Mice}.
+\newblock \emph{Lipids}, 53(1):85--102 (2018).
+\newblock \doi{10.1002/lipd.12022}.
+\newline\urlprefix\url{http://doi.wiley.com/10.1002/lipd.12022}
+
+\bibitem{Lauer2017}
+Lauer A, Da X, Hansen M~B \emph{et~al.}
+\newblock {ABCD1 dysfunction alters white matter microvascular perfusion}.
+\newblock \emph{Brain}, 140(12):3139--3152 (2017).
+\newblock \doi{10.1093/brain/awx262}.
+\newline\urlprefix\url{https://academic.oup.com/brain/article/140/12/3139/4608962}
+
+\bibitem{Orchard2019}
+Orchard P~J, Markowski T~W, Higgins L, Raymond G~V, Nascene D~R, Miller W~P,
+  Pierpont E~I, \& Lund T~C.
+\newblock {Association between APOE4 and biomarkers in cerebral
+  adrenoleukodystrophy}.
+\newblock \emph{Scientific Reports}, 9(1):7858 (2019).
+\newblock \doi{10.1038/s41598-019-44140-3}.
+\newline\urlprefix\url{http://www.nature.com/articles/s41598-019-44140-3}
+
+\bibitem{Lei2017}
+Lei Y, Liu L, Zhang S \emph{et~al.}
+\newblock {Hdac7 promotes lung tumorigenesis by inhibiting Stat3 activation}.
+\newblock \emph{Molecular Cancer}, 16(1):170 (2017).
+\newblock \doi{10.1186/s12943-017-0736-2}.
+\newline\urlprefix\url{https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-017-0736-2}
+
+\bibitem{Chang2006}
+Chang S, Young B~D, Li S, Qi X, Richardson J~A, \& Olson E~N.
+\newblock {Histone Deacetylase 7 Maintains Vascular Integrity by Repressing
+  Matrix Metalloproteinase 10}.
+\newblock \emph{Cell}, 126(2):321--334 (2006).
+\newblock \doi{10.1016/j.cell.2006.05.040}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0092867406008130}
+
+\bibitem{Peixoto2016}
+Peixoto P, Blomme A, Costanza B \emph{et~al.}
+\newblock {HDAC7 inhibition resets STAT3 tumorigenic activity in human
+  glioblastoma independently of EGFR and PTEN: new opportunities for selected
+  targeted therapies}.
+\newblock \emph{Oncogene}, 35(34):4481--4494 (2016).
+\newblock \doi{10.1038/onc.2015.506}.
+\newline\urlprefix\url{http://www.nature.com/articles/onc2015506}
+
+\bibitem{Barneda-Zahonero2015}
+Barneda-Zahonero B, Collazo O, Azagra A \emph{et~al.}
+\newblock {The transcriptional repressor HDAC7 promotes apoptosis and c-Myc
+  downregulation in particular types of leukemia and lymphoma}.
+\newblock \emph{Cell Death {\&} Disease}, 6(2):e1635--e1635 (2015).
+\newblock \doi{10.1038/cddis.2014.594}.
+\newline\urlprefix\url{http://www.nature.com/articles/cddis2014594}
+
+\bibitem{Barneda-Zahonero2013}
+Barneda-Zahonero B, Rom{\'{a}}n-Gonz{\'{a}}lez L, Collazo O \emph{et~al.}
+\newblock {HDAC7 Is a Repressor of Myeloid Genes Whose Downregulation Is
+  Required for Transdifferentiation of Pre-B Cells into Macrophages}.
+\newblock \emph{PLoS Genetics}, 9(5):e1003503 (2013).
+\newblock \doi{10.1371/journal.pgen.1003503}.
+\newline\urlprefix\url{https://dx.plos.org/10.1371/journal.pgen.1003503}
+
+\bibitem{Miano2006}
+Miano J~M \& Berk B~C.
+\newblock {HDAC7 supports vascular integrity}.
+\newblock \emph{Nature Medicine}, 12(9):997--998 (2006).
+\newblock \doi{10.1038/nm0906-997}.
+
+\bibitem{Ha2008}
+Ha C~H, Jhun B~S, Kao H~Y, \& Jin Z~G.
+\newblock {VEGF Stimulates HDAC7 Phosphorylation and Cytoplasmic Accumulation
+  Modulating Matrix Metalloproteinase Expression and Angiogenesis}.
+\newblock \emph{Arteriosclerosis, Thrombosis, and Vascular Biology},
+  28(10):1782--1788 (2008).
+\newblock \doi{10.1161/ATVBAHA.108.172528}.
+\newline\urlprefix\url{https://www.ahajournals.org/doi/10.1161/ATVBAHA.108.172528}
+
+\bibitem{Almuttaqi2019}
+Almuttaqi H \& Udalova I~A.
+\newblock {Advances and challenges in targeting IRF5, a key regulator of
+  inflammation}.
+\newblock \emph{The FEBS Journal}, 286(9):1624--1637 (2019).
+\newblock \doi{10.1111/febs.14654}.
+\newline\urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/febs.14654}
 
 \end{thebibliography}
