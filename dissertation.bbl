@@ -1512,6 +1512,14 @@ Blondel V~D, Guillaume J~L, Lambiotte R, \& Lefebvre E.
 \newline\urlprefix\url{http://arxiv.org/abs/0803.0476
   http://dx.doi.org/10.1088/1742-5468/2008/10/P10008}
 
+\bibitem{Zhang1994}
+Zhang Y~J, Rutledge B~J, \& Rollins B~J.
+\newblock {Structure/activity analysis of human monocyte chemoattractant
+  protein-1 (MCP-1) by mutagenesis. Identification of a mutated protein that
+  inhibits MCP-1-mediated monocyte chemotaxis.}
+\newblock \emph{The Journal of biological chemistry}, 269(22):15918--24 (1994).
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/8195247}
+
 \bibitem{Sanchez-Pulido2007}
 Sanchez-Pulido L, Valencia A, \& Rojas A~M.
 \newblock {Are promyelocytic leukaemia protein nuclear bodies a scaffold for
@@ -1670,14 +1678,6 @@ Yu W, Goncalves K~A, Li S \emph{et~al.}
 \newblock \doi{10.1016/j.cell.2017.10.005}.
 \newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0092867417311893}
 
-\bibitem{Akbar2017}
-Akbar N, Digby J~E, Cahill T~J \emph{et~al.}
-\newblock {Endothelium-derived extracellular vesicles promote splenic monocyte
-  mobilization in myocardial infarction}.
-\newblock \emph{JCI Insight}, 2(17) (2017).
-\newblock \doi{10.1172/jci.insight.93344}.
-\newline\urlprefix\url{https://insight.jci.org/articles/view/93344}
-
 \bibitem{Roney2011}
 Roney K~E, O'Connor B~P, Wen H \emph{et~al.}
 \newblock {Plexin-B2 Negatively Regulates Macrophage Motility, Rac, and Cdc42
@@ -1685,6 +1685,14 @@ Roney K~E, O'Connor B~P, Wen H \emph{et~al.}
 \newblock \emph{PLoS ONE}, 6(9):e24795 (2011).
 \newblock \doi{10.1371/journal.pone.0024795}.
 \newline\urlprefix\url{https://dx.plos.org/10.1371/journal.pone.0024795}
+
+\bibitem{Akbar2017}
+Akbar N, Digby J~E, Cahill T~J \emph{et~al.}
+\newblock {Endothelium-derived extracellular vesicles promote splenic monocyte
+  mobilization in myocardial infarction}.
+\newblock \emph{JCI Insight}, 2(17) (2017).
+\newblock \doi{10.1172/jci.insight.93344}.
+\newline\urlprefix\url{https://insight.jci.org/articles/view/93344}
 
 \bibitem{Takahashi2006}
 Takahashi K \& Yamanaka S.
@@ -2034,9 +2042,10 @@ Kuriakose T \& Kanneganti T~D.
 \bibitem{Yang2019}
 Yang D, Liang Y, Zhao S, Ding Y, Zhuang Q, Shi Q, Ai T, Wu S~Q, \& Han J.
 \newblock {ZBP1 mediates interferon-induced necroptosis}.
-\newblock \emph{Cellular and Molecular Immunology}, (April):1--13 (2019).
+\newblock \emph{Cellular {\&} Molecular Immunology}, (April):1--13 (2019).
 \newblock \doi{10.1038/s41423-019-0237-x}.
-\newline\urlprefix\url{http://dx.doi.org/10.1038/s41423-019-0237-x}
+\newline\urlprefix\url{http://dx.doi.org/10.1038/s41423-019-0237-x
+  http://www.nature.com/articles/s41423-019-0237-x}
 
 \bibitem{Maelfait2017}
 Maelfait J, Liverpool L, Bridgeman A, Ragan K~B, Upton J~W, \& Rehwinkel J.
@@ -2066,23 +2075,6 @@ Thapa R~J, Basagoudanavar S~H, Nogusa S, Irrinki K, Mallilankaraman K, Slifker
 \newblock \emph{Molecular and Cellular Biology}, 31(14):2934--2946 (2011).
 \newblock \doi{10.1128/MCB.05445-11}.
 \newline\urlprefix\url{http://mcb.asm.org/cgi/doi/10.1128/MCB.05445-11}
-
-\bibitem{Brown1996}
-Brown M~T \& Cooper J~A.
-\newblock {Regulation, substrates and functions of src}.
-\newblock \emph{Biochimica et Biophysica Acta (BBA) - Reviews on Cancer},
-  1287(2-3):121--149 (1996).
-\newblock \doi{10.1016/0304-419X(96)00003-0}.
-\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/0304419X96000030}
-
-\bibitem{Okutani2006}
-Okutani D, Lodyga M, Han B, \& Liu M.
-\newblock {Src protein tyrosine kinase family and acute inflammatory
-  responses}.
-\newblock \emph{American Journal of Physiology-Lung Cellular and Molecular
-  Physiology}, 291(2):L129--L141 (2006).
-\newblock \doi{10.1152/ajplung.00261.2005}.
-\newline\urlprefix\url{https://www.physiology.org/doi/10.1152/ajplung.00261.2005}
 
 \bibitem{Paul2001}
 Paul R, Zhang Z~G, Eliceiri B~P, Jiang Q, Boccia A~D, Zhang R~L, Chopp M, \&
@@ -2117,6 +2109,23 @@ Adam A~P, Lowery A~M, Martino N, Alsaffar H, \& Vincent P~A.
 \newblock \emph{PLOS ONE}, 11(9):e0161975 (2016).
 \newblock \doi{10.1371/journal.pone.0161975}.
 \newline\urlprefix\url{https://dx.plos.org/10.1371/journal.pone.0161975}
+
+\bibitem{Brown1996}
+Brown M~T \& Cooper J~A.
+\newblock {Regulation, substrates and functions of src}.
+\newblock \emph{Biochimica et Biophysica Acta (BBA) - Reviews on Cancer},
+  1287(2-3):121--149 (1996).
+\newblock \doi{10.1016/0304-419X(96)00003-0}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/0304419X96000030}
+
+\bibitem{Okutani2006}
+Okutani D, Lodyga M, Han B, \& Liu M.
+\newblock {Src protein tyrosine kinase family and acute inflammatory
+  responses}.
+\newblock \emph{American Journal of Physiology-Lung Cellular and Molecular
+  Physiology}, 291(2):L129--L141 (2006).
+\newblock \doi{10.1152/ajplung.00261.2005}.
+\newline\urlprefix\url{https://www.physiology.org/doi/10.1152/ajplung.00261.2005}
 
 \bibitem{Hama2018}
 Hama K, Fujiwara Y, Morita M \emph{et~al.}
@@ -2197,12 +2206,15 @@ Ha C~H, Jhun B~S, Kao H~Y, \& Jin Z~G.
 \newblock \doi{10.1161/ATVBAHA.108.172528}.
 \newline\urlprefix\url{https://www.ahajournals.org/doi/10.1161/ATVBAHA.108.172528}
 
-\bibitem{Almuttaqi2019}
-Almuttaqi H \& Udalova I~A.
-\newblock {Advances and challenges in targeting IRF5, a key regulator of
-  inflammation}.
-\newblock \emph{The FEBS Journal}, 286(9):1624--1637 (2019).
-\newblock \doi{10.1111/febs.14654}.
-\newline\urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/febs.14654}
+\bibitem{Lee2017}
+Lee D~Y, Lin T~E, Lee C~I, Zhou J, Huang Y~H, Lee P~L, Shih Y~T, Chien S, \&
+  Chiu J~J.
+\newblock {MicroRNA-10a is crucial for endothelial response to different flow
+  patterns via interaction of retinoid acid receptors and histone
+  deacetylases}.
+\newblock \emph{Proceedings of the National Academy of Sciences},
+  114(8):2072--2077 (2017).
+\newblock \doi{10.1073/pnas.1621425114}.
+\newline\urlprefix\url{http://www.pnas.org/lookup/doi/10.1073/pnas.1621425114}
 
 \end{thebibliography}

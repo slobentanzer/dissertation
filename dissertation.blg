@@ -5,8 +5,6 @@ A level-1 auxiliary file: chapters/010_introduction.aux
 A level-1 auxiliary file: chapters/020_database.aux
 A level-1 auxiliary file: chapters/030_cellculture.aux
 A level-1 auxiliary file: chapters/040_stroke.aux
-A level-1 auxiliary file: chapters/100_discussion.aux
-A level-1 auxiliary file: chapters/110_conclusion.aux
 The style file: mystyle.bst
 A level-1 auxiliary file: chapters/appendix_marbach.aux
 A level-1 auxiliary file: chapters/appendix_homologues.aux
@@ -20,47 +18,46 @@ Database file #2: manual_bib.bib
 Warning--I didn't find a database entry for "Winek2020"
 Warning--I didn't find a database entry for "Lobentanzer2020"
 Warning--I didn't find a database entry for ""
-Warning--I didn't find a database entry for "Panizzi2010"
 Warning--there's a number but no volume in Yang2019
-You've used 270 entries,
+You've used 271 entries,
             2536 wiz_defined-function locations,
-            2756 strings with 126168 characters,
-and the built_in function-call counts, 279714 in all, are:
-= -- 30550
-> -- 4991
+            2760 strings with 126637 characters,
+and the built_in function-call counts, 281448 in all, are:
+= -- 30740
+> -- 5032
 < -- 5
-+ -- 3281
-- -- 1185
-* -- 19131
-:= -- 25698
-add.period$ -- 1052
-call.type$ -- 270
-change.case$ -- 274
++ -- 3310
+- -- 1195
+* -- 19251
+:= -- 25850
+add.period$ -- 1055
+call.type$ -- 271
+change.case$ -- 275
 chr.to.int$ -- 0
-cite$ -- 271
-duplicate$ -- 32886
-empty$ -- 23047
-format.name$ -- 1436
-if$ -- 60023
+cite$ -- 272
+duplicate$ -- 33091
+empty$ -- 23181
+format.name$ -- 1447
+if$ -- 60393
 int.to.chr$ -- 0
-int.to.str$ -- 270
-missing$ -- 3033
-newline$ -- 1835
-num.names$ -- 273
-pop$ -- 15114
+int.to.str$ -- 271
+missing$ -- 3050
+newline$ -- 1841
+num.names$ -- 274
+pop$ -- 15218
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 2446
+skip$ -- 2459
 stack$ -- 0
-substring$ -- 38755
-swap$ -- 8000
+substring$ -- 39011
+swap$ -- 8042
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 1920
-width$ -- 273
-write$ -- 3688
-(There were 5 warnings)
+while$ -- 1933
+width$ -- 274
+write$ -- 3700
+(There were 4 warnings)

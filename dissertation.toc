@@ -119,25 +119,19 @@
 \contentsline {subsection}{\numberline {4.4.5}Dichotomous Transcriptomic Footprints of Transcription Factors\\ in CD14$^+$ Monocytes}{88}{subsection.4.4.5}% 
 \contentsline {subsubsection}{GO Term Overlap Between miRNA- and tRF-targeted Transcription Factors}{88}{subsection.4.4.5}% 
 \contentsline {subsubsection}{Functions Distinguishing Between miRNA- and tRF-targeted Transcription Factors}{88}{subsection.4.4.5}% 
-\contentsline {section}{\numberline {4.5}Feedforward Loops of Small and Large RNA}{90}{section.4.5}% 
-\contentsline {subsection}{\numberline {4.5.1}Feedforward Loop Creation}{90}{subsection.4.5.1}% 
-\contentsline {subsection}{\numberline {4.5.2}Visualisation and Modularisation}{91}{subsection.4.5.2}% 
-\contentsline {subsection}{\numberline {4.5.3}Module-specific Functions via GO Analysis}{91}{subsection.4.5.3}% 
-\contentsline {subsection}{\numberline {4.5.4}Feedforward Loop Network of CD14$^+$ Monocytes}{91}{subsection.4.5.4}% 
-\contentsline {subsubsection}{Module One}{93}{figure.caption.60}% 
-\contentsline {subsubsection}{Module Two}{94}{figure.caption.60}% 
-\contentsline {subsubsection}{Module Three}{96}{section*.61}% 
-\contentsline {subsubsection}{Module Four}{98}{section*.61}% 
-\contentsline {subsubsection}{Module Five}{100}{section*.61}% 
-\contentsline {subsubsection}{Module Summary}{102}{section*.61}% 
-\contentsline {subsection}{\numberline {4.5.5}Transcript Clustering by smRNA:TF:gene Feedforward Loops Increases Informative Resolution of Gene Set Enrichment Analyses}{102}{subsection.4.5.5}% 
-\contentsline {chapter}{\numberline {5}Discussion}{103}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Methods}{103}{section.5.1}% 
-\contentsline {section}{\numberline {5.2}The Cholinergic/Neurokine Interface}{103}{section.5.2}% 
-\contentsline {section}{\numberline {5.3}Small RNA Therapeutics and Pharmacology}{104}{section.5.3}% 
-\contentsline {chapter}{\numberline {6}Conclusion}{105}{chapter.6}% 
-\contentsline {chapter}{Bibliography}{107}{chapter.6}% 
-\contentsline {chapter}{List of Figures}{141}{chapter*.63}% 
+\contentsline {section}{\numberline {4.5}Feedforward Loops of Small and Large RNA}{91}{section.4.5}% 
+\contentsline {subsection}{\numberline {4.5.1}Feedforward Loop Creation}{91}{subsection.4.5.1}% 
+\contentsline {subsection}{\numberline {4.5.2}Visualisation and Modularisation}{92}{subsection.4.5.2}% 
+\contentsline {subsection}{\numberline {4.5.3}Module-specific Functions via GO Analysis}{92}{subsection.4.5.3}% 
+\contentsline {subsection}{\numberline {4.5.4}Feedforward Loop Network of CD14$^+$ Monocytes}{92}{subsection.4.5.4}% 
+\contentsline {subsubsection}{Module One}{94}{figure.caption.60}% 
+\contentsline {subsubsection}{Module Two}{95}{figure.caption.60}% 
+\contentsline {subsubsection}{Module Three}{97}{figure.caption.60}% 
+\contentsline {subsubsection}{Module Four}{99}{figure.caption.60}% 
+\contentsline {subsubsection}{Module Five}{101}{figure.caption.60}% 
+\contentsline {subsection}{\numberline {4.5.5}Transcript Clustering by smRNA:TF:gene Feedforward Loops Increases Informative Resolution of Gene Set Enrichment Analyses}{103}{subsection.4.5.5}% 
+\contentsline {chapter}{Bibliography}{107}{figure.caption.61}% 
+\contentsline {chapter}{List of Figures}{141}{chapter*.62}% 
 \contentsline {chapter}{\numberline {A}Transcription Factor Regulatory Circuits - Tissue Types}{143}{appendix.A}% 
 \contentsline {chapter}{\numberline {B}List of Primate-Specific Homologues of Human microRNAs}{144}{appendix.B}% 
 \contentsline {chapter}{\numberline {C}microRNA Differential Expression in LA-N-2 and LA-N-5}{145}{appendix.C}% 
