@@ -22,6 +22,7 @@
 
 %Hyphenation rules
 \hyphenation{smRNA}
+\hyphenation{smRNAs}
 \hyphenation{mRNA}
 \hyphenation{mRNAs}
 \hyphenation{miRNA}
@@ -116,10 +117,18 @@
 
 
 % Headings and headers.
+% semibold https://tex.stackexchange.com/questions/264265/defining-subfamilies-for-a-font/264275#264275
+\RequirePackage{fontspec}
+\setmainfont{EB Garamond}[FontFace={mb}{n}{*-Medium}]
+\DeclareRobustCommand\mbseries{\fontseries{mb}\selectfont}
+\DeclareTextFontCommand{\textmb}{\mbseries}
+
 \RequirePackage{fancyhdr}
 \RequirePackage[tiny, md, sc]{titlesec}
 \setlength{\headheight}{15pt}
 \pagestyle{plain}
+\titleformat{\section}
+	{\normalfont\large\mbseries\scshape}{\thesection.}{1em}{}
 \RequirePackage{titling}
 
 % Front matter.
@@ -222,7 +231,7 @@
 % Formatting guidelines found in:
 % http://www.gsas.harvard.edu/publications/form_of_the_phd_dissertation.php
 \renewcommand{\frontmatter}{
-	%\input{frontmatter/personalize}
+	\input{frontmatter/personalize}
 	\maketitle
 	\formalpage
 	\copyrightpage
@@ -237,12 +246,12 @@
 
 \renewcommand{\maketitle}{
     \pagenumbering{roman}
-    \setcounter{page}{1}
+    %\setcounter{page}{1}
 	\thispagestyle{empty}
 	\vspace*{\fill}
 	\vspace{0pt}
 	\begin{center}
-	\Huge \textcolor{SchoolColor}{Small RNA dynamics\\ in cholinergic systems} \normalsize \\
+	\Huge \textcolor{SchoolColor}{Small RNA Dynamics\\ in Cholinergic Systems} \normalsize \\
 	\vspace{100pt}
 	\textsc{Dissertation\\ zur Erlangung des Doktorgrades\\ der Naturwissenschaften\\
 	\vspace{12pt}
@@ -257,6 +266,8 @@
 }
 
 \newcommand{\formalpage}{
+    %\pagenumbering{roman}
+    %\setcounter{page}{2}
 	\newpage
 	\thispagestyle{empty}
 	\vspace*{\fill}
@@ -267,6 +278,8 @@
 }
 
 \newcommand{\copyrightpage}{
+    %\pagenumbering{roman}
+    %\setcounter{page}{3}
 	\newpage
 	\thispagestyle{empty}
 	\vspace*{\fill}
@@ -280,8 +293,8 @@
 \newcommand{\abstractpage}{
     \pdfbookmark{Abstract}{Abstract}
 	\newpage
-	\pagenumbering{roman}
-	\setcounter{page}{3}
+	%\pagenumbering{roman}
+	%\setcounter{page}{4}
 	\pagestyle{fancy}
 	\lhead{Thesis advisor: Professor \@advisor} \rhead{\@author}
 	\renewcommand{\headrulewidth}{0.0pt}
@@ -311,7 +324,7 @@
 	\newpage \thispagestyle{fancy} \vspace*{\fill}
 	\scshape \noindent \input{frontmatter/dedication}
 	\vspace*{\fill} \newpage \rm
-    \cleardoublepage
+    \newpage
 }
 
 \newcommand{\acknowledgments}{
@@ -327,7 +340,7 @@
 
 \newcommand{\preamble}{
 	%\setlength{\headheight}{100pt}
-	\renewcommand{\chapterheadstartvskip}{\vspace*{10\baselineskip}}
+	\renewcommand{\chapterheadstartvskip}{\vspace*{1\baselineskip}}
 	\chapter*{Preamble}
 	\noindent
     \begin{spacing}{\dnormalspacing}

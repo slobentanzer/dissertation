@@ -237,6 +237,14 @@ de~Leon J \& Diaz F~J.
 Berger M, (Editor) \emph{{Psychische Erkrankungen}}.
 \newblock Berger, Mathias (2014).
 
+\bibitem{Bekker2007}
+Bekker M~H \& van Mens-Verhulst J.
+\newblock {Anxiety Disorders: Sex Differences in Prevalence, Degree, and
+  Background, But Gender-Neutral Treatment}.
+\newblock \emph{Gender Medicine}, 4:S178--S193 (2007).
+\newblock \doi{10.1016/S1550-8579(07)80057-X}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S155085790780057X}
+
 \bibitem{Anttila2018}
 Anttila V, Bulik-Sullivan B, Finucane H~K \emph{et~al.}
 \newblock {Analysis of shared heritability in common disorders of the brain}.
@@ -1096,6 +1104,11 @@ Sun M, Liu H, Min S, Wang H, \& Wang X.
 \newline\urlprefix\url{https://www.spandidos-publications.com/
   https://www.spandidos-publications.com/10.3892/br.2016.602}
 
+\bibitem{Andrews2012}
+Andrews S, Krueger F, {Segonds-Pichon} A, Biggins L, Krueger C, \& Wingett S.
+\newblock \emph{{{FastQC}}}.
+\newblock {Babraham, UK} (2012).
+
 \bibitem{Roehr2017}
 Roehr J~T, Dieterich C, \& Reinert K.
 \newblock {Flexbar 3.0 – SIMD and multicore parallelization}.
@@ -1161,6 +1174,13 @@ Alexa A, Rahnenfuhrer J, \& Lengauer T.
 \newblock \doi{10.1093/bioinformatics/btl140}.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16606683
   https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btl140}
+
+\bibitem{Broido2019}
+Broido A~D \& Clauset A.
+\newblock {Scale-free networks are rare}.
+\newblock \emph{Nature Communications}, 10(1):1017 (2019).
+\newblock \doi{10.1038/s41467-019-08746-5}.
+\newline\urlprefix\url{http://www.nature.com/articles/s41467-019-08746-5}
 
 \bibitem{Jacomy2014}
 Jacomy M, Venturini T, Heymann S, \& Bastian M.
@@ -1421,16 +1441,17 @@ Liao Y, Smyth G~K, \& Shi W.
 \newline\urlprefix\url{https://academic.oup.com/nar/article/47/8/e47/5345150}
 
 \bibitem{Tokar2020}
-Tokar T.
-\newblock \emph{gsoap: A tool for visualisation of gene set over-representation
-  analysis (GSOA).} (2020).
-\newblock R package version 0.1.0.
+Tokar T, Pastrello C, \& Jurisica I.
+\newblock {GSOAP: a tool for visualization of gene set over-representation
+  analysis}.
+\newblock \emph{Bioinformatics} (2020).
+\newblock \doi{10.1093/bioinformatics/btaa001}.
+\newline\urlprefix\url{https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa001/5715574}
 
 \bibitem{Wickham2016}
 Wickham H.
-\newblock \emph{ggplot2: Elegant Graphics for Data Analysis}.
-\newblock Springer-Verlag New York (2016).
-\newline\urlprefix\url{https://ggplot2.tidyverse.org}
+\newblock \emph{{ggplot2: Elegant Graphics for Data Analysis}}.
+\newblock Springer-Verlag, New York (2016).
 
 \bibitem{Maaten2008}
 van~der Maaten L \& Hinton G.
@@ -2042,7 +2063,7 @@ Kuriakose T \& Kanneganti T~D.
 \bibitem{Yang2019}
 Yang D, Liang Y, Zhao S, Ding Y, Zhuang Q, Shi Q, Ai T, Wu S~Q, \& Han J.
 \newblock {ZBP1 mediates interferon-induced necroptosis}.
-\newblock \emph{Cellular {\&} Molecular Immunology}, (April):1--13 (2019).
+\newblock \emph{Cellular {\&} Molecular Immunology}, pp. 1--13 (2019).
 \newblock \doi{10.1038/s41423-019-0237-x}.
 \newline\urlprefix\url{http://dx.doi.org/10.1038/s41423-019-0237-x
   http://www.nature.com/articles/s41423-019-0237-x}
@@ -2216,5 +2237,80 @@ Lee D~Y, Lin T~E, Lee C~I, Zhou J, Huang Y~H, Lee P~L, Shih Y~T, Chien S, \&
   114(8):2072--2077 (2017).
 \newblock \doi{10.1073/pnas.1621425114}.
 \newline\urlprefix\url{http://www.pnas.org/lookup/doi/10.1073/pnas.1621425114}
+
+\bibitem{Fan2016}
+Fan Y, Siklenka K, Arora S~K, Ribeiro P, Kimmins S, \& Xia J.
+\newblock {miRNet - dissecting miRNA-target interactions and functional
+  associations through network-based visual analysis}.
+\newblock \emph{Nucleic Acids Research}, 44(W1):W135--W141 (2016).
+\newblock \doi{10.1093/nar/gkw288}.
+\newline\urlprefix\url{https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw288}
+
+\bibitem{Tokar2018}
+Tokar T, Pastrello C, Rossos A~E~M, Abovsky M, Hauschild A~C, Tsay M, Lu R, \&
+  Jurisica I.
+\newblock {mirDIP 4.1—integrative database of human microRNA target
+  predictions}.
+\newblock \emph{Nucleic Acids Research}, 46(D1):D360--D370 (2018).
+\newblock \doi{10.1093/nar/gkx1144}.
+\newline\urlprefix\url{http://academic.oup.com/nar/article/46/D1/D360/4670951}
+
+\bibitem{Neo4j2020}
+Neo4j I.
+\newblock {Introducing Neo4j 4.0} (2020).
+\newline\urlprefix\url{https://neo4j.com/press-releases/announcing-neo4j-4-0/}
+
+\bibitem{Kosik2017p}
+Kosik K~S.
+\newblock \emph{High Throughput Profiling of the microRNA - mRNA Interactome in
+  the Developing Human Brain} (2017).
+\newblock Non-coding RNAs in Nervous System Development, Plasticity and
+  Disease, SPP1738, June 21-24, Marburg, Germany.
+
+\bibitem{Kosik2020w}
+Kosik K~S.
+\newblock {Publication List} (2020).
+\newline\urlprefix\url{https://ken-kosik.mcdb.ucsb.edu/publications}
+
+\bibitem{Vieth2017}
+Vieth B, Ziegenhain C, Parekh S, Enard W, \& Hellmann I.
+\newblock {powsimR: power analysis for bulk and single cell RNA-seq
+  experiments}.
+\newblock \emph{Bioinformatics}, 33(21):3486--3488 (2017).
+\newblock \doi{10.1093/bioinformatics/btx435}.
+\newline\urlprefix\url{https://academic.oup.com/bioinformatics/article/33/21/3486/3952669}
+
+\bibitem{Sticht2018}
+Sticht C, {De La Torre} C, Parveen A, \& Gretz N.
+\newblock {miRWalk: An online resource for prediction of microRNA binding
+  sites}.
+\newblock \emph{PLOS ONE}, 13(10):e0206239 (2018).
+\newblock \doi{10.1371/journal.pone.0206239}.
+\newline\urlprefix\url{http://dx.plos.org/10.1371/journal.pone.0206239}
+
+\bibitem{Ding2016}
+Ding J, Li X, \& Hu H.
+\newblock {TarPmiR: a new approach for microRNA target site prediction}.
+\newblock \emph{Bioinformatics}, 32(18):2768--2775 (2016).
+\newblock \doi{10.1093/bioinformatics/btw318}.
+\newline\urlprefix\url{https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw318}
+
+\bibitem{Almuttaqi2019}
+Almuttaqi H \& Udalova I~A.
+\newblock {Advances and challenges in targeting IRF5, a key regulator of
+  inflammation}.
+\newblock \emph{The FEBS Journal}, 286(9):1624--1637 (2019).
+\newblock \doi{10.1111/febs.14654}.
+\newline\urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/febs.14654}
+
+\bibitem{Panizzi2010}
+Panizzi P, Swirski F~K, Figueiredo J~L, Waterman P, Sosnovik D~E, Aikawa E,
+  Libby P, Pittet M, Weissleder R, \& Nahrendorf M.
+\newblock {Impaired Infarct Healing in Atherosclerotic Mice With
+  Ly-6ChiMonocytosis}.
+\newblock \emph{Journal of the American College of Cardiology},
+  55(15):1629--1638 (2010).
+\newblock \doi{10.1016/j.jacc.2009.08.089}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0735109710004547}
 
 \end{thebibliography}

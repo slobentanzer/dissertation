@@ -143,19 +143,27 @@
 \include{chapters/020_database}
 \include{chapters/030_cellculture}
 \include{chapters/040_stroke}
-%\include{chapters/100_discussion}
+\include{chapters/100_discussion}
 %\include{chapters/110_conclusion}
 
 \setstretch{\dnormalspacing}
 
 %bibliography
+
+%the following code is supposed to separate mendeley-generated multiple urls 
+%otherwise articles with multiple URLs have to be manually arranged in library.bib using »note = "\url{}"«
+\let\URL\url
+\makeatletter
+\def\url{\begingroup \catcode`\%=12\catcode`\#=12\relax\printurl}
+\def\printurl#1{\@URL#1 \@nil\endgroup}
+\def\@URL#1 #2\@nil{\URL{#1}\ifx\relax#2\relax \else; \url{#2\relax}\fi}
+\makeatother
+
 \clearpage
 \addcontentsline{toc}{chapter}{Bibliography}
 \bibliography{library, manual_bib}
 \bibliographystyle{mystyle}
 
-% articles with multiple URLs have to be manually arranged in library.bib using »note = "\url{}"«
-% maybe better just remove all but one URL
 
 \clearpage
 \addcontentsline{toc}{chapter}{List of Figures}

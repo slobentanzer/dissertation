@@ -3,34 +3,35 @@
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Cholinergic Projections.}}{2}{figure.caption.7}% 
 \contentsline {figure}{\numberline {1.2}{\ignorespaces The Neurokine Pathway.}}{14}{figure.caption.10}% 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Graph database organisation.}}{24}{figure.caption.16}% 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Graph database organisation.}}{29}{figure.caption.17}% 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces microRNA Species Homology.}}{34}{figure.caption.21}% 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Graph database organisation.}}{24}{figure.caption.15}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Graph database organisation.}}{29}{figure.caption.16}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces microRNA Species Homology.}}{34}{figure.caption.20}% 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces The blood-brain-barrier.}}{40}{figure.caption.22}% 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Single-Cell Sequencing of CNS Tissues.}}{42}{figure.caption.23}% 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Clusters of Cholinergic Genes in Single-Cell Sequencing.}}{44}{figure.caption.25}% 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces LA-N-2 and LA-N-5, Time-dose Curve and Differentiation Timeline.}}{48}{figure.caption.27}% 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Small RNA Sequencing - Read Count, Quality, and Length.}}{50}{figure.caption.28}% 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces MD Plot Shrinkage Comparison.}}{52}{figure.caption.32}% 
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Differentially Expressed microRNAs in LA-N-2 and LA-N-5.}}{53}{figure.caption.33}% 
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Timeline Differential Expression.}}{55}{figure.caption.37}% 
-\contentsline {figure}{\numberline {3.9}{\ignorespaces miRNAs DE between LA-N-2 and LA-N-5.}}{56}{figure.caption.39}% 
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Differential Expression miRNA Family Enrichment}}{58}{figure.caption.42}% 
-\contentsline {figure}{\numberline {3.11}{\ignorespaces LA-N-2 / LA-N-5 Full Connectome.}}{61}{figure.caption.43}% 
-\contentsline {figure}{\numberline {3.12}{\ignorespaces GO Enrichment of Diverging Genes.}}{66}{figure.caption.46}% 
-\contentsline {figure}{\numberline {3.13}{\ignorespaces The cholinergic/neurokine interface.}}{67}{figure.caption.47}% 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces The blood-brain-barrier.}}{40}{figure.caption.21}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Single-Cell Sequencing of CNS Tissues.}}{43}{figure.caption.22}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Clusters of Cholinergic Transcripts in Single-Cell Sequencing.}}{45}{figure.caption.24}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces LA-N-2 and LA-N-5, Time-dose Curve and Differentiation Timeline.}}{48}{figure.caption.26}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Small RNA Sequencing - Read Count, Quality, and Length.}}{51}{figure.caption.27}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces MD Plot Shrinkage Comparison.}}{53}{figure.caption.30}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Differentially Expressed microRNAs in LA-N-2 and LA-N-5.}}{54}{figure.caption.31}% 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Timeline Differential Expression.}}{55}{figure.caption.35}% 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces miRNAs Differentially Expressed Between LA-N-2 and LA-N-5.}}{57}{figure.caption.37}% 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Differential Expression miRNA Family Enrichment}}{60}{figure.caption.40}% 
+\contentsline {figure}{\numberline {3.11}{\ignorespaces LA-N-2 / LA-N-5 Full Connectome.}}{62}{figure.caption.41}% 
+\contentsline {figure}{\numberline {3.12}{\ignorespaces GO Enrichment of Diverging Genes.}}{67}{figure.caption.44}% 
+\contentsline {figure}{\numberline {3.13}{\ignorespaces The cholinergic/neurokine interface.}}{69}{figure.caption.45}% 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Cholinergic-associated Small RNA ECDF Curves.}}{74}{figure.caption.50}% 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Large RNA Differential Expression Gene Ontology Enrichment.}}{75}{figure.caption.51}% 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Small and Large RNA Differential Expression and tRF Properties.}}{77}{figure.caption.53}% 
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Functional Characterisation of Hierarchical Clusters in Blood Cell Small RNA Expression.}}{80}{figure.caption.55}% 
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Large RNA Expression Patterns in Blood-Borne Cells.}}{81}{figure.caption.56}% 
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Small RNA Expression Patterns in Blood-Borne Cells.}}{84}{figure.caption.57}% 
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Small RNA Targeting of Transcription Factors in CD14$^+$ Monocytes.}}{87}{figure.caption.58}% 
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Small RNA Feedforward Loop Theory.}}{91}{figure.caption.59}% 
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Complete Feedforward Loop Network of Differentially Expressed Transcription Factors in CD14$^+$ Monocytes.}}{93}{figure.caption.60}% 
-\contentsline {figure}{\numberline {4.10}{\ignorespaces FFL module Gene Ontology Enrichment.}}{104}{figure.caption.61}% 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Cholinergic-associated Small RNA ECDF Curves.}}{76}{figure.caption.48}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Large RNA Differential Expression Gene Ontology Enrichment.}}{78}{figure.caption.49}% 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Small and Large RNA Differential Expression and tRF Properties.}}{79}{figure.caption.51}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Functional Characterisation of Hierarchical Clusters in Blood Cell Small RNA Expression.}}{83}{figure.caption.53}% 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Large RNA Expression Patterns in Blood-Borne Cells.}}{84}{figure.caption.54}% 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Small RNA Expression Patterns in Blood-Borne Cells.}}{87}{figure.caption.55}% 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Small RNA Targeting of Transcription Factors in CD14$^+$ Monocytes.}}{90}{figure.caption.56}% 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Small RNA Feedforward Loop Theory.}}{94}{figure.caption.57}% 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Complete Feedforward Loop Network of Differentially Expressed Transcription Factors in CD14$^+$ Monocytes.}}{96}{figure.caption.58}% 
+\contentsline {figure}{\numberline {4.10}{\ignorespaces FFL module Gene Ontology Enrichment.}}{107}{figure.caption.59}% 
+\addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

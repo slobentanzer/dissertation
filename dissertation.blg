@@ -5,59 +5,73 @@ A level-1 auxiliary file: chapters/010_introduction.aux
 A level-1 auxiliary file: chapters/020_database.aux
 A level-1 auxiliary file: chapters/030_cellculture.aux
 A level-1 auxiliary file: chapters/040_stroke.aux
+A level-1 auxiliary file: chapters/100_discussion.aux
 The style file: mystyle.bst
 A level-1 auxiliary file: chapters/appendix_marbach.aux
 A level-1 auxiliary file: chapters/appendix_homologues.aux
 A level-1 auxiliary file: chapters/appendix_de-mirs.aux
 A level-1 auxiliary file: chapters/appendix_go-terms-stroke-analyses.aux
 A level-1 auxiliary file: chapters/appendix_presence-absence.aux
-Reallocated field_info (elt_size=4) to 12124 items from 5000.
+Reallocated field_info (elt_size=4) to 12488 items from 5000.
 Database file #1: library.bib
+Repeated entry---line 5198 of file library.bib
+ : @article{Goodarzi2015
+ :                      ,
+I'm skipping whatever remains of this entry
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Database file #2: manual_bib.bib
+Repeated entry---line 28 of file manual_bib.bib
+ : @manual{Tokar2020
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 54 of file manual_bib.bib
+ :     @book{Wickham2016
+ :                      ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Winek2020"
 Warning--I didn't find a database entry for "Lobentanzer2020"
 Warning--I didn't find a database entry for ""
-Warning--there's a number but no volume in Yang2019
-You've used 271 entries,
+Warning--I didn't find a database entry for "Tokar2017"
+Reallocated str_pool (elt_size=1) to 195000 items from 130000.
+You've used 284 entries,
             2536 wiz_defined-function locations,
-            2760 strings with 126637 characters,
-and the built_in function-call counts, 281448 in all, are:
-= -- 30740
-> -- 5032
-< -- 5
-+ -- 3310
-- -- 1195
-* -- 19251
-:= -- 25850
-add.period$ -- 1055
-call.type$ -- 271
-change.case$ -- 275
+            2856 strings with 130008 characters,
+and the built_in function-call counts, 294080 in all, are:
+= -- 32120
+> -- 5255
+< -- 6
++ -- 3456
+- -- 1248
+* -- 20096
+:= -- 27002
+add.period$ -- 1102
+call.type$ -- 284
+change.case$ -- 287
 chr.to.int$ -- 0
-cite$ -- 272
-duplicate$ -- 33091
-empty$ -- 23181
-format.name$ -- 1447
-if$ -- 60393
+cite$ -- 284
+duplicate$ -- 34578
+empty$ -- 24229
+format.name$ -- 1511
+if$ -- 63115
 int.to.chr$ -- 0
-int.to.str$ -- 271
-missing$ -- 3050
-newline$ -- 1841
-num.names$ -- 274
-pop$ -- 15218
+int.to.str$ -- 284
+missing$ -- 3182
+newline$ -- 1925
+num.names$ -- 287
+pop$ -- 15932
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 2459
+skip$ -- 2574
 stack$ -- 0
-substring$ -- 39011
-swap$ -- 8042
-text.length$ -- 5
+substring$ -- 40761
+swap$ -- 8386
+text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 1
-while$ -- 1933
-width$ -- 274
-write$ -- 3700
-(There were 4 warnings)
+warning$ -- 0
+while$ -- 2016
+width$ -- 287
+write$ -- 3866
+(There were 3 error messages)
