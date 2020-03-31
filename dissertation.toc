@@ -142,16 +142,16 @@
 \contentsline {subsection}{\numberline {5.1.5}Stroke Patient Blood Samples}{117}{subsection.5.1.5}% 
 \contentsline {subsection}{\numberline {5.1.6}Gene Ontology Analyses}{118}{subsection.5.1.6}% 
 \contentsline {subsection}{\numberline {5.1.7}Feedforward Loop Analyses}{118}{subsection.5.1.7}% 
-\contentsline {section}{\numberline {5.2}A Mechanistic Perspective of Transcriptional Interactions}{120}{section.5.2}% 
-\contentsline {subsection}{\numberline {5.2.1}Analysis of Small RNA Dynamics via RNA-sequencing \\and Bioinformatics}{120}{subsection.5.2.1}% 
-\contentsline {subsection}{\numberline {5.2.2}The Cholinergic/Neurokine Interface}{122}{subsection.5.2.2}% 
+\contentsline {section}{\numberline {5.2}A Mechanistic Perspective of Transcriptional Interactions}{121}{section.5.2}% 
+\contentsline {subsection}{\numberline {5.2.1}Analysis of Small RNA Dynamics via RNA-sequencing \\and Bioinformatics}{121}{subsection.5.2.1}% 
+\contentsline {subsection}{\numberline {5.2.2}The Cholinergic/Neurokine Interface}{123}{subsection.5.2.2}% 
 \contentsline {subsection}{\numberline {5.2.3}Tissue Specificity of Small RNA Species}{123}{subsection.5.2.3}% 
 \contentsline {subsection}{\numberline {5.2.4}Molecular Biology of Feedforward Loops}{123}{subsection.5.2.4}% 
-\contentsline {section}{\numberline {5.3}Small RNA Therapeutics and Pharmacology}{123}{section.5.3}% 
-\contentsline {chapter}{Bibliography}{124}{section.5.3}% 
-\contentsline {chapter}{List of Figures}{160}{chapter*.61}% 
-\contentsline {chapter}{\numberline {A}Transcription Factor Regulatory Circuits - Tissue Types}{162}{appendix.A}% 
-\contentsline {chapter}{\numberline {B}List of Primate-Specific Homologues of Human microRNAs}{163}{appendix.B}% 
-\contentsline {chapter}{\numberline {C}microRNA Differential Expression in LA-N-2 and LA-N-5}{164}{appendix.C}% 
-\contentsline {chapter}{\numberline {D}List of GO Terms from Analysis of Differentially Expressed Large RNA in Stroke}{165}{appendix.D}% 
-\contentsline {chapter}{\numberline {E}Examples of Presence/Absence Definition of Small RNA}{166}{appendix.E}% 
+\contentsline {section}{\numberline {5.3}Small RNA Therapeutics and Pharmacology}{124}{section.5.3}% 
+\contentsline {chapter}{Bibliography}{125}{section.5.3}% 
+\contentsline {chapter}{List of Figures}{161}{chapter*.63}% 
+\contentsline {chapter}{\numberline {A}Transcription Factor Regulatory Circuits - Tissue Types}{163}{appendix.A}% 
+\contentsline {chapter}{\numberline {B}List of Primate-Specific Homologues of Human microRNAs}{164}{appendix.B}% 
+\contentsline {chapter}{\numberline {C}microRNA Differential Expression in LA-N-2 and LA-N-5}{165}{appendix.C}% 
+\contentsline {chapter}{\numberline {D}List of GO Terms from Analysis of Differentially Expressed Large RNA in Stroke}{166}{appendix.D}% 
+\contentsline {chapter}{\numberline {E}Examples of Presence/Absence Definition of Small RNA}{167}{appendix.E}% 

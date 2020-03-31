@@ -28,6 +28,7 @@
 \hyphenation{miRNA}
 \hyphenation{miRNAs}
 \hyphenation{miRNeo}
+\hyphenation{miRNet}
 \hyphenation{homo-pen-ta-mer-ic}
 \hyphenation{mito-chon-dri-al}
 \hyphenation{lipo-poly-sac-cha-ri-de}
