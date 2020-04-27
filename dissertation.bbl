@@ -14,6 +14,18 @@ Lobentanzer S, Hanin G, Klein J, \& Soreq H.
 \newblock \doi{10.1016/j.celrep.2019.09.017}.
 \newline\urlprefix\url{https://doi.org/10.1016/j.celrep.2019.09.017}
 
+\bibitem{Winek2020}
+Winek K, Lobentanzer S, Nadorp B \emph{et~al.}
+\newblock \emph{Transfer RNA fragments replace microRNA regulators of the
+  cholinergic post-stroke immune blockade} (2020).
+\newblock Currently under review in Science Advances.
+
+\bibitem{Lobentanzer2020}
+Lobentanzer S.
+\newblock \emph{miRNeo: Integrative Transcriptomics Analyses of Complex
+  Dynamics Between Small RNA, Transcription Factors, and Genes} (2020).
+\newblock Not published, invited submission to STAR Protocols.
+
 \bibitem{Dale1914}
 Dale H~H.
 \newblock {THE ACTION OF CERTAIN ESTERS AND ETHERS OF CHOLINE, AND THEIR
@@ -563,6 +575,15 @@ Nathanson N~M.
 \newblock \emph{Neurochemistry International}, 61(6):874--878 (2012).
 \newblock \doi{10.1016/j.neuint.2012.01.018}.
 \newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0197018612000307}
+
+\bibitem{Scheller2011}
+Scheller J, Chalaris A, Schmidt-Arras D, \& Rose-John S.
+\newblock {The pro- and anti-inflammatory properties of the cytokine
+  interleukin-6}.
+\newblock \emph{Biochimica et Biophysica Acta (BBA) - Molecular Cell Research},
+  1813(5):878--888 (2011).
+\newblock \doi{10.1016/j.bbamcr.2011.01.034}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0167488911000425}
 
 \bibitem{Mohamed-Ali1997}
 Mohamed-Ali V, Goodrick S, Rawesh A, Katz D~R, Miles J~M, Yudkin J~S, Klein S,
@@ -1500,6 +1521,14 @@ Ward J~H.
 \newblock \doi{10.1080/01621459.1963.10500845}.
 \newline\urlprefix\url{http://www.tandfonline.com/doi/abs/10.1080/01621459.1963.10500845}
 
+\bibitem{Blondel2008}
+Blondel V~D, Guillaume J~L, Lambiotte R, \& Lefebvre E.
+\newblock {Fast unfolding of communities in large networks}.
+\newblock \emph{Journal of Statistical Mechanics Theory and Experiment} (2008).
+\newblock \doi{10.1088/1742-5468/2008/10/P10008}.
+\newline\urlprefix\url{http://arxiv.org/abs/0803.0476
+  http://dx.doi.org/10.1088/1742-5468/2008/10/P10008}
+
 \bibitem{Lehtonen1997}
 Lehtonen A, Matikainen S, \& Julkunen I.
 \newblock {Interferons up-regulate STAT1, STAT2, and IRF family transcription
@@ -1524,14 +1553,6 @@ Lai X, Wolkenhauer O, \& Vera J.
 \newblock \doi{10.1093/nar/gkw550}.
 \newline\urlprefix\url{https://academic.oup.com/nar/article/44/13/6019/2457646/Understanding-microRNA-mediated-gene-regulatory
   https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw550}
-
-\bibitem{Blondel2008}
-Blondel V~D, Guillaume J~L, Lambiotte R, \& Lefebvre E.
-\newblock {Fast unfolding of communities in large networks}.
-\newblock \emph{Journal of Statistical Mechanics Theory and Experiment} (2008).
-\newblock \doi{10.1088/1742-5468/2008/10/P10008}.
-\newline\urlprefix\url{http://arxiv.org/abs/0803.0476
-  http://dx.doi.org/10.1088/1742-5468/2008/10/P10008}
 
 \bibitem{Zhang1994}
 Zhang Y~J, Rutledge B~J, \& Rollins B~J.
@@ -2294,6 +2315,221 @@ Ding J, Li X, \& Hu H.
 \newblock \emph{Bioinformatics}, 32(18):2768--2775 (2016).
 \newblock \doi{10.1093/bioinformatics/btw318}.
 \newline\urlprefix\url{https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btw318}
+
+\bibitem{Tracey2002}
+Tracey K~J.
+\newblock {The inflammatory reflex}.
+\newblock \emph{Nature}, 420(6917):853--859 (2002).
+\newblock \doi{10.1038/nature01321}.
+\newline\urlprefix\url{http://www.nature.com/articles/nature01321}
+
+\bibitem{Garcia-Oscos2015}
+Garcia-Oscos F, Pe{\~{n}}a D, Housini M \emph{et~al.}
+\newblock {Vagal nerve stimulation blocks interleukin 6-dependent synaptic
+  hyperexcitability induced by lipopolysaccharide-induced acute stress in the
+  rodent prefrontal cortex}.
+\newblock \emph{Brain, Behavior, and Immunity}, 43:149--158 (2015).
+\newblock \doi{10.1016/j.bbi.2014.07.020}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0889159114004127}
+
+\bibitem{Cui2010}
+Cui W~Y \& Li M~D.
+\newblock {Nicotinic Modulation of Innate Immune Pathways Via $\alpha$7
+  Nicotinic Acetylcholine Receptor}.
+\newblock \emph{Journal of Neuroimmune Pharmacology}, 5(4):479--488 (2010).
+\newblock \doi{10.1007/s11481-010-9210-2}.
+\newline\urlprefix\url{http://link.springer.com/10.1007/s11481-010-9210-2}
+
+\bibitem{Razani-Boroujerdi2008}
+Razani-Boroujerdi S, Behl M, Hahn F~F, Pena-Philippides J~C, Hutt J, \& Sopori
+  M~L.
+\newblock {Role of muscarinic receptors in the regulation of immune and
+  inflammatory responses}.
+\newblock \emph{Journal of Neuroimmunology}, 194(1-2):83--88 (2008).
+\newblock \doi{10.1016/j.jneuroim.2007.11.019}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0165572807004328}
+
+\bibitem{Wang2014}
+Wang P, L{\"{u}} J, \& Yu X.
+\newblock {Identification of important nodes in directed biological networks: a
+  network motif approach.}
+\newblock \emph{PloS one}, 9(8):e106132 (2014).
+\newblock \doi{10.1371/journal.pone.0106132}.
+\newline\urlprefix\url{http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106132}
+
+\bibitem{Pasquin2015}
+Pasquin S, Sharma M, \& Gauchat J~F.
+\newblock {Ciliary neurotrophic factor (CNTF): New facets of an old molecule
+  for treating neurodegenerative and metabolic syndrome pathologies}.
+\newblock \emph{Cytokine {\&} Growth Factor Reviews}, 26(5):507--515 (2015).
+\newblock \doi{10.1016/J.CYTOGFR.2015.07.007}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/abs/pii/S1359610115000556?via{\%}3Dihub}
+
+\bibitem{Baazaoui2018}
+Baazaoui N \& Iqbal K.
+\newblock {A Novel Therapeutic Approach to Treat Alzheimer's Disease by
+  Neurotrophic Support During the Period of Synaptic Compensation}.
+\newblock \emph{Journal of Alzheimer's Disease}, 62(3):1211 (2018).
+\newblock \doi{10.3233/JAD-170839}.
+\newline\urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5870029/}
+
+\bibitem{Chase2016}
+Chase K~A, Cone J~J, Rosen C, \& Sharma R~P.
+\newblock {The value of interleukin 6 as a peripheral diagnostic marker in
+  schizophrenia}.
+\newblock \emph{BMC Psychiatry}, 16 (2016).
+\newblock \doi{10.1186/S12888-016-0866-X}.
+\newline\urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4874006/}
+
+\bibitem{Girgis2018}
+Girgis R~R, Ciarleglio A, Choo T, Haynes G, Bathon J~M, Cremers S, Kantrowitz
+  J~T, Lieberman J~A, \& Brown A~S.
+\newblock {A Randomized, Double-Blind, Placebo-Controlled Clinical Trial of
+  Tocilizumab, An Interleukin-6 Receptor Antibody, For Residual Symptoms in
+  Schizophrenia}.
+\newblock \emph{Neuropsychopharmacology}, 43(6):1317 (2018).
+\newblock \doi{10.1038/NPP.2017.258}.
+\newline\urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5916349/}
+
+\bibitem{Goldsmith2016}
+Goldsmith D, Rapaport M, \& Miller B.
+\newblock {A meta-analysis of blood cytokine network alterations in psychiatric
+  patients: comparisons between schizophrenia, bipolar disorder and
+  depression}.
+\newblock \emph{Molecular psychiatry}, 21(12):1696 (2016).
+\newblock \doi{10.1038/MP.2016.3}.
+\newline\urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6056174/}
+
+\bibitem{Lu2019}
+Lu Y~R, Rao Y~B, Mou Y~J, Chen Y, Lou H~F, Zhang Y, Zhang D~X, Xie H~Y, Hu L~W,
+  \& Fang P.
+\newblock {High concentrations of serum interleukin-6 and interleukin-8 in
+  patients with bipolar disorder}.
+\newblock \emph{Medicine}, 98(7) (2019).
+\newblock \doi{10.1097/MD.0000000000014419}.
+\newline\urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6407988/}
+
+\bibitem{Wiener2019}
+Wiener C~D, Moreira F~P, Portela L~V, Strogulski N~R, Lara D~R, da~Silva R~A,
+  Souza L~D~d~M, Jansen K, \& Oses J~P.
+\newblock {Interleukin-6 and Interleukin-10 in mood disorders: A
+  population-based study}.
+\newblock \emph{Psychiatry Research}, 273:685--689 (2019).
+\newblock \doi{10.1016/J.PSYCHRES.2019.01.100}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/abs/pii/S0165178118321292?via{\%}3Dihub}
+
+\bibitem{Kang2012}
+Kang S~S, Keasey M~P, Cai J, \& Hagg T.
+\newblock {Loss of Neuron-Astroglial Interaction Rapidly Induces Protective
+  CNTF Expression after Stroke in Mice}.
+\newblock \emph{The Journal of Neuroscience}, 32(27):9277 (2012).
+\newblock \doi{10.1523/JNEUROSCI.1746-12.2012}.
+\newline\urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3403837/}
+
+\bibitem{Kang2013}
+Kang S~S, Keasey M~P, Arnold S~A, Reid R, Geralds J, \& Hagg T.
+\newblock {Endogenous CNTF mediates stroke-induced adult CNS neurogenesis in
+  mice}.
+\newblock \emph{Neurobiology of disease}, 0:68 (2013).
+\newblock \doi{10.1016/J.NBD.2012.08.020}.
+\newline\urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3657597/}
+
+\bibitem{Bustamante2014}
+Bustamante A, Sobrino T, Giralt D \emph{et~al.}
+\newblock {Prognostic value of blood interleukin-6 in the prediction of
+  functional outcome after stroke: A systematic review and meta-analysis}.
+\newblock \emph{Journal of Neuroimmunology}, 274(1):215--224 (2014).
+\newblock \doi{10.1016/J.JNEUROIM.2014.07.015}.
+\newline\urlprefix\url{https://www.jni-journal.com/article/S0165-5728(14)00230-6/fulltext}
+
+\bibitem{Armstead2019}
+Armstead W~M, Hekierski H, Pastor P, Yarovoi S, Higazi A~A~R, \& Cines D~B.
+\newblock {Release of IL-6 After Stroke Contributes to Impaired Cerebral
+  Autoregulation and Hippocampal Neuronal Necrosis Through NMDA Receptor
+  Activation and Upregulation of ET-1 and JNK}.
+\newblock \emph{Translational Stroke Research 2018 10:1}, 10(1):104--111
+  (2019).
+\newblock \doi{10.1007/S12975-018-0617-Z}.
+\newline\urlprefix\url{https://link.springer.com/article/10.1007{\%}2Fs12975-018-0617-z}
+
+\bibitem{Akhtar2007}
+Akhtar S \& Benter I~F.
+\newblock {Nonviral delivery of synthetic siRNAs in vivo}.
+\newblock \emph{Journal of Clinical Investigation}, 117(12):3623--3632 (2007).
+\newblock \doi{10.1172/JCI33494}.
+\newline\urlprefix\url{http://content.the-jci.org/articles/view/33494}
+
+\bibitem{Whitehead2009}
+Whitehead K~A, Langer R, \& Anderson D~G.
+\newblock {Knocking down barriers: advances in siRNA delivery}.
+\newblock \emph{Nature Reviews Drug Discovery}, 8(2):129--138 (2009).
+\newblock \doi{10.1038/nrd2742}.
+\newline\urlprefix\url{http://www.nature.com/articles/nrd2742}
+
+\bibitem{Raal2020}
+Raal F~J, Kallend D, Ray K~K \emph{et~al.}
+\newblock {Inclisiran for the Treatment of Heterozygous Familial
+  Hypercholesterolemia}.
+\newblock \emph{New England Journal of Medicine}, 382(16):1520--1530 (2020).
+\newblock \doi{10.1056/NEJMoa1913805}.
+\newline\urlprefix\url{http://www.nejm.org/doi/10.1056/NEJMoa1913805}
+
+\bibitem{Jayaraman2012}
+Jayaraman M, Ansell S~M, Mui B~L \emph{et~al.}
+\newblock {Maximizing the Potency of siRNA Lipid Nanoparticles for Hepatic Gene
+  Silencing In Vivo}.
+\newblock \emph{Angewandte Chemie International Edition}, 51(34):8529--8533
+  (2012).
+\newblock \doi{10.1002/anie.201203263}.
+\newline\urlprefix\url{http://doi.wiley.com/10.1002/anie.201203263}
+
+\bibitem{Piascik1999}
+Piascik P.
+\newblock {Fomiversen Sodium Approved to Treat CMV Retinitis}.
+\newblock \emph{Journal of the American Pharmaceutical Association (1996)},
+  39(1):84--85 (1999).
+\newblock \doi{10.1016/S1086-5802(16)30428-4}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S1086580216304284}
+
+\bibitem{Sharad2019}
+Sharad S.
+\newblock {Antisense Therapy: An Overview}.
+\newblock In \emph{Antisense Therapy}. IntechOpen (2019).
+\newblock \doi{10.5772/intechopen.86867}.
+\newline\urlprefix\url{https://www.intechopen.com/books/antisense-therapy/antisense-therapy-an-overview}
+
+\bibitem{Wang2020}
+Wang F, Zuroske T, \& Watts J~K.
+\newblock {RNA therapeutics on the rise}.
+\newblock \emph{Nature Reviews Drug Discovery} (2020).
+\newblock \doi{10.1038/d41573-020-00078-0}.
+\newline\urlprefix\url{http://www.nature.com/articles/d41573-020-00078-0}
+
+\bibitem{Frank-Kamenetsky2008}
+Frank-Kamenetsky M, Grefhorst A, Anderson N~N \emph{et~al.}
+\newblock {Therapeutic RNAi targeting PCSK9 acutely lowers plasma cholesterol
+  in rodents and LDL cholesterol in nonhuman primates}.
+\newblock \emph{Proceedings of the National Academy of Sciences},
+  105(33):11915--11920 (2008).
+\newblock \doi{10.1073/pnas.0805434105}.
+\newline\urlprefix\url{http://www.pnas.org/cgi/doi/10.1073/pnas.0805434105}
+
+\bibitem{Fitzgerald2014}
+Fitzgerald K, Frank-Kamenetsky M, Shulga-Morskaya S \emph{et~al.}
+\newblock {Effect of an RNA interference drug on the synthesis of proprotein
+  convertase subtilisin/kexin type 9 (PCSK9) and the concentration of serum LDL
+  cholesterol in healthy volunteers: a randomised, single-blind,
+  placebo-controlled, phase 1 trial}.
+\newblock \emph{The Lancet}, 383(9911):60--68 (2014).
+\newblock \doi{10.1016/S0140-6736(13)61914-5}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0140673613619145}
+
+\bibitem{Fitzgerald2017}
+Fitzgerald K, White S, Borodovsky A \emph{et~al.}
+\newblock {A Highly Durable RNAi Therapeutic Inhibitor of PCSK9}.
+\newblock \emph{New England Journal of Medicine}, 376(1):41--51 (2017).
+\newblock \doi{10.1056/NEJMoa1609243}.
+\newline\urlprefix\url{http://www.nejm.org/doi/10.1056/NEJMoa1609243}
 
 \bibitem{Almuttaqi2019}
 Almuttaqi H \& Udalova I~A.

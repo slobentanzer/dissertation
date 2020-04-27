@@ -147,10 +147,10 @@
 \contentsline {subsection}{\numberline {5.2.2}The Cholinergic/Neurokine Interface}{124}{subsection.5.2.2}% 
 \contentsline {subsection}{\numberline {5.2.3}Molecular Biology of Feedforward Loops}{128}{subsection.5.2.3}% 
 \contentsline {section}{\numberline {5.3}Small RNA Therapeutics and Pharmacology}{132}{section.5.3}% 
-\contentsline {chapter}{Bibliography}{133}{section.5.3}% 
-\contentsline {chapter}{List of Figures}{169}{chapter*.67}% 
-\contentsline {chapter}{\numberline {A}Transcription Factor Regulatory Circuits - Tissue Types}{171}{appendix.A}% 
-\contentsline {chapter}{\numberline {B}List of Primate-Specific Homologues of Human microRNAs}{172}{appendix.B}% 
-\contentsline {chapter}{\numberline {C}microRNA Differential Expression in LA-N-2 and LA-N-5}{173}{appendix.C}% 
-\contentsline {chapter}{\numberline {D}List of GO Terms from Analysis of Differentially Expressed Large RNA in Stroke}{174}{appendix.D}% 
-\contentsline {chapter}{\numberline {E}Examples of Presence/Absence Definition of Small RNA}{175}{appendix.E}% 
+\contentsline {chapter}{Bibliography}{135}{section.5.3}% 
+\contentsline {chapter}{List of Figures}{174}{chapter*.67}% 
+\contentsline {chapter}{\numberline {A}Transcription Factor Regulatory Circuits - Tissue Types}{176}{appendix.A}% 
+\contentsline {chapter}{\numberline {B}List of Primate-Specific Homologues of Human microRNAs}{177}{appendix.B}% 
+\contentsline {chapter}{\numberline {C}microRNA Differential Expression in LA-N-2 and LA-N-5}{178}{appendix.C}% 
+\contentsline {chapter}{\numberline {D}List of GO Terms from Analysis of Differentially Expressed Large RNA in Stroke}{179}{appendix.D}% 
+\contentsline {chapter}{\numberline {E}Examples of Presence/Absence Definition of Small RNA}{180}{appendix.E}% 
