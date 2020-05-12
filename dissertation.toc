@@ -169,3 +169,5 @@
 \contentsline {subsection}{\numberline {E.3.5}Invited Manuscripts}{198}{subsection.E.3.5}% 
 \contentsline {subsection}{\numberline {E.3.6}Presentations}{198}{subsection.E.3.6}% 
 \contentsline {section}{\numberline {E.4}Curriculum Vitae (Academic, Including Teachers)}{199}{section.E.4}% 
+\contentsline {subsubsection}{\textbf {Education}}{199}{section.E.4}% 
+\contentsline {subsubsection}{\textbf {Academic Teachers}}{199}{section.E.4}% 

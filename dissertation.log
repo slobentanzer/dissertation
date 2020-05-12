@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  12 MAY 2020 20:10
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  12 MAY 2020 21:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -3251,58 +3251,55 @@ Appendix D.
 
  (./chapters/appendix_required-documents.tex
 Appendix E.
-
-LaTeX Warning: Reference `fig:' on page 193 undefined on input line 8.
-
 [193
 
 
 
 ]
-Overfull \hbox (0.98781pt too wide) in paragraph at lines 29--30
+Overfull \hbox (0.98781pt too wide) in paragraph at lines 25--26
 \TU/EBGaramond(4)/m/n/12 trolle über weite Bereiche des Mittelhirns und Cortex 
 aus.$[]$ Zusätzlich existieren cholinerge Interneu-
  []
 
 [194]
-Overfull \hbox (1.49176pt too wide) in paragraph at lines 35--36
+Overfull \hbox (1.49176pt too wide) in paragraph at lines 31--32
 []\TU/EBGaramond(4)/m/n/12 Durch eine komplexe »viele-zu-viele«-Organisation is
 t das Netzwerk der smRNA-Kon-trol-le chol-
  []
 
 [195]
-Overfull \hbox (1.62773pt too wide) in paragraph at lines 40--41
+Overfull \hbox (1.62773pt too wide) in paragraph at lines 36--37
 \TU/EBGaramond(4)/m/n/12 basiert auf einem Graph-basierten Datenbankschema: die
  Einträge werden repräsentiert von Knoten
  []
 
 
-Overfull \hbox (13.99577pt too wide) in paragraph at lines 42--43
+Overfull \hbox (13.99577pt too wide) in paragraph at lines 38--39
 []\TU/EBGaramond(4)/m/n/12 Die \TU/EBGaramond(4)/m/it/12 miRNeo\TU/EBGaramond(4
 )/m/n/12 -Datenbank enthält in ihrer jetzigen Form Informationen über miRNA-Bin
 deverhalten
  []
 
 
-Overfull \hbox (0.26509pt too wide) in paragraph at lines 42--43
+Overfull \hbox (0.26509pt too wide) in paragraph at lines 38--39
 \TU/EBGaramond(4)/m/n/12 miRNA-mRNA-Interaktionen. Durch die Integration versch
 iedener Quellen verfügt jede miRNA-
  []
 
 
-Overfull \hbox (15.50778pt too wide) in paragraph at lines 44--45
+Overfull \hbox (15.50778pt too wide) in paragraph at lines 40--41
 \TU/EBGaramond(4)/m/n/12 Möglichkeit eines effizienten Datenabrufs von komplexe
 n Zusammenhängen innerhalb des Datenbank-
  []
 
 
-Overfull \hbox (11.38377pt too wide) in paragraph at lines 44--45
+Overfull \hbox (11.38377pt too wide) in paragraph at lines 40--41
 \TU/EBGaramond(4)/m/n/12 Abrufe und nachfolgende Verarbeitung der großen Datenm
 engen im Arbeitsspeicher erfordern würde,
  []
 
 [196]
-Overfull \hbox (1.6651pt too wide) in paragraph at lines 47--48
+Overfull \hbox (1.6651pt too wide) in paragraph at lines 43--44
 \TU/EBGaramond(4)/m/n/12 setz-ung ermöglicht. Außerdem ist der hochaffine Choli
 ntransporter (CHT-1, Gensymbol SLC5A7)
  []
@@ -3329,16 +3326,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 52655 strings out of 492916
- 1126807 string characters out of 6133345
- 1149611 words of memory out of 5000000
- 55769 multiletter control sequences out of 15000+600000
- 550721 words of font info for 198 fonts, out of 8000000 for 9000
+ 52657 strings out of 492916
+ 1126933 string characters out of 6133345
+ 1161052 words of memory out of 5000000
+ 55770 multiletter control sequences out of 15000+600000
+ 550729 words of font info for 199 fonts, out of 8000000 for 9000
  1359 hyphenation exceptions out of 8191
  73i,15n,119p,2743b,2171s stack positions out of 5000i,500n,10000p,200000b,80000s
 
