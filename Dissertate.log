@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.26)  31 MAR 2020 17:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.26)  8 MAY 2020 17:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -370,22 +370,54 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 (/Users/selo/Library/texmf/tex/latex/siunitx/siunitx.cfg
 File: siunitx.cfg 
 ))
-./Dissertate.cls:32: Not a letter.
-l.32 \hyphenation{FANTOM5
-                         }
+(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count271
+\Gm@cntv=\count272
+\c@Gm@tempcnt=\count273
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
+\Gm@dimlist=\toks17
+)
+
+./Dissertate.cls:81: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 \usepackage{
+                 ragged2e}
 ? 
-./Dissertate.cls:32: Emergency stop.
-l.32 \hyphenation{FANTOM5
-                         }
-End of file on the terminal!
+./Dissertate.cls:81: Emergency stop.
+ ...                                              
+                                                  
+l.81 \usepackage{
+                 ragged2e}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
 
  
 Here is how much of TeX's memory you used:
- 15033 strings out of 492616
- 323775 string characters out of 6129481
- 350648 words of memory out of 5000000
- 18930 multiletter control sequences out of 15000+600000
+ 15540 strings out of 492616
+ 331407 string characters out of 6129481
+ 362625 words of memory out of 5000000
+ 19422 multiletter control sequences out of 15000+600000
  532636 words of font info for 25 fonts, out of 8000000 for 9000
- 1149 hyphenation exceptions out of 8191
+ 1152 hyphenation exceptions out of 8191
  43i,0n,63p,796b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
-./Dissertate.cls:32:  ==> Fatal error occurred, no output PDF file produced!
+./Dissertate.cls:81:  ==> Fatal error occurred, no output PDF file produced!

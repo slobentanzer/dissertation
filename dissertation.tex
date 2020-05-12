@@ -118,6 +118,7 @@
 % acronyms
 \include{acronyms}
 
+
 \begin{document}
 
 % the front matter
@@ -125,7 +126,7 @@
 % \maketitle
 % \copyrightpage
 \frontmatter
-\renewcommand{\chapterheadstartvskip}{\vspace*{-0.5\baselineskip}} %this shifts chapter headlines vertically
+\renewcommand{\chapterheadstartvskip}{\vspace*{-3\baselineskip}} %this shifts chapter headlines vertically
 \setstretch{\dnormalspacing}
 % \abstractpage
 % \tableofcontents
@@ -139,12 +140,12 @@
 
 % include each chapter...
 % \setcounter{chapter}{-1}  % start chapter numbering at 0
-\include{chapters/010_introduction}
+\include{chapters/010_introduction} %includes fancyhdr header and footer
 \include{chapters/020_database}
 \include{chapters/030_cellculture}
 \include{chapters/040_stroke}
 \include{chapters/100_discussion}
-%\include{chapters/110_conclusion}
+\include{chapters/110_conclusion}
 
 \setstretch{\dnormalspacing}
 
@@ -174,18 +175,18 @@
 %\listoftables
 
 %appendix
+\renewcommand{\chapterheadstartvskip}{\vspace*{-6.5\baselineskip}} %this shifts chapter headlines vertically
 \appendix
 \include{chapters/appendix_marbach}
 \include{chapters/appendix_homologues}
-\include{chapters/appendix_de-mirs}
 \include{chapters/appendix_go-terms-stroke-analyses}
 \include{chapters/appendix_presence-absence}
+\include{chapters/appendix_required-documents}
 
-% the back matter
-% \backmatter
-
-
-
-% \include{endmatter/colophon}
+%%% TODOS %%%
+%discussion: influence of common drugs on smRNA 
+%more references to chapters 2-4
+%relax discussion with figures (from lit)
+%conclusion: outlook
 
 \end{document}

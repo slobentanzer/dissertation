@@ -77,7 +77,7 @@
     {\endoldenumerate\end{spacing}}
 
 % Text layout.
-\RequirePackage[a4paper, left=3cm, right=3cm, top=2.5cm, bottom=2.5cm, bindingoffset=5mm]{geometry}
+\RequirePackage[a4paper, left=2.5cm, right=2.5cm, top=2.5cm, bottom=2.5cm, bindingoffset=3mm]{geometry}
 \usepackage{ragged2e}
 %\RaggedRight
 \justifying
@@ -215,8 +215,7 @@
 }
 
 
-% School color found from university's graphic identity site:
-% http://isites.harvard.edu/icb/icb.do?keyword=k75408&pageid=icb.page392732
+% School color 
 \definecolor{SchoolColor}{rgb}{0.15, 0.38, 0.61} % Lapis lazuli
 \definecolor{chaptergrey}{rgb}{0.15, 0.38, 0.61} % for chapter numbers
 
@@ -250,20 +249,21 @@
     %\setcounter{page}{1}
 	\thispagestyle{empty}
 	\vspace*{\fill}
-	\vspace{0pt}
+	\vspace{-50pt}
 	\begin{center}
-	\Huge \textcolor{SchoolColor}{Small RNA Dynamics\\ in Cholinergic Systems} \normalsize \\
-	\vspace{100pt}
-	\textsc{Dissertation\\ zur Erlangung des Doktorgrades\\ der Naturwissenschaften\\
-	\vspace{12pt}
-	Vorgelegt beim Fachbereich 14\\ der Johann Wolfgang von Goethe-Universität\\ in Frankfurt am Main\\
-	\vspace{12pt}
-	von\\
-	\theauthor\\ aus Schlüchtern\\
-	\vspace{12pt}
-	Frankfurt \@degreeyear\\
-	(D30)}
-	\end{center} \vspace*{\fill}
+		\fontsize{35}{45}\selectfont \textcolor{SchoolColor}{Small RNA Dynamics\\ in Cholinergic Systems} \normalsize \\
+		\vspace{100pt}
+		\textsc{Dissertation\\ zur Erlangung des Doktorgrades\\ der Naturwissenschaften\\
+		\vspace{12pt}
+		Vorgelegt beim Fachbereich 14\\ der Johann Wolfgang von Goethe-Universität\\ in Frankfurt am Main\\
+		\vspace{12pt}
+		von\\
+		\theauthor\\ aus Schlüchtern\\
+		\vspace{12pt}
+		Frankfurt \@degreeyear\\
+		(D30)}
+	\end{center} 
+	\vspace*{\fill}
 }
 
 \newcommand{\formalpage}{
@@ -272,7 +272,24 @@
 	\newpage
 	\thispagestyle{empty}
 	\vspace*{\fill}
-	Dissertation vorgelegt...
+	\begin{center}
+		Vom Fachbereich 14 der Johann Wolfgang Goethe-Universität als Dissertation angenommen.\\
+		\vspace{100pt}
+		\textbf{Dekan:} \\
+		\vspace{5pt}
+		Prof. Dr. Clemens Glaubitz\\
+		\vspace{20pt}	
+		
+		\textbf{Gutachter:} \\
+		\vspace{5pt}
+		Prof. Dr. Jochen Klein\\
+		Prof. Dr. Hermona Soreq\\
+		\vspace{20pt}
+		
+		\textbf{Datum der Disputation:} \\
+		\vspace{15pt}
+		\rule{.2\textwidth}{0.4pt}
+	\end{center}
 	\vspace*{\fill}
 	\newpage
 	\rm
@@ -283,10 +300,13 @@
     %\setcounter{page}{3}
 	\newpage
 	\thispagestyle{empty}
-	\vspace*{\fill}
-	\scshape \noindent \small \copyright \small \@degreeyear\hspace{3pt}-- \theauthor \\
-	\noindent all rights reserved.
-	\vspace*{\fill}
+	\begin{center}
+		\vspace*{\fill}
+		\scshape \noindent \small \copyright \small \@degreeyear\hspace{3pt}-- \theauthor \\
+		\vspace{2pt}
+		all rights reserved.
+		\vspace*{\fill}
+	\end{center}
 	\newpage
 	\rm
 }
@@ -361,8 +381,6 @@
 	\printacronyms[include-classes = gene, name = Gene Symbols]
     \end{spacing}
 	\vspace*{\fill} \newpage
-	\setcounter{page}{1}
-	\pagenumbering{arabic}
 }
 
 

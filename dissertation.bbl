@@ -683,6 +683,15 @@ Lee R~C, Feinbaum R~L, \& Ambros V.
 \newblock \doi{10.1016/0092-8674(93)90529-Y}.
 \newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/009286749390529Y}
 
+\bibitem{VanPeer2018}
+{Van Peer} G, Mets E, Claeys S, {De Punt} I, Lefever S, Ongenaert M, Rondou P,
+  Speleman F, Mestdagh P, \& Vandesompele J.
+\newblock {A high-throughput 3' UTR reporter screening identifies microRNA
+  interactomes of cancer genes}.
+\newblock \emph{PLOS ONE}, 13(3):e0194017 (2018).
+\newblock \doi{10.1371/journal.pone.0194017}.
+\newline\urlprefix\url{http://dx.plos.org/10.1371/journal.pone.0194017}
+
 \bibitem{Rodriguez2004}
 Rodriguez A.
 \newblock {Identification of Mammalian microRNA Host Genes and Transcription
@@ -2452,6 +2461,13 @@ Armstead W~M, Hekierski H, Pastor P, Yarovoi S, Higazi A~A~R, \& Cines D~B.
 \newblock \doi{10.1007/S12975-018-0617-Z}.
 \newline\urlprefix\url{https://link.springer.com/article/10.1007{\%}2Fs12975-018-0617-z}
 
+\bibitem{Cora2017}
+Cora' D, Re A, Caselle M, \& Bussolino F.
+\newblock {MicroRNA-mediated regulatory circuits: outlook and perspectives}.
+\newblock \emph{Physical Biology}, 14(4):045001 (2017).
+\newblock \doi{10.1088/1478-3975/aa6f21}.
+\newline\urlprefix\url{https://iopscience.iop.org/article/10.1088/1478-3975/aa6f21}
+
 \bibitem{Akhtar2007}
 Akhtar S \& Benter I~F.
 \newblock {Nonviral delivery of synthetic siRNAs in vivo}.
@@ -2505,6 +2521,22 @@ Wang F, Zuroske T, \& Watts J~K.
 \newblock \doi{10.1038/d41573-020-00078-0}.
 \newline\urlprefix\url{http://www.nature.com/articles/d41573-020-00078-0}
 
+\bibitem{Kim2019}
+Kim J, Hu C, {Moufawad El Achkar} C \emph{et~al.}
+\newblock {Patient-Customized Oligonucleotide Therapy for a Rare Genetic
+  Disease}.
+\newblock \emph{New England Journal of Medicine}, 381(17):1644--1652 (2019).
+\newblock \doi{10.1056/NEJMoa1813279}.
+\newline\urlprefix\url{http://www.nejm.org/doi/10.1056/NEJMoa1813279}
+
+\bibitem{Gullotti2009}
+Gullotti E \& Yeo Y.
+\newblock {Extracellularly activated nanocarriers: A new paradigm of tumor
+  targeted drug delivery}.
+\newblock \emph{Molecular pharmaceutics}, 6(4):1041 (2009).
+\newblock \doi{10.1021/MP900090Z}.
+\newline\urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743941/}
+
 \bibitem{Frank-Kamenetsky2008}
 Frank-Kamenetsky M, Grefhorst A, Anderson N~N \emph{et~al.}
 \newblock {Therapeutic RNAi targeting PCSK9 acutely lowers plasma cholesterol
@@ -2538,6 +2570,13 @@ Almuttaqi H \& Udalova I~A.
 \newblock \emph{The FEBS Journal}, 286(9):1624--1637 (2019).
 \newblock \doi{10.1111/febs.14654}.
 \newline\urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/febs.14654}
+
+\bibitem{Schudel2019}
+Schudel A, Francis D~M, \& Thomas S~N.
+\newblock {Material design for lymph node drug delivery}.
+\newblock \emph{Nature Reviews Materials 2019 4:6}, 4(6):415--428 (2019).
+\newblock \doi{10.1038/s41578-019-0110-7}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41578-019-0110-7?proof=trueIn﻿}
 
 \bibitem{Panizzi2010}
 Panizzi P, Swirski F~K, Figueiredo J~L, Waterman P, Sosnovik D~E, Aikawa E,

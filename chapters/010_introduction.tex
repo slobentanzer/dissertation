@@ -1,4 +1,23 @@
 %!TEX root = ../dissertation.tex
+\newpage\null\pagestyle{empty}\newpage\pagenumbering{arabic}
+
+% header with section title
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\sectionmark}[1]{\markright{#1}} %no number
+\fancyhead[le,ro]{\nouppercase{\rightmark}}
+\fancyfoot[le,ro]{\thepage}
+\renewcommand{\headrulewidth}{.4pt}
+\renewcommand{\footrulewidth}{.4pt}
+
+% Redefine the plain page style for chapter pages
+\fancypagestyle{plain}{%
+  \fancyhf{}%
+  \fancyfoot[le,ro]{\thepage}%
+  \renewcommand{\headrulewidth}{0pt}% Line at the header invisible
+  \renewcommand{\footrulewidth}{0.4pt}% Line at the footer visible
+}
+
 \chapter{Introduction}
 \label{introduction}
 

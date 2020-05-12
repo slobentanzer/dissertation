@@ -1,3 +1,15 @@
+%insert blank page
+\newpage\null\pagestyle{plain}\newpage
+
+% header with section title
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\sectionmark}[1]{\markright{#1}} %no number
+\fancyhead[le,ro]{\nouppercase{\rightmark}}
+\fancyfoot[le,ro]{\thepage}
+\renewcommand{\headrulewidth}{.4pt}
+\renewcommand{\footrulewidth}{.4pt}
+
 %!TEX root = ../dissertation.tex
 \begin{savequote}[75mm]
 I know words. I have the best words.
