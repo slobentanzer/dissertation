@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: dissertation.aux
+A level-1 auxiliary file: chapters/010_introduction.aux
+A level-1 auxiliary file: chapters/020_database.aux
+A level-1 auxiliary file: chapters/030_cellculture.aux
+A level-1 auxiliary file: chapters/040_stroke.aux
+A level-1 auxiliary file: chapters/100_discussion.aux
+A level-1 auxiliary file: chapters/110_conclusion.aux
+The style file: mystyle.bst
+A level-1 auxiliary file: chapters/appendix_marbach.aux
+A level-1 auxiliary file: chapters/appendix_homologues.aux
+A level-1 auxiliary file: chapters/appendix_go-terms-stroke-analyses.aux
+A level-1 auxiliary file: chapters/appendix_required-documents.aux
+Reallocated field_info (elt_size=4) to 13814 items from 5000.
+Database file #1: library.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Repeated entry---line 9136 of file library.bib
+ : @article{Goodarzi2015
+ :                      ,
+I'm skipping whatever remains of this entry
+Reallocated str_pool (elt_size=1) to 195000 items from 130000.
+Database file #2: manual_bib.bib
+Warning--I didn't find a database entry for ""
+You've used 338 entries,
+            2536 wiz_defined-function locations,
+            3271 strings with 149241 characters,
+and the built_in function-call counts, 348818 in all, are:
+= -- 38120
+> -- 6199
+< -- 7
++ -- 4074
+- -- 1472
+* -- 23813
+:= -- 32007
+add.period$ -- 1314
+call.type$ -- 338
+change.case$ -- 343
+chr.to.int$ -- 0
+cite$ -- 338
+duplicate$ -- 41085
+empty$ -- 28744
+format.name$ -- 1783
+if$ -- 74875
+int.to.chr$ -- 0
+int.to.str$ -- 338
+missing$ -- 3767
+newline$ -- 2293
+num.names$ -- 341
+pop$ -- 18930
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 3057
+stack$ -- 0
+substring$ -- 48316
+swap$ -- 9938
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 2375
+width$ -- 341
+write$ -- 4602
+(There was 1 error message)

@@ -18,7 +18,7 @@ Lobentanzer S, Hanin G, Klein J, \& Soreq H.
 Winek K, Lobentanzer S, Nadorp B \emph{et~al.}
 \newblock \emph{Transfer RNA fragments replace microRNA regulators of the
   cholinergic post-stroke immune blockade} (2020).
-\newblock Currently under review in Science Advances.
+\newblock Currently in submission.
 
 \bibitem{Lobentanzer2020}
 Lobentanzer S.
@@ -94,6 +94,13 @@ Bartus R, Dean R, Beer B, \& Lippa A.
 \newblock \doi{10.1126/science.7046051}.
 \newline\urlprefix\url{http://www.sciencemag.org/cgi/doi/10.1126/science.7046051}
 
+\bibitem{Giacobini2013}
+Giacobini E \& Gold G.
+\newblock {Alzheimer disease therapy—moving from amyloid-$\beta$ to tau}.
+\newblock \emph{Nature Reviews Neurology}, 9(12):677--686 (2013).
+\newblock \doi{10.1038/nrneurol.2013.223}.
+\newline\urlprefix\url{http://www.nature.com/articles/nrneurol.2013.223}
+
 \bibitem{Braak1995}
 Braak H \& Braak E.
 \newblock {Staging of alzheimer's disease-related neurofibrillary changes}.
@@ -127,7 +134,6 @@ Bortolato B, Miskowiak K, Vieta E, K{\"{o}}hler C, \& Carvalho A~F.
   systematic review of meta-analyses}.
 \newblock \emph{Neuropsychiatric Disease and Treatment}, 11:3111 (2015).
 \newblock \doi{10.2147/NDT.S76700}.
-\newline\urlprefix\url{https://www.dovepress.com/cognitive-dysfunction-in-bipolar-disorder-and-schizophrenia-a-systemat-peer-reviewed-article-NDT}
 
 \bibitem{VanEnkhuizen2015}
 {Van Enkhuizen} J, Janowsky D~S, Olivier B, Minassian A, Perry W, Young J~W, \&
@@ -385,6 +391,22 @@ Walsh J, Hendrix S, Boato F \emph{et~al.}
 \newblock \emph{Journal of Clinical Investigation}, 125(2):699--714 (2015).
 \newblock \doi{10.1172/JCI76210DS1}.
 
+\bibitem{Tsai2013}
+Tsai C~F, Thomas B, \& Sudlow C~L~M.
+\newblock {Epidemiology of stroke and its subtypes in Chinese vs white
+  populations: A systematic review}.
+\newblock \emph{Neurology}, 81(3):264--272 (2013).
+\newblock \doi{10.1212/WNL.0b013e31829bfde3}.
+\newline\urlprefix\url{http://www.neurology.org/cgi/doi/10.1212/WNL.0b013e31829bfde3}
+
+\bibitem{Brooke2017}
+Brooke H~L, Talb{\"{a}}ck M, H{\"{o}}rnblad J, Johansson L~A, Ludvigsson J~F,
+  Druid H, Feychting M, \& Ljung R.
+\newblock {The Swedish cause of death register}.
+\newblock \emph{European Journal of Epidemiology}, 32(9):765--773 (2017).
+\newblock \doi{10.1007/s10654-017-0316-1}.
+\newline\urlprefix\url{http://link.springer.com/10.1007/s10654-017-0316-1}
+
 \bibitem{Meisel2005}
 Meisel C, Schwab J~M, Prass K, Meisel A, \& Dirnagl U.
 \newblock {Central nervous system injury-induced immune deficiency syndrome.}
@@ -533,6 +555,14 @@ Levi-Montalcini R \& Booker B.
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/16578497
   http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC222845
   http://www.pnas.org/cgi/doi/10.1073/pnas.46.3.384}
+
+\bibitem{Meeker2015}
+Meeker R \& Williams K.
+\newblock {The p75 neurotrophin receptor: at the crossroad of neural repair and
+  death}.
+\newblock \emph{Neural Regeneration Research}, 10(5):721 (2015).
+\newblock \doi{10.4103/1673-5374.156967}.
+\newline\urlprefix\url{http://www.nrronline.org/text.asp?2015/10/5/721/156967}
 
 \bibitem{Hefti1986}
 Hefti F.
@@ -699,6 +729,22 @@ Rodriguez A.
 \newblock \emph{Genome Research}, 14(10a):1902--1910 (2004).
 \newblock \doi{10.1101/gr.2722704}.
 \newline\urlprefix\url{http://www.genome.org/cgi/doi/10.1101/gr.2722704}
+
+\bibitem{Hendrickson2009}
+Hendrickson D~G, Hogan D~J, McCullough H~L, Myers J~W, Herschlag D, Ferrell
+  J~E, \& Brown P~O.
+\newblock {Concordant Regulation of Translation and mRNA Abundance for Hundreds
+  of Targets of a Human microRNA}.
+\newblock \emph{PLoS Biology}, 7(11):e1000238 (2009).
+\newblock \doi{10.1371/journal.pbio.1000238}.
+\newline\urlprefix\url{https://dx.plos.org/10.1371/journal.pbio.1000238}
+
+\bibitem{Zhdanov2009}
+Zhdanov V~P.
+\newblock {Conditions of appreciable influence of microRNA on a large number of
+  target mRNAs}.
+\newblock \emph{Molecular BioSystems}, 5(6):638--643 (2009).
+\newblock \doi{10.1039/b808095j}.
 
 \bibitem{Kozomara2019}
 Kozomara A, Birgaoanu M, \& Griffiths-Jones S.
@@ -1065,6 +1111,30 @@ Zeisel A, Hochgerner H, L{\"{o}}nnerberg P \emph{et~al.}
 \newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/30096314
   http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC6086934
   https://linkinghub.elsevier.com/retrieve/pii/S009286741830789X}
+
+\bibitem{Ataman2016}
+Ataman B, Boulting G~L, Harmin D~A \emph{et~al.}
+\newblock {Evolution of Osteocrin as an activity-regulated factor in the
+  primate brain}.
+\newblock \emph{Nature}, 539(7628):242--247 (2016).
+\newblock \doi{10.1038/nature20111}.
+\newline\urlprefix\url{http://www.nature.com/articles/nature20111}
+
+\bibitem{Hardingham2018}
+Hardingham G~E, Pruunsild P, Greenberg M~E, \& Bading H.
+\newblock {Lineage divergence of activity-driven transcription and evolution of
+  cognitive ability}.
+\newblock \emph{Nature Reviews Neuroscience}, 19(1):9--15 (2018).
+\newblock \doi{10.1038/nrn.2017.138}.
+\newline\urlprefix\url{http://www.nature.com/articles/nrn.2017.138}
+
+\bibitem{Yap2018}
+Yap E~L \& Greenberg M~E.
+\newblock {Activity-Regulated Transcription: Bridging the Gap between Neural
+  Activity and Behavior}.
+\newblock \emph{Neuron}, 100(2):330--348 (2018).
+\newblock \doi{10.1016/j.neuron.2018.10.013}.
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0896627318309012}
 
 \bibitem{Murtagh2014}
 Murtagh F \& Legendre P.
@@ -2310,6 +2380,21 @@ Vieth B, Ziegenhain C, Parekh S, Enard W, \& Hellmann I.
 \newblock \doi{10.1093/bioinformatics/btx435}.
 \newline\urlprefix\url{https://academic.oup.com/bioinformatics/article/33/21/3486/3952669}
 
+\bibitem{Rossi2019}
+Rossi A~F~T, Contiero J~C, Manoel-Caetano F~d~S, Severino F~E, \& Silva A~E.
+\newblock {Up-regulation of tumor necrosis factor-$\alpha$ pathway survival
+  genes and of the receptor TNFR2 in gastric cancer}.
+\newblock \emph{World Journal of Gastrointestinal Oncology}, 11(4):281--294
+  (2019).
+\newblock \doi{10.4251/wjgo.v11.i4.281}.
+\newline\urlprefix\url{https://www.wjgnet.com/1948-5204/full/v11/i4/281.htm}
+
+\bibitem{Yuliani2020}
+Yuliani T, Lobentanzer S, \& Klein J.
+\newblock \emph{Central cholinergic function in the rat streptozotocin model of
+  Alzheimer´s disease} (2020).
+\newblock Currently in submission.
+
 \bibitem{Sticht2018}
 Sticht C, {De La Torre} C, Parveen A, \& Gretz N.
 \newblock {miRWalk: An online resource for prediction of microRNA binding
@@ -2340,6 +2425,14 @@ Garcia-Oscos F, Pe{\~{n}}a D, Housini M \emph{et~al.}
 \newblock \emph{Brain, Behavior, and Immunity}, 43:149--158 (2015).
 \newblock \doi{10.1016/j.bbi.2014.07.020}.
 \newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0889159114004127}
+
+\bibitem{Zila2017}
+Zila I, Mokra D, Kopincova J, Kolomaznik M, Javorka M, \& Calkovska A.
+\newblock {Vagal-Immune Interactions Involved in Cholinergic Anti-Inflammatory
+  Pathway}.
+\newblock \emph{Physiological Research}, pp. S139--S145 (2017).
+\newblock \doi{10.33549/physiolres.933671}.
+\newline\urlprefix\url{http://www.biomed.cas.cz/physiolres/pdf/2017/66{\_}S139.pdf}
 
 \bibitem{Cui2010}
 Cui W~Y \& Li M~D.
@@ -2468,6 +2561,62 @@ Cora' D, Re A, Caselle M, \& Bussolino F.
 \newblock \doi{10.1088/1478-3975/aa6f21}.
 \newline\urlprefix\url{https://iopscience.iop.org/article/10.1088/1478-3975/aa6f21}
 
+\bibitem{Ma2010}
+Ma J, Dong C, \& Ji C.
+\newblock {MicroRNA and drug resistance}.
+\newblock \emph{Cancer Gene Therapy}, 17(8):523--531 (2010).
+\newblock \doi{10.1038/cgt.2010.18}.
+\newline\urlprefix\url{http://www.nature.com/articles/cgt201018}
+
+\bibitem{Climent2007}
+Climent J, Dimitrow P, Fridlyand J, Palacios J, Siebert R, Albertson D~G, Gray
+  J~W, Pinkel D, Lluch A, \& Martinez-Climent J~A.
+\newblock {Deletion of Chromosome 11q Predicts Response to Anthracycline-Based
+  Chemotherapy in Early Breast Cancer}.
+\newblock \emph{Cancer Research}, 67(2):818--826 (2007).
+\newblock \doi{10.1158/0008-5472.CAN-06-3307}.
+\newline\urlprefix\url{http://cancerres.aacrjournals.org/cgi/doi/10.1158/0008-5472.CAN-06-3307}
+
+\bibitem{Meng2016}
+Meng F, Wang J, Dai E, Yang F, Chen X, Wang S, Yu X, Liu D, \& Jiang W.
+\newblock {Psmir: a database of potential associations between small molecules
+  and miRNAs}.
+\newblock \emph{Scientific Reports}, 6(1):19264 (2016).
+\newblock \doi{10.1038/srep19264}.
+\newline\urlprefix\url{http://www.nature.com/articles/srep19264}
+
+\bibitem{Xie2019}
+Xie W~B, Yan H, \& Zhao X~M.
+\newblock {EmDL: Extracting miRNA-Drug Interactions from Literature}.
+\newblock \emph{IEEE/ACM Transactions on Computational Biology and
+  Bioinformatics}, 16(5):1722--1728 (2019).
+\newblock \doi{10.1109/TCBB.2017.2723394}.
+\newline\urlprefix\url{https://ieeexplore.ieee.org/document/7970147/}
+
+\bibitem{Clayton2018}
+Clayton S~A, Jones S~W, Kurowska-Stolarska M, \& Clark A~R.
+\newblock {The role of microRNAs in glucocorticoid action}.
+\newblock \emph{Journal of Biological Chemistry}, 293(6):1865--1874 (2018).
+\newblock \doi{10.1074/jbc.R117.000366}.
+\newline\urlprefix\url{http://www.jbc.org/lookup/doi/10.1074/jbc.R117.000366}
+
+\bibitem{Gardiner2014}
+Gardiner E, Carroll A, Tooney P~A, \& Cairns M~J.
+\newblock {Antipsychotic drug-associated gene–miRNA interaction in
+  T-lymphocytes}.
+\newblock \emph{The International Journal of Neuropsychopharmacology},
+  17(06):929--943 (2014).
+\newblock \doi{10.1017/S1461145713001752}.
+\newline\urlprefix\url{https://academic.oup.com/ijnp/article-lookup/doi/10.1017/S1461145713001752}
+
+\bibitem{Murray2013}
+Murray M, Rushworth S~A, Zaitseva L, Bowles K~M, \& MacEwan D~J.
+\newblock {Attenuation of dexamethasone-induced cell death in multiple myeloma
+  is mediated by miR-125b expression}.
+\newblock \emph{Cell Cycle}, 12(13):2144--2153 (2013).
+\newblock \doi{10.4161/cc.25251}.
+\newline\urlprefix\url{http://www.tandfonline.com/doi/abs/10.4161/cc.25251}
+
 \bibitem{Akhtar2007}
 Akhtar S \& Benter I~F.
 \newblock {Nonviral delivery of synthetic siRNAs in vivo}.
@@ -2482,14 +2631,6 @@ Whitehead K~A, Langer R, \& Anderson D~G.
 \newblock \doi{10.1038/nrd2742}.
 \newline\urlprefix\url{http://www.nature.com/articles/nrd2742}
 
-\bibitem{Raal2020}
-Raal F~J, Kallend D, Ray K~K \emph{et~al.}
-\newblock {Inclisiran for the Treatment of Heterozygous Familial
-  Hypercholesterolemia}.
-\newblock \emph{New England Journal of Medicine}, 382(16):1520--1530 (2020).
-\newblock \doi{10.1056/NEJMoa1913805}.
-\newline\urlprefix\url{http://www.nejm.org/doi/10.1056/NEJMoa1913805}
-
 \bibitem{Jayaraman2012}
 Jayaraman M, Ansell S~M, Mui B~L \emph{et~al.}
 \newblock {Maximizing the Potency of siRNA Lipid Nanoparticles for Hepatic Gene
@@ -2498,6 +2639,14 @@ Jayaraman M, Ansell S~M, Mui B~L \emph{et~al.}
   (2012).
 \newblock \doi{10.1002/anie.201203263}.
 \newline\urlprefix\url{http://doi.wiley.com/10.1002/anie.201203263}
+
+\bibitem{Raal2020}
+Raal F~J, Kallend D, Ray K~K \emph{et~al.}
+\newblock {Inclisiran for the Treatment of Heterozygous Familial
+  Hypercholesterolemia}.
+\newblock \emph{New England Journal of Medicine}, 382(16):1520--1530 (2020).
+\newblock \doi{10.1056/NEJMoa1913805}.
+\newline\urlprefix\url{http://www.nejm.org/doi/10.1056/NEJMoa1913805}
 
 \bibitem{Piascik1999}
 Piascik P.
@@ -2536,6 +2685,11 @@ Gullotti E \& Yeo Y.
 \newblock \emph{Molecular pharmaceutics}, 6(4):1041 (2009).
 \newblock \doi{10.1021/MP900090Z}.
 \newline\urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743941/}
+
+\bibitem{Diaz2018}
+Diaz G.
+\newblock {The Mechanism of Small Interfering RNA (siRNA) Therapy} (2018).
+\newline\urlprefix\url{https://www.grepmed.com/images/411/porphyria-pathophys-therapy-sirna-nejm-honc}
 
 \bibitem{Frank-Kamenetsky2008}
 Frank-Kamenetsky M, Grefhorst A, Anderson N~N \emph{et~al.}

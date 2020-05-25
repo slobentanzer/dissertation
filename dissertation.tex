@@ -15,6 +15,10 @@
             
 \usepackage{wrapfig}
 
+%widows and orphans
+\widowpenalty10000
+\clubpenalty10000
+
 % Scientific notation in text command
 \newcommand{\e}[2]{\num{#1}E\num[minimum-integer-digits=2]{#2}}
 \newcommand{\me}[2]{\num{#1}E-\num[minimum-integer-digits=2]{#2}}
@@ -140,6 +144,7 @@
 
 % include each chapter...
 % \setcounter{chapter}{-1}  % start chapter numbering at 0
+
 \include{chapters/010_introduction} %includes fancyhdr header and footer
 \include{chapters/020_database}
 \include{chapters/030_cellculture}
@@ -168,6 +173,8 @@
 
 \clearpage
 \addcontentsline{toc}{chapter}{List of Figures}
+\renewcommand{\chapterheadstartvskip}{\vspace*{-50pt}} %this shifts chapter headlines vertically
+\renewcommand{\chapterheadendvskip}{\vspace*{20pt}}
 \listoffigures
 
 %\clearpage
@@ -175,18 +182,19 @@
 %\listoftables
 
 %appendix
-\renewcommand{\chapterheadstartvskip}{\vspace*{-6.5\baselineskip}} %this shifts chapter headlines vertically
 \appendix
 \include{chapters/appendix_marbach}
 \include{chapters/appendix_homologues}
 \include{chapters/appendix_go-terms-stroke-analyses}
-\include{chapters/appendix_presence-absence}
+%\include{chapters/appendix_presence-absence}
 \include{chapters/appendix_required-documents}
 
 %%% TODOS %%%
 %discussion: influence of common drugs on smRNA 
 %more references to chapters 2-4
 %relax discussion with figures (from lit)
+% 	methods 1-2
+% 	pharmacology 1
 %conclusion: outlook
 
 \end{document}

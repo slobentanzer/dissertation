@@ -146,7 +146,7 @@
 
 % References.
 \renewcommand\bibname{References}
-\RequirePackage[super,comma,numbers]{natbib}
+\RequirePackage[super,comma,numbers,sort&compress]{natbib}
 \renewcommand{\bibnumfmt}[1]{[#1]}
 \RequirePackage[palatino]{quotchap}
 \renewcommand*{\chapterheadstartvskip}{\vspace*{-0.5\baselineskip}}
@@ -335,6 +335,7 @@
 
 \newcommand{\contentspage}{
     \pdfbookmark{\contentsname}{Contents}
+	\renewcommand{\chapterheadstartvskip}{\vspace*{0pt}}
     \tableofcontents
 }
 
@@ -350,7 +351,7 @@
 
 \newcommand{\acknowledgments}{
 	%\setlength{\headheight}{100pt}
-	\renewcommand{\chapterheadstartvskip}{\vspace*{10\baselineskip}}
+	\renewcommand{\chapterheadstartvskip}{\vspace*{100pt}}
 	\chapter*{Acknowledgments}
 	\noindent
     \begin{spacing}{\dnormalspacing}
@@ -361,7 +362,7 @@
 
 \newcommand{\preamble}{
 	%\setlength{\headheight}{100pt}
-	\renewcommand{\chapterheadstartvskip}{\vspace*{1\baselineskip}}
+	\renewcommand{\chapterheadstartvskip}{\vspace*{0pt}}
 	\chapter*{Preamble}
 	\noindent
     \begin{spacing}{\dnormalspacing}
@@ -372,7 +373,7 @@
 
 \newcommand{\abbreviations}{
 	%\setlength{\headheight}{100pt}
-	\renewcommand{\chapterheadstartvskip}{\vspace*{-0.5\baselineskip}} 
+	\renewcommand{\chapterheadstartvskip}{\vspace*{-50pt}} 
 	\chapter*{Abbreviations}
 	\noindent
     \begin{spacing}{\dcompressedspacing}
@@ -386,16 +387,16 @@
 
 % abbreviations
 
-\renewcommand{\backmatter}{
-    \begin{appendices}
-        \include{chapters/appendixA}
-    \end{appendices}
-    \input{endmatter/personalize}
-    \clearpage
-    \begin{spacing}{\dcompressedspacing}
-        \bibliography{references}
-        \addcontentsline{toc}{chapter}{References}
-        \bibliographystyle{apalike2}
-        \include{endmatter/colophon}
-    \end{spacing}
-}
+%\renewcommand{\backmatter}{
+%    \begin{appendices}
+%        \include{chapters/appendixA}
+%    \end{appendices}
+%    \input{endmatter/personalize}
+%    \clearpage
+%    \begin{spacing}{\dcompressedspacing}
+%        \bibliography{references}
+%        \addcontentsline{toc}{chapter}{References}
+%        \bibliographystyle{apalike2}
+%        \include{endmatter/colophon}
+%    \end{spacing}
+%}
