@@ -340,10 +340,11 @@
 }
 
 \newcommand{\dedicationpage}{
-    \cleardoublepage
-    \phantomsection
+    %\cleardoublepage
+    %\phantomsection
     \pdfbookmark{Dedication}{Dedication}
-	\newpage \thispagestyle{fancy} \vspace*{\fill}
+	%\newpage 
+	\thispagestyle{fancy} \vspace*{\fill}
 	\scshape \noindent \input{frontmatter/dedication}
 	\vspace*{\fill} \newpage \rm
     \newpage
@@ -351,7 +352,7 @@
 
 \newcommand{\acknowledgments}{
 	%\setlength{\headheight}{100pt}
-	\renewcommand{\chapterheadstartvskip}{\vspace*{100pt}}
+	\renewcommand{\chapterheadstartvskip}{\vspace*{70pt}}
 	\chapter*{Acknowledgments}
 	\noindent
     \begin{spacing}{\dnormalspacing}
@@ -362,13 +363,14 @@
 
 \newcommand{\preamble}{
 	%\setlength{\headheight}{100pt}
+	
+	%insert blank page
+	\newpage\null\pagestyle{plain}\newpage
+	
 	\renewcommand{\chapterheadstartvskip}{\vspace*{0pt}}
-	\chapter*{Preamble}
-	\noindent
-    \begin{spacing}{\dnormalspacing}
+	
     	\input{frontmatter/preamble}
-    \end{spacing}
-	\vspace*{\fill} \newpage
+	%\vspace*{\fill} \newpage
 }
 
 \newcommand{\abbreviations}{
@@ -383,20 +385,3 @@
     \end{spacing}
 	\vspace*{\fill} \newpage
 }
-
-
-% abbreviations
-
-%\renewcommand{\backmatter}{
-%    \begin{appendices}
-%        \include{chapters/appendixA}
-%    \end{appendices}
-%    \input{endmatter/personalize}
-%    \clearpage
-%    \begin{spacing}{\dcompressedspacing}
-%        \bibliography{references}
-%        \addcontentsline{toc}{chapter}{References}
-%        \bibliographystyle{apalike2}
-%        \include{endmatter/colophon}
-%    \end{spacing}
-%}
