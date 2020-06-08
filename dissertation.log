@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  7 JUN 2020 14:56
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  8 JUN 2020 15:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2056,8 +2056,8 @@ Overfull \hbox (2.83179pt too wide) in paragraph at lines 36--37
 stant co-expression with neurokine-related genes,
  []
 
-File: figures/singlecell.jpg Graphic file (type bmp)
-<figures/singlecell.jpg>
+File: figures/singlecell.pdf Graphic file (type pdf)
+<use figures/singlecell.pdf>
 
 Overfull \hbox (0.80779pt too wide) in paragraph at lines 45--45
 |[]\TU/EBGaramond(4)/m/sc/12 Nested Regulatory Networks of miRNAs and Transcrip
@@ -2163,8 +2163,8 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 38.
 
 [64]
-File: figures/bignet.png Graphic file (type bmp)
-<figures/bignet.png>
+File: figures/bignet.pdf Graphic file (type pdf)
+<use figures/bignet.pdf>
  [65] [66]) (./chapters/034_scz_bd.tex
 
 Package fontspec Info: Lato Regular scale = 0.78973461650627.
@@ -2240,8 +2240,8 @@ File: figures/cholino-ecdfs.pdf Graphic file (type pdf)
 File: figures/gsoap-de.pdf Graphic file (type pdf)
 <use figures/gsoap-de.pdf>
  [82]
-File: figures/stroke-de-tsne.jpg Graphic file (type bmp)
-<figures/stroke-de-tsne.jpg>
+File: figures/stroke-de-tsne.pdf Graphic file (type pdf)
+<use figures/stroke-de-tsne.pdf>
  [83] [84]
 Overfull \hbox (1.15181pt too wide) in paragraph at lines 94--95
 \TU/EBGaramond(4)/m/n/12 (above 80% on the empirical cumulative density functio
@@ -2252,8 +2252,8 @@ n of cholinergic targeting, see Section [][]4.1.10[][]).
 File: figures/celltype-presence.pdf Graphic file (type pdf)
 <use figures/celltype-presence.pdf>
  [86] [87]
-File: figures/heatmaps-small.jpg Graphic file (type bmp)
-<figures/heatmaps-small.jpg>
+File: figures/heatmaps-small.pdf Graphic file (type pdf)
+<use figures/heatmaps-small.pdf>
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -2271,8 +2271,8 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 40.
 
-File: figures/tsne-large.jpg Graphic file (type bmp)
-<figures/tsne-large.jpg>
+File: figures/tsne-large.pdf Graphic file (type pdf)
+<use figures/tsne-large.pdf>
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 49.
@@ -2281,7 +2281,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Underfull \vbox (badness 1975) has occurred while \output is active []
 
  [88]
-Underfull \vbox (badness 1448) has occurred while \output is active []
+Underfull \vbox (badness 1466) has occurred while \output is active []
 
  [89]
 Overfull \hbox (8.4199pt too wide) in paragraph at lines 54--55
@@ -2300,8 +2300,8 @@ script amount (as measured by count-change)
  []
 
 [90]
-File: figures/tsne-small.jpg Graphic file (type bmp)
-<figures/tsne-small.jpg>
+File: figures/tsne-small.pdf Graphic file (type pdf)
+<use figures/tsne-small.pdf>
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -2361,8 +2361,8 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 90.
 
-File: figures/smrna-tf-network-fractions.jpg Graphic file (type bmp)
-<figures/smrna-tf-network-fractions.jpg>
+File: figures/smrna-tf-network-fractions.pdf Graphic file (type pdf)
+<use figures/smrna-tf-network-fractions.pdf>
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 103.
@@ -2414,10 +2414,10 @@ were discovered, 193803 containing miRNAs,
  []
 
 [99]
-File: figures/cd14-ffl-modules.jpg Graphic file (type bmp)
-<figures/cd14-ffl-modules.jpg>
+File: figures/cd14-ffl-modules.pdf Graphic file (type pdf)
+<use figures/cd14-ffl-modules.pdf>
 
-Underfull \vbox (badness 2875) has occurred while \output is active []
+Underfull \vbox (badness 2856) has occurred while \output is active []
 
  [100]
 Overfull \hbox (2.32831pt too wide) in paragraph at lines 48--49
@@ -2467,8 +2467,8 @@ Overfull \hbox (0.26778pt too wide) in paragraph at lines 124--125
 lammatory modules, while anti-inflammatory
  []
 
-File: figures/cd14-ffl-annot.jpg Graphic file (type bmp)
-<figures/cd14-ffl-annot.jpg>
+File: figures/cd14-ffl-annot.pdf Graphic file (type pdf)
+<use figures/cd14-ffl-annot.pdf>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2555,8 +2555,8 @@ ible epigenetic controller of transcription,$[]$
 File: figures/ffl-coherence.pdf Graphic file (type pdf)
 <use figures/ffl-coherence.pdf>
  [137]
-File: figures/ffl-gsoap-comp.jpg Graphic file (type bmp)
-<figures/ffl-gsoap-comp.jpg>
+File: figures/ffl-gsoap-comp.pdf Graphic file (type pdf)
+<use figures/ffl-gsoap-comp.pdf>
  [138] [139]) (./chapters/103_therapy.tex
 Underfull \vbox (badness 1571) has occurred while \output is active []
 
@@ -3062,14 +3062,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  52814 strings out of 492916
- 1131126 string characters out of 6133345
- 1196821 words of memory out of 5000000
+ 1131286 string characters out of 6133345
+ 1196798 words of memory out of 5000000
  55922 multiletter control sequences out of 15000+600000
  550753 words of font info for 202 fonts, out of 8000000 for 9000
  1359 hyphenation exceptions out of 8191
