@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  8 JUN 2020 15:23
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  8 JUN 2020 18:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1800,16 +1800,10 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 
 
-] [2] [3] (./frontmatter/abstract.tex
-Overfull \hbox (23.72377pt too wide) in paragraph at lines 6--7
-\TU/EBGaramond(4)/m/n/12 capable of fast and efficient computation of complex m
-ulti-levelled transcriptional interactions (\TU/EBGaramond(4)/m/it/12 miRNeo\TU
-/EBGaramond(4)/m/n/12 ).
- []
-
-) [4]
+] [2] [3] (./frontmatter/abstract.tex) [4]
 LaTeX Font Info:    Try loading font information for T1+ppl on input line 132.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ppl.fd
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-ppl.cfg
