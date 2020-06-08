@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  8 JUN 2020 15:01
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  8 JUN 2020 15:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2417,7 +2417,7 @@ were discovered, 193803 containing miRNAs,
 File: figures/cd14-ffl-modules.pdf Graphic file (type pdf)
 <use figures/cd14-ffl-modules.pdf>
 
-Underfull \vbox (badness 2856) has occurred while \output is active []
+Underfull \vbox (badness 4403) has occurred while \output is active []
 
  [100]
 Overfull \hbox (2.32831pt too wide) in paragraph at lines 48--49
