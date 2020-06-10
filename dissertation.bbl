@@ -314,6 +314,14 @@ Fujii T, Mashimo M, Moriwaki Y, Misawa H, Ono S, Horiguchi K, \& Kawashima K.
 \newblock \doi{10.1016/j.jphs.2017.05.002}.
 \newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S1347861317300695}
 
+\bibitem{Pavlov2012}
+Pavlov V~A \& Tracey K~J.
+\newblock {The vagus nerve and the inflammatory reflex - Linking immunity and
+  metabolism}.
+\newblock \emph{Nature Reviews Endocrinology}, 8(12):743--754 (2012).
+\newblock \doi{10.1038/nrendo.2012.189}.
+\newline\urlprefix\url{http://dx.doi.org/10.1038/nrendo.2012.189}
+
 \bibitem{Pavlov2017}
 Pavlov V~A \& Tracey K~J.
 \newblock {Neural regulation of immunity: Molecular mechanisms and clinical
@@ -642,8 +650,7 @@ Heppner F~L, Ransohoff R~M, \& Becher B.
 \newblock {Immune attack: the role of inflammation in Alzheimer disease}.
 \newblock \emph{Nature Reviews Neuroscience}, 16(6):358--372 (2015).
 \newblock \doi{10.1038/nrn3880}.
-\newline\urlprefix\url{https://www.nature.com/articles/nrn3880
-  http://www.nature.com/articles/nrn3880}
+\newline\urlprefix\url{https://www.nature.com/articles/nrn3880}
 
 \bibitem{Kirkpatrick2013}
 Kirkpatrick B \& Miller B~J.
@@ -676,6 +683,13 @@ Stangl H, Springorum H~R, Muschter D, Gr{\"{a}}ssel S, \& Straub R~H.
 \newblock \doi{10.1016/j.bbi.2015.02.022}.
 \newline\urlprefix\url{http://dx.doi.org/10.1016/j.bbi.2015.02.022}
 
+\bibitem{Schirle2014}
+Schirle N~T, Sheu-Gruttadauria J, \& MacRae I~J.
+\newblock {Structural basis for microRNA targeting}.
+\newblock \emph{Science}, 346(6209):608--613 (2014).
+\newblock \doi{10.1126/science.1258040}.
+\newline\urlprefix\url{https://www.sciencemag.org/lookup/doi/10.1126/science.1258040}
+
 \bibitem{Babu2004}
 Babu M~M, Luscombe N~M, Aravind L, Gerstein M, \& Teichmann S~A.
 \newblock {Structure and evolution of transcriptional regulatory networks}.
@@ -698,13 +712,6 @@ Elkayam E, Kuhn C~D, Tocilj A, Haase A~D, Greene E~M, Hannon G~J, \& Joshua-Tor
 \newblock \emph{Cell}, 150(1):100--110 (2012).
 \newblock \doi{10.1016/j.cell.2012.05.017}.
 \newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S0092867412006186}
-
-\bibitem{Schirle2014}
-Schirle N~T, Sheu-Gruttadauria J, \& MacRae I~J.
-\newblock {Structural basis for microRNA targeting}.
-\newblock \emph{Science}, 346(6209):608--613 (2014).
-\newblock \doi{10.1126/science.1258040}.
-\newline\urlprefix\url{https://www.sciencemag.org/lookup/doi/10.1126/science.1258040}
 
 \bibitem{Hausser2013}
 Hausser J, Syed A~P, Bilen B, \& Zavolan M.
@@ -767,8 +774,7 @@ Ambros V, Bartel B, Bartel D~P \emph{et~al.}
 \newblock {A uniform system for microRNA annotation.}
 \newblock \emph{RNA (New York, N.Y.)}, 9(3):277--9 (2003).
 \newblock \doi{10.1261/rna.2183803}.
-\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/12592000
-  http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=PMC1370393}
+\newline\urlprefix\url{http://www.ncbi.nlm.nih.gov/pubmed/12592000}
 
 \bibitem{Salta2017a}
 Salta E \& {De Strooper} B.
@@ -838,8 +844,7 @@ Ivanov P, Emara M~M, Villen J, Gygi S~P, \& Anderson P.
 \newblock {Angiogenin-Induced tRNA Fragments Inhibit Translation Initiation}.
 \newblock \emph{Molecular Cell}, 43(4):613--623 (2011).
 \newblock \doi{10.1016/j.molcel.2011.06.022}.
-\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1097276511005247?via{\%}3Dihub
-  https://linkinghub.elsevier.com/retrieve/pii/S1097276511005247}
+\newline\urlprefix\url{https://linkinghub.elsevier.com/retrieve/pii/S1097276511005247}
 
 \bibitem{Burroughs2011}
 Burroughs A~M, Ando Y, de~Hoon M~L, Tomaru Y, Suzuki H, Hayashizaki Y, \& Daub
@@ -866,8 +871,7 @@ Huang B, Yang H, Cheng X \emph{et~al.}
   Colorectal Cancer}.
 \newblock \emph{Cancer Research}, 77(12):3194--3206 (2017).
 \newblock \doi{10.1158/0008-5472.CAN-16-3146}.
-\newline\urlprefix\url{http://cancerres.aacrjournals.org/
-  http://cancerres.aacrjournals.org/lookup/doi/10.1158/0008-5472.CAN-16-3146}
+\newline\urlprefix\url{http://cancerres.aacrjournals.org/lookup/doi/10.1158/0008-5472.CAN-16-3146}
 
 \bibitem{Gebetsberger2017}
 Gebetsberger J, Wyss L, Mleczko A~M, Reuther J, \& Polacek N.
@@ -1156,6 +1160,15 @@ Sommer C~J.
 \newblock \emph{Acta Neuropathologica}, 133(2):245--261 (2017).
 \newblock \doi{10.1007/s00401-017-1667-0}.
 \newline\urlprefix\url{http://link.springer.com/10.1007/s00401-017-1667-0}
+
+\bibitem{Watson2017}
+Watson P~M~D, Kavanagh E, Allenby G, \& Vassey M.
+\newblock {Bioengineered 3D Glial Cell Culture Systems and Applications for
+  Neurodegeneration and Neuroinflammation}.
+\newblock \emph{SLAS DISCOVERY: Advancing the Science of Drug Discovery},
+  22(5):583--601 (2017).
+\newblock \doi{10.1177/2472555217691450}.
+\newline\urlprefix\url{http://journals.sagepub.com/doi/10.1177/2472555217691450}
 
 \bibitem{Biedler1978}
 Biedler J~L, Roffler-Tarlov S, Schachner M, \& Freedman L~S.
@@ -2404,15 +2417,6 @@ Mor E \& Shomron N.
 \newblock \emph{BioEssays}, pp. n/a--n/a (2013).
 \newblock \doi{10.1002/bies.201200157}.
 \newline\urlprefix\url{http://doi.wiley.com/10.1002/bies.201200157}
-
-\bibitem{Watson2017}
-Watson P~M~D, Kavanagh E, Allenby G, \& Vassey M.
-\newblock {Bioengineered 3D Glial Cell Culture Systems and Applications for
-  Neurodegeneration and Neuroinflammation}.
-\newblock \emph{SLAS DISCOVERY: Advancing the Science of Drug Discovery},
-  22(5):583--601 (2017).
-\newblock \doi{10.1177/2472555217691450}.
-\newline\urlprefix\url{http://journals.sagepub.com/doi/10.1177/2472555217691450}
 
 \bibitem{Yuliani2020}
 Yuliani T, Lobentanzer S, \& Klein J.

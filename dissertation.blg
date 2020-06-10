@@ -12,49 +12,49 @@ A level-1 auxiliary file: chapters/appendix_marbach.aux
 A level-1 auxiliary file: chapters/appendix_homologues.aux
 A level-1 auxiliary file: chapters/appendix_go-terms-stroke-analyses.aux
 A level-1 auxiliary file: chapters/appendix_required-documents.aux
-Reallocated field_info (elt_size=4) to 14152 items from 5000.
+Reallocated field_info (elt_size=4) to 14178 items from 5000.
 Database file #1: library.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Reallocated str_pool (elt_size=1) to 195000 items from 130000.
 Database file #2: manual_bib.bib
-You've used 352 entries,
+You've used 353 entries,
             2536 wiz_defined-function locations,
-            3379 strings with 148956 characters,
-and the built_in function-call counts, 362095 in all, are:
-= -- 39579
-> -- 6407
+            3386 strings with 148930 characters,
+and the built_in function-call counts, 362778 in all, are:
+= -- 39651
+> -- 6416
 < -- 8
-+ -- 4207
-- -- 1521
-* -- 24713
-:= -- 33231
-add.period$ -- 1368
-call.type$ -- 352
-change.case$ -- 357
++ -- 4212
+- -- 1523
+* -- 24760
+:= -- 33297
+add.period$ -- 1372
+call.type$ -- 353
+change.case$ -- 358
 chr.to.int$ -- 0
-cite$ -- 352
-duplicate$ -- 42646
-empty$ -- 29854
-format.name$ -- 1844
-if$ -- 77734
+cite$ -- 353
+duplicate$ -- 42723
+empty$ -- 29915
+format.name$ -- 1847
+if$ -- 77881
 int.to.chr$ -- 0
-int.to.str$ -- 352
-missing$ -- 3912
-newline$ -- 2386
-num.names$ -- 355
-pop$ -- 19633
+int.to.str$ -- 353
+missing$ -- 3921
+newline$ -- 2393
+num.names$ -- 356
+pop$ -- 19664
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 3179
+skip$ -- 3186
 stack$ -- 0
-substring$ -- 50156
-swap$ -- 10330
+substring$ -- 50241
+swap$ -- 10356
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 2464
-width$ -- 355
-write$ -- 4791
+while$ -- 2469
+width$ -- 356
+write$ -- 4805
