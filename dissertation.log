@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  12 JUN 2020 18:16
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  15 JUN 2020 20:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2978,13 +2978,7 @@ Appendix D.
 
 
 
-] [208]
-Overfull \hbox (1.49176pt too wide) in paragraph at lines 36--37
-[]\TU/EBGaramond(4)/m/n/12 Durch eine komplexe »viele-zu-viele«-Organisation is
-t das Netzwerk der smRNA-Kon-trol-le chol-
- []
-
-[209] [210]
+] [208] [209] [210]
 Overfull \hbox (0.17737pt too wide) in paragraph at lines 48--49
 \TU/EBGaramond(4)/m/n/12 setz-ung ermöglicht. Außerdem ist der hochaffine Choli
 ntransporter (CHT-1, Gensymbol SLC5A7)
