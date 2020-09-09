@@ -1,7 +1,7 @@
 # Small RNA Dynamics in Cholinergic Systems
-### Dissertation by Sebastian Lobentanzer
-### Goethe-University, Frankfurt/Main, Germany
-
+#### Dissertation by Sebastian Lobentanzer
+#### Goethe-University, Frankfurt/Main, Germany
+---
 ## Abstract
 Natural science is only just beginning to understand the complex processes surrounding transcription.
 Epitranscriptional regulation is in large parts conveyed by transcription factors (TFs) and
@@ -29,3 +29,7 @@ and biological pathways implicated in either pathogenesis or responses to the di
 examples described in chapters three and four of this dissertation are disease-specific applications of
 miRNeo, the database and methods described have been developed to be applicable to the whole
 genome and all known smRNAs.
+
+---
+
+#### The full dissertation can be found [here](https://github.com/slobentanzer/dissertation/blob/master/dissertation.pdf).
