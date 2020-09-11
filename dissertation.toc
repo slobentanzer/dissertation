@@ -171,6 +171,3 @@
 \contentsline {subsection}{\numberline {D.3.4}Manuscripts with Preprint Status}{214}{subsection.D.3.4}% 
 \contentsline {subsection}{\numberline {D.3.5}Invited Manuscripts}{214}{subsection.D.3.5}% 
 \contentsline {subsection}{\numberline {D.3.6}Presentations}{215}{subsection.D.3.6}% 
-\contentsline {section}{\numberline {D.4}Curriculum Vitae (Academic, Including Teachers)}{216}{section.D.4}% 
-\contentsline {subsubsection}{\textbf {Education}}{216}{section.D.4}% 
-\contentsline {subsubsection}{\textbf {Academic Teachers}}{216}{section.D.4}% 

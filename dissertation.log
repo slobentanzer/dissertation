@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  15 JUN 2020 20:21
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.26)  11 SEP 2020 08:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2990,32 +2990,32 @@ Overfull \hbox (2.24857pt too wide) in paragraph at lines 55--56
 ifizierten wir eine hohe Relevanz von CD14-
  []
 
-[212] [213] [214] [215]) [216]
+[212] [213] [214]) [215]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 200.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 200.
- (./dissertation.aux
-(./chapters/010_introduction.aux) (./chapters/020_database.aux)
-(./chapters/030_cellculture.aux) (./chapters/040_stroke.aux)
-(./chapters/100_discussion.aux) (./chapters/110_conclusion.aux)
-(./chapters/appendix_marbach.aux) (./chapters/appendix_homologues.aux)
+ (./dissertation.aux (./chapters/010_introduction.aux)
+(./chapters/020_database.aux) (./chapters/030_cellculture.aux)
+(./chapters/040_stroke.aux) (./chapters/100_discussion.aux)
+(./chapters/110_conclusion.aux) (./chapters/appendix_marbach.aux)
+(./chapters/appendix_homologues.aux)
 (./chapters/appendix_go-terms-stroke-analyses.aux)
 (./chapters/appendix_required-documents.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 200.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 200.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
-(rerunfilecheck)             Checksum: DF84A388DBA6EA91CE50D78AF72FF89C.
+(rerunfilecheck)             Checksum: 0D78AC71EAB224B59C9082816D19FA92.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 52910 strings out of 492916
- 1134152 string characters out of 6133345
- 1197711 words of memory out of 5000000
- 56017 multiletter control sequences out of 15000+600000
- 550753 words of font info for 202 fonts, out of 8000000 for 9000
+ 52907 strings out of 492916
+ 1134020 string characters out of 6133345
+ 1197597 words of memory out of 5000000
+ 56015 multiletter control sequences out of 15000+600000
+ 550745 words of font info for 201 fonts, out of 8000000 for 9000
  1359 hyphenation exceptions out of 8191
  73i,15n,119p,2918b,2307s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on dissertation.pdf (234 pages).
+Output written on dissertation.pdf (233 pages).
