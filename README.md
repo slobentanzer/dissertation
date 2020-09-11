@@ -32,4 +32,4 @@ genome and all known smRNAs.
 
 ---
 
-#### The full dissertation can be found [here](https://github.com/slobentanzer/dissertation/blob/master/dissertation.pdf).
+#### The full dissertation can be found [here](https://github.com/slobentanzer/dissertation/blob/master/dissertation.pdf) (please use the download button).
